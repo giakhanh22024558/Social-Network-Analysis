@@ -1,6 +1,7 @@
 # Bài toán xây duwgng mạng lưới diễn viên đạo diễn quốc tịch Hoa Kỳ
 
 ## Quy trình truy vấn và tổ chức dữ liệu:
+Thực hiện truy vấn dữ liệu bằng lệnh Sparql trên Wikidata: (https://query.wikidata.org/)
 
 Bước 1:
 1_run_discovery.py: Thực hiện lấy danh sách các diễn viên, đạo diễn Nam/Nữ của nước mỹ, độ tuổi sinh năm 1940 đến 2015 (chia ra từng phase độ tuổi đảm bảo giới hạn truy vấn mỗi lân). Kết quả thu được  1305 nhân vật nam và 884 nhân vật nữ
