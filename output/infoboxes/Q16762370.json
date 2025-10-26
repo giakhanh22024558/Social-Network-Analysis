@@ -1,0 +1,71 @@
+{
+    "name": "LaKeith Stanfield",
+    "qid": "Q16762370",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lakeith_Stanfield",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "poet",
+                "qid": "Q49757",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%C6%A1"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1991-08-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Get Out",
+                "qid": "Q25136235",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%91n_tho%C3%A1t"
+            },
+            {
+                "name": "Knives Out",
+                "qid": "Q57982486",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_%C4%91%C3%A2m_l%C3%A9n"
+            },
+            {
+                "name": "Snowden",
+                "qid": "Q19315473",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_v%E1%BB%A5_Snowden"
+            },
+            {
+                "name": "The Girl in the Spider's Web",
+                "qid": "Q46997940",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_trong_l%C6%B0%E1%BB%9Bi_nh%E1%BB%87n_%E1%BA%A3o"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

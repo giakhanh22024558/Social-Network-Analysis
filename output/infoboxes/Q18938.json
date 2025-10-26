@@ -1,0 +1,117 @@
+{
+    "name": "Thomas Jane",
+    "qid": "Q18938",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Thomas_Jane",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Olivia d'Abo",
+                "qid": "Q266361"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Harlow Jane",
+                "qid": "Q76178299"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "street artist",
+                "qid": "Q2914170"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-02-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A.X.L.",
+                "qid": "Q55262219",
+                "url": "https://vi.wikipedia.org/wiki/A-X-L_ch%C3%BA_ch%C3%B3_robot"
+            },
+            {
+                "name": "Face/Off",
+                "qid": "Q223887",
+                "url": "https://vi.wikipedia.org/wiki/Face/Off"
+            },
+            {
+                "name": "Hot Summer Nights",
+                "qid": "Q20875660",
+                "url": "https://vi.wikipedia.org/wiki/Hot_Summer_Nights"
+            },
+            {
+                "name": "Scott Pilgrim vs. the World",
+                "qid": "Q753899",
+                "url": "https://vi.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World"
+            },
+            {
+                "name": "Sirius",
+                "qid": "Q15052349",
+                "url": "https://vi.wikipedia.org/wiki/Sirius_(phim)"
+            },
+            {
+                "name": "The Predator",
+                "qid": "Q25461297",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_th%C3%BA_v%C3%B4_h%C3%ACnh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Aysha Hauer",
+                "qid": "Q13367887"
+            },
+            {
+                "name": "Patricia Arquette",
+                "qid": "Q215976"
+            }
+        ]
+    }
+}

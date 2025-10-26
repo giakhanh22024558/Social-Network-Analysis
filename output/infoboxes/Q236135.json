@@ -1,0 +1,119 @@
+{
+    "name": "Romina Power",
+    "qid": "Q236135",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Romina_Power",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Taryn Power",
+                "qid": "Q273774"
+            },
+            {
+                "name": "Tyrone Power Jr.",
+                "qid": "Q1539586"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Tyrone Power",
+                "qid": "Q309989"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Cristèl Carrisi",
+                "qid": "Q3697725"
+            },
+            {
+                "name": "Romina Carrisi-Power",
+                "qid": "Q125549978"
+            },
+            {
+                "name": "Yari Carrisi",
+                "qid": "Q125549955"
+            },
+            {
+                "name": "Ylenia Carrisi",
+                "qid": "Q2289691"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Linda Christian",
+                "qid": "Q236164"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "presenter",
+                "qid": "Q13590141"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1951-10-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Nightmare Alley",
+                "qid": "Q82430214",
+                "url": "https://vi.wikipedia.org/wiki/Con_h%E1%BA%BBm_%C3%A1c_m%E1%BB%99ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Italy",
+                "qid": "Q38",
+                "url": "https://vi.wikipedia.org/wiki/%C3%9D"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Albano Carrisi",
+                "qid": "Q263621",
+                "url": "https://vi.wikipedia.org/wiki/Albano_Carrisi"
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Joey Tribbiani",
+    "qid": "Q746277",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Joey_Tribbiani",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Ursula Buffay",
+                "qid": "Q3552484"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "data entry clerk",
+                "qid": "Q918751"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "tour guide",
+                "qid": "Q1039099",
+                "url": "https://vi.wikipedia.org/wiki/H%C6%B0%E1%BB%9Bng_d%E1%BA%ABn_vi%C3%AAn_du_l%E1%BB%8Bch"
+            },
+            {
+                "name": "waiter",
+                "qid": "Q157195",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%93i_b%C3%A0n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1968-01-09T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

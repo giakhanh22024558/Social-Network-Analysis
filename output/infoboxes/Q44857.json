@@ -1,0 +1,78 @@
+{
+    "name": "John Legend",
+    "qid": "Q44857",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Legend",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Luna Stephens",
+                "qid": "Q113459544"
+            },
+            {
+                "name": "Miles Stephens",
+                "qid": "Q113459551"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "pianist",
+                "qid": "Q486748",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_d%C6%B0%C6%A1ng_c%E1%BA%A7m"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-12-28T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Jingle Jangle: A Christmas Journey",
+                "qid": "Q65091103",
+                "url": "https://vi.wikipedia.org/wiki/Jingle_Jangle:_H%C3%A0nh_tr%C3%ACnh_Gi%C3%A1ng_sinh"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "La La Land",
+                "qid": "Q20856802",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_kh%E1%BB%9D_m%E1%BB%99ng_m%C6%A1"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Chrissy Teigen",
+                "qid": "Q5111202",
+                "url": "https://vi.wikipedia.org/wiki/Chrissy_Teigen"
+            }
+        ]
+    }
+}

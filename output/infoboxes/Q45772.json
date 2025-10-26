@@ -1,0 +1,179 @@
+{
+    "name": "Christian Bale",
+    "qid": "Q45772",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Christian_Bale",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "David Bale",
+                "qid": "Q1443125"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Luka Bale",
+                "qid": "Q113005301"
+            },
+            {
+                "name": "Rex Bale",
+                "qid": "Q113005441"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Jenny James",
+                "qid": "Q19280090"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-01-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "3:10 to Yuma",
+                "qid": "Q746029",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BA%BFn_t%C3%A0u_%C4%91%E1%BA%BFn_Yuma"
+            },
+            {
+                "name": "American Hustle",
+                "qid": "Q9013673",
+                "url": "https://vi.wikipedia.org/wiki/S%C4%83n_ti%E1%BB%81n_ki%E1%BB%83u_M%E1%BB%B9"
+            },
+            {
+                "name": "American Psycho",
+                "qid": "Q1405126",
+                "url": "https://vi.wikipedia.org/wiki/American_Psycho_(phim)"
+            },
+            {
+                "name": "Amsterdam",
+                "qid": "Q104830968",
+                "url": "https://vi.wikipedia.org/wiki/Amsterdam_%E2%80%93_V%E1%BB%A5_%C3%A1n_m%E1%BA%A1ng_k%E1%BB%B3_b%C3%AD"
+            },
+            {
+                "name": "Batman Begins",
+                "qid": "Q166262",
+                "url": "https://vi.wikipedia.org/wiki/Huy%E1%BB%81n_tho%E1%BA%A1i_Ng%C6%B0%E1%BB%9Di_D%C6%A1i"
+            },
+            {
+                "name": "Exodus: Gods and Kings",
+                "qid": "Q14942871",
+                "url": "https://vi.wikipedia.org/wiki/Exodus:_Cu%E1%BB%99c_chi%E1%BA%BFn_ch%E1%BB%91ng_Pha-ra-%C3%B4ng"
+            },
+            {
+                "name": "Ford v Ferrari",
+                "qid": "Q55081822",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91ua_l%E1%BB%8Bch_s%E1%BB%AD"
+            },
+            {
+                "name": "Little Women",
+                "qid": "Q850522",
+                "url": "https://vi.wikipedia.org/wiki/Little_Women_(phim_1994)"
+            },
+            {
+                "name": "Mowgli: Legend of the Jungle",
+                "qid": "Q19595098",
+                "url": "https://vi.wikipedia.org/wiki/Mowgli:_Huy%E1%BB%81n_tho%E1%BA%A1i_r%E1%BB%ABng_xanh"
+            },
+            {
+                "name": "Public Enemies",
+                "qid": "Q329448",
+                "url": "https://vi.wikipedia.org/wiki/Public_Enemies"
+            },
+            {
+                "name": "Reign of Fire",
+                "qid": "Q925384",
+                "url": "https://vi.wikipedia.org/wiki/Tri%E1%BB%81u_%C4%91%E1%BA%A1i_r%E1%BB%93ng"
+            },
+            {
+                "name": "Terminator Salvation",
+                "qid": "Q191543",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_h%E1%BB%A7y_di%E1%BB%87t_4"
+            },
+            {
+                "name": "The Big Short",
+                "qid": "Q19850715",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Short_(phim)"
+            },
+            {
+                "name": "The Dark Knight",
+                "qid": "Q163872",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm"
+            },
+            {
+                "name": "The Dark Knight Rises",
+                "qid": "Q189330",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm_tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "The Fighter",
+                "qid": "Q323472",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B5_s%C4%A9_(phim_2010)"
+            },
+            {
+                "name": "The Flowers of War",
+                "qid": "Q699224",
+                "url": "https://vi.wikipedia.org/wiki/Kim_L%C4%83ng_th%E1%BA%ADp_tam_thoa"
+            },
+            {
+                "name": "The Prestige",
+                "qid": "Q46551",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A2o_thu%E1%BA%ADt_gia_%C4%91%E1%BA%A5u_tr%C3%AD"
+            },
+            {
+                "name": "Thor: Love and Thunder",
+                "qid": "Q65768604",
+                "url": "https://vi.wikipedia.org/wiki/Thor:_T%C3%ACnh_y%C3%AAu_v%C3%A0_s%E1%BA%A5m_s%C3%A9t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Sandra Blažić",
+                "qid": "Q3471889"
+            }
+        ]
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "name": "Ben Stiller",
+    "qid": "Q47100",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ben_Stiller",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Amy Stiller",
+                "qid": "Q443128"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Jerry Stiller",
+                "qid": "Q316857",
+                "url": "https://vi.wikipedia.org/wiki/Jerry_Stiller"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Ella Stiller",
+                "qid": "Q28062769"
+            },
+            {
+                "name": "Quinn Dempsey Stiller",
+                "qid": "Q28062766"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Anne Meara",
+                "qid": "Q257217",
+                "url": "https://vi.wikipedia.org/wiki/Anne_Meara"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "Trekkie",
+                "qid": "Q1412961"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1965-11-30T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Alex Strangelove",
+                "qid": "Q51900452",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%ACnh_y%C3%AAu_k%C3%AC_l%E1%BA%A1_c%E1%BB%A7a_Alex"
+            },
+            {
+                "name": "Megamind",
+                "qid": "Q81205",
+                "url": "https://vi.wikipedia.org/wiki/Megamind"
+            },
+            {
+                "name": "Tropic Thunder",
+                "qid": "Q380981",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BA%A5m_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi"
+            },
+            {
+                "name": "Why Him?",
+                "qid": "Q23058779",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_v%E1%BB%A3_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u_ch%C3%A0ng_r%E1%BB%83"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Greenberg",
+                "qid": "Q629974",
+                "url": "https://vi.wikipedia.org/wiki/Greenberg_(phim)"
+            },
+            {
+                "name": "Little Fockers",
+                "qid": "Q921985",
+                "url": "https://vi.wikipedia.org/wiki/G%E1%BA%B7p_g%E1%BB%A1_th%C3%B4ng_gia:_Nh%C3%B3c_Fockers"
+            },
+            {
+                "name": "Night at the Museum",
+                "qid": "Q387601",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_kinh_ho%C3%A0ng"
+            },
+            {
+                "name": "Night at the Museum: Battle of the Smithsonian",
+                "qid": "Q476726",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_kinh_ho%C3%A0ng_2"
+            },
+            {
+                "name": "Night at the Museum: Secret of the Tomb",
+                "qid": "Q15916752",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_%E1%BB%9F_vi%E1%BB%87n_b%E1%BA%A3o_t%C3%A0ng:_B%C3%AD_m%E1%BA%ADt_h%E1%BA%A7m_m%E1%BB%99"
+            },
+            {
+                "name": "The Secret Life of Walter Mitty",
+                "qid": "Q3522637",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%AD_m%E1%BA%ADt_c%E1%BB%A7a_Walter_Mitty_(phim_2013)"
+            },
+            {
+                "name": "The Watch",
+                "qid": "Q29313",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_d%C3%A2n_ph%C3%B2ng_tinh_nhu%E1%BB%87"
+            },
+            {
+                "name": "There's Something About Mary",
+                "qid": "Q177374",
+                "url": "https://vi.wikipedia.org/wiki/There%27s_Something_About_Mary"
+            },
+            {
+                "name": "Tropic Thunder",
+                "qid": "Q380981",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BA%A5m_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi"
+            },
+            {
+                "name": "Zoolander 2",
+                "qid": "Q19842552",
+                "url": "https://vi.wikipedia.org/wiki/Trai_%C4%91%E1%BA%B9p_l%C3%AAn_s%C3%A0n"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "The Secret Life of Walter Mitty",
+                "qid": "Q3522637",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%AD_m%E1%BA%ADt_c%E1%BB%A7a_Walter_Mitty_(phim_2013)"
+            },
+            {
+                "name": "Tropic Thunder",
+                "qid": "Q380981",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BA%A5m_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi"
+            },
+            {
+                "name": "Zoolander 2",
+                "qid": "Q19842552",
+                "url": "https://vi.wikipedia.org/wiki/Trai_%C4%91%E1%BA%B9p_l%C3%AAn_s%C3%A0n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Christine Taylor",
+                "qid": "Q233022"
+            }
+        ]
+    }
+}

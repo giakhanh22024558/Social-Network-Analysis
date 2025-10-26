@@ -1,0 +1,91 @@
+{
+    "name": "Q5608",
+    "qid": "Q5608",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Eminem",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Hailie Jade Mathers",
+                "qid": "Q95983217"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Gissela Marlene Urban",
+                "qid": "Q47108853"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "music executive",
+                "qid": "Q3089940",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_%C3%A2m_nh%E1%BA%A1c"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1972-10-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Interview",
+                "qid": "Q15524911",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_ph%E1%BB%8Fng_v%E1%BA%A5n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Kim Scott",
+                "qid": "Q12366988"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Ronnie Polkingharn",
+                "qid": "Q114880010"
+            },
+            {
+                "name": "Todd K. Nelson",
+                "qid": "Q107023583"
+            }
+        ]
+    }
+}

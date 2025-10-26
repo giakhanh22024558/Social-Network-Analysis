@@ -1,0 +1,170 @@
+{
+    "name": "Jim Carrey",
+    "qid": "Q40504",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jim_Carrey",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Ginger Gonzaga",
+                "qid": "Q66313855"
+            },
+            {
+                "name": "Jenny McCarthy",
+                "qid": "Q230993"
+            },
+            {
+                "name": "Laurie Holden",
+                "qid": "Q18947",
+                "url": "https://vi.wikipedia.org/wiki/Laurie_Holden"
+            },
+            {
+                "name": "Renée Zellweger",
+                "qid": "Q122614",
+                "url": "https://vi.wikipedia.org/wiki/Ren%C3%A9e_Zellweger"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Percy Carrey",
+                "qid": "Q42720174"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Jane Carrey",
+                "qid": "Q27445213"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Kathleen Carrey",
+                "qid": "Q42720450"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "painter",
+                "qid": "Q1028181",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stand-up comedian",
+                "qid": "Q18545066"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-01-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ace Ventura: Pet Detective",
+                "qid": "Q340138",
+                "url": "https://vi.wikipedia.org/wiki/Ace_Ventura:_Pet_Detective"
+            },
+            {
+                "name": "Dumb and Dumber",
+                "qid": "Q462418",
+                "url": "https://vi.wikipedia.org/wiki/Dumb_and_Dumber"
+            },
+            {
+                "name": "Dumb and Dumber To",
+                "qid": "Q14932750",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_ng%E1%BB%91c_g%E1%BA%B7p_nhau"
+            },
+            {
+                "name": "Eternal Sunshine of the Spotless Mind",
+                "qid": "Q208269",
+                "url": "https://vi.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind"
+            },
+            {
+                "name": "Sonic the Hedgehog",
+                "qid": "Q29906232",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%ADm_Sonic_(phim)"
+            },
+            {
+                "name": "Sonic the Hedgehog 2",
+                "qid": "Q105970894",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%ADm_Sonic_2"
+            },
+            {
+                "name": "Sonic the Hedgehog 3",
+                "qid": "Q115859490",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%ADm_Sonic_3"
+            },
+            {
+                "name": "The Dead Pool",
+                "qid": "Q263460",
+                "url": "https://vi.wikipedia.org/wiki/The_Dead_Pool"
+            },
+            {
+                "name": "The Incredible Burt Wonderstone",
+                "qid": "Q1444108",
+                "url": "https://vi.wikipedia.org/wiki/The_Incredible_Burt_Wonderstone"
+            },
+            {
+                "name": "The Mask",
+                "qid": "Q219421",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%B7t_n%E1%BA%A1_xanh"
+            },
+            {
+                "name": "The Truman Show",
+                "qid": "Q214801",
+                "url": "https://vi.wikipedia.org/wiki/The_Truman_Show"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Lauren Holly",
+                "qid": "Q229560",
+                "url": "https://vi.wikipedia.org/wiki/Lauren_Holly"
+            },
+            {
+                "name": "Melissa Womer",
+                "qid": "Q47003901"
+            }
+        ]
+    }
+}

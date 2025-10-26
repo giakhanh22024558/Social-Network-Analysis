@@ -1,0 +1,63 @@
+{
+    "name": "Scott Haze",
+    "qid": "Q7436480",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Scott_Haze",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-12-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Jurassic World Dominion",
+                "qid": "Q55178974",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long:_L%C3%A3nh_%C4%91%E1%BB%8Ba"
+            },
+            {
+                "name": "Midnight Special",
+                "qid": "Q17025594",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A3n_l%E1%BB%B1c_si%C3%AAu_nhi%C3%AAn_(phim)"
+            },
+            {
+                "name": "Sound of Freedom",
+                "qid": "Q85847274",
+                "url": "https://vi.wikipedia.org/wiki/Sound_of_Freedom_(phim)"
+            },
+            {
+                "name": "Venom",
+                "qid": "Q23006268",
+                "url": "https://vi.wikipedia.org/wiki/Venom_(phim_2018)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

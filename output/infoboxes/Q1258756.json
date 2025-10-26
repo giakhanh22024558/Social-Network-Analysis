@@ -1,0 +1,58 @@
+{
+    "name": "Ryan Potter",
+    "qid": "Q1258756",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ryan_Potter",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Libe Barer",
+                "qid": "Q2184977"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "James Lew",
+                "qid": "Q6138026"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Jordanna Potter",
+                "qid": "Q55401487"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1995-09-12T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

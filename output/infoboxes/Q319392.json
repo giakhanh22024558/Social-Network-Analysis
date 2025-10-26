@@ -1,0 +1,116 @@
+{
+    "name": "Marlon Jackson",
+    "qid": "Q319392",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Marlon_Jackson",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Brandon Jackson",
+                "qid": "Q108747135"
+            },
+            {
+                "name": "Jackie Jackson",
+                "qid": "Q44855",
+                "url": "https://vi.wikipedia.org/wiki/Jackie_Jackson"
+            },
+            {
+                "name": "Janet Jackson",
+                "qid": "Q131324",
+                "url": "https://vi.wikipedia.org/wiki/Janet_Jackson"
+            },
+            {
+                "name": "Jermaine Jackson",
+                "qid": "Q317784",
+                "url": "https://vi.wikipedia.org/wiki/Jermaine_Jackson"
+            },
+            {
+                "name": "Latoya Jackson",
+                "qid": "Q217427",
+                "url": "https://vi.wikipedia.org/wiki/La_Toya_Jackson"
+            },
+            {
+                "name": "Michael Jackson",
+                "qid": "Q2831",
+                "url": "https://vi.wikipedia.org/wiki/Michael_Jackson"
+            },
+            {
+                "name": "Randy Jackson",
+                "qid": "Q349461",
+                "url": "https://vi.wikipedia.org/wiki/Randy_Jackson_(nh%C3%A0_Jackson)"
+            },
+            {
+                "name": "Rebbie Jackson",
+                "qid": "Q234388",
+                "url": "https://vi.wikipedia.org/wiki/Rebbie_Jackson"
+            },
+            {
+                "name": "Tito Jackson",
+                "qid": "Q336222",
+                "url": "https://vi.wikipedia.org/wiki/Tito_Jackson"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Joe Jackson",
+                "qid": "Q361297",
+                "url": "https://vi.wikipedia.org/wiki/Joseph_Walter_Jackson"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Katherine Jackson",
+                "qid": "Q238402"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-03-12T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Carol Ann Parkes",
+                "qid": "Q75823293"
+            }
+        ]
+    }
+}

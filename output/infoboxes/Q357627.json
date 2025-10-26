@@ -1,0 +1,80 @@
+{
+    "name": "Pete Docter",
+    "qid": "Q357627",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Pete_Docter",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1968-10-09T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Dug's Special Mission",
+                "qid": "Q1264168",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_%C4%91%E1%BA%B7c_bi%E1%BB%87t_c%E1%BB%A7a_Dug"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Inside Out",
+                "qid": "Q6144664",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_m%E1%BA%A3nh_gh%C3%A9p_c%E1%BA%A3m_x%C3%BAc"
+            },
+            {
+                "name": "Monsters, Inc.",
+                "qid": "Q187726",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_ty_Qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Soul",
+                "qid": "Q64744044",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_s%E1%BB%91ng_nhi%E1%BB%87m_m%C3%A0u"
+            },
+            {
+                "name": "Up",
+                "qid": "Q174811",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%BAt_bay_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

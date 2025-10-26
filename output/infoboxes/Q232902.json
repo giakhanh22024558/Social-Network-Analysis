@@ -1,0 +1,100 @@
+{
+    "name": "Jennifer Jason Leigh",
+    "qid": "Q232902",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jennifer_Jason_Leigh",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Vic Morrow",
+                "qid": "Q453204"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Barbara Turner",
+                "qid": "Q807672"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-02-05T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Greenberg",
+                "qid": "Q629974",
+                "url": "https://vi.wikipedia.org/wiki/Greenberg_(phim)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annihilation",
+                "qid": "Q25136228",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_h%E1%BB%A7y_di%E1%BB%87t"
+            },
+            {
+                "name": "Greenberg",
+                "qid": "Q629974",
+                "url": "https://vi.wikipedia.org/wiki/Greenberg_(phim)"
+            },
+            {
+                "name": "In the Cut",
+                "qid": "Q59572",
+                "url": "https://vi.wikipedia.org/wiki/In_The_Cut"
+            },
+            {
+                "name": "Kill Your Darlings",
+                "qid": "Q565623",
+                "url": "https://vi.wikipedia.org/wiki/Kill_Your_Darlings"
+            },
+            {
+                "name": "The Hateful Eight",
+                "qid": "Q18225084",
+                "url": "https://vi.wikipedia.org/wiki/The_Hateful_Eight"
+            },
+            {
+                "name": "The Man Who Wasn't There",
+                "qid": "Q913440",
+                "url": "https://vi.wikipedia.org/wiki/The_Man_Who_Wasn%27t_There"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Noah Baumbach",
+                "qid": "Q459349",
+                "url": "https://vi.wikipedia.org/wiki/Noah_Baumbach"
+            }
+        ]
+    }
+}

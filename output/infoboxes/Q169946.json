@@ -1,0 +1,151 @@
+{
+    "name": "Kate Hudson",
+    "qid": "Q169946",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kate_Hudson",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Oliver Hudson",
+                "qid": "Q722830"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Alex Rodriguez",
+                "qid": "Q558664"
+            },
+            {
+                "name": "Danny Fujikawa",
+                "qid": "Q63809027"
+            },
+            {
+                "name": "Matt Bellamy",
+                "qid": "Q190576",
+                "url": "https://vi.wikipedia.org/wiki/Matt_Bellamy"
+            },
+            {
+                "name": "Owen Wilson",
+                "qid": "Q161916",
+                "url": "https://vi.wikipedia.org/wiki/Owen_Wilson"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Bill Hudson",
+                "qid": "Q2742575"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Rani Fujikawa",
+                "qid": "Q80339333"
+            },
+            {
+                "name": "Ryder Robinson",
+                "qid": "Q55364652"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Goldie Hawn",
+                "qid": "Q188459"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-04-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Almost Famous",
+                "qid": "Q726294",
+                "url": "https://vi.wikipedia.org/wiki/Almost_Famous"
+            },
+            {
+                "name": "Deepwater Horizon",
+                "qid": "Q19877874",
+                "url": "https://vi.wikipedia.org/wiki/Deepwater_Horizon:_Th%E1%BA%A3m_h%E1%BB%8Da_gi%C3%A0n_khoan"
+            },
+            {
+                "name": "Fool's Gold",
+                "qid": "Q1305119",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%AD_m%E1%BA%ADt_d%C6%B0%E1%BB%9Bi_%C4%91%C3%A1y_bi%E1%BB%83n"
+            },
+            {
+                "name": "You, Me and Dupree",
+                "qid": "Q289841",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B3_%C4%91%C3%A0_c%E1%BA%A3n_m%C5%A9i_(phim_2006)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Chris Robinson",
+                "qid": "Q1077723"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Brett Hudson",
+                "qid": "Q4962222"
+            },
+            {
+                "name": "Mark Hudson",
+                "qid": "Q2077188"
+            },
+            {
+                "name": "Wyatt Russell",
+                "qid": "Q15542608",
+                "url": "https://vi.wikipedia.org/wiki/Wyatt_Russell"
+            }
+        ]
+    }
+}

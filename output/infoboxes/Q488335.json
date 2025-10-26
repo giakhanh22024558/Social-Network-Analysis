@@ -1,0 +1,65 @@
+{
+    "name": "Kevin Michael Richardson",
+    "qid": "Q488335",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kevin_Michael_Richardson",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Anthony Richardson",
+                "qid": "Q54366634"
+            },
+            {
+                "name": "Michael Richardson",
+                "qid": "Q6833846"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1964-10-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Mortal Kombat",
+                "qid": "Q819196",
+                "url": "https://vi.wikipedia.org/wiki/Mortal_Kombat_(phim_1995)"
+            },
+            {
+                "name": "Star Trek Into Darkness",
+                "qid": "Q171711",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek:_Ch%C3%ACm_trong_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "The Matrix Revolutions",
+                "qid": "Q207536",
+                "url": "https://vi.wikipedia.org/wiki/Ma_Tr%E1%BA%ADn:_Nh%E1%BB%AFng_cu%E1%BB%99c_C%C3%A1ch_M%E1%BA%A1ng"
+            },
+            {
+                "name": "Transformers: Revenge of the Fallen",
+                "qid": "Q191100",
+                "url": "https://vi.wikipedia.org/wiki/Transformers:_B%E1%BA%A1i_binh_ph%E1%BB%A5c_h%E1%BA%ADn"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Monica Richardson",
+                "qid": "Q37898606"
+            }
+        ]
+    }
+}

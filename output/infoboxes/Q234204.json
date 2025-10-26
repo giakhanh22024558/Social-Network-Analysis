@@ -1,0 +1,89 @@
+{
+    "name": "Linda Cardellini",
+    "qid": "Q234204",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Linda_Cardellini",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Lilah-Rose Rodriguez",
+                "qid": "Q85160939"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1975-06-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avengers: Age of Ultron",
+                "qid": "Q14171368",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_%C4%90%E1%BA%BF_ch%E1%BA%BF_Ultron"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Brokeback Mountain",
+                "qid": "Q160618",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_t%C3%ACnh_sau_n%C3%BAi"
+            },
+            {
+                "name": "Daddy's Home",
+                "qid": "Q18619590",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_ngoan,_b%E1%BB%91_h%C6%B0"
+            },
+            {
+                "name": "Green Book",
+                "qid": "Q48673898",
+                "url": "https://vi.wikipedia.org/wiki/Green_Book_(phim)"
+            },
+            {
+                "name": "Scooby-Doo",
+                "qid": "Q936302",
+                "url": "https://vi.wikipedia.org/wiki/Scooby-Doo_(phim)"
+            },
+            {
+                "name": "The Curse of La Llorona",
+                "qid": "Q48674258",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%B9_ma_than_kh%C3%B3c_La_Llorona"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Steve Rodriguez",
+                "qid": "Q85160597"
+            }
+        ]
+    }
+}

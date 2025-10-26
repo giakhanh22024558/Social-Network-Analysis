@@ -1,0 +1,67 @@
+{
+    "name": "Jake Lacy",
+    "qid": "Q6124807",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jake_Lacy",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1985-02-14T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Carol",
+                "qid": "Q15963780",
+                "url": "https://vi.wikipedia.org/wiki/Carol_(phim)"
+            },
+            {
+                "name": "How to Be Single",
+                "qid": "Q19880527",
+                "url": "https://vi.wikipedia.org/wiki/Tuy%C3%AAn_ng%C3%B4n_%C4%91%E1%BB%99c_th%C3%A2n"
+            },
+            {
+                "name": "Johnny English Strikes Again",
+                "qid": "Q35160593",
+                "url": "https://vi.wikipedia.org/wiki/Johnny_English:_T%C3%A1i_xu%E1%BA%A5t_giang_h%E1%BB%93"
+            },
+            {
+                "name": "Love the Coopers",
+                "qid": "Q18811608",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1ng_Sinh_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Rampage",
+                "qid": "Q29470162",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_th%C3%BA_cu%E1%BB%93ng_n%E1%BB%99"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

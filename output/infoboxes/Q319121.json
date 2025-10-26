@@ -1,0 +1,83 @@
+{
+    "name": "Alex Jones",
+    "qid": "Q319121",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Alex_Jones",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "David Jones",
+                "qid": "Q57552289"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Rex Jones",
+                "qid": "Q51101154"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Carol Jones",
+                "qid": "Q57552295"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "anti-vaccine activist",
+                "qid": "Q29887242"
+            },
+            {
+                "name": "conspiracy theorist",
+                "qid": "Q19831149"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "gun rights advocate",
+                "qid": "Q42889548"
+            },
+            {
+                "name": "misinformation creator",
+                "qid": "Q108866986"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "political activist",
+                "qid": "Q11499147"
+            },
+            {
+                "name": "radio personality",
+                "qid": "Q2722764"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-02-11T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

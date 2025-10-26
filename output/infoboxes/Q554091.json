@@ -1,0 +1,104 @@
+{
+    "name": "Brody Jenner",
+    "qid": "Q554091",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Brody_Jenner",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Brandon Jenner",
+                "qid": "Q16209581"
+            },
+            {
+                "name": "Burt Jenner",
+                "qid": "Q106554522"
+            },
+            {
+                "name": "Cassandra Jenner",
+                "qid": "Q107323598"
+            },
+            {
+                "name": "Kendall Jenner",
+                "qid": "Q1375057",
+                "url": "https://vi.wikipedia.org/wiki/Kendall_Jenner"
+            },
+            {
+                "name": "Kylie Jenner",
+                "qid": "Q1770624",
+                "url": "https://vi.wikipedia.org/wiki/Kylie_Jenner"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Avril Lavigne",
+                "qid": "Q30449",
+                "url": "https://vi.wikipedia.org/wiki/Avril_Lavigne"
+            },
+            {
+                "name": "Josie Canseco",
+                "qid": "Q57269307"
+            },
+            {
+                "name": "Kaitlynn Carter",
+                "qid": "Q24572260"
+            },
+            {
+                "name": "Tia Blanco",
+                "qid": "Q27456073"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Caitlyn Jenner",
+                "qid": "Q365144",
+                "url": "https://vi.wikipedia.org/wiki/Caitlyn_Jenner"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Linda Thompson",
+                "qid": "Q780846"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-08-21T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Kaitlynn Carter",
+                "qid": "Q24572260"
+            }
+        ]
+    }
+}

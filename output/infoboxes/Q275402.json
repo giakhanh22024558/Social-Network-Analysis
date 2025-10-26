@@ -1,0 +1,213 @@
+{
+    "name": "Sam Raimi",
+    "qid": "Q275402",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sam_Raimi",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Ted Raimi",
+                "qid": "Q447713"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Henry Raimi",
+                "qid": "Q38562369"
+            },
+            {
+                "name": "Lorne Raimi",
+                "qid": "Q38560609"
+            },
+            {
+                "name": "Oliver Raimi",
+                "qid": "Q38564035"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-10-23T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Crawl",
+                "qid": "Q56241205",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_c%C3%A1_s%E1%BA%A5u_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Don't Breathe",
+                "qid": "Q21450470",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_nh%C3%A2n_trong_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "Drag Me to Hell",
+                "qid": "Q632737",
+                "url": "https://vi.wikipedia.org/wiki/Drag_Me_to_Hell"
+            },
+            {
+                "name": "Evil Dead",
+                "qid": "Q73279",
+                "url": "https://vi.wikipedia.org/wiki/Ma_c%C3%A2y_(phim_2013)"
+            },
+            {
+                "name": "Hard Target",
+                "qid": "Q574993",
+                "url": "https://vi.wikipedia.org/wiki/Hard_Target"
+            },
+            {
+                "name": "Poltergeist",
+                "qid": "Q15040721",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_tinh_(phim_2015)"
+            },
+            {
+                "name": "The Grudge",
+                "qid": "Q310204",
+                "url": "https://vi.wikipedia.org/wiki/The_Grudge"
+            },
+            {
+                "name": "The Unholy",
+                "qid": "Q86751110",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A4n_qu%E1%BB%B7"
+            },
+            {
+                "name": "Timecop",
+                "qid": "Q240849",
+                "url": "https://vi.wikipedia.org/wiki/Timecop"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Army of Darkness",
+                "qid": "Q471992",
+                "url": "https://vi.wikipedia.org/wiki/Ma_c%C3%A2y_3:_%C4%90%E1%BB%99i_qu%C3%A2n_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "Drag Me to Hell",
+                "qid": "Q632737",
+                "url": "https://vi.wikipedia.org/wiki/Drag_Me_to_Hell"
+            },
+            {
+                "name": "Evil Dead II",
+                "qid": "Q750028",
+                "url": "https://vi.wikipedia.org/wiki/Evil_Dead_II"
+            },
+            {
+                "name": "The Evil Dead",
+                "qid": "Q327604",
+                "url": "https://vi.wikipedia.org/wiki/The_Evil_Dead"
+            },
+            {
+                "name": "The Jungle Book",
+                "qid": "Q16857406",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_r%E1%BB%ABng_xanh_(phim_2016)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Army of Darkness",
+                "qid": "Q471992",
+                "url": "https://vi.wikipedia.org/wiki/Ma_c%C3%A2y_3:_%C4%90%E1%BB%99i_qu%C3%A2n_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "Doctor Strange in the Multiverse of Madness",
+                "qid": "Q64211112",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%B9_th%E1%BB%A7y_t%E1%BB%91i_th%C6%B0%E1%BB%A3ng_trong_%C4%90a_V%C5%A9_tr%E1%BB%A5_h%E1%BB%97n_lo%E1%BA%A1n"
+            },
+            {
+                "name": "Drag Me to Hell",
+                "qid": "Q632737",
+                "url": "https://vi.wikipedia.org/wiki/Drag_Me_to_Hell"
+            },
+            {
+                "name": "Evil Dead II",
+                "qid": "Q750028",
+                "url": "https://vi.wikipedia.org/wiki/Evil_Dead_II"
+            },
+            {
+                "name": "Oz the Great and Powerful",
+                "qid": "Q590216",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BA%A1c_v%C3%A0o_x%E1%BB%A9_Oz_v%C4%A9_%C4%91%E1%BA%A1i_v%C3%A0_quy%E1%BB%81n_n%C4%83ng"
+            },
+            {
+                "name": "Spider-Man",
+                "qid": "Q484442",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_(phim_2002)"
+            },
+            {
+                "name": "Spider-Man 2",
+                "qid": "Q190145",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_2"
+            },
+            {
+                "name": "Spider-Man 3",
+                "qid": "Q182212",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_3"
+            },
+            {
+                "name": "The Evil Dead",
+                "qid": "Q327604",
+                "url": "https://vi.wikipedia.org/wiki/The_Evil_Dead"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Gillian Greene",
+                "qid": "Q38564487"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Lorne Greene",
+                "qid": "Q550784"
+            }
+        ]
+    }
+}

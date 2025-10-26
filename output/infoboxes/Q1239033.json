@@ -1,0 +1,53 @@
+{
+    "name": "Don Carmody",
+    "qid": "Q1239033",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Don_Carmody",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1951-04-16T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Resident Evil: Afterlife",
+                "qid": "Q324557",
+                "url": "https://vi.wikipedia.org/wiki/Resident_Evil:_Afterlife"
+            },
+            {
+                "name": "Resident Evil: The Final Chapter",
+                "qid": "Q12049257",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_qu%E1%BB%B7_d%E1%BB%AF:_H%E1%BB%93i_cu%E1%BB%91i"
+            },
+            {
+                "name": "The Mortal Instruments: City of Bones",
+                "qid": "Q59346",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_kh%C3%AD_b%C3%B3ng_%C4%91%C3%AAm:_Th%C3%A0nh_ph%E1%BB%91_X%C6%B0%C6%A1ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

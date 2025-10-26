@@ -1,0 +1,182 @@
+{
+    "name": "Mike Myers",
+    "qid": "Q185724",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mike_Myers",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Paul Myers",
+                "qid": "Q15521684"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Eric Myers",
+                "qid": "Q114570741"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Spike Myers",
+                "qid": "Q114572879"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Alice Myers",
+                "qid": "Q114565106"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-05-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Amsterdam",
+                "qid": "Q104830968",
+                "url": "https://vi.wikipedia.org/wiki/Amsterdam_%E2%80%93_V%E1%BB%A5_%C3%A1n_m%E1%BA%A1ng_k%E1%BB%B3_b%C3%AD"
+            },
+            {
+                "name": "Bohemian Rhapsody",
+                "qid": "Q27894574",
+                "url": "https://vi.wikipedia.org/wiki/Bohemian_Rhapsody:_Huy%E1%BB%81n_tho%E1%BA%A1i_ng%C3%B4i_sao_nh%E1%BA%A1c_rock"
+            },
+            {
+                "name": "Inglourious Basterds",
+                "qid": "Q153723",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_m%E1%BB%87nh_(phim_2009)"
+            },
+            {
+                "name": "Space Jam: A New Legacy",
+                "qid": "Q56850065",
+                "url": "https://vi.wikipedia.org/wiki/Space_Jam:_K%E1%BB%B7_nguy%C3%AAn_m%E1%BB%9Bi"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Kelly Tisdale",
+                "qid": "Q29052379"
+            },
+            {
+                "name": "Robin Ruzan",
+                "qid": "Q17415519"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Alice Boote",
+                "qid": "Q114576308"
+            },
+            {
+                "name": "Amy Laugharne",
+                "qid": "Q114571030"
+            },
+            {
+                "name": "Eliza Jane Wordsworth",
+                "qid": "Q114578180"
+            },
+            {
+                "name": "Jane Radcliffe",
+                "qid": "Q114579139"
+            },
+            {
+                "name": "John Myers",
+                "qid": "Q114570941"
+            },
+            {
+                "name": "John Wordsworth",
+                "qid": "Q114578445"
+            },
+            {
+                "name": "Leslie Michelle Carter",
+                "qid": "Q114571666"
+            },
+            {
+                "name": "Mary Atherton",
+                "qid": "Q114571452"
+            },
+            {
+                "name": "Matthew Hind",
+                "qid": "Q114572543"
+            },
+            {
+                "name": "Phillip Myers",
+                "qid": "Q114571255"
+            },
+            {
+                "name": "Stephen Atherton",
+                "qid": "Q114571545"
+            }
+        ]
+    }
+}

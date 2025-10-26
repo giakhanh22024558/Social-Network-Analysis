@@ -1,0 +1,62 @@
+{
+    "name": "Hayden Panettiere",
+    "qid": "Q171571",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Hayden_Panettiere",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jansen Panettiere",
+                "qid": "Q2550990"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Milo Ventimiglia",
+                "qid": "Q83733",
+                "url": "https://vi.wikipedia.org/wiki/Milo_Ventimiglia"
+            },
+            {
+                "name": "Scotty McKnight",
+                "qid": "Q3476371"
+            },
+            {
+                "name": "Wladimir Klitschko",
+                "qid": "Q18797"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1989-08-21T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "name": "Christopher Nolan",
+    "qid": "Q25191",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Christopher_Nolan",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jonathan Nolan",
+                "qid": "Q372788",
+                "url": "https://vi.wikipedia.org/wiki/Jonathan_Nolan"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Flora Nolan",
+                "qid": "Q77981400"
+            },
+            {
+                "name": "Magnus Nolan",
+                "qid": "Q77981509"
+            },
+            {
+                "name": "Rory Nolan",
+                "qid": "Q77980653"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "camera operator",
+                "qid": "Q1208175",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A2n_vi%C3%AAn_quay_phim"
+            },
+            {
+                "name": "cinematographer",
+                "qid": "Q222344",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_h%C3%ACnh_%E1%BA%A3nh"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-07-30T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Dunkirk",
+                "qid": "Q21935651",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_di_t%E1%BA%A3n_Dunkirk_(phim)"
+            },
+            {
+                "name": "Inception",
+                "qid": "Q25188",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_tr%E1%BB%99m_gi%E1%BA%A5c_m%C6%A1"
+            },
+            {
+                "name": "Interstellar",
+                "qid": "Q13417189",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%91_%C4%91en_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Man of Steel",
+                "qid": "Q622769",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_th%C3%A9p"
+            },
+            {
+                "name": "Oppenheimer",
+                "qid": "Q108839994",
+                "url": "https://vi.wikipedia.org/wiki/Oppenheimer_(phim)"
+            },
+            {
+                "name": "Tenet",
+                "qid": "Q63985561",
+                "url": "https://vi.wikipedia.org/wiki/Tenet"
+            },
+            {
+                "name": "The Dark Knight",
+                "qid": "Q163872",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm"
+            },
+            {
+                "name": "The Dark Knight Rises",
+                "qid": "Q189330",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm_tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "The Odyssey",
+                "qid": "Q131547207",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%AD_thi_Odyssey"
+            },
+            {
+                "name": "The Prestige",
+                "qid": "Q46551",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A2o_thu%E1%BA%ADt_gia_%C4%91%E1%BA%A5u_tr%C3%AD"
+            },
+            {
+                "name": "Transcendence",
+                "qid": "Q10384115",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%AD_tu%E1%BB%87_si%C3%AAu_vi%E1%BB%87t"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Q190525",
+                "qid": "Q190525",
+                "url": "https://vi.wikipedia.org/wiki/Memento"
+            },
+            {
+                "name": "Batman Begins",
+                "qid": "Q166262",
+                "url": "https://vi.wikipedia.org/wiki/Huy%E1%BB%81n_tho%E1%BA%A1i_Ng%C6%B0%E1%BB%9Di_D%C6%A1i"
+            },
+            {
+                "name": "Dunkirk",
+                "qid": "Q21935651",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_di_t%E1%BA%A3n_Dunkirk_(phim)"
+            },
+            {
+                "name": "Inception",
+                "qid": "Q25188",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_tr%E1%BB%99m_gi%E1%BA%A5c_m%C6%A1"
+            },
+            {
+                "name": "Interstellar",
+                "qid": "Q13417189",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%91_%C4%91en_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Oppenheimer",
+                "qid": "Q108839994",
+                "url": "https://vi.wikipedia.org/wiki/Oppenheimer_(phim)"
+            },
+            {
+                "name": "Tenet",
+                "qid": "Q63985561",
+                "url": "https://vi.wikipedia.org/wiki/Tenet"
+            },
+            {
+                "name": "The Dark Knight",
+                "qid": "Q163872",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm"
+            },
+            {
+                "name": "The Dark Knight Rises",
+                "qid": "Q189330",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm_tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "The Odyssey",
+                "qid": "Q131547207",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%AD_thi_Odyssey"
+            },
+            {
+                "name": "The Prestige",
+                "qid": "Q46551",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A2o_thu%E1%BA%ADt_gia_%C4%91%E1%BA%A5u_tr%C3%AD"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Emma Thomas",
+                "qid": "Q242951",
+                "url": "https://vi.wikipedia.org/wiki/Emma_Thomas"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "John Nolan",
+                "qid": "Q12858652"
+            }
+        ]
+    }
+}

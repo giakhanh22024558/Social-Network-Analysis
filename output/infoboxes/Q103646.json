@@ -1,0 +1,212 @@
+{
+    "name": "Ron Howard",
+    "qid": "Q103646",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ron_Howard",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Clint Howard",
+                "qid": "Q1101612"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Rance Howard",
+                "qid": "Q2004409"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Bryce Dallas Howard",
+                "qid": "Q229775",
+                "url": "https://vi.wikipedia.org/wiki/Bryce_Dallas_Howard"
+            },
+            {
+                "name": "Jocelyn Howard",
+                "qid": "Q113706850"
+            },
+            {
+                "name": "Paige Howard",
+                "qid": "Q11836555"
+            },
+            {
+                "name": "Reed Howard",
+                "qid": "Q113706630"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Jean Speegle Howard",
+                "qid": "Q5249301"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1954-03-01T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "A Beautiful Mind",
+                "qid": "Q164103",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_t%C3%A2m_h%E1%BB%93n_%C4%91%E1%BA%B9p"
+            },
+            {
+                "name": "Changeling",
+                "qid": "Q275553",
+                "url": "https://vi.wikipedia.org/wiki/Changeling_(phim)"
+            },
+            {
+                "name": "Cowboys & Aliens",
+                "qid": "Q725578",
+                "url": "https://vi.wikipedia.org/wiki/Cao_b%E1%BB%93i_%26_qu%C3%A1i_v%E1%BA%ADt_ngo%C3%A0i_h%C3%A0nh_tinh"
+            },
+            {
+                "name": "In the Heart of the Sea",
+                "qid": "Q15079316",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_s%C3%A2u_d%E1%BA%ADy_s%C3%B3ng"
+            },
+            {
+                "name": "Inferno",
+                "qid": "Q18192306",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Fa_ng%E1%BB%A5c_(phim_2016)"
+            },
+            {
+                "name": "J. Edgar",
+                "qid": "Q1137236",
+                "url": "https://vi.wikipedia.org/wiki/J._Edgar"
+            },
+            {
+                "name": "Katy Perry: Part of Me",
+                "qid": "Q1199262",
+                "url": "https://vi.wikipedia.org/wiki/Katy_Perry:_Part_of_Me"
+            },
+            {
+                "name": "Rush",
+                "qid": "Q1768437",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_%C4%91ua_ngh%E1%BA%B9t_th%E1%BB%9F"
+            },
+            {
+                "name": "The Good Lie",
+                "qid": "Q12124611",
+                "url": "https://vi.wikipedia.org/wiki/The_Good_Lie"
+            },
+            {
+                "name": "Tick, Tick... Boom!",
+                "qid": "Q85323361",
+                "url": "https://vi.wikipedia.org/wiki/Tick,_Tick..._Boom!"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Beautiful Mind",
+                "qid": "Q164103",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_t%C3%A2m_h%E1%BB%93n_%C4%91%E1%BA%B9p"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "A Beautiful Mind",
+                "qid": "Q164103",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_t%C3%A2m_h%E1%BB%93n_%C4%91%E1%BA%B9p"
+            },
+            {
+                "name": "Angels & Demons",
+                "qid": "Q192934",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_th%E1%BA%A7n_v%C3%A0_%C3%A1c_qu%E1%BB%B7_(phim)"
+            },
+            {
+                "name": "In the Heart of the Sea",
+                "qid": "Q15079316",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_s%C3%A2u_d%E1%BA%ADy_s%C3%B3ng"
+            },
+            {
+                "name": "Inferno",
+                "qid": "Q18192306",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Fa_ng%E1%BB%A5c_(phim_2016)"
+            },
+            {
+                "name": "Rush",
+                "qid": "Q1768437",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_%C4%91ua_ngh%E1%BA%B9t_th%E1%BB%9F"
+            },
+            {
+                "name": "Solo: A Star Wars Story",
+                "qid": "Q27038847",
+                "url": "https://vi.wikipedia.org/wiki/Solo:_Star_Wars_ngo%E1%BA%A1i_truy%E1%BB%87n"
+            },
+            {
+                "name": "Splash",
+                "qid": "Q1127184",
+                "url": "https://vi.wikipedia.org/wiki/Splash_(phim)"
+            },
+            {
+                "name": "Thirteen Lives",
+                "qid": "Q105962844",
+                "url": "https://vi.wikipedia.org/wiki/Thirteen_Lives"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Cheryl Howard",
+                "qid": "Q113706746"
+            }
+        ]
+    }
+}

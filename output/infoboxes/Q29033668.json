@@ -1,0 +1,132 @@
+{
+    "name": "Q29033668",
+    "qid": "Q29033668",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Cardi_B",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Hennesy Carolina",
+                "qid": "Q51754540"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Carlos Alman",
+                "qid": "Q107390837"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Kulture Kiari Cephus",
+                "qid": "Q55740689"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Clara Almánzar",
+                "qid": "Q107426661"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "Internet celebrity",
+                "qid": "Q2045208",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_n%E1%BB%95i_ti%E1%BA%BFng_tr%C3%AAn_m%E1%BA%A1ng"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "stripper",
+                "qid": "Q1141526",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng_tho%C3%A1t_y"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television personality",
+                "qid": "Q44508716"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-10-11T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Dunkirk",
+                "qid": "Q21935651",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_di_t%E1%BA%A3n_Dunkirk_(phim)"
+            },
+            {
+                "name": "F9",
+                "qid": "Q29466808",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_9:_Huy%E1%BB%81n_tho%E1%BA%A1i_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Offset",
+                "qid": "Q30612480",
+                "url": "https://vi.wikipedia.org/wiki/Offset_(rapper)"
+            }
+        ]
+    }
+}

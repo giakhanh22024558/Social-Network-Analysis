@@ -1,0 +1,113 @@
+{
+    "name": "Sean Gunn",
+    "qid": "Q431753",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sean_Gunn",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "James Gunn",
+                "qid": "Q717015",
+                "url": "https://vi.wikipedia.org/wiki/James_Gunn"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "James Gunn Sr.",
+                "qid": "Q65953457"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Leota Gunn",
+                "qid": "Q65953467"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-05-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Guardians of the Galaxy",
+                "qid": "Q5887360",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_(phim)"
+            },
+            {
+                "name": "Guardians of the Galaxy Vol. 2",
+                "qid": "Q20001199",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_2"
+            },
+            {
+                "name": "Guardians of the Galaxy Vol. 3",
+                "qid": "Q29226331",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_3"
+            },
+            {
+                "name": "Pearl Harbor",
+                "qid": "Q194413",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A2n_Ch%C3%A2u_C%E1%BA%A3ng_(phim)"
+            },
+            {
+                "name": "Superman",
+                "qid": "Q116547790",
+                "url": "https://vi.wikipedia.org/wiki/Superman_(phim_2025)"
+            },
+            {
+                "name": "The Guardians of the Galaxy Holiday Special",
+                "qid": "Q106729096",
+                "url": "https://vi.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special"
+            },
+            {
+                "name": "The Suicide Squad",
+                "qid": "Q57317060",
+                "url": "https://vi.wikipedia.org/wiki/Suicide_Squad:_%C4%90i%E1%BB%87p_v%E1%BB%A5_c%E1%BA%A3m_t%E1%BB%AD"
+            },
+            {
+                "name": "Thor: Love and Thunder",
+                "qid": "Q65768604",
+                "url": "https://vi.wikipedia.org/wiki/Thor:_T%C3%ACnh_y%C3%AAu_v%C3%A0_s%E1%BA%A5m_s%C3%A9t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Natasha Halevi",
+                "qid": "Q22958083"
+            }
+        ]
+    }
+}

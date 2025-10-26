@@ -1,0 +1,107 @@
+{
+    "name": "Danny Elfman",
+    "qid": "Q193338",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Danny_Elfman",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Richard Elfman",
+                "qid": "Q866269"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Milton Elfman",
+                "qid": "Q129175321"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Lola Elfman",
+                "qid": "Q129175349"
+            },
+            {
+                "name": "Oliver Elfman",
+                "qid": "Q47482420"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Blossom Elfman",
+                "qid": "Q4928434"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "film score composer",
+                "qid": "Q1415090"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1953-05-29T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Nightmare Before Christmas",
+                "qid": "Q322328",
+                "url": "https://vi.wikipedia.org/wiki/The_Nightmare_Before_Christmas"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Charlie and the Chocolate Factory",
+                "qid": "Q218235",
+                "url": "https://vi.wikipedia.org/wiki/Charlie_v%C3%A0_nh%C3%A0_m%C3%A1y_s%C3%B4c%C3%B4la_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Bridget Fonda",
+                "qid": "Q913872"
+            },
+            {
+                "name": "Geri Eisenmenger",
+                "qid": "Q133892774"
+            }
+        ]
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "name": "Jonah Hill",
+    "qid": "Q313388",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jonah_Hill",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Beanie Feldstein",
+                "qid": "Q20973709"
+            },
+            {
+                "name": "Jordan Feldstein",
+                "qid": "Q125117932"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "James Feldstein",
+                "qid": "Q122389268"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-12-20T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "21 Jump Street",
+                "qid": "Q214014",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "22 Jump Street",
+                "qid": "Q15040917",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_%C4%91%E1%BA%A1i_h%E1%BB%8Dc"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "21 Jump Street",
+                "qid": "Q214014",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "22 Jump Street",
+                "qid": "Q15040917",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_%C4%91%E1%BA%A1i_h%E1%BB%8Dc"
+            },
+            {
+                "name": "Click",
+                "qid": "Q496654",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%BA_click_huy%E1%BB%81n_b%C3%AD"
+            },
+            {
+                "name": "Django Unchained",
+                "qid": "Q571032",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tr%C3%ACnh_Django"
+            },
+            {
+                "name": "Don't Look Up",
+                "qid": "Q100361490",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%ABng_nh%C3%ACn_l%C3%AAn"
+            },
+            {
+                "name": "Night at the Museum: Battle of the Smithsonian",
+                "qid": "Q476726",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_kinh_ho%C3%A0ng_2"
+            },
+            {
+                "name": "The Watch",
+                "qid": "Q29313",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_d%C3%A2n_ph%C3%B2ng_tinh_nhu%E1%BB%87"
+            },
+            {
+                "name": "The Wolf of Wall Street",
+                "qid": "Q1392744",
+                "url": "https://vi.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(phim_2013)"
+            },
+            {
+                "name": "This Is the End",
+                "qid": "Q607363",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_n%E1%BB%91t_ng%C3%A0y_cu%E1%BB%91i"
+            },
+            {
+                "name": "War Dogs",
+                "qid": "Q19872548",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_s%E1%BB%B1_h%E1%BB%95_b%C3%A1o"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Olivia Millar",
+                "qid": "Q122389288"
+            }
+        ]
+    }
+}

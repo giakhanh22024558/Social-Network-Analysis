@@ -1,0 +1,62 @@
+{
+    "name": "Olivia Rodrigo",
+    "qid": "Q63243883",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Olivia_Rodrigo",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Ethan Wacker",
+                "qid": "Q63243905"
+            },
+            {
+                "name": "Joshua Bassett",
+                "qid": "Q65586823",
+                "url": "https://vi.wikipedia.org/wiki/Joshua_Bassett"
+            },
+            {
+                "name": "Louis Partridge",
+                "qid": "Q99560577",
+                "url": "https://vi.wikipedia.org/wiki/Louis_Partridge"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2003-02-20T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Philippines",
+                "qid": "Q928",
+                "url": "https://vi.wikipedia.org/wiki/Philippines"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

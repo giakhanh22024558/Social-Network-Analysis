@@ -1,0 +1,136 @@
+{
+    "name": "Emma Stone",
+    "qid": "Q147077",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Emma_Stone",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Louise McCary",
+                "qid": "Q106436163"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Krista Jean Stone",
+                "qid": "Q125839200"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1988-11-06T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "A Real Pain",
+                "qid": "Q123690368",
+                "url": "https://vi.wikipedia.org/wiki/A_Real_Pain"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Birdman",
+                "qid": "Q13255497",
+                "url": "https://vi.wikipedia.org/wiki/Birdman_(phim)"
+            },
+            {
+                "name": "Cruella",
+                "qid": "Q24284363",
+                "url": "https://vi.wikipedia.org/wiki/Cruella_(phim)"
+            },
+            {
+                "name": "Gangster Squad",
+                "qid": "Q27751",
+                "url": "https://vi.wikipedia.org/wiki/Gangster_Squad"
+            },
+            {
+                "name": "La La Land",
+                "qid": "Q20856802",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_kh%E1%BB%9D_m%E1%BB%99ng_m%C6%A1"
+            },
+            {
+                "name": "Magic in the Moonlight",
+                "qid": "Q14511869",
+                "url": "https://vi.wikipedia.org/wiki/Magic_in_the_Moonlight"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "The Amazing Spider-Man",
+                "qid": "Q229808",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Si%C3%AAu_nh%E1%BB%87n_t%C3%A1i_xu%E1%BA%A5t"
+            },
+            {
+                "name": "The Amazing Spider-Man 2",
+                "qid": "Q4254026",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_si%C3%AAu_%C4%91%E1%BA%B3ng_2:_S%E1%BB%B1_tr%E1%BB%97i_d%E1%BA%ADy_c%E1%BB%A7a_Ng%C6%B0%E1%BB%9Di_%C4%90i%E1%BB%87n"
+            },
+            {
+                "name": "The Favourite",
+                "qid": "Q22001133",
+                "url": "https://vi.wikipedia.org/wiki/The_Favourite"
+            },
+            {
+                "name": "The Help",
+                "qid": "Q204374",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_gi%C3%BAp_vi%E1%BB%87c_(phim)"
+            },
+            {
+                "name": "Zombieland",
+                "qid": "Q219810",
+                "url": "https://vi.wikipedia.org/wiki/Zombieland"
+            },
+            {
+                "name": "Zombieland: Double Tap",
+                "qid": "Q58879016",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_th%C3%A2y_ma:_C%C3%BA_b%E1%BA%AFn_%C4%91%C3%BAp"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Dave McCary",
+                "qid": "Q16732230"
+            }
+        ]
+    }
+}

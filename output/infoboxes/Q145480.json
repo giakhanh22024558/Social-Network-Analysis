@@ -1,0 +1,58 @@
+{
+    "name": "Taboo Nawasha",
+    "qid": "Q145480",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Taboo_(rapper)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "disc jockey",
+                "qid": "Q130857",
+                "url": "https://vi.wikipedia.org/wiki/DJ"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1975-07-14T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Street Fighter: The Legend of Chun-Li",
+                "qid": "Q663645",
+                "url": "https://vi.wikipedia.org/wiki/Street_Fighter:_The_Legend_of_Chun-Li"
+            },
+            {
+                "name": "What to Expect When You're Expecting",
+                "qid": "Q616649",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2m_s%E1%BB%B1_b%C3%A0_b%E1%BA%A7u"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

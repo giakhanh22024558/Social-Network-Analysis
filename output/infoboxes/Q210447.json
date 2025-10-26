@@ -1,0 +1,137 @@
+{
+    "name": "Mark Hamill",
+    "qid": "Q210447",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mark_Hamill",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Patrick Hamill",
+                "qid": "Q135191169"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "William Hamill",
+                "qid": "Q17487581"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Chelsea Hamill",
+                "qid": "Q37804760"
+            },
+            {
+                "name": "Griffin Hamill",
+                "qid": "Q37805698"
+            },
+            {
+                "name": "Nathan Hamill",
+                "qid": "Q37805197"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Virginia Hamill",
+                "qid": "Q17487578"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dub actor",
+                "qid": "Q11481802"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1951-09-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Child's Play",
+                "qid": "Q56697304",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%BAp_b%C3%AA_s%C3%A1t_nh%C3%A2n_(phim_2019)"
+            },
+            {
+                "name": "Kingsman: The Secret Service",
+                "qid": "Q15068238",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_v%E1%BB%A5_Kingsman"
+            },
+            {
+                "name": "Star Wars: Episode IV – A New Hope",
+                "qid": "Q17738",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Ni%E1%BB%81m_hi_v%E1%BB%8Dng_m%E1%BB%9Bi"
+            },
+            {
+                "name": "Star Wars: Episode IX – The Rise of Skywalker",
+                "qid": "Q20977110",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Skywalker_tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "Star Wars: Episode V – The Empire Strikes Back",
+                "qid": "Q181795",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars_5:_%C4%90%E1%BA%BF_ch%E1%BA%BF_ph%E1%BA%A3n_c%C3%B4ng"
+            },
+            {
+                "name": "Star Wars: Episode VI – Return of the Jedi",
+                "qid": "Q181803",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_S%E1%BB%B1_tr%E1%BB%9F_l%E1%BA%A1i_c%E1%BB%A7a_Jedi"
+            },
+            {
+                "name": "Star Wars: Episode VII – The Force Awakens",
+                "qid": "Q6074",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Th%E1%BA%A7n_l%E1%BB%B1c_th%E1%BB%A9c_t%E1%BB%89nh"
+            },
+            {
+                "name": "Star Wars: Episode VIII – The Last Jedi",
+                "qid": "Q18486021",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Jedi_cu%E1%BB%91i_c%C3%B9ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

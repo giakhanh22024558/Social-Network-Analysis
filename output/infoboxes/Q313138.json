@@ -1,0 +1,41 @@
+{
+    "name": "Redman",
+    "qid": "Q313138",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Redman",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "disc jockey",
+                "qid": "Q130857",
+                "url": "https://vi.wikipedia.org/wiki/DJ"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-04-17T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

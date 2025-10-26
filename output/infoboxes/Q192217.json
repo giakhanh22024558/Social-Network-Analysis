@@ -1,0 +1,125 @@
+{
+    "name": "Rob Schneider",
+    "qid": "Q192217",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rob_Schneider",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "John Schneider",
+                "qid": "Q6256921"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Elle King",
+                "qid": "Q5364665"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "anti-vaccine activist",
+                "qid": "Q29887242"
+            },
+            {
+                "name": "author",
+                "qid": "Q482980",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1c_gi%E1%BA%A3"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-10-31T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "50 First Dates",
+                "qid": "Q241482",
+                "url": "https://vi.wikipedia.org/wiki/50_First_Dates"
+            },
+            {
+                "name": "Click",
+                "qid": "Q496654",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%BA_click_huy%E1%BB%81n_b%C3%AD"
+            },
+            {
+                "name": "Grown Ups",
+                "qid": "Q121810",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_%C4%91%E1%BB%A9a_tr%E1%BA%BB_to_x%C3%A1c"
+            },
+            {
+                "name": "Home Alone 2: Lost in New York",
+                "qid": "Q221202",
+                "url": "https://vi.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York"
+            },
+            {
+                "name": "Home Team",
+                "qid": "Q110192604",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_nh%C3%A0"
+            },
+            {
+                "name": "Jack and Jill",
+                "qid": "Q1505923",
+                "url": "https://vi.wikipedia.org/wiki/Jack_%26_Jill"
+            },
+            {
+                "name": "Norm of the North",
+                "qid": "Q16253705",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A7u_g%E1%BA%A5u_B%E1%BA%AFc_C%E1%BB%B1c"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Patricia Azarcoya Schneider",
+                "qid": "Q23308481"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "David Chneïderov",
+                "qid": "Q43009011"
+            }
+        ]
+    }
+}

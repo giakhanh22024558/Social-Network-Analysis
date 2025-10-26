@@ -1,0 +1,244 @@
+{
+    "name": "Michael Jackson",
+    "qid": "Q2831",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Jackson",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Brandon Jackson",
+                "qid": "Q108747135"
+            },
+            {
+                "name": "Jackie Jackson",
+                "qid": "Q44855",
+                "url": "https://vi.wikipedia.org/wiki/Jackie_Jackson"
+            },
+            {
+                "name": "Janet Jackson",
+                "qid": "Q131324",
+                "url": "https://vi.wikipedia.org/wiki/Janet_Jackson"
+            },
+            {
+                "name": "Jermaine Jackson",
+                "qid": "Q317784",
+                "url": "https://vi.wikipedia.org/wiki/Jermaine_Jackson"
+            },
+            {
+                "name": "Latoya Jackson",
+                "qid": "Q217427",
+                "url": "https://vi.wikipedia.org/wiki/La_Toya_Jackson"
+            },
+            {
+                "name": "Marlon Jackson",
+                "qid": "Q319392",
+                "url": "https://vi.wikipedia.org/wiki/Marlon_Jackson"
+            },
+            {
+                "name": "Randy Jackson",
+                "qid": "Q349461",
+                "url": "https://vi.wikipedia.org/wiki/Randy_Jackson_(nh%C3%A0_Jackson)"
+            },
+            {
+                "name": "Rebbie Jackson",
+                "qid": "Q234388",
+                "url": "https://vi.wikipedia.org/wiki/Rebbie_Jackson"
+            },
+            {
+                "name": "Tito Jackson",
+                "qid": "Q336222",
+                "url": "https://vi.wikipedia.org/wiki/Tito_Jackson"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Joe Jackson",
+                "qid": "Q361297",
+                "url": "https://vi.wikipedia.org/wiki/Joseph_Walter_Jackson"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "B Howard",
+                "qid": "Q16221338"
+            },
+            {
+                "name": "Blanket Jackson",
+                "qid": "Q16240598"
+            },
+            {
+                "name": "Paris Jackson",
+                "qid": "Q7137312"
+            },
+            {
+                "name": "Prince Jackson",
+                "qid": "Q7244161"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Katherine Jackson",
+                "qid": "Q238402"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "choreographer",
+                "qid": "Q2490358"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "philanthropist",
+                "qid": "Q12362622"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-08-29T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Dangerous: The Short Films",
+                "qid": "Q1650850",
+                "url": "https://vi.wikipedia.org/wiki/Dangerous:_The_Short_Films"
+            },
+            {
+                "name": "HIStory on Film, Volume II",
+                "qid": "Q731387",
+                "url": "https://vi.wikipedia.org/wiki/HIStory_on_Film,_Volume_II"
+            },
+            {
+                "name": "Michael Jackson's Ghosts",
+                "qid": "Q44477",
+                "url": "https://vi.wikipedia.org/wiki/Michael_Jackson%27s_Ghosts"
+            },
+            {
+                "name": "Michael Jackson's This Is It",
+                "qid": "Q44447",
+                "url": "https://vi.wikipedia.org/wiki/Michael_Jackson%27s_This_Is_It"
+            },
+            {
+                "name": "Michael Jackson's Thriller",
+                "qid": "Q1855666",
+                "url": "https://vi.wikipedia.org/wiki/Michael_Jackson%27s_Thriller"
+            },
+            {
+                "name": "The One",
+                "qid": "Q737217",
+                "url": "https://vi.wikipedia.org/wiki/The_One_(video)"
+            },
+            {
+                "name": "Video Greatest Hits – HIStory",
+                "qid": "Q941927",
+                "url": "https://vi.wikipedia.org/wiki/Video_Greatest_Hits_%E2%80%93_HIStory"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Michael Jackson's Ghosts",
+                "qid": "Q44477",
+                "url": "https://vi.wikipedia.org/wiki/Michael_Jackson%27s_Ghosts"
+            },
+            {
+                "name": "Michael Jackson's This Is It",
+                "qid": "Q44447",
+                "url": "https://vi.wikipedia.org/wiki/Michael_Jackson%27s_This_Is_It"
+            },
+            {
+                "name": "Religulous",
+                "qid": "Q591709",
+                "url": "https://vi.wikipedia.org/wiki/Religulous"
+            },
+            {
+                "name": "The One",
+                "qid": "Q737217",
+                "url": "https://vi.wikipedia.org/wiki/The_One_(video)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Live in Bucharest: The Dangerous Tour",
+                "qid": "Q1779172",
+                "url": "https://vi.wikipedia.org/wiki/Live_in_Bucharest:_The_Dangerous_Tour"
+            },
+            {
+                "name": "Number Ones",
+                "qid": "Q5920952",
+                "url": "https://vi.wikipedia.org/wiki/Number_Ones_(video)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Debbie Rowe",
+                "qid": "Q3078773",
+                "url": "https://vi.wikipedia.org/wiki/Deborah_Jeanne_Rowe"
+            },
+            {
+                "name": "Lisa Marie Presley",
+                "qid": "Q237324",
+                "url": "https://vi.wikipedia.org/wiki/Lisa_Marie_Presley"
+            }
+        ]
+    }
+}

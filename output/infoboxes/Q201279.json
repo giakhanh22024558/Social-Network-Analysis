@@ -1,0 +1,182 @@
+{
+    "name": "Woody Harrelson",
+    "qid": "Q201279",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Woody_Harrelson",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Brett Harrelson",
+                "qid": "Q2924601"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Charles Harrelson",
+                "qid": "Q2194178"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "theatrical director",
+                "qid": "Q3387717"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-07-23T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "2012",
+                "qid": "Q184605",
+                "url": "https://vi.wikipedia.org/wiki/2012:_N%C4%83m_%C4%91%E1%BA%A1i_h%E1%BB%8Da"
+            },
+            {
+                "name": "Fly Me to the Moon",
+                "qid": "Q115057826",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%A5_b%C3%AA_b%E1%BB%91i_%C3%A1nh_tr%C4%83ng"
+            },
+            {
+                "name": "Midway",
+                "qid": "Q56551019",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_chi%E1%BA%BFn_Midway_(phim_2019)"
+            },
+            {
+                "name": "No Country for Old Men",
+                "qid": "Q183081",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_ch%E1%BB%91n_dung_th%C3%A2n"
+            },
+            {
+                "name": "Now You See Me",
+                "qid": "Q499851",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_th%E1%BA%BF_k%E1%BB%B7"
+            },
+            {
+                "name": "Now You See Me 2",
+                "qid": "Q18703028",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_th%E1%BA%BF_k%E1%BB%B7_2"
+            },
+            {
+                "name": "Seven Pounds",
+                "qid": "Q635924",
+                "url": "https://vi.wikipedia.org/wiki/Seven_Pounds"
+            },
+            {
+                "name": "Solo: A Star Wars Story",
+                "qid": "Q27038847",
+                "url": "https://vi.wikipedia.org/wiki/Solo:_Star_Wars_ngo%E1%BA%A1i_truy%E1%BB%87n"
+            },
+            {
+                "name": "The Edge of Seventeen",
+                "qid": "Q21925075",
+                "url": "https://vi.wikipedia.org/wiki/The_Edge_of_Seventeen"
+            },
+            {
+                "name": "The Hunger Games",
+                "qid": "Q212965",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A5u_tr%C6%B0%E1%BB%9Dng_sinh_t%E1%BB%AD_(phim)"
+            },
+            {
+                "name": "The Hunger Games: Catching Fire",
+                "qid": "Q574583",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_B%E1%BA%AFt_l%E1%BB%ADa"
+            },
+            {
+                "name": "The Hunger Games: Mockingjay – Part 1",
+                "qid": "Q4142083",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_H%C3%BAng_nh%E1%BA%A1i_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "The Hunger Games: Mockingjay – Part 2",
+                "qid": "Q10307713",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_H%C3%BAng_nh%E1%BA%A1i_%E2%80%93_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Three Billboards Outside Ebbing, Missouri",
+                "qid": "Q24053277",
+                "url": "https://vi.wikipedia.org/wiki/Three_Billboards:_Truy_t%C3%ACm_c%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Triangle of Sadness",
+                "qid": "Q97304180",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%A1y_th%C6%B0%E1%BB%A3ng_l%C6%B0u"
+            },
+            {
+                "name": "Triple 9",
+                "qid": "Q17144452",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_999"
+            },
+            {
+                "name": "Venom",
+                "qid": "Q23006268",
+                "url": "https://vi.wikipedia.org/wiki/Venom_(phim_2018)"
+            },
+            {
+                "name": "Venom: Let There Be Carnage",
+                "qid": "Q60498064",
+                "url": "https://vi.wikipedia.org/wiki/Venom:_%C4%90%E1%BB%91i_m%E1%BA%B7t_t%E1%BB%AD_th%C3%B9"
+            },
+            {
+                "name": "War for the Planet of the Apes",
+                "qid": "Q19938437",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_h%C3%A0nh_tinh_kh%E1%BB%89"
+            },
+            {
+                "name": "Zombieland",
+                "qid": "Q219810",
+                "url": "https://vi.wikipedia.org/wiki/Zombieland"
+            },
+            {
+                "name": "Zombieland: Double Tap",
+                "qid": "Q58879016",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_th%C3%A2y_ma:_C%C3%BA_b%E1%BA%AFn_%C4%91%C3%BAp"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "name": "Akiva Goldsman",
+    "qid": "Q419454",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Akiva_Goldsman",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "documentary participant",
+                "qid": "Q106638245"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-07-07T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Constantine",
+                "qid": "Q219150",
+                "url": "https://vi.wikipedia.org/wiki/Constantine_(phim)"
+            },
+            {
+                "name": "Fair Game",
+                "qid": "Q917254",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_s%C3%B2ng_ph%E1%BA%B3ng"
+            },
+            {
+                "name": "Hancock",
+                "qid": "Q220376",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_nh%C3%A2n_c%C3%A1i_bang"
+            },
+            {
+                "name": "I Am Legend",
+                "qid": "Q212689",
+                "url": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_ph%E1%BB%91_ch%E1%BA%BFt_(phim)"
+            },
+            {
+                "name": "Lone Survivor",
+                "qid": "Q3258993",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_s%C3%B3t_(phim)"
+            },
+            {
+                "name": "Mr. & Mrs. Smith",
+                "qid": "Q191040",
+                "url": "https://vi.wikipedia.org/wiki/%C3%94ng_b%C3%A0_Smith_(phim_2005)"
+            },
+            {
+                "name": "Poseidon",
+                "qid": "Q906633",
+                "url": "https://vi.wikipedia.org/wiki/Poseidon_(phim)"
+            },
+            {
+                "name": "The Dark Tower",
+                "qid": "Q21647114",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%B2a_th%C3%A1p_b%C3%B3ng_%C4%91%C3%AAm_(phim)"
+            },
+            {
+                "name": "The Losers",
+                "qid": "Q1760081",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_ki%E1%BB%87t_th%E1%BA%A5t_th%E1%BA%BF"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Star Trek",
+                "qid": "Q213081",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek_(phim)"
+            },
+            {
+                "name": "Star Trek Into Darkness",
+                "qid": "Q171711",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek:_Ch%C3%ACm_trong_b%C3%B3ng_t%E1%BB%91i"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Winter's Tale",
+                "qid": "Q3569395",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_t%C3%ACnh_m%C3%B9a_%C4%91%C3%B4ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Rebecca Spikings-Goldsman",
+                "qid": "Q7301937"
+            }
+        ]
+    }
+}

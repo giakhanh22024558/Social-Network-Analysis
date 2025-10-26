@@ -1,0 +1,101 @@
+{
+    "name": "Timothy Olyphant",
+    "qid": "Q309835",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Timothy_Olyphant",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "John Vernon Bevan Olyphant",
+                "qid": "Q108597003"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "swimmer",
+                "qid": "Q10843402"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1968-05-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Perfect Getaway",
+                "qid": "Q300517",
+                "url": "https://vi.wikipedia.org/wiki/A_Perfect_Getaway"
+            },
+            {
+                "name": "Amsterdam",
+                "qid": "Q104830968",
+                "url": "https://vi.wikipedia.org/wiki/Amsterdam_%E2%80%93_V%E1%BB%A5_%C3%A1n_m%E1%BA%A1ng_k%E1%BB%B3_b%C3%AD"
+            },
+            {
+                "name": "Hitman",
+                "qid": "Q691916",
+                "url": "https://vi.wikipedia.org/wiki/Hitman_X47:_K%E1%BA%BB_s%C4%83n_ng%C6%B0%E1%BB%9Di"
+            },
+            {
+                "name": "Live Free or Die Hard",
+                "qid": "Q50861",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%C6%A1ng_%C4%91%E1%BA%A7u_v%E1%BB%9Bi_th%E1%BB%AD_th%C3%A1ch_4"
+            },
+            {
+                "name": "Missing Link",
+                "qid": "Q55388281",
+                "url": "https://vi.wikipedia.org/wiki/Missing_Link"
+            },
+            {
+                "name": "Once Upon a Time in Hollywood",
+                "qid": "Q47300912",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_ng%C3%A0y_x%C6%B0a_%E1%BB%9F..._Hollywood"
+            },
+            {
+                "name": "Snowden",
+                "qid": "Q19315473",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_v%E1%BB%A5_Snowden"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

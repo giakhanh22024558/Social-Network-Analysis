@@ -1,0 +1,67 @@
+{
+    "name": "Alfre Woodard",
+    "qid": "Q526620",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Alfre_Woodard",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1952-11-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "12 Years a Slave",
+                "qid": "Q3023357",
+                "url": "https://vi.wikipedia.org/wiki/12_n%C4%83m_n%C3%B4_l%E1%BB%87_(phim)"
+            },
+            {
+                "name": "Annabelle",
+                "qid": "Q15733440",
+                "url": "https://vi.wikipedia.org/wiki/Annabelle_(phim)"
+            },
+            {
+                "name": "Captain America: Civil War",
+                "qid": "Q18407657",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_N%E1%BB%99i_chi%E1%BA%BFn_si%C3%AAu_anh_h%C3%B9ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Roderick Spencer",
+                "qid": "Q22442765"
+            }
+        ]
+    }
+}

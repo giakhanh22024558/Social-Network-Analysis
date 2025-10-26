@@ -1,0 +1,65 @@
+{
+    "name": "Rob Van Dam",
+    "qid": "Q44628",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rob_Van_Dam",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "kickboxer",
+                "qid": "Q11296761"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-12-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Wrong Side of Town",
+                "qid": "Q1886792",
+                "url": "https://vi.wikipedia.org/wiki/Wrong_Side_of_Town"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Poland",
+                "qid": "Q36",
+                "url": "https://vi.wikipedia.org/wiki/Ba_Lan"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/f88c989015af707dad10137ee8959dca"
+            },
+            {
+                "name": "Katie Forbes",
+                "qid": "Q105686451"
+            }
+        ]
+    }
+}

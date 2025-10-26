@@ -1,0 +1,53 @@
+{
+    "name": "Hope Hicks",
+    "qid": "Q24851563",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Hope_Hicks",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Rob Porter",
+                "qid": "Q28451032"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Paul Hicks",
+                "qid": "Q99836024"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "politician",
+                "qid": "Q82955",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%ADnh_kh%C3%A1ch"
+            },
+            {
+                "name": "press secretary",
+                "qid": "Q1388151"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1988-10-21T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

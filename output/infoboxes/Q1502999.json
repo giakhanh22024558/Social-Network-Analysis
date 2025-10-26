@@ -1,0 +1,51 @@
+{
+    "name": "Geoffrey S. Fletcher",
+    "qid": "Q1502999",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Geoffrey_S._Fletcher",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Buddy Fletcher",
+                "qid": "Q4984855"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "university teacher",
+                "qid": "Q1622272"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-10-04T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "name": "Gwyneth Paltrow",
+    "qid": "Q34460",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Gwyneth_Paltrow",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jake Paltrow",
+                "qid": "Q727938"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Ben Affleck",
+                "qid": "Q483118",
+                "url": "https://vi.wikipedia.org/wiki/Ben_Affleck"
+            },
+            {
+                "name": "Brad Pitt",
+                "qid": "Q35332",
+                "url": "https://vi.wikipedia.org/wiki/Brad_Pitt"
+            },
+            {
+                "name": "Donovan Leitch",
+                "qid": "Q552470"
+            },
+            {
+                "name": "Luke Wilson",
+                "qid": "Q107769",
+                "url": "https://vi.wikipedia.org/wiki/Luke_Wilson"
+            },
+            {
+                "name": "Robert Sean Leonard",
+                "qid": "Q193160"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Bruce Paltrow",
+                "qid": "Q991765",
+                "url": "https://vi.wikipedia.org/wiki/Bruce_Paltrow"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Apple Martin",
+                "qid": "Q47493349"
+            },
+            {
+                "name": "Moses Martin",
+                "qid": "Q46504025"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Blythe Danner",
+                "qid": "Q40064"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "wellness guru",
+                "qid": "Q134826510"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1972-09-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Contagion",
+                "qid": "Q730888",
+                "url": "https://vi.wikipedia.org/wiki/Contagion_(phim_2011)"
+            },
+            {
+                "name": "Iron Man",
+                "qid": "Q192724",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_(phim_2008)"
+            },
+            {
+                "name": "Iron Man 2",
+                "qid": "Q205028",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_2"
+            },
+            {
+                "name": "Iron Man 3",
+                "qid": "Q209538",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_3"
+            },
+            {
+                "name": "Mortdecai",
+                "qid": "Q15103254",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%BD_t%E1%BB%99c_s%C4%83n_tranh"
+            },
+            {
+                "name": "Seven",
+                "qid": "Q190908",
+                "url": "https://vi.wikipedia.org/wiki/Seven_(phim_1995)"
+            },
+            {
+                "name": "Shakespeare in Love",
+                "qid": "Q182944",
+                "url": "https://vi.wikipedia.org/wiki/Shakespeare_in_Love"
+            },
+            {
+                "name": "Spider-Man: Homecoming",
+                "qid": "Q23010088",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Tr%E1%BB%9F_v%E1%BB%81_nh%C3%A0"
+            },
+            {
+                "name": "The Avengers",
+                "qid": "Q182218",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "The Talented Mr. Ripley",
+                "qid": "Q390052",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0i_Ripley_t%C3%A0i_ba_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Brad Falchuk",
+                "qid": "Q315750"
+            }
+        ]
+    }
+}

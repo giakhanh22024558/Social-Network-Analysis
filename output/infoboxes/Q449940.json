@@ -1,0 +1,114 @@
+{
+    "name": "Demián Bichir",
+    "qid": "Q449940",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Demi%C3%A1n_Bichir",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Bruno Bichir",
+                "qid": "Q2926651"
+            },
+            {
+                "name": "Odiseo Bichir",
+                "qid": "Q610384"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Alejandro Bichir",
+                "qid": "Q2832427"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Maricruz Nájera",
+                "qid": "Q3291425"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-08-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Alien: Covenant",
+                "qid": "Q20430699",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_v%E1%BA%ADt_kh%C3%B4ng_gian"
+            },
+            {
+                "name": "Chaos Walking",
+                "qid": "Q37447097",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_h%E1%BB%97n_lo%E1%BA%A1n"
+            },
+            {
+                "name": "Godzilla vs. Kong",
+                "qid": "Q56307503",
+                "url": "https://vi.wikipedia.org/wiki/Godzilla_%C4%91%E1%BA%A1i_chi%E1%BA%BFn_Kong"
+            },
+            {
+                "name": "Savages",
+                "qid": "Q1143802",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_man_r%E1%BB%A3"
+            },
+            {
+                "name": "The Hateful Eight",
+                "qid": "Q18225084",
+                "url": "https://vi.wikipedia.org/wiki/The_Hateful_Eight"
+            },
+            {
+                "name": "The Heat",
+                "qid": "Q135156",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_n%E1%BA%A3y_l%E1%BB%ADa"
+            },
+            {
+                "name": "The Nun",
+                "qid": "Q29841731",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81c_qu%E1%BB%B7_ma_s%C6%A1"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Mexico",
+                "qid": "Q96",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%A9xico"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Lisset",
+                "qid": "Q3242623"
+            },
+            {
+                "name": "Stefanie Sherk",
+                "qid": "Q70229386"
+            }
+        ]
+    }
+}

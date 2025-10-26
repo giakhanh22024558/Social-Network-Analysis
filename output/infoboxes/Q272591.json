@@ -1,0 +1,61 @@
+{
+    "name": "Daddy Yankee",
+    "qid": "Q272591",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Daddy_Yankee",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Melvin Ayala",
+                "qid": "Q18416458"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Jeremy Ayala González",
+                "qid": "Q60634778"
+            },
+            {
+                "name": "Jesaaelys",
+                "qid": "Q60649694"
+            },
+            {
+                "name": "Yamilette Ayala González",
+                "qid": "Q60634576"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1976-02-03T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

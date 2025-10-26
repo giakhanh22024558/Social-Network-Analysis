@@ -1,0 +1,147 @@
+{
+    "name": "Shia LaBeouf",
+    "qid": "Q180942",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Shia_LaBeouf",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Carey Mulligan",
+                "qid": "Q219655",
+                "url": "https://vi.wikipedia.org/wiki/Carey_Mulligan"
+            },
+            {
+                "name": "FKA twigs",
+                "qid": "Q15291033"
+            },
+            {
+                "name": "Isabel Lucas",
+                "qid": "Q229416",
+                "url": "https://vi.wikipedia.org/wiki/Isabel_Lucas"
+            },
+            {
+                "name": "Margaret Qualley",
+                "qid": "Q17380672",
+                "url": "https://vi.wikipedia.org/wiki/Margaret_Qualley"
+            },
+            {
+                "name": "Mia Goth",
+                "qid": "Q20974095"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "performance artist",
+                "qid": "Q10774753"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-06-11T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Constantine",
+                "qid": "Q219150",
+                "url": "https://vi.wikipedia.org/wiki/Constantine_(phim)"
+            },
+            {
+                "name": "Disturbia",
+                "qid": "Q592445",
+                "url": "https://vi.wikipedia.org/wiki/Disturbia_(phim)"
+            },
+            {
+                "name": "Eagle Eye",
+                "qid": "Q158474",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%AFt_%C4%91%E1%BA%A1i_b%C3%A0ng"
+            },
+            {
+                "name": "Fury",
+                "qid": "Q14786561",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%93ng_n%E1%BB%99_(phim_2014)"
+            },
+            {
+                "name": "I, Robot",
+                "qid": "Q200572",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%B4i,_ng%C6%B0%E1%BB%9Di_m%C3%A1y"
+            },
+            {
+                "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+                "qid": "Q182373",
+                "url": "https://vi.wikipedia.org/wiki/Indiana_Jones_v%C3%A0_v%C6%B0%C6%A1ng_qu%E1%BB%91c_s%E1%BB%8D_ng%C6%B0%E1%BB%9Di"
+            },
+            {
+                "name": "New York, I Love You",
+                "qid": "Q44935",
+                "url": "https://vi.wikipedia.org/wiki/New_York,_I_Love_You"
+            },
+            {
+                "name": "Nymphomaniac",
+                "qid": "Q3346699",
+                "url": "https://vi.wikipedia.org/wiki/Nymphomaniac"
+            },
+            {
+                "name": "Transformers",
+                "qid": "Q171453",
+                "url": "https://vi.wikipedia.org/wiki/Robot_%C4%91%E1%BA%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Transformers: Dark of the Moon",
+                "qid": "Q232774",
+                "url": "https://vi.wikipedia.org/wiki/Transformers_3"
+            },
+            {
+                "name": "Transformers: Revenge of the Fallen",
+                "qid": "Q191100",
+                "url": "https://vi.wikipedia.org/wiki/Transformers:_B%E1%BA%A1i_binh_ph%E1%BB%A5c_h%E1%BA%ADn"
+            },
+            {
+                "name": "Wall Street: Money Never Sleeps",
+                "qid": "Q326526",
+                "url": "https://vi.wikipedia.org/wiki/Ph%E1%BB%91_Wall:_Ma_l%E1%BB%B1c_%C4%91%E1%BB%93ng_ti%E1%BB%81n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Mia Goth",
+                "qid": "Q20974095"
+            }
+        ]
+    }
+}

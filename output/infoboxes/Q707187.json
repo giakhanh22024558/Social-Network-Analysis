@@ -1,0 +1,73 @@
+{
+    "name": "Fala Chen",
+    "qid": "Q707187",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%C3%A1p_Lai",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-02-24T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Godzilla x Kong: The New Empire",
+                "qid": "Q113360912",
+                "url": "https://vi.wikipedia.org/wiki/Godzilla_x_Kong:_%C4%90%E1%BA%BF_ch%E1%BA%BF_m%E1%BB%9Bi"
+            },
+            {
+                "name": "Peg O' My Heart",
+                "qid": "Q123330555",
+                "url": "https://vi.wikipedia.org/wiki/K%C3%BD_%E1%BB%A9c_m%C3%A1u"
+            },
+            {
+                "name": "Shang-Chi and the Legend of the Ten Rings",
+                "qid": "Q65768589",
+                "url": "https://vi.wikipedia.org/wiki/Shang-Chi_v%C3%A0_huy%E1%BB%81n_tho%E1%BA%A1i_Th%E1%BA%ADp_Lu%C3%A2n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "People's Republic of China",
+                "qid": "Q148",
+                "url": "https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

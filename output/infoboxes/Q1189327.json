@@ -1,0 +1,86 @@
+{
+    "name": "Derek Hough",
+    "qid": "Q1189327",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Derek_Hough",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Julianne Hough",
+                "qid": "Q232646",
+                "url": "https://vi.wikipedia.org/wiki/Julianne_Hough"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Nina Dobrev",
+                "qid": "Q183439",
+                "url": "https://vi.wikipedia.org/wiki/Nina_Dobrev"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Bruce Robert Hough",
+                "qid": "Q127239560"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "choreographer",
+                "qid": "Q2490358"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1985-05-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Harry Potter and the Philosopher's Stone",
+                "qid": "Q102438",
+                "url": "https://vi.wikipedia.org/wiki/Harry_Potter_v%C3%A0_H%C3%B2n_%C4%91%C3%A1_Ph%C3%B9_th%E1%BB%A7y_(phim)"
+            },
+            {
+                "name": "Make Your Move",
+                "qid": "Q5139014",
+                "url": "https://vi.wikipedia.org/wiki/Make_Your_Move_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Marc Webb",
+    "qid": "Q357998",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Marc_Webb",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "motorcycle racer",
+                "qid": "Q3014296"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-08-31T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "(500) Days of Summer",
+                "qid": "Q154935",
+                "url": "https://vi.wikipedia.org/wiki/500_ng%C3%A0y_y%C3%AAu"
+            },
+            {
+                "name": "Snow White",
+                "qid": "Q27660145",
+                "url": "https://vi.wikipedia.org/wiki/N%C3%A0ng_B%E1%BA%A1ch_Tuy%E1%BA%BFt_(phim_2025)"
+            },
+            {
+                "name": "The Amazing Spider-Man",
+                "qid": "Q229808",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Si%C3%AAu_nh%E1%BB%87n_t%C3%A1i_xu%E1%BA%A5t"
+            },
+            {
+                "name": "The Amazing Spider-Man 2",
+                "qid": "Q4254026",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_si%C3%AAu_%C4%91%E1%BA%B3ng_2:_S%E1%BB%B1_tr%E1%BB%97i_d%E1%BA%ADy_c%E1%BB%A7a_Ng%C6%B0%E1%BB%9Di_%C4%90i%E1%BB%87n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

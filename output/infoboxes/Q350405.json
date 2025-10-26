@@ -1,0 +1,111 @@
+{
+    "name": "Adam McKay",
+    "qid": "Q350405",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Adam_McKay",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jeremy Piven",
+                "qid": "Q315083"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1968-04-17T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Daddy's Home",
+                "qid": "Q18619590",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_ngoan,_b%E1%BB%91_h%C6%B0"
+            },
+            {
+                "name": "Don't Look Up",
+                "qid": "Q100361490",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%ABng_nh%C3%ACn_l%C3%AAn"
+            },
+            {
+                "name": "Hansel & Gretel: Witch Hunters",
+                "qid": "Q498287",
+                "url": "https://vi.wikipedia.org/wiki/Hansel_%26_Gretel:_Th%E1%BB%A3_s%C4%83n_ph%C3%B9_th%E1%BB%A7y"
+            },
+            {
+                "name": "The Menu",
+                "qid": "Q108444804",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%B1c_%C4%91%C6%A1n_b%C3%AD_%E1%BA%A9n"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Other Guys",
+                "qid": "Q376807",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_c%E1%BB%9Bm_tranh_t%C3%A0i"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Don't Look Up",
+                "qid": "Q100361490",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%ABng_nh%C3%ACn_l%C3%AAn"
+            },
+            {
+                "name": "The Big Short",
+                "qid": "Q19850715",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Short_(phim)"
+            },
+            {
+                "name": "The Other Guys",
+                "qid": "Q376807",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_c%E1%BB%9Bm_tranh_t%C3%A0i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Shira Piven",
+                "qid": "Q18154007"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Jeremy Piven",
+                "qid": "Q315083"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "name": "Lucas Till",
+    "qid": "Q316541",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lucas_Till",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Taylor Swift",
+                "qid": "Q26876",
+                "url": "https://vi.wikipedia.org/wiki/Taylor_Swift"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1990-08-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Hannah Montana: The Movie",
+                "qid": "Q220591",
+                "url": "https://vi.wikipedia.org/wiki/Hannah_Montana:_The_Movie"
+            },
+            {
+                "name": "Monster Trucks",
+                "qid": "Q16939122",
+                "url": "https://vi.wikipedia.org/wiki/Xe_t%E1%BA%A3i_qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Paranoia",
+                "qid": "Q964955",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%99i_gi%C3%A1n_(phim_2013)"
+            },
+            {
+                "name": "The Amazing Spider-Man 2",
+                "qid": "Q4254026",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_si%C3%AAu_%C4%91%E1%BA%B3ng_2:_S%E1%BB%B1_tr%E1%BB%97i_d%E1%BA%ADy_c%E1%BB%A7a_Ng%C6%B0%E1%BB%9Di_%C4%90i%E1%BB%87n"
+            },
+            {
+                "name": "Walk the Line",
+                "qid": "Q154077",
+                "url": "https://vi.wikipedia.org/wiki/Walk_the_Line"
+            },
+            {
+                "name": "X-Men: Apocalypse",
+                "qid": "Q17042878",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Cu%E1%BB%99c_chi%E1%BA%BFn_ch%E1%BB%91ng_Apocalypse"
+            },
+            {
+                "name": "X-Men: Days of Future Past",
+                "qid": "Q4985891",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Ng%C3%A0y_c%C5%A9_c%E1%BB%A7a_t%C6%B0%C6%A1ng_lai"
+            },
+            {
+                "name": "X-Men: First Class",
+                "qid": "Q223596",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Th%E1%BA%BF_h%E1%BB%87_th%E1%BB%A9_nh%E1%BA%A5t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

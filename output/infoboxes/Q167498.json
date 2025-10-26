@@ -1,0 +1,80 @@
+{
+    "name": "Meg Ryan",
+    "qid": "Q167498",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Meg_Ryan",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Jack Quaid",
+                "qid": "Q1139078",
+                "url": "https://vi.wikipedia.org/wiki/Jack_Quaid"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-11-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "City of Angels",
+                "qid": "Q168010",
+                "url": "https://vi.wikipedia.org/wiki/City_of_Angels_(phim)"
+            },
+            {
+                "name": "In the Cut",
+                "qid": "Q59572",
+                "url": "https://vi.wikipedia.org/wiki/In_The_Cut"
+            },
+            {
+                "name": "Sleepless in Seattle",
+                "qid": "Q107167",
+                "url": "https://vi.wikipedia.org/wiki/Sleepless_in_Seattle"
+            },
+            {
+                "name": "When Harry Met Sally",
+                "qid": "Q471169",
+                "url": "https://vi.wikipedia.org/wiki/When_Harry_Met_Sally..."
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Dennis Quaid",
+                "qid": "Q200768",
+                "url": "https://vi.wikipedia.org/wiki/Dennis_Quaid"
+            }
+        ]
+    }
+}

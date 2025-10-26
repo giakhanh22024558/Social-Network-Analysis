@@ -1,0 +1,109 @@
+{
+    "name": "Todd Fisher",
+    "qid": "Q7812365",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Todd_Fisher",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Carrie Fisher",
+                "qid": "Q108941",
+                "url": "https://vi.wikipedia.org/wiki/Carrie_Fisher"
+            },
+            {
+                "name": "Joely Fisher",
+                "qid": "Q254789"
+            },
+            {
+                "name": "Tricia Leigh Fisher",
+                "qid": "Q533883"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Eddie Fisher",
+                "qid": "Q363708"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Debbie Reynolds",
+                "qid": "Q263696",
+                "url": "https://vi.wikipedia.org/wiki/Debbie_Reynolds"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "audio engineer",
+                "qid": "Q128124"
+            },
+            {
+                "name": "cinematographer",
+                "qid": "Q222344",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_h%C3%ACnh_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-02-24T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Bright Lights: Starring Carrie Fisher and Debbie Reynolds",
+                "qid": "Q24590815",
+                "url": "https://vi.wikipedia.org/wiki/Bright_Lights:_Starring_Carrie_Fisher_and_Debbie_Reynolds"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Bright Lights: Starring Carrie Fisher and Debbie Reynolds",
+                "qid": "Q24590815",
+                "url": "https://vi.wikipedia.org/wiki/Bright_Lights:_Starring_Carrie_Fisher_and_Debbie_Reynolds"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Catherine Hickland",
+                "qid": "Q5052725"
+            },
+            {
+                "name": "Christi Zabel",
+                "qid": "Q17487608"
+            },
+            {
+                "name": "Donna Freberg",
+                "qid": "Q17487606"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Carrie Fisher",
+                "qid": "Q108941",
+                "url": "https://vi.wikipedia.org/wiki/Carrie_Fisher"
+            }
+        ]
+    }
+}

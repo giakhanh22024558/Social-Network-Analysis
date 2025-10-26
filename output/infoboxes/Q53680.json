@@ -1,0 +1,120 @@
+{
+    "name": "Jeff Daniels",
+    "qid": "Q53680",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jeff_Daniels",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Ben Daniels",
+                "qid": "Q116256686"
+            },
+            {
+                "name": "Lucas Daniels",
+                "qid": "Q116256698"
+            },
+            {
+                "name": "Nellie Daniels",
+                "qid": "Q116256713"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "playwright",
+                "qid": "Q214917",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_vi%E1%BA%BFt_k%E1%BB%8Bch"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-02-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "101 Dalmatians",
+                "qid": "Q8594",
+                "url": "https://vi.wikipedia.org/wiki/101_ch%C3%BA_ch%C3%B3_%C4%91%E1%BB%91m_(phim_1996)"
+            },
+            {
+                "name": "Dumb and Dumber",
+                "qid": "Q462418",
+                "url": "https://vi.wikipedia.org/wiki/Dumb_and_Dumber"
+            },
+            {
+                "name": "Dumb and Dumber To",
+                "qid": "Q14932750",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_ng%E1%BB%91c_g%E1%BA%B7p_nhau"
+            },
+            {
+                "name": "Looper",
+                "qid": "Q53719",
+                "url": "https://vi.wikipedia.org/wiki/Looper"
+            },
+            {
+                "name": "Steve Jobs",
+                "qid": "Q18754959",
+                "url": "https://vi.wikipedia.org/wiki/Steve_Jobs_(phim)"
+            },
+            {
+                "name": "The Divergent Series: Allegiant",
+                "qid": "Q19648591",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_trung_ki%C3%AAn"
+            },
+            {
+                "name": "The Martian",
+                "qid": "Q18547944",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_v%E1%BB%81_t%E1%BB%AB_Sao_H%E1%BB%8Fa"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Kathleen Treado Daniels",
+                "qid": "Q116256758"
+            }
+        ]
+    }
+}

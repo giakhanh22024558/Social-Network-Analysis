@@ -1,0 +1,58 @@
+{
+    "name": "Dominic Scott Kay",
+    "qid": "Q2281610",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dominic_Scott_Kay",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1996-05-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Charlotte's Web",
+                "qid": "Q213773",
+                "url": "https://vi.wikipedia.org/wiki/Charlotte%27s_Web_(phim_2006)"
+            },
+            {
+                "name": "Minority Report",
+                "qid": "Q244604",
+                "url": "https://vi.wikipedia.org/wiki/Minority_Report"
+            },
+            {
+                "name": "Pirates of the Caribbean: At World's End",
+                "qid": "Q54274",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%9Bp_bi%E1%BB%83n_v%C3%B9ng_Caribbean_3:_N%C6%A1i_t%E1%BA%ADn_c%C3%B9ng_th%E1%BA%BF_gi%E1%BB%9Bi"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Travis Knight",
+    "qid": "Q7836302",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Travis_Knight",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Phil Knight",
+                "qid": "Q557305",
+                "url": "https://vi.wikipedia.org/wiki/Phil_Knight"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1973-09-13T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Missing Link",
+                "qid": "Q55388281",
+                "url": "https://vi.wikipedia.org/wiki/Missing_Link"
+            },
+            {
+                "name": "ParaNorman",
+                "qid": "Q198028",
+                "url": "https://vi.wikipedia.org/wiki/Norman_%26_gi%C3%A1c_quan_th%E1%BB%A9_s%C3%A1u"
+            },
+            {
+                "name": "The Boxtrolls",
+                "qid": "Q12103758",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1i_h%E1%BB%99p"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Bumblebee",
+                "qid": "Q34220038",
+                "url": "https://vi.wikipedia.org/wiki/Bumblebee_(phim)"
+            },
+            {
+                "name": "Kubo and the Two Strings",
+                "qid": "Q18786471",
+                "url": "https://vi.wikipedia.org/wiki/Kubo_v%C3%A0_s%E1%BB%A9_m%E1%BB%87nh_samurai"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

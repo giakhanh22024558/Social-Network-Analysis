@@ -1,0 +1,58 @@
+{
+    "name": "Steve Kloves",
+    "qid": "Q362061",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steve_Kloves",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1960-03-18T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Fantastic Beasts and Where to Find Them",
+                "qid": "Q18199330",
+                "url": "https://vi.wikipedia.org/wiki/Sinh_v%E1%BA%ADt_huy%E1%BB%81n_b%C3%AD_v%C3%A0_n%C6%A1i_t%C3%ACm_ra_ch%C3%BAng_(phim)"
+            },
+            {
+                "name": "Fantastic Beasts: The Secrets of Dumbledore",
+                "qid": "Q18199332",
+                "url": "https://vi.wikipedia.org/wiki/Sinh_v%E1%BA%ADt_huy%E1%BB%81n_b%C3%AD:_Nh%E1%BB%AFng_b%C3%AD_m%E1%BA%ADt_c%E1%BB%A7a_Dumbledore"
+            },
+            {
+                "name": "Mowgli: Legend of the Jungle",
+                "qid": "Q19595098",
+                "url": "https://vi.wikipedia.org/wiki/Mowgli:_Huy%E1%BB%81n_tho%E1%BA%A1i_r%E1%BB%ABng_xanh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

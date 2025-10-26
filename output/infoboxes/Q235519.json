@@ -1,0 +1,82 @@
+{
+    "name": "Connie Britton",
+    "qid": "Q235519",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Connie_Britton",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-03-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Nightmare on Elm Street",
+                "qid": "Q300508",
+                "url": "https://vi.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_(phim_2010)"
+            },
+            {
+                "name": "Bombshell",
+                "qid": "Q58814589",
+                "url": "https://vi.wikipedia.org/wiki/Tin_%E2%80%9Cn%C3%B3ng%E2%80%9D"
+            },
+            {
+                "name": "Promising Young Woman",
+                "qid": "Q62595383",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tr%E1%BA%BB_h%E1%BB%A9a_h%E1%BA%B9n"
+            },
+            {
+                "name": "Seeking a Friend for the End of the World",
+                "qid": "Q759448",
+                "url": "https://vi.wikipedia.org/wiki/Tri_k%E1%BB%B7_ng%C3%A0y_t%E1%BA%ADn_th%E1%BA%BF"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "John Britton",
+                "qid": "Q15110041"
+            }
+        ]
+    }
+}

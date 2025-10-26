@@ -1,0 +1,64 @@
+{
+    "name": "Liza Minnelli",
+    "qid": "Q14441",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Liza_Minnelli",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Joey Luft",
+                "qid": "Q50768273"
+            },
+            {
+                "name": "Lorna Luft",
+                "qid": "Q448983"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Vincente Minnelli",
+                "qid": "Q51535"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Judy Garland",
+                "qid": "Q11637",
+                "url": "https://vi.wikipedia.org/wiki/Judy_Garland"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1946-03-12T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "David Gest",
+                "qid": "Q10264401"
+            },
+            {
+                "name": "Jack Haley Jr.",
+                "qid": "Q3157197"
+            },
+            {
+                "name": "Peter Allen",
+                "qid": "Q1370974"
+            }
+        ]
+    }
+}

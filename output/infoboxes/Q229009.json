@@ -1,0 +1,60 @@
+{
+    "name": "Debra Winger",
+    "qid": "Q229009",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Debra_Winger",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Timothy Hutton",
+                "qid": "Q310324"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-05-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "E.T. the Extra-Terrestrial",
+                "qid": "Q11621",
+                "url": "https://vi.wikipedia.org/wiki/E.T._Sinh_v%E1%BA%ADt_ngo%C3%A0i_h%C3%A0nh_tinh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Arliss Howard",
+                "qid": "Q675776"
+            }
+        ]
+    }
+}

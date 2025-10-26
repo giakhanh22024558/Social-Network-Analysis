@@ -1,0 +1,113 @@
+{
+    "name": "Paul Auster",
+    "qid": "Q214642",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Paul_Auster",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Daniel Auster",
+                "qid": "Q125754079"
+            },
+            {
+                "name": "Sophie Auster",
+                "qid": "Q445905"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "critic",
+                "qid": "Q6430706"
+            },
+            {
+                "name": "editor",
+                "qid": "Q1607826"
+            },
+            {
+                "name": "essayist",
+                "qid": "Q11774202"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "librettist",
+                "qid": "Q8178443"
+            },
+            {
+                "name": "linguist",
+                "qid": "Q14467526"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "novelist",
+                "qid": "Q6625963",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia"
+            },
+            {
+                "name": "playwright",
+                "qid": "Q214917",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_vi%E1%BA%BFt_k%E1%BB%8Bch"
+            },
+            {
+                "name": "poet",
+                "qid": "Q49757",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%C6%A1"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "translator",
+                "qid": "Q333634"
+            },
+            {
+                "name": "university teacher",
+                "qid": "Q1622272"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1947-02-03T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Lydia Davis",
+                "qid": "Q1280035"
+            },
+            {
+                "name": "Siri Hustvedt",
+                "qid": "Q259543"
+            }
+        ]
+    }
+}

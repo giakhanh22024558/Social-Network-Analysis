@@ -1,0 +1,110 @@
+{
+    "name": "Giancarlo Esposito",
+    "qid": "Q726142",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Giancarlo_Esposito",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-04-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Abigail",
+                "qid": "Q120758628",
+                "url": "https://vi.wikipedia.org/wiki/Abigail_(phim_2024)"
+            },
+            {
+                "name": "Captain America: Brave New World",
+                "qid": "Q112322116",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_Th%E1%BA%BF_gi%E1%BB%9Bi_m%E1%BB%9Bi"
+            },
+            {
+                "name": "Hate Crime",
+                "qid": "Q4377503",
+                "url": "https://vi.wikipedia.org/wiki/Hate_Crime_(phim_2005)"
+            },
+            {
+                "name": "Last Holiday",
+                "qid": "Q1634476",
+                "url": "https://vi.wikipedia.org/wiki/Last_Holiday_(phim_2006)"
+            },
+            {
+                "name": "Maze Runner: The Death Cure",
+                "qid": "Q23068002",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_m%C3%AA_cung:_L%E1%BB%91i_tho%C3%A1t_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Maze Runner: The Scorch Trials",
+                "qid": "Q18359358",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_m%C3%AA_cung:_Th%E1%BB%AD_nghi%E1%BB%87m_%C4%91%E1%BA%A5t_ch%C3%A1y"
+            },
+            {
+                "name": "Money Monster",
+                "qid": "Q19363691",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%B7t_tr%C3%A1i_ph%E1%BB%91_Wall"
+            },
+            {
+                "name": "The Jungle Book",
+                "qid": "Q16857406",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_r%E1%BB%ABng_xanh_(phim_2016)"
+            },
+            {
+                "name": "The Usual Suspects",
+                "qid": "Q132351",
+                "url": "https://vi.wikipedia.org/wiki/The_Usual_Suspects"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Italy",
+                "qid": "Q38",
+                "url": "https://vi.wikipedia.org/wiki/%C3%9D"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

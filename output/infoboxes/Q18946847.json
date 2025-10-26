@@ -1,0 +1,65 @@
+{
+    "name": "Virginia Gardner",
+    "qid": "Q18946847",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Virginia_Gardner",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Jed Elliott",
+                "qid": "Q131469354"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1995-04-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "All the Bright Places",
+                "qid": "Q58814939",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_ng%C3%A0y_t%C6%B0%C6%A1i_%C4%91%E1%BA%B9p"
+            },
+            {
+                "name": "Halloween",
+                "qid": "Q20666646",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_(phim_2018)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jed Elliott",
+                "qid": "Q131469354"
+            }
+        ]
+    }
+}

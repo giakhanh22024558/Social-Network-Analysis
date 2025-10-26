@@ -1,0 +1,84 @@
+{
+    "name": "Linda Hamilton",
+    "qid": "Q208214",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Linda_Hamilton",
+    "gender": "female",
+    "infobox": {
+        "Mẹ (P25)": [
+            {
+                "name": "Barbara Kyle Holt",
+                "qid": "Q100753758"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1956-09-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Silent Fall",
+                "qid": "Q1304103",
+                "url": "https://vi.wikipedia.org/wiki/Silent_Fall"
+            },
+            {
+                "name": "Terminator 2: Judgment Day",
+                "qid": "Q170564",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_h%E1%BB%A7y_di%E1%BB%87t_2:_Ng%C3%A0y_ph%C3%A1n_x%C3%A9t"
+            },
+            {
+                "name": "Terminator Salvation",
+                "qid": "Q191543",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_h%E1%BB%A7y_di%E1%BB%87t_4"
+            },
+            {
+                "name": "Terminator: Dark Fate",
+                "qid": "Q39072454",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_h%E1%BB%A7y_di%E1%BB%87t:_V%E1%BA%ADn_m%E1%BB%87nh_%C4%91en_t%E1%BB%91i"
+            },
+            {
+                "name": "The Terminator",
+                "qid": "Q162255",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_h%E1%BB%A7y_di%E1%BB%87t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Bruce Abbott",
+                "qid": "Q680844"
+            },
+            {
+                "name": "James Cameron",
+                "qid": "Q42574",
+                "url": "https://vi.wikipedia.org/wiki/James_Cameron"
+            }
+        ]
+    }
+}

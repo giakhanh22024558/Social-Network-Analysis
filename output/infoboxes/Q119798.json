@@ -1,0 +1,167 @@
+{
+    "name": "Michael Douglas",
+    "qid": "Q119798",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Douglas",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Eric Douglas",
+                "qid": "Q1294039"
+            },
+            {
+                "name": "Joel Douglas",
+                "qid": "Q6213391"
+            },
+            {
+                "name": "Peter Douglas",
+                "qid": "Q3376546"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Kirk Douglas",
+                "qid": "Q104027",
+                "url": "https://vi.wikipedia.org/wiki/Kirk_Douglas"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Cameron Douglas",
+                "qid": "Q1028724"
+            },
+            {
+                "name": "Carys Zeta Douglas",
+                "qid": "Q39739857"
+            },
+            {
+                "name": "Dylan Douglas",
+                "qid": "Q85665696"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Diana Douglas",
+                "qid": "Q436789"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1944-09-25T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Double Impact",
+                "qid": "Q847545",
+                "url": "https://vi.wikipedia.org/wiki/Double_Impact"
+            },
+            {
+                "name": "One Flew Over the Cuckoo's Nest",
+                "qid": "Q171669",
+                "url": "https://vi.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(phim)"
+            },
+            {
+                "name": "The Jewel of the Nile",
+                "qid": "Q759420",
+                "url": "https://vi.wikipedia.org/wiki/The_Jewel_of_the_Nile"
+            },
+            {
+                "name": "Wall Street: Money Never Sleeps",
+                "qid": "Q326526",
+                "url": "https://vi.wikipedia.org/wiki/Ph%E1%BB%91_Wall:_Ma_l%E1%BB%B1c_%C4%91%E1%BB%93ng_ti%E1%BB%81n"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ant-Man",
+                "qid": "Q5901134",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_(phim)"
+            },
+            {
+                "name": "Ant-Man and the Wasp",
+                "qid": "Q22957393",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_v%C3%A0_Chi%E1%BA%BFn_binh_Ong"
+            },
+            {
+                "name": "Ant-Man and the Wasp: Quantumania",
+                "qid": "Q105359456",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_v%C3%A0_Chi%E1%BA%BFn_binh_Ong:_Th%E1%BA%BF_gi%E1%BB%9Bi_L%C6%B0%E1%BB%A3ng_t%E1%BB%AD"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Basic Instinct",
+                "qid": "Q146673",
+                "url": "https://vi.wikipedia.org/wiki/Basic_Instinct"
+            },
+            {
+                "name": "Fatal Attraction",
+                "qid": "Q504157",
+                "url": "https://vi.wikipedia.org/wiki/Fatal_Attraction"
+            },
+            {
+                "name": "The Jewel of the Nile",
+                "qid": "Q759420",
+                "url": "https://vi.wikipedia.org/wiki/The_Jewel_of_the_Nile"
+            },
+            {
+                "name": "Wall Street",
+                "qid": "Q332348",
+                "url": "https://vi.wikipedia.org/wiki/Wall_Street_(phim)"
+            },
+            {
+                "name": "Wall Street: Money Never Sleeps",
+                "qid": "Q326526",
+                "url": "https://vi.wikipedia.org/wiki/Ph%E1%BB%91_Wall:_Ma_l%E1%BB%B1c_%C4%91%E1%BB%93ng_ti%E1%BB%81n"
+            },
+            {
+                "name": "You, Me and Dupree",
+                "qid": "Q289841",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B3_%C4%91%C3%A0_c%E1%BA%A3n_m%C5%A9i_(phim_2006)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Catherine Zeta-Jones",
+                "qid": "Q47664",
+                "url": "https://vi.wikipedia.org/wiki/Catherine_Zeta-Jones"
+            }
+        ]
+    }
+}

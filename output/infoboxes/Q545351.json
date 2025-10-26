@@ -1,0 +1,63 @@
+{
+    "name": "Raja Gosnell",
+    "qid": "Q545351",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Raja_Gosnell",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Bradley Gosnell",
+                "qid": "Q56643497"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-12-09T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Home Alone 3",
+                "qid": "Q382320",
+                "url": "https://vi.wikipedia.org/wiki/Home_Alone_3"
+            },
+            {
+                "name": "Scooby-Doo",
+                "qid": "Q936302",
+                "url": "https://vi.wikipedia.org/wiki/Scooby-Doo_(phim)"
+            },
+            {
+                "name": "The Smurfs",
+                "qid": "Q454398",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%AC_Trum_(phim)"
+            },
+            {
+                "name": "The Smurfs 2",
+                "qid": "Q1253366",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%AC_Trum_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

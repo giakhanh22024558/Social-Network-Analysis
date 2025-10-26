@@ -1,0 +1,91 @@
+{
+    "name": "Steve-O",
+    "qid": "Q451501",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steve-O",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Elisabetta Canalis",
+                "qid": "Q287122"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "YouTuber",
+                "qid": "Q17125263",
+                "url": "https://vi.wikipedia.org/wiki/YouTuber"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "circus performer",
+                "qid": "Q17307272"
+            },
+            {
+                "name": "clown",
+                "qid": "Q7358",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BA_h%E1%BB%81"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "skateboarder",
+                "qid": "Q17502714"
+            },
+            {
+                "name": "stunt performer",
+                "qid": "Q465501",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91%C3%B3ng_th%E1%BA%BF"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-06-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Barely Lethal",
+                "qid": "Q15613279",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_v%E1%BB%A5_Ku-te"
+            },
+            {
+                "name": "Jackass Forever",
+                "qid": "Q104528612",
+                "url": "https://vi.wikipedia.org/wiki/Jackass_Forever"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

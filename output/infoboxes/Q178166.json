@@ -1,0 +1,223 @@
+{
+    "name": "Vin Diesel",
+    "qid": "Q178166",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Vin_Diesel",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Hania Sinclair",
+                "qid": "Q113677049"
+            },
+            {
+                "name": "Pauline Sinclair",
+                "qid": "Q117275683"
+            },
+            {
+                "name": "Vincent Sinclair",
+                "qid": "Q113668740"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "stunt performer",
+                "qid": "Q465501",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91%C3%B3ng_th%E1%BA%BF"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-07-18T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Fast & Furious",
+                "qid": "Q380996",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_4"
+            },
+            {
+                "name": "Fast & Furious 6",
+                "qid": "Q5516100",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_6"
+            },
+            {
+                "name": "Fast Five",
+                "qid": "Q401976",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_5:_Phi_v%E1%BB%A5_Rio"
+            },
+            {
+                "name": "Furious 7",
+                "qid": "Q14650496",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_7"
+            },
+            {
+                "name": "Hitman",
+                "qid": "Q691916",
+                "url": "https://vi.wikipedia.org/wiki/Hitman_X47:_K%E1%BA%BB_s%C4%83n_ng%C6%B0%E1%BB%9Di"
+            },
+            {
+                "name": "Riddick",
+                "qid": "Q1960913",
+                "url": "https://vi.wikipedia.org/wiki/Riddick:_Th%E1%BB%91ng_l%C4%A9nh_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "The Last Witch Hunter",
+                "qid": "Q17984058",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_binh_s%C4%83n_ph%C3%B9_th%E1%BB%A7y"
+            },
+            {
+                "name": "xXx Return of Xander Cage",
+                "qid": "Q22075020",
+                "url": "https://vi.wikipedia.org/wiki/XXx:_Ph%E1%BA%A3n_%C4%91%C3%B2n"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Billy Lynn's Long Halftime Walk",
+                "qid": "Q19839914",
+                "url": "https://vi.wikipedia.org/wiki/Billy_Lynn_v%C3%A0_cu%E1%BB%99c_chi%E1%BA%BFn_n%E1%BB%ADa_%C4%91%E1%BB%9Di_ng%C6%B0%E1%BB%9Di"
+            },
+            {
+                "name": "Boiler Room",
+                "qid": "Q1336293",
+                "url": "https://vi.wikipedia.org/wiki/Boiler_Room_(phim)"
+            },
+            {
+                "name": "F9",
+                "qid": "Q29466808",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_9:_Huy%E1%BB%81n_tho%E1%BA%A1i_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Fast & Furious",
+                "qid": "Q380996",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_4"
+            },
+            {
+                "name": "Fast & Furious 6",
+                "qid": "Q5516100",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_6"
+            },
+            {
+                "name": "Fast Five",
+                "qid": "Q401976",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_5:_Phi_v%E1%BB%A5_Rio"
+            },
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            },
+            {
+                "name": "Furious 7",
+                "qid": "Q14650496",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_7"
+            },
+            {
+                "name": "Guardians of the Galaxy",
+                "qid": "Q5887360",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_(phim)"
+            },
+            {
+                "name": "Guardians of the Galaxy Vol. 3",
+                "qid": "Q29226331",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_3"
+            },
+            {
+                "name": "Riddick",
+                "qid": "Q1960913",
+                "url": "https://vi.wikipedia.org/wiki/Riddick:_Th%E1%BB%91ng_l%C4%A9nh_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "Saving Private Ryan",
+                "qid": "Q165817",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_c%E1%BB%A9u_binh_nh%C3%AC_Ryan"
+            },
+            {
+                "name": "See You Again",
+                "qid": "Q19756862",
+                "url": "https://vi.wikipedia.org/wiki/See_You_Again_(b%C3%A0i_h%C3%A1t_c%E1%BB%A7a_Wiz_Khalifa)"
+            },
+            {
+                "name": "The Fast and the Furious",
+                "qid": "Q155476",
+                "url": "https://vi.wikipedia.org/wiki/The_Fast_and_the_Furious_(phim_2001)"
+            },
+            {
+                "name": "The Fast and the Furious: Tokyo Drift",
+                "qid": "Q213208",
+                "url": "https://vi.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift"
+            },
+            {
+                "name": "The Fate of the Furious",
+                "qid": "Q19829521",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_8"
+            },
+            {
+                "name": "The Guardians of the Galaxy Holiday Special",
+                "qid": "Q106729096",
+                "url": "https://vi.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special"
+            },
+            {
+                "name": "The Last Witch Hunter",
+                "qid": "Q17984058",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_binh_s%C4%83n_ph%C3%B9_th%E1%BB%A7y"
+            },
+            {
+                "name": "Thor: Love and Thunder",
+                "qid": "Q65768604",
+                "url": "https://vi.wikipedia.org/wiki/Thor:_T%C3%ACnh_y%C3%AAu_v%C3%A0_s%E1%BA%A5m_s%C3%A9t"
+            },
+            {
+                "name": "xXx",
+                "qid": "Q283799",
+                "url": "https://vi.wikipedia.org/wiki/XXX_(phim_2002)"
+            },
+            {
+                "name": "xXx Return of Xander Cage",
+                "qid": "Q22075020",
+                "url": "https://vi.wikipedia.org/wiki/XXx:_Ph%E1%BA%A3n_%C4%91%C3%B2n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Sarah Paulson",
+    "qid": "Q257442",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sarah_Paulson",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Cherry Jones",
+                "qid": "Q239046"
+            },
+            {
+                "name": "Holland Taylor",
+                "qid": "Q235198"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-12-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "12 Years a Slave",
+                "qid": "Q3023357",
+                "url": "https://vi.wikipedia.org/wiki/12_n%C4%83m_n%C3%B4_l%E1%BB%87_(phim)"
+            },
+            {
+                "name": "Bird Box",
+                "qid": "Q43370937",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%93ng_chim_(phim)"
+            },
+            {
+                "name": "Carol",
+                "qid": "Q15963780",
+                "url": "https://vi.wikipedia.org/wiki/Carol_(phim)"
+            },
+            {
+                "name": "Glass",
+                "qid": "Q30939513",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_ba_qu%C3%A1i_nh%C3%A2n"
+            },
+            {
+                "name": "Ocean's 8",
+                "qid": "Q25627545",
+                "url": "https://vi.wikipedia.org/wiki/B%C4%83ng_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7:_%C4%90%E1%BA%B3ng_c%E1%BA%A5p_qu%C3%BD_c%C3%B4"
+            },
+            {
+                "name": "Paws of Fury: The Legend of Hank",
+                "qid": "Q21450513",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%B4n_ph%C3%A1i_v%C3%B5_m%C3%A8o:_Huy%E1%BB%81n_tho%E1%BA%A1i_m%E1%BB%99t_ch%C3%BA_ch%C3%B3"
+            },
+            {
+                "name": "What Women Want",
+                "qid": "Q156394",
+                "url": "https://vi.wikipedia.org/wiki/What_Women_Want"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Rachel Paulson",
+                "qid": "Q59574788"
+            }
+        ]
+    }
+}

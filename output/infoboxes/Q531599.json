@@ -1,0 +1,101 @@
+{
+    "name": "Harvey Weinstein",
+    "qid": "Q531599",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Harvey_Weinstein",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Bob Weinstein",
+                "qid": "Q888311"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1952-03-19T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "An Unfinished Life",
+                "qid": "Q238858",
+                "url": "https://vi.wikipedia.org/wiki/An_Unfinished_Life"
+            },
+            {
+                "name": "August: Osage County",
+                "qid": "Q4055443",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%B9a_h%C3%A8_%E1%BB%9F_Osage_County_(phim)"
+            },
+            {
+                "name": "Chicago",
+                "qid": "Q189889",
+                "url": "https://vi.wikipedia.org/wiki/Chicago_(phim_2002)"
+            },
+            {
+                "name": "Fahrenheit 9/11",
+                "qid": "Q221852",
+                "url": "https://vi.wikipedia.org/wiki/Fahrenheit_9/11"
+            },
+            {
+                "name": "My Week with Marilyn",
+                "qid": "Q581859",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_tu%E1%BA%A7n_v%E1%BB%9Bi_ki%E1%BB%81u_n%E1%BB%AF"
+            },
+            {
+                "name": "Paddington",
+                "qid": "Q15055478",
+                "url": "https://vi.wikipedia.org/wiki/Paddington_(phim)"
+            },
+            {
+                "name": "Shakespeare in Love",
+                "qid": "Q182944",
+                "url": "https://vi.wikipedia.org/wiki/Shakespeare_in_Love"
+            },
+            {
+                "name": "The Hateful Eight",
+                "qid": "Q18225084",
+                "url": "https://vi.wikipedia.org/wiki/The_Hateful_Eight"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Georgina Chapman",
+                "qid": "Q3103793"
+            }
+        ]
+    }
+}

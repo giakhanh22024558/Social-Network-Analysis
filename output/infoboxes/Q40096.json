@@ -1,0 +1,308 @@
+{
+    "name": "Will Smith",
+    "qid": "Q40096",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Will_Smith",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Willard Carroll Smith Sr.",
+                "qid": "Q107338232"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Jaden Smith",
+                "qid": "Q221364",
+                "url": "https://vi.wikipedia.org/wiki/Jaden_Smith"
+            },
+            {
+                "name": "Trey Smith",
+                "qid": "Q7885297"
+            },
+            {
+                "name": "Willow Smith",
+                "qid": "Q298209",
+                "url": "https://vi.wikipedia.org/wiki/Willow_Smith"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "philanthropist",
+                "qid": "Q12362622"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1968-09-25T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "After Earth",
+                "qid": "Q1254088",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%9F_v%E1%BB%81_Tr%C3%A1i_%C4%90%E1%BA%A5t"
+            },
+            {
+                "name": "Annie",
+                "qid": "Q15039835",
+                "url": "https://vi.wikipedia.org/wiki/Annie_(phim_2014)"
+            },
+            {
+                "name": "Bad Boys for Life",
+                "qid": "Q29021224",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_g%C3%A3_trai_h%C6%B0_tr%E1%BB%8Dn_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Bad Boys: Ride or Die",
+                "qid": "Q31271357",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_g%C3%A3_trai_h%C6%B0:_Ch%C6%A1i_hay_b%E1%BB%8B_x%C6%A1i"
+            },
+            {
+                "name": "Gemini Man",
+                "qid": "Q50276507",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%A0n_%C3%B4ng_Song_T%E1%BB%AD"
+            },
+            {
+                "name": "Hancock",
+                "qid": "Q220376",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_nh%C3%A2n_c%C3%A1i_bang"
+            },
+            {
+                "name": "King Richard",
+                "qid": "Q84203429",
+                "url": "https://vi.wikipedia.org/wiki/King_Richard:_Huy%E1%BB%81n_tho%E1%BA%A1i_nh%C3%A0_Williams"
+            },
+            {
+                "name": "Seven Pounds",
+                "qid": "Q635924",
+                "url": "https://vi.wikipedia.org/wiki/Seven_Pounds"
+            },
+            {
+                "name": "The Karate Kid",
+                "qid": "Q327685",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_nh%C3%AD_Karate"
+            },
+            {
+                "name": "The Pursuit of Happyness",
+                "qid": "Q220515",
+                "url": "https://vi.wikipedia.org/wiki/M%C6%B0u_c%E1%BA%A7u_h%E1%BA%A1nh_ph%C3%BAc"
+            },
+            {
+                "name": "This Means War",
+                "qid": "Q1049480",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_t%C3%ACnh_y%C3%AAu"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "After Earth",
+                "qid": "Q1254088",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%9F_v%E1%BB%81_Tr%C3%A1i_%C4%90%E1%BA%A5t"
+            },
+            {
+                "name": "Aladdin",
+                "qid": "Q27188178",
+                "url": "https://vi.wikipedia.org/wiki/Aladdin_(phim_2019)"
+            },
+            {
+                "name": "Bad Boys for Life",
+                "qid": "Q29021224",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_g%C3%A3_trai_h%C6%B0_tr%E1%BB%8Dn_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Bad Boys: Ride or Die",
+                "qid": "Q31271357",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_g%C3%A3_trai_h%C6%B0:_Ch%C6%A1i_hay_b%E1%BB%8B_x%C6%A1i"
+            },
+            {
+                "name": "Bright",
+                "qid": "Q27825886",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFc_%C4%91%C5%A9a_quy%E1%BB%81n_n%C4%83ng"
+            },
+            {
+                "name": "Collateral Beauty",
+                "qid": "Q22977777",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%BB_%C4%91%E1%BA%B9p_cu%E1%BB%99c_s%E1%BB%91ng"
+            },
+            {
+                "name": "Concussion",
+                "qid": "Q18356955",
+                "url": "https://vi.wikipedia.org/wiki/Concussion_(phim_2015)"
+            },
+            {
+                "name": "Focus",
+                "qid": "Q15548282",
+                "url": "https://vi.wikipedia.org/wiki/Th%C3%A1nh_l%E1%BB%ABa_(phim_2015)"
+            },
+            {
+                "name": "Gemini Man",
+                "qid": "Q50276507",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%A0n_%C3%B4ng_Song_T%E1%BB%AD"
+            },
+            {
+                "name": "Hancock",
+                "qid": "Q220376",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_nh%C3%A2n_c%C3%A1i_bang"
+            },
+            {
+                "name": "I Am Legend",
+                "qid": "Q212689",
+                "url": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_ph%E1%BB%91_ch%E1%BA%BFt_(phim)"
+            },
+            {
+                "name": "I, Robot",
+                "qid": "Q200572",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%B4i,_ng%C6%B0%E1%BB%9Di_m%C3%A1y"
+            },
+            {
+                "name": "Independence Day",
+                "qid": "Q105387",
+                "url": "https://vi.wikipedia.org/wiki/Independence_Day_(phim_1996)"
+            },
+            {
+                "name": "King Richard",
+                "qid": "Q84203429",
+                "url": "https://vi.wikipedia.org/wiki/King_Richard:_Huy%E1%BB%81n_tho%E1%BA%A1i_nh%C3%A0_Williams"
+            },
+            {
+                "name": "Men in Black",
+                "qid": "Q51416",
+                "url": "https://vi.wikipedia.org/wiki/Men_in_Black_(phim_1997)"
+            },
+            {
+                "name": "Men in Black 3",
+                "qid": "Q327713",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_%C3%A1o_%C4%91en_3"
+            },
+            {
+                "name": "Seven Pounds",
+                "qid": "Q635924",
+                "url": "https://vi.wikipedia.org/wiki/Seven_Pounds"
+            },
+            {
+                "name": "Suicide Squad",
+                "qid": "Q18604504",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_c%E1%BA%A3m_t%E1%BB%AD_(phim)"
+            },
+            {
+                "name": "The Pursuit of Happyness",
+                "qid": "Q220515",
+                "url": "https://vi.wikipedia.org/wiki/M%C6%B0u_c%E1%BA%A7u_h%E1%BA%A1nh_ph%C3%BAc"
+            },
+            {
+                "name": "Winter's Tale",
+                "qid": "Q3569395",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_t%C3%ACnh_m%C3%B9a_%C4%91%C3%B4ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jada Pinkett Smith",
+                "qid": "Q228787",
+                "url": "https://vi.wikipedia.org/wiki/Jada_Pinkett_Smith"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Krystal Jung",
+    "qid": "Q464623",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Krystal_Jung",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jessica Jung",
+                "qid": "Q233911",
+                "url": "https://vi.wikipedia.org/wiki/Jessica_Jung"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1994-10-24T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "More Than Family",
+                "qid": "Q100989574",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%B9_b%E1%BA%A7u_si%C3%AAu_ng%E1%BA%A7u"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "South Korea",
+                "qid": "Q884",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0n_Qu%E1%BB%91c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Michael Chernus",
+    "qid": "Q20630818",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Chernus",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-08-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Captain Phillips",
+                "qid": "Q2937646",
+                "url": "https://vi.wikipedia.org/wiki/Thuy%E1%BB%81n_tr%C6%B0%E1%BB%9Fng_Phillips"
+            },
+            {
+                "name": "Men in Black 3",
+                "qid": "Q327713",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_%C3%A1o_%C4%91en_3"
+            },
+            {
+                "name": "Mistress America",
+                "qid": "Q18699754",
+                "url": "https://vi.wikipedia.org/wiki/Mistress_America"
+            },
+            {
+                "name": "Spider-Man: Homecoming",
+                "qid": "Q23010088",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Tr%E1%BB%9F_v%E1%BB%81_nh%C3%A0"
+            },
+            {
+                "name": "The Bourne Legacy",
+                "qid": "Q494048",
+                "url": "https://vi.wikipedia.org/wiki/The_Bourne_Legacy"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

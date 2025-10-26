@@ -1,0 +1,40 @@
+{
+    "name": "Imran Khan",
+    "qid": "Q312781",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Imran_Khan_(di%E1%BB%85n_vi%C3%AAn)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-01-13T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Avantika Malik Khan",
+                "qid": "Q94608973"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Aamir Khan",
+                "qid": "Q9557",
+                "url": "https://vi.wikipedia.org/wiki/Aamir_Khan"
+            }
+        ]
+    }
+}

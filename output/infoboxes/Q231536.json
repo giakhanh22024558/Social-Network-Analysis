@@ -1,0 +1,67 @@
+{
+    "name": "Kate Upton",
+    "qid": "Q231536",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kate_Upton",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Jeff Upton",
+                "qid": "Q24050623"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Shelley Davis",
+                "qid": "Q96203367"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-06-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Disaster Artist",
+                "qid": "Q22078002",
+                "url": "https://vi.wikipedia.org/wiki/The_Disaster_Artist_(phim)"
+            },
+            {
+                "name": "The Other Woman",
+                "qid": "Q14272676",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%A3,_ng%C6%B0%E1%BB%9Di_y%C3%AAu,_ng%C6%B0%E1%BB%9Di_t%C3%ACnh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Justin Verlander",
+                "qid": "Q981788"
+            }
+        ]
+    }
+}

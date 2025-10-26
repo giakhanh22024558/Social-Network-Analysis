@@ -1,0 +1,31 @@
+{
+    "name": "Michael Irvin",
+    "qid": "Q952676",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Irvin",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "American football player",
+                "qid": "Q19204627"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-03-05T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

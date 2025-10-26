@@ -1,0 +1,144 @@
+{
+    "name": "Amy Adams",
+    "qid": "Q481832",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Amy_Adams",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Richard Kent Adams",
+                "qid": "Q115537398"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Aviana Olea Le Gallo",
+                "qid": "Q136407591"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-08-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "American Hustle",
+                "qid": "Q9013673",
+                "url": "https://vi.wikipedia.org/wiki/S%C4%83n_ti%E1%BB%81n_ki%E1%BB%83u_M%E1%BB%B9"
+            },
+            {
+                "name": "Arrival",
+                "qid": "Q20382729",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91%E1%BB%95_b%E1%BB%99_b%C3%AD_%E1%BA%A9n"
+            },
+            {
+                "name": "Batman v Superman: Dawn of Justice",
+                "qid": "Q14772351",
+                "url": "https://vi.wikipedia.org/wiki/Batman_%C4%91%E1%BA%A1i_chi%E1%BA%BFn_Superman:_%C3%81nh_s%C3%A1ng_c%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Catch Me If You Can",
+                "qid": "Q208108",
+                "url": "https://vi.wikipedia.org/wiki/Catch_Me_If_You_Can"
+            },
+            {
+                "name": "Enchanted",
+                "qid": "Q490464",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_th%E1%BA%A7n_ti%C3%AAn_%E1%BB%9F_New_York"
+            },
+            {
+                "name": "Her",
+                "qid": "Q788822",
+                "url": "https://vi.wikipedia.org/wiki/Her_(phim)"
+            },
+            {
+                "name": "Justice League",
+                "qid": "Q20501835",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_C%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Man of Steel",
+                "qid": "Q622769",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_th%C3%A9p"
+            },
+            {
+                "name": "Night at the Museum: Battle of the Smithsonian",
+                "qid": "Q476726",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_kinh_ho%C3%A0ng_2"
+            },
+            {
+                "name": "On the Road",
+                "qid": "Q938858",
+                "url": "https://vi.wikipedia.org/wiki/On_the_Road_(phim)"
+            },
+            {
+                "name": "The Fighter",
+                "qid": "Q323472",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B5_s%C4%A9_(phim_2010)"
+            },
+            {
+                "name": "The Muppets",
+                "qid": "Q550558",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_nh%E1%BA%A1c_h%E1%BB%99i_r%E1%BB%91i"
+            },
+            {
+                "name": "Zack Snyder's Justice League",
+                "qid": "Q94998134",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_C%C3%B4ng_l%C3%BD_phi%C3%AAn_b%E1%BA%A3n_c%E1%BB%A7a_Zack_Snyder"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Italy",
+                "qid": "Q38",
+                "url": "https://vi.wikipedia.org/wiki/%C3%9D"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Darren Le Gallo",
+                "qid": "Q3016516"
+            }
+        ]
+    }
+}

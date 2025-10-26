@@ -1,0 +1,308 @@
+{
+    "name": "Tom Hanks",
+    "qid": "Q2263",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tom_Hanks",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jim Hanks",
+                "qid": "Q725250"
+            },
+            {
+                "name": "Larry Hanks",
+                "qid": "Q29642811"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Amos Mefford Hanks",
+                "qid": "Q96244379"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Chet Hanks",
+                "qid": "Q20993895"
+            },
+            {
+                "name": "Colin Hanks",
+                "qid": "Q318134"
+            },
+            {
+                "name": "E. A. Hanks",
+                "qid": "Q20993894"
+            },
+            {
+                "name": "Truman Hanks",
+                "qid": "Q20993896"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Janet Marylyn Frager",
+                "qid": "Q96244398"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "narrator",
+                "qid": "Q22343421"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "short story writer",
+                "qid": "Q15949613"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1956-07-09T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Cast Away",
+                "qid": "Q213411",
+                "url": "https://vi.wikipedia.org/wiki/Cast_Away"
+            },
+            {
+                "name": "City of Ember",
+                "qid": "Q1094125",
+                "url": "https://vi.wikipedia.org/wiki/City_of_Ember"
+            },
+            {
+                "name": "Greyhound",
+                "qid": "Q50404285",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_h%E1%BA%A1m_th%E1%BB%A7_l%C4%A9nh"
+            },
+            {
+                "name": "The Polar Express",
+                "qid": "Q862197",
+                "url": "https://vi.wikipedia.org/wiki/The_Polar_Express_(phim)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Angels & Demons",
+                "qid": "Q192934",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_th%E1%BA%A7n_v%C3%A0_%C3%A1c_qu%E1%BB%B7_(phim)"
+            },
+            {
+                "name": "Asteroid City",
+                "qid": "Q108086029",
+                "url": "https://vi.wikipedia.org/wiki/Asteroid_City"
+            },
+            {
+                "name": "Bridge of Spies",
+                "qid": "Q18067135",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0m_ph%C3%A1n_(phim)"
+            },
+            {
+                "name": "Captain Phillips",
+                "qid": "Q2937646",
+                "url": "https://vi.wikipedia.org/wiki/Thuy%E1%BB%81n_tr%C6%B0%E1%BB%9Fng_Phillips"
+            },
+            {
+                "name": "Cast Away",
+                "qid": "Q213411",
+                "url": "https://vi.wikipedia.org/wiki/Cast_Away"
+            },
+            {
+                "name": "Catch Me If You Can",
+                "qid": "Q208108",
+                "url": "https://vi.wikipedia.org/wiki/Catch_Me_If_You_Can"
+            },
+            {
+                "name": "Cloud Atlas",
+                "qid": "Q28936",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%A2y_Atlas"
+            },
+            {
+                "name": "Elvis",
+                "qid": "Q84362533",
+                "url": "https://vi.wikipedia.org/wiki/Elvis_(phim_2022)"
+            },
+            {
+                "name": "Extremely Loud and Incredibly Close",
+                "qid": "Q918769",
+                "url": "https://vi.wikipedia.org/wiki/Extremely_Loud_and_Incredibly_Close_(phim)"
+            },
+            {
+                "name": "Forrest Gump",
+                "qid": "Q134773",
+                "url": "https://vi.wikipedia.org/wiki/Forrest_Gump"
+            },
+            {
+                "name": "Greyhound",
+                "qid": "Q50404285",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_h%E1%BA%A1m_th%E1%BB%A7_l%C4%A9nh"
+            },
+            {
+                "name": "Inferno",
+                "qid": "Q18192306",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Fa_ng%E1%BB%A5c_(phim_2016)"
+            },
+            {
+                "name": "Philadelphia",
+                "qid": "Q204057",
+                "url": "https://vi.wikipedia.org/wiki/Philadelphia_(phim)"
+            },
+            {
+                "name": "Saving Mr. Banks",
+                "qid": "Q3474574",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_gi%E1%BA%A3i_c%E1%BB%A9u_th%E1%BA%A7n_k%E1%BB%B3"
+            },
+            {
+                "name": "Saving Private Ryan",
+                "qid": "Q165817",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_c%E1%BB%A9u_binh_nh%C3%AC_Ryan"
+            },
+            {
+                "name": "Sleepless in Seattle",
+                "qid": "Q107167",
+                "url": "https://vi.wikipedia.org/wiki/Sleepless_in_Seattle"
+            },
+            {
+                "name": "Splash",
+                "qid": "Q1127184",
+                "url": "https://vi.wikipedia.org/wiki/Splash_(phim)"
+            },
+            {
+                "name": "Sully",
+                "qid": "Q21062112",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%A1_tr%C6%B0%E1%BB%9Fng_Sully"
+            },
+            {
+                "name": "The Circle",
+                "qid": "Q21010849",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B2ng_xoay_%E1%BA%A3o"
+            },
+            {
+                "name": "The Green Mile",
+                "qid": "Q208263",
+                "url": "https://vi.wikipedia.org/wiki/The_Green_Mile_(phim)"
+            },
+            {
+                "name": "The Polar Express",
+                "qid": "Q862197",
+                "url": "https://vi.wikipedia.org/wiki/The_Polar_Express_(phim)"
+            },
+            {
+                "name": "The Terminal",
+                "qid": "Q318766",
+                "url": "https://vi.wikipedia.org/wiki/The_Terminal"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Greece",
+                "qid": "Q41",
+                "url": "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Rita Wilson",
+                "qid": "Q234144"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Gage Hanks",
+                "qid": "Q64683518"
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "name": "John Mayer",
+    "qid": "Q215215",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Mayer",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Jennifer Aniston",
+                "qid": "Q32522",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Aniston"
+            },
+            {
+                "name": "Jennifer Love Hewitt",
+                "qid": "Q175104",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Love_Hewitt"
+            },
+            {
+                "name": "Jessica Simpson",
+                "qid": "Q168992",
+                "url": "https://vi.wikipedia.org/wiki/Jessica_Simpson"
+            },
+            {
+                "name": "Katy Perry",
+                "qid": "Q42493",
+                "url": "https://vi.wikipedia.org/wiki/Katy_Perry"
+            },
+            {
+                "name": "Minka Kelly",
+                "qid": "Q232674"
+            },
+            {
+                "name": "Taylor Swift",
+                "qid": "Q26876",
+                "url": "https://vi.wikipedia.org/wiki/Taylor_Swift"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "artist",
+                "qid": "Q483501",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9"
+            },
+            {
+                "name": "blogger",
+                "qid": "Q8246794",
+                "url": "https://vi.wikipedia.org/wiki/Blogger"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "guitarist",
+                "qid": "Q855091",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_guitar"
+            },
+            {
+                "name": "music artist",
+                "qid": "Q1294626"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "tattoo artist",
+                "qid": "Q1861368",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A3_x%C4%83m"
+            },
+            {
+                "name": "visual artist",
+                "qid": "Q3391743"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-10-16T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

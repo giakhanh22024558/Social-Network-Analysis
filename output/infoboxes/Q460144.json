@@ -1,0 +1,39 @@
+{
+    "name": "Wally Pfister",
+    "qid": "Q460144",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Wally_Pfister",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "cinematographer",
+                "qid": "Q222344",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_h%C3%ACnh_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-07-08T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Transcendence",
+                "qid": "Q10384115",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%AD_tu%E1%BB%87_si%C3%AAu_vi%E1%BB%87t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

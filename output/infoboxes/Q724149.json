@@ -1,0 +1,41 @@
+{
+    "name": "Val Valentino",
+    "qid": "Q724149",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Val_Valentino",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "illusionist",
+                "qid": "Q1658894"
+            },
+            {
+                "name": "magician",
+                "qid": "Q15855449",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A2o_thu%E1%BA%ADt_gia"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1956-06-14T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "name": "T.I.",
+    "qid": "Q214227",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/T.I.",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Deyjah Harris",
+                "qid": "Q107334037"
+            },
+            {
+                "name": "King Harris",
+                "qid": "Q107333994"
+            },
+            {
+                "name": "Messiah Harris",
+                "qid": "Q106819367"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "activist",
+                "qid": "Q15253558"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "investor",
+                "qid": "Q557880",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%91%E1%BA%A7u_t%C6%B0"
+            },
+            {
+                "name": "music executive",
+                "qid": "Q3089940",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_%C3%A2m_nh%E1%BA%A1c"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-09-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ant-Man",
+                "qid": "Q5901134",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_(phim)"
+            },
+            {
+                "name": "Ant-Man and the Wasp",
+                "qid": "Q22957393",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_v%C3%A0_Chi%E1%BA%BFn_binh_Ong"
+            },
+            {
+                "name": "Monster Hunter",
+                "qid": "Q56906869",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A3_s%C4%83n_qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Ride Along 2",
+                "qid": "Q17903453",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_t%E1%BA%ADp_s%E1%BB%B1"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Tameka Cottle",
+                "qid": "Q4502481"
+            }
+        ]
+    }
+}

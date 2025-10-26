@@ -1,0 +1,109 @@
+{
+    "name": "Billy Zane",
+    "qid": "Q205435",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Billy_Zane",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Kelly Brook",
+                "qid": "Q255060",
+                "url": "https://vi.wikipedia.org/wiki/Kelly_Brook"
+            },
+            {
+                "name": "Leonor Varela",
+                "qid": "Q235913",
+                "url": "https://vi.wikipedia.org/wiki/Leonor_Varela"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "painter",
+                "qid": "Q1028181",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-02-24T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Back to the Future",
+                "qid": "Q91540",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%9F_l%E1%BA%A1i_t%C6%B0%C6%A1ng_lai"
+            },
+            {
+                "name": "Back to the Future Part II",
+                "qid": "Q109331",
+                "url": "https://vi.wikipedia.org/wiki/Back_to_the_Future_ph%E1%BA%A7n_II"
+            },
+            {
+                "name": "Survival Island",
+                "qid": "Q692592",
+                "url": "https://vi.wikipedia.org/wiki/Survival_Island"
+            },
+            {
+                "name": "Titanic",
+                "qid": "Q44578",
+                "url": "https://vi.wikipedia.org/wiki/Titanic_(phim_1997)"
+            },
+            {
+                "name": "Zoolander 2",
+                "qid": "Q19842552",
+                "url": "https://vi.wikipedia.org/wiki/Trai_%C4%91%E1%BA%B9p_l%C3%AAn_s%C3%A0n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Lisa Collins",
+                "qid": "Q16198244"
+            }
+        ]
+    }
+}

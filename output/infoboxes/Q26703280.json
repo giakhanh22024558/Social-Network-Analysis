@@ -1,0 +1,74 @@
+{
+    "name": "Jack Dylan Grazer",
+    "qid": "Q26703280",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jack_Dylan_Grazer",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Gavin Grazer",
+                "qid": "Q5528158"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2003-09-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "It",
+                "qid": "Q25136484",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BA_h%E1%BB%81_ma_qu%C3%A1i"
+            },
+            {
+                "name": "It: Chapter Two",
+                "qid": "Q42726338",
+                "url": "https://vi.wikipedia.org/wiki/G%C3%A3_h%E1%BB%81_ma_qu%C3%A1i_2"
+            },
+            {
+                "name": "Shazam!",
+                "qid": "Q23685878",
+                "url": "https://vi.wikipedia.org/wiki/Shazam!_(phim)"
+            },
+            {
+                "name": "Shazam! Fury of the Gods",
+                "qid": "Q84712809",
+                "url": "https://vi.wikipedia.org/wiki/Shazam!_C%C6%A1n_th%E1%BB%8Bnh_n%E1%BB%99_c%E1%BB%A7a_c%C3%A1c_v%E1%BB%8B_th%E1%BA%A7n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Brian Grazer",
+                "qid": "Q320025"
+            }
+        ]
+    }
+}

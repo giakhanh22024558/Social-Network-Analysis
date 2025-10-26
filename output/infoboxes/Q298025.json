@@ -1,0 +1,129 @@
+{
+    "name": "Joss Whedon",
+    "qid": "Q298025",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Joss_Whedon",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jed Whedon",
+                "qid": "Q3176340"
+            },
+            {
+                "name": "Zack Whedon",
+                "qid": "Q6587010"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Tom Whedon",
+                "qid": "Q6586985"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "cartoonist",
+                "qid": "Q1114448"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "novelist",
+                "qid": "Q6625963",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "science fiction writer",
+                "qid": "Q18844224"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1964-01-23T00:00:00Z"
+            },
+            {
+                "name": "1964-06-23T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Cabin in the Woods",
+                "qid": "Q45394",
+                "url": "https://vi.wikipedia.org/wiki/The_Cabin_in_the_Woods"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Avengers: Age of Ultron",
+                "qid": "Q14171368",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_%C4%90%E1%BA%BF_ch%E1%BA%BF_Ultron"
+            },
+            {
+                "name": "The Avengers",
+                "qid": "Q182218",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_si%C3%AAu_anh_h%C3%B9ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

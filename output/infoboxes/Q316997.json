@@ -1,0 +1,80 @@
+{
+    "name": "Anderson Cooper",
+    "qid": "Q316997",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Anderson_Cooper",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Carter Vanderbilt Cooper",
+                "qid": "Q75624287"
+            },
+            {
+                "name": "Christopher Stokowski",
+                "qid": "Q75624286"
+            },
+            {
+                "name": "Leopold Stanislaus Stokowski",
+                "qid": "Q75624285"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Wyatt Emory Cooper",
+                "qid": "Q8039494"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Gloria Vanderbilt",
+                "qid": "Q264730"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "journalist",
+                "qid": "Q1930187",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_b%C3%A1o"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-06-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Chappie",
+                "qid": "Q15209986",
+                "url": "https://vi.wikipedia.org/wiki/Chappie_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "name": "Rachel Weisz",
+    "qid": "Q134077",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rachel_Weisz",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Minnie Weisz",
+                "qid": "Q6868841"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Darren Aronofsky",
+                "qid": "Q192762",
+                "url": "https://vi.wikipedia.org/wiki/Darren_Aronofsky"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Grace Craig",
+                "qid": "Q111017645"
+            },
+            {
+                "name": "Henry Aronofsky",
+                "qid": "Q133448512"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "audiobook narrator",
+                "qid": "Q20856740"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-03-07T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Black Widow",
+                "qid": "Q23894626",
+                "url": "https://vi.wikipedia.org/wiki/G%C3%B3a_ph%E1%BB%A5_%C4%91en_(phim)"
+            },
+            {
+                "name": "Constantine",
+                "qid": "Q219150",
+                "url": "https://vi.wikipedia.org/wiki/Constantine_(phim)"
+            },
+            {
+                "name": "Definitely, Maybe",
+                "qid": "Q1121878",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%A3nh_gh%C3%A9p_t%C3%ACnh_y%C3%AAu"
+            },
+            {
+                "name": "Enemy at the Gates",
+                "qid": "Q271006",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_th%C3%B9_tr%C6%B0%E1%BB%9Bc_c%E1%BB%95ng"
+            },
+            {
+                "name": "Eragon",
+                "qid": "Q239296",
+                "url": "https://vi.wikipedia.org/wiki/Eragon_(phim)"
+            },
+            {
+                "name": "My Blueberry Nights",
+                "qid": "Q737650",
+                "url": "https://vi.wikipedia.org/wiki/My_Blueberry_Nights"
+            },
+            {
+                "name": "Oz the Great and Powerful",
+                "qid": "Q590216",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BA%A1c_v%C3%A0o_x%E1%BB%A9_Oz_v%C4%A9_%C4%91%E1%BA%A1i_v%C3%A0_quy%E1%BB%81n_n%C4%83ng"
+            },
+            {
+                "name": "Stealing Beauty",
+                "qid": "Q749191",
+                "url": "https://vi.wikipedia.org/wiki/Stealing_Beauty"
+            },
+            {
+                "name": "The Bourne Legacy",
+                "qid": "Q494048",
+                "url": "https://vi.wikipedia.org/wiki/The_Bourne_Legacy"
+            },
+            {
+                "name": "The Favourite",
+                "qid": "Q22001133",
+                "url": "https://vi.wikipedia.org/wiki/The_Favourite"
+            },
+            {
+                "name": "The Light Between Oceans",
+                "qid": "Q18636742",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81nh_%C4%91%C3%A8n_gi%E1%BB%AFa_hai_%C4%91%E1%BA%A1i_d%C6%B0%C6%A1ng_(phim)"
+            },
+            {
+                "name": "The Lovely Bones",
+                "qid": "Q839123",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%ACnh_h%C3%A0i_d%E1%BA%A5u_y%C3%AAu"
+            },
+            {
+                "name": "The Mummy",
+                "qid": "Q202508",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%A1c_%C6%B0%E1%BB%9Bp_(phim_1999)"
+            },
+            {
+                "name": "The Mummy Returns",
+                "qid": "Q320461",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%A1c_%C6%B0%E1%BB%9Bp_tr%E1%BB%9F_l%E1%BA%A1i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Daniel Craig",
+                "qid": "Q4547",
+                "url": "https://vi.wikipedia.org/wiki/Daniel_Craig"
+            }
+        ]
+    }
+}

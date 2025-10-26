@@ -1,0 +1,83 @@
+{
+    "name": "Derek Mears",
+    "qid": "Q616982",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Derek_Mears",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stunt performer",
+                "qid": "Q465501",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91%C3%B3ng_th%E1%BA%BF"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1972-04-29T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Alita: Battle Angel",
+                "qid": "Q24053265",
+                "url": "https://vi.wikipedia.org/wiki/Alita:_Thi%C3%AAn_th%E1%BA%A7n_chi%E1%BA%BFn_binh"
+            },
+            {
+                "name": "Friday the 13th",
+                "qid": "Q1454815",
+                "url": "https://vi.wikipedia.org/wiki/Friday_the_13th_(phim_2009)"
+            },
+            {
+                "name": "Gangster Squad",
+                "qid": "Q27751",
+                "url": "https://vi.wikipedia.org/wiki/Gangster_Squad"
+            },
+            {
+                "name": "Hansel & Gretel: Witch Hunters",
+                "qid": "Q498287",
+                "url": "https://vi.wikipedia.org/wiki/Hansel_%26_Gretel:_Th%E1%BB%A3_s%C4%83n_ph%C3%B9_th%E1%BB%A7y"
+            },
+            {
+                "name": "Percy Jackson & The Olympians - The Sea of Monsters",
+                "qid": "Q2984104",
+                "url": "https://vi.wikipedia.org/wiki/Percy_Jackson:_Bi%E1%BB%83n_qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Pirates of the Caribbean: On Stranger Tides",
+                "qid": "Q183555",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%9Bp_bi%E1%BB%83n_v%C3%B9ng_Ca-ri-b%C3%AA_4"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

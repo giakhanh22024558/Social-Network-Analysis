@@ -1,0 +1,78 @@
+{
+    "name": "John Carroll Lynch",
+    "qid": "Q707759",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Carroll_Lynch",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-08-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Face/Off",
+                "qid": "Q223887",
+                "url": "https://vi.wikipedia.org/wiki/Face/Off"
+            },
+            {
+                "name": "Gran Torino",
+                "qid": "Q126699",
+                "url": "https://vi.wikipedia.org/wiki/Gran_Torino"
+            },
+            {
+                "name": "Hot Pursuit",
+                "qid": "Q16974047",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%B7p_%C4%91%C3%B4i_ho%C3%A0n_c%E1%BA%A3nh_(phim_2015)"
+            },
+            {
+                "name": "Shutter Island",
+                "qid": "Q210364",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_kinh_ho%C3%A0ng_(phim_2010)"
+            },
+            {
+                "name": "Ted 2",
+                "qid": "Q17713411",
+                "url": "https://vi.wikipedia.org/wiki/Ted_2"
+            },
+            {
+                "name": "Zodiac",
+                "qid": "Q218172",
+                "url": "https://vi.wikipedia.org/wiki/Zodiac_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

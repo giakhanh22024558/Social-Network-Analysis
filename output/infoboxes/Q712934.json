@@ -1,0 +1,45 @@
+{
+    "name": "Joe Lewis",
+    "qid": "Q712934",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Joe_Lewis_(v%C3%B5_s%C4%A9)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "karateka",
+                "qid": "Q9017214"
+            },
+            {
+                "name": "kickboxer",
+                "qid": "Q11296761"
+            },
+            {
+                "name": "martial artist",
+                "qid": "Q11124885"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1944-03-07T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Barbara Leigh",
+                "qid": "Q4859089"
+            }
+        ]
+    }
+}

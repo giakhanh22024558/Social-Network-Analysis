@@ -1,0 +1,34 @@
+{
+    "name": "Lia McHugh",
+    "qid": "Q65768597",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lia_McHugh",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2005-11-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Eternals",
+                "qid": "Q23894629",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7ng_t%E1%BB%99c_b%E1%BA%A5t_t%E1%BB%AD"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

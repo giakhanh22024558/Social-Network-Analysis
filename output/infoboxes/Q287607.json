@@ -1,0 +1,113 @@
+{
+    "name": "Rob Reiner",
+    "qid": "Q287607",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rob_Reiner",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Lucas Reiner",
+                "qid": "Q29644240"
+            },
+            {
+                "name": "Sylivia Ann Reiner",
+                "qid": "Q4769413"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Carl Reiner",
+                "qid": "Q287793",
+                "url": "https://vi.wikipedia.org/wiki/Carl_Reiner"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Tracy Reiner",
+                "qid": "Q528752"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Estelle Reiner",
+                "qid": "Q519374"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1947-03-06T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Princess Bride",
+                "qid": "Q506418",
+                "url": "https://vi.wikipedia.org/wiki/The_Princess_Bride_(phim)"
+            },
+            {
+                "name": "When Harry Met Sally",
+                "qid": "Q471169",
+                "url": "https://vi.wikipedia.org/wiki/When_Harry_Met_Sally..."
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Sleepless in Seattle",
+                "qid": "Q107167",
+                "url": "https://vi.wikipedia.org/wiki/Sleepless_in_Seattle"
+            },
+            {
+                "name": "The Wolf of Wall Street",
+                "qid": "Q1392744",
+                "url": "https://vi.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(phim_2013)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "The Princess Bride",
+                "qid": "Q506418",
+                "url": "https://vi.wikipedia.org/wiki/The_Princess_Bride_(phim)"
+            },
+            {
+                "name": "When Harry Met Sally",
+                "qid": "Q471169",
+                "url": "https://vi.wikipedia.org/wiki/When_Harry_Met_Sally..."
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Penny Marshall",
+                "qid": "Q237659"
+            }
+        ]
+    }
+}

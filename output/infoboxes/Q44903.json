@@ -1,0 +1,128 @@
+{
+    "name": "Lindsay Lohan",
+    "qid": "Q44903",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lindsay_Lohan",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Ali Lohan",
+                "qid": "Q264326"
+            },
+            {
+                "name": "Ashley Horn",
+                "qid": "Q17411049"
+            },
+            {
+                "name": "Dakota Lohan",
+                "qid": "Q54799985"
+            },
+            {
+                "name": "Michael Lohan Jr.",
+                "qid": "Q17306279"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Harry Morton",
+                "qid": "Q77264535"
+            },
+            {
+                "name": "Samantha Ronson",
+                "qid": "Q2276884"
+            },
+            {
+                "name": "Wilmer Valderrama",
+                "qid": "Q347436"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Michael Lohan",
+                "qid": "Q4267518"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Luai Shammas",
+                "qid": "Q126719826"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Dina Lohan",
+                "qid": "Q4116923"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-07-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Get a Clue",
+                "qid": "Q1467511",
+                "url": "https://vi.wikipedia.org/wiki/Get_a_Clue"
+            },
+            {
+                "name": "Just My Luck",
+                "qid": "Q228964",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%A5_h%C3%B4n_may_m%E1%BA%AFn"
+            },
+            {
+                "name": "Mean Girls",
+                "qid": "Q631103",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_l%E1%BA%AFm_chi%C3%AAu"
+            },
+            {
+                "name": "The Bling Ring",
+                "qid": "Q3077738",
+                "url": "https://vi.wikipedia.org/wiki/The_Bling_Ring"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Bader Shammas",
+                "qid": "Q121811820"
+            }
+        ]
+    }
+}

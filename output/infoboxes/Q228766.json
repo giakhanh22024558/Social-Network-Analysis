@@ -1,0 +1,172 @@
+{
+    "name": "Rooney Mara",
+    "qid": "Q228766",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rooney_Mara",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Kate Mara",
+                "qid": "Q231249",
+                "url": "https://vi.wikipedia.org/wiki/Kate_Mara"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Joaquin Phoenix",
+                "qid": "Q185140",
+                "url": "https://vi.wikipedia.org/wiki/Joaquin_Phoenix"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Chris Mara",
+                "qid": "Q104451146"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Kathleen McNulty Mara",
+                "qid": "Q104451217"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1985-04-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Nightmare on Elm Street",
+                "qid": "Q300508",
+                "url": "https://vi.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_(phim_2010)"
+            },
+            {
+                "name": "Carol",
+                "qid": "Q15963780",
+                "url": "https://vi.wikipedia.org/wiki/Carol_(phim)"
+            },
+            {
+                "name": "Dream Boy",
+                "qid": "Q3039240",
+                "url": "https://vi.wikipedia.org/wiki/Dream_Boy_(phim)"
+            },
+            {
+                "name": "Her",
+                "qid": "Q788822",
+                "url": "https://vi.wikipedia.org/wiki/Her_(phim)"
+            },
+            {
+                "name": "Nightmare Alley",
+                "qid": "Q82430214",
+                "url": "https://vi.wikipedia.org/wiki/Con_h%E1%BA%BBm_%C3%A1c_m%E1%BB%99ng"
+            },
+            {
+                "name": "Pan",
+                "qid": "Q15713892",
+                "url": "https://vi.wikipedia.org/wiki/Pan_%26_v%C3%B9ng_%C4%91%E1%BA%A5t_Neverland"
+            },
+            {
+                "name": "The Girl with the Dragon Tattoo",
+                "qid": "Q474093",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_c%C3%B3_h%C3%ACnh_x%C4%83m_r%E1%BB%93ng_(phim)"
+            },
+            {
+                "name": "The Social Network",
+                "qid": "Q185888",
+                "url": "https://vi.wikipedia.org/wiki/The_Social_Network"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Ann Mara",
+                "qid": "Q18926769"
+            },
+            {
+                "name": "Art Rooney",
+                "qid": "Q2745557"
+            },
+            {
+                "name": "Art Rooney II",
+                "qid": "Q4797044"
+            },
+            {
+                "name": "Art Rooney Jr.",
+                "qid": "Q121365748"
+            },
+            {
+                "name": "Dan Rooney",
+                "qid": "Q5214310"
+            },
+            {
+                "name": "Doug Brown",
+                "qid": "Q611342"
+            },
+            {
+                "name": "John Mara",
+                "qid": "Q6246683"
+            },
+            {
+                "name": "Patrick Brown",
+                "qid": "Q18249361"
+            },
+            {
+                "name": "Patrick Rooney, Jr.",
+                "qid": "Q16195777"
+            },
+            {
+                "name": "Tim Mara",
+                "qid": "Q2434138"
+            },
+            {
+                "name": "Timothy James Rooney",
+                "qid": "Q104451312"
+            },
+            {
+                "name": "Tom Rooney",
+                "qid": "Q506110"
+            },
+            {
+                "name": "Wellington Mara",
+                "qid": "Q2557801"
+            }
+        ]
+    }
+}

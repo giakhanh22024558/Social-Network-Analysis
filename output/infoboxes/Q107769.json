@@ -1,0 +1,108 @@
+{
+    "name": "Luke Wilson",
+    "qid": "Q107769",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Luke_Wilson",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Andrew Wilson",
+                "qid": "Q19948176"
+            },
+            {
+                "name": "Owen Wilson",
+                "qid": "Q161916",
+                "url": "https://vi.wikipedia.org/wiki/Owen_Wilson"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Laura Wilson",
+                "qid": "Q6499562"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-09-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "3:10 to Yuma",
+                "qid": "Q746029",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BA%BFn_t%C3%A0u_%C4%91%E1%BA%BFn_Yuma"
+            },
+            {
+                "name": "All the Bright Places",
+                "qid": "Q58814939",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_ng%C3%A0y_t%C6%B0%C6%A1i_%C4%91%E1%BA%B9p"
+            },
+            {
+                "name": "Blonde Ambition",
+                "qid": "Q428372",
+                "url": "https://vi.wikipedia.org/wiki/Ki%E1%BB%81u_n%E1%BB%AF_qu%E1%BA%ADy_c%C3%B4ng_s%E1%BB%9F"
+            },
+            {
+                "name": "Concussion",
+                "qid": "Q18356955",
+                "url": "https://vi.wikipedia.org/wiki/Concussion_(phim_2015)"
+            },
+            {
+                "name": "Vacancy",
+                "qid": "Q845355",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_tr%E1%BB%8D_kinh_ho%C3%A0ng"
+            },
+            {
+                "name": "Zombieland: Double Tap",
+                "qid": "Q58879016",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_th%C3%A2y_ma:_C%C3%BA_b%E1%BA%AFn_%C4%91%C3%BAp"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

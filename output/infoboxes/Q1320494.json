@@ -1,0 +1,141 @@
+{
+    "name": "Scott Eastwood",
+    "qid": "Q1320494",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Scott_Eastwood",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Alison Eastwood",
+                "qid": "Q446468"
+            },
+            {
+                "name": "Francesca Eastwood",
+                "qid": "Q5479089"
+            },
+            {
+                "name": "Kathryn Eastwood",
+                "qid": "Q44573283"
+            },
+            {
+                "name": "Kimber Lynn Eastwood",
+                "qid": "Q44573288"
+            },
+            {
+                "name": "Kyle Eastwood",
+                "qid": "Q976575"
+            },
+            {
+                "name": "Laurie Murray",
+                "qid": "Q127606385"
+            },
+            {
+                "name": "Morgan Eastwood",
+                "qid": "Q3323973"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Clint Eastwood",
+                "qid": "Q43203",
+                "url": "https://vi.wikipedia.org/wiki/Clint_Eastwood"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Jacelyn Reeves",
+                "qid": "Q84685316"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-03-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            },
+            {
+                "name": "Fury",
+                "qid": "Q14786561",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%93ng_n%E1%BB%99_(phim_2014)"
+            },
+            {
+                "name": "Gran Torino",
+                "qid": "Q126699",
+                "url": "https://vi.wikipedia.org/wiki/Gran_Torino"
+            },
+            {
+                "name": "I Want You Back",
+                "qid": "Q106578104",
+                "url": "https://vi.wikipedia.org/wiki/I_Want_You_Back_(phim)"
+            },
+            {
+                "name": "Pacific Rim: Uprising",
+                "qid": "Q27826501",
+                "url": "https://vi.wikipedia.org/wiki/Pacific_Rim:_Tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "Snowden",
+                "qid": "Q19315473",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_v%E1%BB%A5_Snowden"
+            },
+            {
+                "name": "Suicide Squad",
+                "qid": "Q18604504",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_c%E1%BA%A3m_t%E1%BB%AD_(phim)"
+            },
+            {
+                "name": "Texas Chainsaw 3D",
+                "qid": "Q1832350",
+                "url": "https://vi.wikipedia.org/wiki/Texas_Chainsaw_3D"
+            },
+            {
+                "name": "The Fate of the Furious",
+                "qid": "Q19829521",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_8"
+            },
+            {
+                "name": "The Longest Ride",
+                "qid": "Q18151890",
+                "url": "https://vi.wikipedia.org/wiki/Con_%C4%91%C6%B0%E1%BB%9Dng_b%E1%BA%A5t_t%E1%BA%ADn_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

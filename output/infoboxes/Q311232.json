@@ -1,0 +1,130 @@
+{
+    "name": "Tyrese Gibson",
+    "qid": "Q311232",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tyrese_Gibson",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-12-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "2 Fast 2 Furious",
+                "qid": "Q222867",
+                "url": "https://vi.wikipedia.org/wiki/2_Fast_2_Furious"
+            },
+            {
+                "name": "F9",
+                "qid": "Q29466808",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_9:_Huy%E1%BB%81n_tho%E1%BA%A1i_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Fast & Furious 6",
+                "qid": "Q5516100",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_6"
+            },
+            {
+                "name": "Fast Five",
+                "qid": "Q401976",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_5:_Phi_v%E1%BB%A5_Rio"
+            },
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            },
+            {
+                "name": "Furious 7",
+                "qid": "Q14650496",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_7"
+            },
+            {
+                "name": "Hollywood Adventures",
+                "qid": "Q19758827",
+                "url": "https://vi.wikipedia.org/wiki/Khu%E1%BA%A5y_%C4%91%E1%BA%A3o_Hollywood"
+            },
+            {
+                "name": "Legion",
+                "qid": "Q287960",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81c_th%E1%BA%A7n_(phim)"
+            },
+            {
+                "name": "Morbius",
+                "qid": "Q55405369",
+                "url": "https://vi.wikipedia.org/wiki/Morbius_(phim)"
+            },
+            {
+                "name": "Ride Along 2",
+                "qid": "Q17903453",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_t%E1%BA%ADp_s%E1%BB%B1"
+            },
+            {
+                "name": "The Fate of the Furious",
+                "qid": "Q19829521",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_8"
+            },
+            {
+                "name": "Transformers",
+                "qid": "Q171453",
+                "url": "https://vi.wikipedia.org/wiki/Robot_%C4%91%E1%BA%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Transformers: Dark of the Moon",
+                "qid": "Q232774",
+                "url": "https://vi.wikipedia.org/wiki/Transformers_3"
+            },
+            {
+                "name": "Transformers: Revenge of the Fallen",
+                "qid": "Q191100",
+                "url": "https://vi.wikipedia.org/wiki/Transformers:_B%E1%BA%A1i_binh_ph%E1%BB%A5c_h%E1%BA%ADn"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/9a7e62401bcfa7b73e0d92855c3a376c"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/ace5fa081ed4ba090063dc43e5caf851"
+            }
+        ]
+    }
+}

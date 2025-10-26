@@ -1,0 +1,145 @@
+{
+    "name": "Michael Keaton",
+    "qid": "Q138005",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Keaton",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Courteney Cox",
+                "qid": "Q58912",
+                "url": "https://vi.wikipedia.org/wiki/Courteney_Cox"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Sean Douglas",
+                "qid": "Q17150107"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "dub actor",
+                "qid": "Q11481802"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1951-09-05T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Batman",
+                "qid": "Q116852",
+                "url": "https://vi.wikipedia.org/wiki/Batman_(phim_1989)"
+            },
+            {
+                "name": "Beetlejuice Beetlejuice",
+                "qid": "Q112865900",
+                "url": "https://vi.wikipedia.org/wiki/Ma_si%C3%AAu_qu%E1%BA%ADy"
+            },
+            {
+                "name": "Birdman",
+                "qid": "Q13255497",
+                "url": "https://vi.wikipedia.org/wiki/Birdman_(phim)"
+            },
+            {
+                "name": "Dumbo",
+                "qid": "Q24284798",
+                "url": "https://vi.wikipedia.org/wiki/Dumbo:_Ch%C3%BA_voi_bi%E1%BA%BFt_bay"
+            },
+            {
+                "name": "Morbius",
+                "qid": "Q55405369",
+                "url": "https://vi.wikipedia.org/wiki/Morbius_(phim)"
+            },
+            {
+                "name": "Need for Speed",
+                "qid": "Q13374569",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90am_m%C3%AA_t%E1%BB%91c_%C4%91%E1%BB%99_(phim)"
+            },
+            {
+                "name": "RoboCop",
+                "qid": "Q864518",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%A3nh_s%C3%A1t_ng%C6%B0%E1%BB%9Di_m%C3%A1y"
+            },
+            {
+                "name": "Spider-Man: Homecoming",
+                "qid": "Q23010088",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Tr%E1%BB%9F_v%E1%BB%81_nh%C3%A0"
+            },
+            {
+                "name": "Spotlight",
+                "qid": "Q18154496",
+                "url": "https://vi.wikipedia.org/wiki/Spotlight_(phim)"
+            },
+            {
+                "name": "The Flash",
+                "qid": "Q23562553",
+                "url": "https://vi.wikipedia.org/wiki/Flash_(phim)"
+            },
+            {
+                "name": "The Other Guys",
+                "qid": "Q376807",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_c%E1%BB%9Bm_tranh_t%C3%A0i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Caroline McWilliams",
+                "qid": "Q2868065"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "River Douglas",
+                "qid": "Q135927639"
+            }
+        ]
+    }
+}

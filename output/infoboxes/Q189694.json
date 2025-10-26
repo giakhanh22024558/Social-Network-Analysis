@@ -1,0 +1,81 @@
+{
+    "name": "Wesley Snipes",
+    "qid": "Q189694",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Wesley_Snipes",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "karateka",
+                "qid": "Q9017214"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "taekwondo athlete",
+                "qid": "Q13382533"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-07-31T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Brooklyn's Finest",
+                "qid": "Q905385",
+                "url": "https://vi.wikipedia.org/wiki/Brooklyn%27s_Finest"
+            },
+            {
+                "name": "Deadpool & Wolverine",
+                "qid": "Q102180106",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_v%C3%A0_Wolverine"
+            },
+            {
+                "name": "The Expendables 3",
+                "qid": "Q14370516",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_3"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Nakyung Park",
+                "qid": "Q123173353"
+            }
+        ]
+    }
+}

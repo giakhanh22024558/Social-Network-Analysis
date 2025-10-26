@@ -1,0 +1,46 @@
+{
+    "name": "Alan Becker",
+    "qid": "Q15903561",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Alan_Becker",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "YouTuber",
+                "qid": "Q17125263",
+                "url": "https://vi.wikipedia.org/wiki/YouTuber"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1989-05-18T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

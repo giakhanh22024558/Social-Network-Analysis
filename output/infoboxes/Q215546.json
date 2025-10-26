@@ -1,0 +1,84 @@
+{
+    "name": "Carrie Underwood",
+    "qid": "Q215546",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Carrie_Underwood",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Shanna Underwood",
+                "qid": "Q17285930"
+            },
+            {
+                "name": "Stephanie Underwood",
+                "qid": "Q17285931"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Stephen Underwood",
+                "qid": "Q17285926"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Carole Underwood",
+                "qid": "Q17285929"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "pianist",
+                "qid": "Q486748",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_d%C6%B0%C6%A1ng_c%E1%BA%A7m"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-03-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Soul Surfer",
+                "qid": "Q1156089",
+                "url": "https://vi.wikipedia.org/wiki/Soul_Surfer_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

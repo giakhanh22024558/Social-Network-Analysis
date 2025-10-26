@@ -1,0 +1,68 @@
+{
+    "name": "Carrie Coon",
+    "qid": "Q17317909",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Carrie_Coon",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-01-24T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Ghostbusters: Afterlife",
+                "qid": "Q61883088",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma:_Chuy%E1%BB%83n_ki%E1%BA%BFp"
+            },
+            {
+                "name": "Ghostbusters: Frozen Empire",
+                "qid": "Q113300586",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma:_K%E1%BB%B7_nguy%C3%AAn_b%C4%83ng_gi%C3%A1"
+            },
+            {
+                "name": "Gone Girl",
+                "qid": "Q14920425",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_m%E1%BA%A5t_t%C3%ADch_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Tracy Letts",
+                "qid": "Q984572"
+            }
+        ]
+    }
+}

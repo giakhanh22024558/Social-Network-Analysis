@@ -1,0 +1,112 @@
+{
+    "name": "Jordana Brewster",
+    "qid": "Q230827",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jordana_Brewster",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Alden Brewster",
+                "qid": "Q96377462"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Julian Form-Brewster",
+                "qid": "Q111550598"
+            },
+            {
+                "name": "Rowan Brewster-Form",
+                "qid": "Q111550620"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Maria João",
+                "qid": "Q16730307"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-04-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "F9",
+                "qid": "Q29466808",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_9:_Huy%E1%BB%81n_tho%E1%BA%A1i_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Fast & Furious",
+                "qid": "Q380996",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_4"
+            },
+            {
+                "name": "Fast & Furious 6",
+                "qid": "Q5516100",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_6"
+            },
+            {
+                "name": "Fast Five",
+                "qid": "Q401976",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_5:_Phi_v%E1%BB%A5_Rio"
+            },
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            },
+            {
+                "name": "Furious 7",
+                "qid": "Q14650496",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_7"
+            },
+            {
+                "name": "The Fast and the Furious",
+                "qid": "Q155476",
+                "url": "https://vi.wikipedia.org/wiki/The_Fast_and_the_Furious_(phim_2001)"
+            },
+            {
+                "name": "The Texas Chainsaw Massacre: The Beginning",
+                "qid": "Q642016",
+                "url": "https://vi.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre:_The_Beginning"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Brazil",
+                "qid": "Q155",
+                "url": "https://vi.wikipedia.org/wiki/Brasil"
+            },
+            {
+                "name": "Panama",
+                "qid": "Q804",
+                "url": "https://vi.wikipedia.org/wiki/Panam%C3%A1"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Andrew Form",
+                "qid": "Q21004830"
+            }
+        ]
+    }
+}

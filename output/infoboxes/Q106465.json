@@ -1,0 +1,89 @@
+{
+    "name": "John Grisham",
+    "qid": "Q106465",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Grisham",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "children's writer",
+                "qid": "Q4853732"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "jurist",
+                "qid": "Q185351",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_lu%E1%BA%ADt_h%E1%BB%8Dc"
+            },
+            {
+                "name": "lawyer",
+                "qid": "Q40348",
+                "url": "https://vi.wikipedia.org/wiki/Lu%E1%BA%ADt_s%C6%B0"
+            },
+            {
+                "name": "missionary",
+                "qid": "Q219477",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_truy%E1%BB%81n_gi%C3%A1o"
+            },
+            {
+                "name": "novelist",
+                "qid": "Q6625963",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia"
+            },
+            {
+                "name": "politician",
+                "qid": "Q82955",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%ADnh_kh%C3%A1ch"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-02-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Painted House",
+                "qid": "Q42063712",
+                "url": "https://vi.wikipedia.org/wiki/A_Painted_House"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Renee Grisham",
+                "qid": "Q60781511"
+            }
+        ]
+    }
+}

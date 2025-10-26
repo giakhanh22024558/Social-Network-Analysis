@@ -1,0 +1,62 @@
+{
+    "name": "Geoffrey Blake",
+    "qid": "Q1502946",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Geoffrey_Blake",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-08-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Cast Away",
+                "qid": "Q213411",
+                "url": "https://vi.wikipedia.org/wiki/Cast_Away"
+            },
+            {
+                "name": "Contact",
+                "qid": "Q270215",
+                "url": "https://vi.wikipedia.org/wiki/Contact_(phim)"
+            },
+            {
+                "name": "Forrest Gump",
+                "qid": "Q134773",
+                "url": "https://vi.wikipedia.org/wiki/Forrest_Gump"
+            },
+            {
+                "name": "Midway",
+                "qid": "Q56551019",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_chi%E1%BA%BFn_Midway_(phim_2019)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

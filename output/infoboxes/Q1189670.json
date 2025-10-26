@@ -1,0 +1,55 @@
+{
+    "name": "Scooter Braun",
+    "qid": "Q1189670",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Scooter_Braun",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Sydney Sweeney",
+                "qid": "Q49561909",
+                "url": "https://vi.wikipedia.org/wiki/Sydney_Sweeney"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "talent agent",
+                "qid": "Q1344174",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%E1%BA%A1i_di%E1%BB%87n_t%C3%A0i_n%C4%83ng"
+            },
+            {
+                "name": "talent manager",
+                "qid": "Q1320883",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_qu%E1%BA%A3n_l%C3%BD_ngh%E1%BB%87_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-06-18T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Yael Cohen Braun",
+                "qid": "Q8046617"
+            }
+        ]
+    }
+}

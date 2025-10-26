@@ -1,0 +1,67 @@
+{
+    "name": "CM Punk",
+    "qid": "Q215447",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/CM_Punk",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Mike Brooks",
+                "qid": "Q112531134"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "AJ Lee",
+                "qid": "Q624017"
+            },
+            {
+                "name": "Lita",
+                "qid": "Q230060"
+            },
+            {
+                "name": "Maria Kanellis",
+                "qid": "Q1611054",
+                "url": "https://vi.wikipedia.org/wiki/Maria_Kanellis"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "mixed martial arts fighter",
+                "qid": "Q11607585"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-10-26T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "AJ Lee",
+                "qid": "Q624017"
+            }
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "name": "Ben Foster",
+    "qid": "Q311804",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ben_Foster_(di%E1%BB%85n_vi%C3%AAn)",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jon Foster",
+                "qid": "Q551596"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-10-29T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Lone Survivor",
+                "qid": "Q3258993",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_s%C3%B3t_(phim)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "3:10 to Yuma",
+                "qid": "Q746029",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BA%BFn_t%C3%A0u_%C4%91%E1%BA%BFn_Yuma"
+            },
+            {
+                "name": "Contraband",
+                "qid": "Q1129080",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_ng%E1%BA%A7m"
+            },
+            {
+                "name": "Hell or High Water",
+                "qid": "Q20026847",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_l%C3%B9i_b%C6%B0%E1%BB%9Bc_(phim)"
+            },
+            {
+                "name": "Inferno",
+                "qid": "Q18192306",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Fa_ng%E1%BB%A5c_(phim_2016)"
+            },
+            {
+                "name": "Kill Your Darlings",
+                "qid": "Q565623",
+                "url": "https://vi.wikipedia.org/wiki/Kill_Your_Darlings"
+            },
+            {
+                "name": "Lone Survivor",
+                "qid": "Q3258993",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_s%C3%B3t_(phim)"
+            },
+            {
+                "name": "The Finest Hours",
+                "qid": "Q18031184",
+                "url": "https://vi.wikipedia.org/wiki/The_Finest_Hours_(phim_2016)"
+            },
+            {
+                "name": "The Mechanic",
+                "qid": "Q388476",
+                "url": "https://vi.wikipedia.org/wiki/The_Mechanic"
+            },
+            {
+                "name": "Warcraft",
+                "qid": "Q14513321",
+                "url": "https://vi.wikipedia.org/wiki/Warcraft:_%C4%90%E1%BA%A1i_chi%E1%BA%BFn_hai_th%E1%BA%BF_gi%E1%BB%9Bi"
+            },
+            {
+                "name": "X-Men: The Last Stand",
+                "qid": "Q221168",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_The_Last_Stand"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Laura Prepon",
+                "qid": "Q171567",
+                "url": "https://vi.wikipedia.org/wiki/Laura_Prepon"
+            }
+        ]
+    }
+}

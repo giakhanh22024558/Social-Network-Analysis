@@ -1,0 +1,102 @@
+{
+    "name": "Jessica Simpson",
+    "qid": "Q168992",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jessica_Simpson",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Ashlee Simpson",
+                "qid": "Q213521",
+                "url": "https://vi.wikipedia.org/wiki/Ashlee_Simpson"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "John Mayer",
+                "qid": "Q215215",
+                "url": "https://vi.wikipedia.org/wiki/John_Mayer"
+            },
+            {
+                "name": "Tony Romo",
+                "qid": "Q14027"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Joe Simpson",
+                "qid": "Q105554351"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Tina Ann Drew",
+                "qid": "Q105554349"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-07-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Blonde Ambition",
+                "qid": "Q428372",
+                "url": "https://vi.wikipedia.org/wiki/Ki%E1%BB%81u_n%E1%BB%AF_qu%E1%BA%ADy_c%C3%B4ng_s%E1%BB%9F"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Eric Johnson",
+                "qid": "Q5386835"
+            },
+            {
+                "name": "Nick Lachey",
+                "qid": "Q356109"
+            }
+        ]
+    }
+}

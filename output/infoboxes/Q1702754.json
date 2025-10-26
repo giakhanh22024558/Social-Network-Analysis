@@ -1,0 +1,83 @@
+{
+    "name": "Jon M. Chu",
+    "qid": "Q1702754",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jon_M._Chu",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "choreographer",
+                "qid": "Q2490358"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-11-02T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Crazy Rich Asians",
+                "qid": "Q29588623",
+                "url": "https://vi.wikipedia.org/wiki/Con_nh%C3%A0_si%C3%AAu_gi%C3%A0u_ch%C3%A2u_%C3%81"
+            },
+            {
+                "name": "G.I. Joe: Retaliation",
+                "qid": "Q1146345",
+                "url": "https://vi.wikipedia.org/wiki/G.I._Joe:_B%C3%A1o_th%C3%B9"
+            },
+            {
+                "name": "In the Heights",
+                "qid": "Q63698573",
+                "url": "https://vi.wikipedia.org/wiki/In_the_Heights:_Gi%E1%BA%A5c_m%C6%A1_New_York"
+            },
+            {
+                "name": "Now You See Me 2",
+                "qid": "Q18703028",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_th%E1%BA%BF_k%E1%BB%B7_2"
+            },
+            {
+                "name": "Step Up 2: The Streets",
+                "qid": "Q81487",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_%C4%91i%E1%BB%87u_t%C3%ACnh_y%C3%AAu:_B%C6%B0%E1%BB%9Bc_nh%E1%BA%A3y_%C4%91%C6%B0%E1%BB%9Dng_ph%E1%BB%91"
+            },
+            {
+                "name": "Step Up 3D",
+                "qid": "Q81037",
+                "url": "https://vi.wikipedia.org/wiki/Step_Up_3D"
+            },
+            {
+                "name": "Wicked",
+                "qid": "Q24797403",
+                "url": "https://vi.wikipedia.org/wiki/Wicked_(phim_2024)"
+            },
+            {
+                "name": "Wicked: For Good",
+                "qid": "Q114817050",
+                "url": "https://vi.wikipedia.org/wiki/Wicked:_Ph%E1%BA%A7n_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Gus Kenworthy",
+    "qid": "Q9282773",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Gus_Kenworthy",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Matthew Wilkas",
+                "qid": "Q24955870"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "LGBTQ rights activist",
+                "qid": "Q19509201"
+            },
+            {
+                "name": "YouTuber",
+                "qid": "Q17125263",
+                "url": "https://vi.wikipedia.org/wiki/YouTuber"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "freestyle skier",
+                "qid": "Q18617021"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1991-10-01T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

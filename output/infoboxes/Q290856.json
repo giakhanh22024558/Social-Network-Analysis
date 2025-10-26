@@ -1,0 +1,83 @@
+{
+    "name": "Amber Rose",
+    "qid": "Q290856",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Amber_Rose",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/68d7808bec6e92edf7d994d8cbf38cc8"
+            },
+            {
+                "name": "21 Savage",
+                "qid": "Q25095399",
+                "url": "https://vi.wikipedia.org/wiki/21_Savage"
+            },
+            {
+                "name": "Kanye West",
+                "qid": "Q15935",
+                "url": "https://vi.wikipedia.org/wiki/Kanye_West"
+            },
+            {
+                "name": "Machine Gun Kelly",
+                "qid": "Q1354843",
+                "url": "https://vi.wikipedia.org/wiki/Machine_Gun_Kelly_(rapper)"
+            },
+            {
+                "name": "Terrence Ross",
+                "qid": "Q947932"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Sebastian Taylor Thomaz",
+                "qid": "Q42352245"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-10-21T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Wiz Khalifa",
+                "qid": "Q117139",
+                "url": "https://vi.wikipedia.org/wiki/Wiz_Khalifa"
+            }
+        ]
+    }
+}

@@ -1,0 +1,224 @@
+{
+    "name": "Jon Favreau",
+    "qid": "Q295964",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jon_Favreau",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Andy Favreau",
+                "qid": "Q64502253"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Brighton Rose Favreau",
+                "qid": "Q24717973"
+            },
+            {
+                "name": "Madeleine Favreau",
+                "qid": "Q24718287"
+            },
+            {
+                "name": "Max Favreau",
+                "qid": "Q24718036"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "showrunner",
+                "qid": "Q1440873",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-10-19T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Chef",
+                "qid": "Q15046490",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%A7u_b%E1%BA%BFp_(phim_2014)"
+            },
+            {
+                "name": "The Jungle Book",
+                "qid": "Q16857406",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_r%E1%BB%ABng_xanh_(phim_2016)"
+            },
+            {
+                "name": "The Lion King",
+                "qid": "Q27044293",
+                "url": "https://vi.wikipedia.org/wiki/Vua_s%C6%B0_t%E1%BB%AD_(phim_2019)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Chef",
+                "qid": "Q15046490",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%A7u_b%E1%BA%BFp_(phim_2014)"
+            },
+            {
+                "name": "Deadpool & Wolverine",
+                "qid": "Q102180106",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_v%C3%A0_Wolverine"
+            },
+            {
+                "name": "G-Force",
+                "qid": "Q784444",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_chu%E1%BB%99t_lang"
+            },
+            {
+                "name": "Iron Man",
+                "qid": "Q192724",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_(phim_2008)"
+            },
+            {
+                "name": "Iron Man 2",
+                "qid": "Q205028",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_2"
+            },
+            {
+                "name": "Iron Man 3",
+                "qid": "Q209538",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_3"
+            },
+            {
+                "name": "John Carter",
+                "qid": "Q235347",
+                "url": "https://vi.wikipedia.org/wiki/John_Carter_(phim)"
+            },
+            {
+                "name": "Solo: A Star Wars Story",
+                "qid": "Q27038847",
+                "url": "https://vi.wikipedia.org/wiki/Solo:_Star_Wars_ngo%E1%BA%A1i_truy%E1%BB%87n"
+            },
+            {
+                "name": "Spider-Man: Far From Home",
+                "qid": "Q27985819",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_xa_nh%C3%A0"
+            },
+            {
+                "name": "Spider-Man: Homecoming",
+                "qid": "Q23010088",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Tr%E1%BB%9F_v%E1%BB%81_nh%C3%A0"
+            },
+            {
+                "name": "Spider-Man: No Way Home",
+                "qid": "Q68934496",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Kh%C3%B4ng_c%C3%B2n_nh%C3%A0"
+            },
+            {
+                "name": "The Jungle Book",
+                "qid": "Q16857406",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_r%E1%BB%ABng_xanh_(phim_2016)"
+            },
+            {
+                "name": "The Wolf of Wall Street",
+                "qid": "Q1392744",
+                "url": "https://vi.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(phim_2013)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Chef",
+                "qid": "Q15046490",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%A7u_b%E1%BA%BFp_(phim_2014)"
+            },
+            {
+                "name": "Cowboys & Aliens",
+                "qid": "Q725578",
+                "url": "https://vi.wikipedia.org/wiki/Cao_b%E1%BB%93i_%26_qu%C3%A1i_v%E1%BA%ADt_ngo%C3%A0i_h%C3%A0nh_tinh"
+            },
+            {
+                "name": "Iron Man",
+                "qid": "Q192724",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_(phim_2008)"
+            },
+            {
+                "name": "Iron Man 2",
+                "qid": "Q205028",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_2"
+            },
+            {
+                "name": "The Jungle Book",
+                "qid": "Q16857406",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_r%E1%BB%ABng_xanh_(phim_2016)"
+            },
+            {
+                "name": "The Lion King",
+                "qid": "Q27044293",
+                "url": "https://vi.wikipedia.org/wiki/Vua_s%C6%B0_t%E1%BB%AD_(phim_2019)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

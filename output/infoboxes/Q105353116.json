@@ -1,0 +1,39 @@
+{
+    "name": "Dominique Thorne",
+    "qid": "Q105353116",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dominique_Thorne",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1997-11-05T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Black Panther: Wakanda Forever",
+                "qid": "Q54860489",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_binh_B%C3%A1o_%C4%90en:_Wakanda_b%E1%BA%A5t_di%E1%BB%87t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Trinidad and Tobago",
+                "qid": "Q754",
+                "url": "https://vi.wikipedia.org/wiki/Trinidad_v%C3%A0_Tobago"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

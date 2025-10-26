@@ -1,0 +1,64 @@
+{
+    "name": "Natalia Dyer",
+    "qid": "Q26232134",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Natalia_Dyer",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Charlie Heaton",
+                "qid": "Q20974088",
+                "url": "https://vi.wikipedia.org/wiki/Charlie_Heaton"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "fashion model",
+                "qid": "Q3357567"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1995-01-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "All Fun and Games",
+                "qid": "Q116745188",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%91n_t%C3%ACm_v%E1%BB%9Bi_qu%E1%BB%B7"
+            },
+            {
+                "name": "Hannah Montana: The Movie",
+                "qid": "Q220591",
+                "url": "https://vi.wikipedia.org/wiki/Hannah_Montana:_The_Movie"
+            },
+            {
+                "name": "Velvet Buzzsaw",
+                "qid": "Q50649572",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%A9c_h%E1%BB%8Da_ma_qu%C3%A1i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

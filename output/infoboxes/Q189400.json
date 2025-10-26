@@ -1,0 +1,105 @@
+{
+    "name": "Brooke Shields",
+    "qid": "Q189400",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Brooke_Shields",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Francis Alexander Shields",
+                "qid": "Q5479968"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Teri Shields",
+                "qid": "Q265726",
+                "url": "https://vi.wikipedia.org/wiki/Teri_Shields"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "children's writer",
+                "qid": "Q4853732"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1965-05-31T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Hannah Montana: The Movie",
+                "qid": "Q220591",
+                "url": "https://vi.wikipedia.org/wiki/Hannah_Montana:_The_Movie"
+            },
+            {
+                "name": "The Other Guys",
+                "qid": "Q376807",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_c%E1%BB%9Bm_tranh_t%C3%A0i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Chris Henchy",
+                "qid": "Q5106858"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Alessandro Lecquio",
+                "qid": "Q5665920"
+            },
+            {
+                "name": "Alessandro Torlonia, 5th Prince of Civitella-Cesi",
+                "qid": "Q4716439"
+            },
+            {
+                "name": "Glenn Close",
+                "qid": "Q372311",
+                "url": "https://vi.wikipedia.org/wiki/Glenn_Close"
+            },
+            {
+                "name": "Meryl Streep",
+                "qid": "Q873",
+                "url": "https://vi.wikipedia.org/wiki/Meryl_Streep"
+            }
+        ]
+    }
+}

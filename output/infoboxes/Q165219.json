@@ -1,0 +1,203 @@
+{
+    "name": "Robert Downey Jr.",
+    "qid": "Q165219",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Robert_Downey_Jr.",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Allyson Downey",
+                "qid": "Q107467310"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Sarah Jessica Parker",
+                "qid": "Q170530",
+                "url": "https://vi.wikipedia.org/wiki/Sarah_Jessica_Parker"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Robert Downey Sr.",
+                "qid": "Q587102"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Indio Downey",
+                "qid": "Q32810868"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Elsie Downey",
+                "qid": "Q107467183"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1965-04-04T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avengers: Age of Ultron",
+                "qid": "Q14171368",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_%C4%90%E1%BA%BF_ch%E1%BA%BF_Ultron"
+            },
+            {
+                "name": "Avengers: Doomsday",
+                "qid": "Q113244839",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Doomsday"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Captain America: Civil War",
+                "qid": "Q18407657",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_N%E1%BB%99i_chi%E1%BA%BFn_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "Chef",
+                "qid": "Q15046490",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%A7u_b%E1%BA%BFp_(phim_2014)"
+            },
+            {
+                "name": "Dolittle",
+                "qid": "Q38689704",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9_Dolittle:_Chuy%E1%BA%BFn_phi%C3%AAu_l%C6%B0u_th%E1%BA%A7n_tho%E1%BA%A1i"
+            },
+            {
+                "name": "Iron Man",
+                "qid": "Q192724",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_(phim_2008)"
+            },
+            {
+                "name": "Iron Man 2",
+                "qid": "Q205028",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_2"
+            },
+            {
+                "name": "Iron Man 3",
+                "qid": "Q209538",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_3"
+            },
+            {
+                "name": "Oppenheimer",
+                "qid": "Q108839994",
+                "url": "https://vi.wikipedia.org/wiki/Oppenheimer_(phim)"
+            },
+            {
+                "name": "Sherlock Holmes",
+                "qid": "Q200396",
+                "url": "https://vi.wikipedia.org/wiki/Sherlock_Holmes_(phim_2009)"
+            },
+            {
+                "name": "Sherlock Holmes: A Game of Shadows",
+                "qid": "Q243643",
+                "url": "https://vi.wikipedia.org/wiki/Sherlock_Holmes:_Tr%C3%B2_ch%C6%A1i_c%E1%BB%A7a_b%C3%B3ng_%C4%91%C3%AAm"
+            },
+            {
+                "name": "Spider-Man: Far From Home",
+                "qid": "Q27985819",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_xa_nh%C3%A0"
+            },
+            {
+                "name": "Spider-Man: Homecoming",
+                "qid": "Q23010088",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Tr%E1%BB%9F_v%E1%BB%81_nh%C3%A0"
+            },
+            {
+                "name": "The Avengers",
+                "qid": "Q182218",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "The Incredible Hulk",
+                "qid": "Q466611",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_kh%E1%BB%95ng_l%E1%BB%93_xanh_phi_th%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "Tropic Thunder",
+                "qid": "Q380981",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BA%A5m_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi"
+            },
+            {
+                "name": "Zodiac",
+                "qid": "Q218172",
+                "url": "https://vi.wikipedia.org/wiki/Zodiac_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Susan Downey",
+                "qid": "Q433157"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Sherilyn Fenn",
+    "qid": "Q229993",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sherilyn_Fenn",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Johnny Depp",
+                "qid": "Q37175",
+                "url": "https://vi.wikipedia.org/wiki/Johnny_Depp"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Arlene Quatro",
+                "qid": "Q119131982"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1965-02-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Wish Upon",
+                "qid": "Q28753418",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFc_h%E1%BB%99p_ma_qu%C3%A1i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

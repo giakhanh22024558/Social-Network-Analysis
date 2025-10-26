@@ -1,0 +1,87 @@
+{
+    "name": "Kathryn Newton",
+    "qid": "Q165625",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kathryn_Newton",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "golfer",
+                "qid": "Q11303721"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1997-02-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Abigail",
+                "qid": "Q120758628",
+                "url": "https://vi.wikipedia.org/wiki/Abigail_(phim_2024)"
+            },
+            {
+                "name": "Ant-Man and the Wasp: Quantumania",
+                "qid": "Q105359456",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_v%C3%A0_Chi%E1%BA%BFn_binh_Ong:_Th%E1%BA%BF_gi%E1%BB%9Bi_L%C6%B0%E1%BB%A3ng_t%E1%BB%AD"
+            },
+            {
+                "name": "Bad Teacher",
+                "qid": "Q798797",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_gi%C3%A1o_l%E1%BA%AFm_chi%C3%AAu"
+            },
+            {
+                "name": "Detective Pikachu",
+                "qid": "Q47492499",
+                "url": "https://vi.wikipedia.org/wiki/Pok%C3%A9mon:_Th%C3%A1m_t%E1%BB%AD_Pikachu"
+            },
+            {
+                "name": "Freaky",
+                "qid": "Q73536996",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_%C4%91%E1%BA%A3n_(phim)"
+            },
+            {
+                "name": "Lady Bird",
+                "qid": "Q27480769",
+                "url": "https://vi.wikipedia.org/wiki/Lady_Bird:_Tu%E1%BB%95i_n%E1%BB%95i_lo%E1%BA%A1n"
+            },
+            {
+                "name": "Paranormal Activity 4",
+                "qid": "Q1144954",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_nguy%E1%BB%81n_b%C3%AD_%E1%BA%A9n_4"
+            },
+            {
+                "name": "Three Billboards Outside Ebbing, Missouri",
+                "qid": "Q24053277",
+                "url": "https://vi.wikipedia.org/wiki/Three_Billboards:_Truy_t%C3%ACm_c%C3%B4ng_l%C3%BD"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

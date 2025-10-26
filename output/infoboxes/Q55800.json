@@ -1,0 +1,149 @@
+{
+    "name": "Oprah Winfrey",
+    "qid": "Q55800",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Oprah_Winfrey",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "John Tesh",
+                "qid": "Q3182586"
+            },
+            {
+                "name": "Roger Ebert",
+                "qid": "Q212173",
+                "url": "https://vi.wikipedia.org/wiki/Roger_Ebert"
+            },
+            {
+                "name": "Stedman Graham",
+                "qid": "Q5767365"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Vernon Winfrey",
+                "qid": "Q102931194"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Canaan Winfrey",
+                "qid": "Q124357403"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Vernita Lee Winfrey",
+                "qid": "Q106773726"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "journalist",
+                "qid": "Q1930187",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_b%C3%A1o"
+            },
+            {
+                "name": "patron of the arts",
+                "qid": "Q15472169"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "talk show host",
+                "qid": "Q18668527"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1954-01-29T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Precious",
+                "qid": "Q269331",
+                "url": "https://vi.wikipedia.org/wiki/Precious_(phim)"
+            },
+            {
+                "name": "The Hundred-Foot Journey",
+                "qid": "Q15220568",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tr%C3%ACnh_100_b%C6%B0%E1%BB%9Bc_ch%C3%A2n"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Wrinkle in Time",
+                "qid": "Q24301388",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BA%BFp_g%E1%BA%A5p_th%E1%BB%9Di_gian_(phim_2018)"
+            },
+            {
+                "name": "Charlotte's Web",
+                "qid": "Q213773",
+                "url": "https://vi.wikipedia.org/wiki/Charlotte%27s_Web_(phim_2006)"
+            },
+            {
+                "name": "The Color Purple",
+                "qid": "Q223299",
+                "url": "https://vi.wikipedia.org/wiki/The_Color_Purple_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Jeffrey Lee",
+                "qid": "Q106777352"
+            },
+            {
+                "name": "Patricia Lee Logton",
+                "qid": "Q106777319"
+            }
+        ]
+    }
+}

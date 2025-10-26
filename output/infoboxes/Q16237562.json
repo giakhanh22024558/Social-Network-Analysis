@@ -1,0 +1,68 @@
+{
+    "name": "Tony Revolori",
+    "qid": "Q16237562",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tony_Revolori",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1996-04-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Asteroid City",
+                "qid": "Q108086029",
+                "url": "https://vi.wikipedia.org/wiki/Asteroid_City"
+            },
+            {
+                "name": "Spider-Man: Far From Home",
+                "qid": "Q27985819",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_xa_nh%C3%A0"
+            },
+            {
+                "name": "Spider-Man: Homecoming",
+                "qid": "Q23010088",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Tr%E1%BB%9F_v%E1%BB%81_nh%C3%A0"
+            },
+            {
+                "name": "Spider-Man: No Way Home",
+                "qid": "Q68934496",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Kh%C3%B4ng_c%C3%B2n_nh%C3%A0"
+            },
+            {
+                "name": "The 5th Wave",
+                "qid": "Q17436508",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A3t_t%E1%BA%A5n_c%C3%B4ng_th%E1%BB%A9_5"
+            },
+            {
+                "name": "The Grand Budapest Hotel",
+                "qid": "Q3521099",
+                "url": "https://vi.wikipedia.org/wiki/The_Grand_Budapest_Hotel"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

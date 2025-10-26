@@ -1,0 +1,118 @@
+{
+    "name": "Jessica Chastain",
+    "qid": "Q229313",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jessica_Chastain",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Giulietta Passi di Preposulo",
+                "qid": "Q113665844"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-03-24T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The 355",
+                "qid": "Q65090801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_v%E1%BB%A5_355"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ava",
+                "qid": "Q57986045",
+                "url": "https://vi.wikipedia.org/wiki/Ava_(phim_2020)"
+            },
+            {
+                "name": "Crimson Peak",
+                "qid": "Q15729025",
+                "url": "https://vi.wikipedia.org/wiki/L%C3%A2u_%C4%91%C3%A0i_%C4%91%E1%BA%ABm_m%C3%A1u"
+            },
+            {
+                "name": "Dark Phoenix",
+                "qid": "Q31188935",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Ph%C6%B0%E1%BB%A3ng_ho%C3%A0ng_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "Interstellar",
+                "qid": "Q13417189",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%91_%C4%91en_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "It: Chapter Two",
+                "qid": "Q42726338",
+                "url": "https://vi.wikipedia.org/wiki/G%C3%A3_h%E1%BB%81_ma_qu%C3%A1i_2"
+            },
+            {
+                "name": "Mama",
+                "qid": "Q29446",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%B9_ma"
+            },
+            {
+                "name": "Take Shelter",
+                "qid": "Q762877",
+                "url": "https://vi.wikipedia.org/wiki/Take_Shelter"
+            },
+            {
+                "name": "The 355",
+                "qid": "Q65090801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_v%E1%BB%A5_355"
+            },
+            {
+                "name": "The Help",
+                "qid": "Q204374",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_gi%C3%BAp_vi%E1%BB%87c_(phim)"
+            },
+            {
+                "name": "The Huntsman: Winter's War",
+                "qid": "Q18485021",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A3_s%C4%83n:_Cu%E1%BB%99c_chi%E1%BA%BFn_m%C3%B9a_%C4%91%C3%B4ng"
+            },
+            {
+                "name": "The Martian",
+                "qid": "Q18547944",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_v%E1%BB%81_t%E1%BB%AB_Sao_H%E1%BB%8Fa"
+            },
+            {
+                "name": "The Tree of Life",
+                "qid": "Q244257",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2y_%C4%91%E1%BB%9Di_(phim)"
+            },
+            {
+                "name": "Zero Dark Thirty",
+                "qid": "Q152531",
+                "url": "https://vi.wikipedia.org/wiki/30%27_sau_n%E1%BB%ADa_%C4%91%C3%AAm"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Gian Luca Passi de Preposulo",
+                "qid": "Q113647975"
+            }
+        ]
+    }
+}

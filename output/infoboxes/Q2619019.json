@@ -1,0 +1,83 @@
+{
+    "name": "Q2619019",
+    "qid": "Q2619019",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Bill_Nye",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Edwin Darby Nye",
+                "qid": "Q96817339"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Jacqueline Blanche Jenkins",
+                "qid": "Q96817354"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "educator",
+                "qid": "Q974144"
+            },
+            {
+                "name": "engineer",
+                "qid": "Q81096",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B9_s%C6%B0"
+            },
+            {
+                "name": "science communicator",
+                "qid": "Q15143191"
+            },
+            {
+                "name": "scientist",
+                "qid": "Q901",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_khoa_h%E1%BB%8Dc"
+            },
+            {
+                "name": "television personality",
+                "qid": "Q44508716"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-11-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Mank",
+                "qid": "Q73093591",
+                "url": "https://vi.wikipedia.org/wiki/Mank_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Blair Tindall",
+                "qid": "Q15455513"
+            },
+            {
+                "name": "Liza Mundy",
+                "qid": "Q18628782"
+            }
+        ]
+    }
+}

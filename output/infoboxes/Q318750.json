@@ -1,0 +1,104 @@
+{
+    "name": "Stephen Hillenburg",
+    "qid": "Q318750",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Stephen_Hillenburg",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Clay Hillenburg",
+                "qid": "Q47087544"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "biologist",
+                "qid": "Q864503"
+            },
+            {
+                "name": "comics artist",
+                "qid": "Q715301"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "painter",
+                "qid": "Q1028181",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "university teacher",
+                "qid": "Q1622272"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-08-21T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The SpongeBob Movie: Sponge Out of Water",
+                "qid": "Q7765993",
+                "url": "https://vi.wikipedia.org/wiki/SpongeBob:_Anh_h%C3%B9ng_l%C3%AAn_c%E1%BA%A1n"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Help Wanted",
+                "qid": "Q651276",
+                "url": "https://vi.wikipedia.org/wiki/Help_Wanted"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Karen Hillenburg",
+                "qid": "Q65027312"
+            }
+        ]
+    }
+}

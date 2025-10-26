@@ -1,0 +1,64 @@
+{
+    "name": "Kevin Cheng",
+    "qid": "Q713928",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Gia_D%C4%A9nh",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-08-15T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Master Z: The Ip Man Legacy",
+                "qid": "Q57905222",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%87p_V%E1%BA%A5n_ngo%E1%BA%A1i_truy%E1%BB%87n:_Tr%C6%B0%C6%A1ng_Thi%C3%AAn_Ch%C3%AD"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Grace Chan",
+                "qid": "Q14941573",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Kh%E1%BA%A3i_L%C3%A2m"
+            }
+        ]
+    }
+}

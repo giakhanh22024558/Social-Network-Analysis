@@ -1,0 +1,155 @@
+{
+    "name": "Kourtney Kardashian",
+    "qid": "Q575689",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kourtney_Kardashian",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Kendall Jenner",
+                "qid": "Q1375057",
+                "url": "https://vi.wikipedia.org/wiki/Kendall_Jenner"
+            },
+            {
+                "name": "Khloé Kardashian",
+                "qid": "Q231270",
+                "url": "https://vi.wikipedia.org/wiki/Khlo%C3%A9_Kardashian"
+            },
+            {
+                "name": "Kim Kardashian",
+                "qid": "Q186304",
+                "url": "https://vi.wikipedia.org/wiki/Kim_Kardashian"
+            },
+            {
+                "name": "Kylie Jenner",
+                "qid": "Q1770624",
+                "url": "https://vi.wikipedia.org/wiki/Kylie_Jenner"
+            },
+            {
+                "name": "Rob Kardashian",
+                "qid": "Q26318",
+                "url": "https://vi.wikipedia.org/wiki/Rob_Kardashian"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Scott Disick",
+                "qid": "Q7883337"
+            },
+            {
+                "name": "Younes Bendjima",
+                "qid": "Q55200042"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Robert Kardashian",
+                "qid": "Q1816737",
+                "url": "https://vi.wikipedia.org/wiki/Robert_Kardashian"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Mason Dash Disick",
+                "qid": "Q59532027"
+            },
+            {
+                "name": "Penelope Disick",
+                "qid": "Q59532183"
+            },
+            {
+                "name": "Reign Ashton Disick",
+                "qid": "Q59532283"
+            },
+            {
+                "name": "Rocky Barker",
+                "qid": "Q132158413"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Kris Jenner",
+                "qid": "Q1138235",
+                "url": "https://vi.wikipedia.org/wiki/Kris_Jenner"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "celebrity",
+                "qid": "Q211236",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_n%E1%BB%95i_ti%E1%BA%BFng"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            },
+            {
+                "name": "media personality",
+                "qid": "Q1885941"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-04-18T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Travis Barker",
+                "qid": "Q220140"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Brandon Jenner",
+                "qid": "Q16209581"
+            },
+            {
+                "name": "Brody Jenner",
+                "qid": "Q554091",
+                "url": "https://vi.wikipedia.org/wiki/Brody_Jenner"
+            },
+            {
+                "name": "Landon Barker",
+                "qid": "Q115626511"
+            }
+        ]
+    }
+}

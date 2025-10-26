@@ -1,0 +1,39 @@
+{
+    "name": "Juliette Danielle",
+    "qid": "Q44451186",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Juliette_Danielle",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "consultant",
+                "qid": "Q15978655",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%C3%AAn_gia_t%C6%B0_v%E1%BA%A5n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-12-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Room",
+                "qid": "Q533383",
+                "url": "https://vi.wikipedia.org/wiki/The_Room"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

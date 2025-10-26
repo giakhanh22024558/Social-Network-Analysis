@@ -1,0 +1,81 @@
+{
+    "name": "Melissa Satta",
+    "qid": "Q1102536",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Melissa_Satta",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Christian Vieri",
+                "qid": "Q188696",
+                "url": "https://vi.wikipedia.org/wiki/Christian_Vieri"
+            },
+            {
+                "name": "Kevin-Prince Boateng",
+                "qid": "Q151034",
+                "url": "https://vi.wikipedia.org/wiki/Kevin-Prince_Boateng"
+            },
+            {
+                "name": "Matteo Berrettini",
+                "qid": "Q29918446",
+                "url": "https://vi.wikipedia.org/wiki/Matteo_Berrettini"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "art model",
+                "qid": "Q1630100"
+            },
+            {
+                "name": "journalist",
+                "qid": "Q1930187",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_b%C3%A1o"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "showgirl",
+                "qid": "Q3482594"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "velina",
+                "qid": "Q4009363"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-02-07T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Italy",
+                "qid": "Q38",
+                "url": "https://vi.wikipedia.org/wiki/%C3%9D"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

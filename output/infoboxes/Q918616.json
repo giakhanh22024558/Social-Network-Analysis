@@ -1,0 +1,107 @@
+{
+    "name": "Frank Grillo",
+    "qid": "Q918616",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Frank_Grillo",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-06-08T00:00:00Z"
+            },
+            {
+                "name": "1965-06-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Captain America: Civil War",
+                "qid": "Q18407657",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_N%E1%BB%99i_chi%E1%BA%BFn_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "Captain America: The Winter Soldier",
+                "qid": "Q1765358",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America_2:_Chi%E1%BA%BFn_binh_m%C3%B9a_%C4%91%C3%B4ng"
+            },
+            {
+                "name": "Edge of Darkness",
+                "qid": "Q760093",
+                "url": "https://vi.wikipedia.org/wiki/Edge_of_Darkness_(phim_2010)"
+            },
+            {
+                "name": "Gangster Squad",
+                "qid": "Q27751",
+                "url": "https://vi.wikipedia.org/wiki/Gangster_Squad"
+            },
+            {
+                "name": "Hitman's Wife's Bodyguard",
+                "qid": "Q61951885",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_s%C4%A9_s%C3%A1t_th%E1%BB%A7_2:_Nh%C3%A0_c%C3%B3_n%C3%B3c"
+            },
+            {
+                "name": "Minority Report",
+                "qid": "Q244604",
+                "url": "https://vi.wikipedia.org/wiki/Minority_Report"
+            },
+            {
+                "name": "Shattered",
+                "qid": "Q108101523",
+                "url": "https://vi.wikipedia.org/wiki/Shattered_(phim_2022)"
+            },
+            {
+                "name": "Superman",
+                "qid": "Q116547790",
+                "url": "https://vi.wikipedia.org/wiki/Superman_(phim_2025)"
+            },
+            {
+                "name": "The Purge: Anarchy",
+                "qid": "Q15728784",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_thanh_tr%E1%BB%ABng:_H%E1%BB%97n_lo%E1%BA%A1n"
+            },
+            {
+                "name": "Zero Dark Thirty",
+                "qid": "Q152531",
+                "url": "https://vi.wikipedia.org/wiki/30%27_sau_n%E1%BB%ADa_%C4%91%C3%AAm"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Wendy Moniz",
+                "qid": "Q272158"
+            }
+        ]
+    }
+}

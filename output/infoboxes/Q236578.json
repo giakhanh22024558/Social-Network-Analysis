@@ -1,0 +1,84 @@
+{
+    "name": "Lizzy Caplan",
+    "qid": "Q236578",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lizzy_Caplan",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Matthew Perry",
+                "qid": "Q171758"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-06-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "127 Hours",
+                "qid": "Q174371",
+                "url": "https://vi.wikipedia.org/wiki/127_gi%E1%BB%9D"
+            },
+            {
+                "name": "Cloverfield",
+                "qid": "Q123742",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A3m_h%E1%BB%8Da_di%E1%BB%87t_vong_(phim)"
+            },
+            {
+                "name": "Mean Girls",
+                "qid": "Q631103",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_l%E1%BA%AFm_chi%C3%AAu"
+            },
+            {
+                "name": "Now You See Me 2",
+                "qid": "Q18703028",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_th%E1%BA%BF_k%E1%BB%B7_2"
+            },
+            {
+                "name": "The Disaster Artist",
+                "qid": "Q22078002",
+                "url": "https://vi.wikipedia.org/wiki/The_Disaster_Artist_(phim)"
+            },
+            {
+                "name": "The Interview",
+                "qid": "Q15524911",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_ph%E1%BB%8Fng_v%E1%BA%A5n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Tom Riley",
+                "qid": "Q6148197"
+            }
+        ]
+    }
+}

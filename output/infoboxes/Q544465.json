@@ -1,0 +1,89 @@
+{
+    "name": "Kathy Bates",
+    "qid": "Q544465",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kathy_Bates",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1948-06-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Charlotte's Web",
+                "qid": "Q213773",
+                "url": "https://vi.wikipedia.org/wiki/Charlotte%27s_Web_(phim_2006)"
+            },
+            {
+                "name": "Midnight in Paris",
+                "qid": "Q206124",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%ADa_%C4%91%C3%AAm_%E1%BB%9F_Paris"
+            },
+            {
+                "name": "P.S. I Love You",
+                "qid": "Q593726",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1i_b%C3%BAt:_Anh_y%C3%AAu_em"
+            },
+            {
+                "name": "The Day the Earth Stood Still",
+                "qid": "Q187154",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_Tr%C3%A1i_%C4%90%E1%BA%A5t_ng%E1%BB%ABng_quay"
+            },
+            {
+                "name": "Titanic",
+                "qid": "Q44578",
+                "url": "https://vi.wikipedia.org/wiki/Titanic_(phim_1997)"
+            },
+            {
+                "name": "Valentine's Day",
+                "qid": "Q244975",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A8n_s%E1%BB%91_t%C3%ACnh_y%C3%AAu"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

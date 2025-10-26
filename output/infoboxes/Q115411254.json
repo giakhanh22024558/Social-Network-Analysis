@@ -1,0 +1,40 @@
+{
+    "name": "Emma Myers",
+    "qid": "Q115411254",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Emma_Myers",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Isabel Myers",
+                "qid": "Q128604006"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2002-04-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Minecraft Movie",
+                "qid": "Q40083273",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_b%E1%BB%99_phim_Minecraft"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

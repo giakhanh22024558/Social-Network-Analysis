@@ -1,0 +1,134 @@
+{
+    "name": "John Lithgow",
+    "qid": "Q311271",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Lithgow",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Arthur Lithgow",
+                "qid": "Q4799532"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Ian Lithgow",
+                "qid": "Q16731552"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Sara Jane Lithgow",
+                "qid": "Q100896414"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "banjoist",
+                "qid": "Q9648008"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "poet",
+                "qid": "Q49757",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%C6%A1"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1945-10-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Bombshell",
+                "qid": "Q58814589",
+                "url": "https://vi.wikipedia.org/wiki/Tin_%E2%80%9Cn%C3%B3ng%E2%80%9D"
+            },
+            {
+                "name": "Conclave",
+                "qid": "Q116701124",
+                "url": "https://vi.wikipedia.org/wiki/Conclave"
+            },
+            {
+                "name": "Confessions of a Shopaholic",
+                "qid": "Q852963",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%B1_th%C3%BA_c%E1%BB%A7a_m%E1%BB%99t_t%C3%ADn_%C4%91%E1%BB%93_shopping"
+            },
+            {
+                "name": "Dreamgirls",
+                "qid": "Q329056",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A5c_m%C6%A1_danh_v%E1%BB%8Dng"
+            },
+            {
+                "name": "Interstellar",
+                "qid": "Q13417189",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%91_%C4%91en_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Pitch Perfect 3",
+                "qid": "Q22100117",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_n%E1%BB%95i_lo%E1%BA%A1n_ho%C3%A0n_h%E1%BA%A3o_3"
+            },
+            {
+                "name": "Rise of the Planet of the Apes",
+                "qid": "Q243983",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_tr%E1%BB%97i_d%E1%BA%ADy_c%E1%BB%A7a_h%C3%A0nh_tinh_kh%E1%BB%89"
+            },
+            {
+                "name": "Silent Fall",
+                "qid": "Q1304103",
+                "url": "https://vi.wikipedia.org/wiki/Silent_Fall"
+            },
+            {
+                "name": "The Accountant",
+                "qid": "Q18883455",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_danh:_K%E1%BA%BF_to%C3%A1n"
+            },
+            {
+                "name": "The Homesman",
+                "qid": "Q15961525",
+                "url": "https://vi.wikipedia.org/wiki/The_Homesman"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Mary Yeager",
+                "qid": "Q100879343"
+            }
+        ]
+    }
+}

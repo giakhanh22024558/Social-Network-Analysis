@@ -1,0 +1,163 @@
+{
+    "name": "Joseph Gordon-Levitt",
+    "qid": "Q177311",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Joseph_Gordon-Levitt",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Danny Gordon-Levitt",
+                "qid": "Q108887350"
+            },
+            {
+                "name": "Jeremy Gordon-Levitt",
+                "qid": "Q108887408"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Q132830262",
+                "qid": "Q132830262"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-02-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "(500) Days of Summer",
+                "qid": "Q154935",
+                "url": "https://vi.wikipedia.org/wiki/500_ng%C3%A0y_y%C3%AAu"
+            },
+            {
+                "name": "10 Things I Hate About You",
+                "qid": "Q169082",
+                "url": "https://vi.wikipedia.org/wiki/10_Things_I_Hate_About_You"
+            },
+            {
+                "name": "G.I. Joe: The Rise of Cobra",
+                "qid": "Q288645",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_G.I._Joe:_Cu%E1%BB%99c_chi%E1%BA%BFn_M%C3%A3ng_x%C3%A0"
+            },
+            {
+                "name": "Halloween H20: 20 Years Later",
+                "qid": "Q1050815",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_H20:_20_Years_Later"
+            },
+            {
+                "name": "Inception",
+                "qid": "Q25188",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_tr%E1%BB%99m_gi%E1%BA%A5c_m%C6%A1"
+            },
+            {
+                "name": "Latter Days",
+                "qid": "Q301046",
+                "url": "https://vi.wikipedia.org/wiki/Latter_Days"
+            },
+            {
+                "name": "Lincoln",
+                "qid": "Q32433",
+                "url": "https://vi.wikipedia.org/wiki/Lincoln_(phim)"
+            },
+            {
+                "name": "Looper",
+                "qid": "Q53719",
+                "url": "https://vi.wikipedia.org/wiki/Looper"
+            },
+            {
+                "name": "Premium Rush",
+                "qid": "Q1320875",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%91c_%C4%91%E1%BB%99_kinh_ho%C3%A0ng"
+            },
+            {
+                "name": "Project Power",
+                "qid": "Q57246586",
+                "url": "https://vi.wikipedia.org/wiki/Project_Power:_D%E1%BB%B1_%C3%A1n_si%C3%AAu_n%C4%83ng_l%E1%BB%B1c"
+            },
+            {
+                "name": "Sin City: A Dame to Kill For",
+                "qid": "Q1653396",
+                "url": "https://vi.wikipedia.org/wiki/Sin_City:_A_Dame_to_Kill_For"
+            },
+            {
+                "name": "Snowden",
+                "qid": "Q19315473",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_v%E1%BB%A5_Snowden"
+            },
+            {
+                "name": "Star Wars: Episode VIII – The Last Jedi",
+                "qid": "Q18486021",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Jedi_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "The Dark Knight Rises",
+                "qid": "Q189330",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm_tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "The Interview",
+                "qid": "Q15524911",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_ph%E1%BB%8Fng_v%E1%BA%A5n"
+            },
+            {
+                "name": "The Walk",
+                "qid": "Q17183895",
+                "url": "https://vi.wikipedia.org/wiki/B%C6%B0%E1%BB%9Bc_%C4%91i_th%E1%BA%BF_k%E1%BB%B7"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Tasha McCauley",
+                "qid": "Q18707610"
+            }
+        ]
+    }
+}

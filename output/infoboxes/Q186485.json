@@ -1,0 +1,151 @@
+{
+    "name": "Billy Crystal",
+    "qid": "Q186485",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Billy_Crystal",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Jack Crystal",
+                "qid": "Q121766551"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Jennifer Crystal Foley",
+                "qid": "Q3177046"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "baseball player",
+                "qid": "Q10871364"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "presenter",
+                "qid": "Q13590141"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "stand-up comedian",
+                "qid": "Q18545066"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1948-03-14T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Parental Guidance",
+                "qid": "Q3384891",
+                "url": "https://vi.wikipedia.org/wiki/Khi_ch%C3%A1u_l%C3%A0_si%C3%AAu_qu%E1%BA%ADy"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Parental Guidance",
+                "qid": "Q3384891",
+                "url": "https://vi.wikipedia.org/wiki/Khi_ch%C3%A1u_l%C3%A0_si%C3%AAu_qu%E1%BA%ADy"
+            },
+            {
+                "name": "The Muppets",
+                "qid": "Q550558",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_nh%E1%BA%A1c_h%E1%BB%99i_r%E1%BB%91i"
+            },
+            {
+                "name": "The Princess Bride",
+                "qid": "Q506418",
+                "url": "https://vi.wikipedia.org/wiki/The_Princess_Bride_(phim)"
+            },
+            {
+                "name": "When Harry Met Sally",
+                "qid": "Q471169",
+                "url": "https://vi.wikipedia.org/wiki/When_Harry_Met_Sally..."
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Janice Crystal",
+                "qid": "Q66442433"
+            }
+        ]
+    }
+}

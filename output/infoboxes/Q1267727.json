@@ -1,0 +1,94 @@
+{
+    "name": "Dustin Nguyen",
+    "qid": "Q1267727",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dustin_Nguy%E1%BB%85n",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "filmmaker",
+                "qid": "Q1414443"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-09-17T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Bao giờ có yêu nhau",
+                "qid": "Q130748647",
+                "url": "https://vi.wikipedia.org/wiki/Bao_gi%E1%BB%9D_c%C3%B3_y%C3%AAu_nhau"
+            },
+            {
+                "name": "Fool for Love",
+                "qid": "Q10841742",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%83_Mai_t%C3%ADnh"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "22 Jump Street",
+                "qid": "Q15040917",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_%C4%91%E1%BA%A1i_h%E1%BB%8Dc"
+            },
+            {
+                "name": "Fool for Love",
+                "qid": "Q10841742",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%83_Mai_t%C3%ADnh"
+            },
+            {
+                "name": "Once Upon a Time in Vietnam",
+                "qid": "Q14948461",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%ADa_Ph%E1%BA%ADt"
+            },
+            {
+                "name": "The Rebel",
+                "qid": "Q7982426",
+                "url": "https://vi.wikipedia.org/wiki/D%C3%B2ng_m%C3%A1u_anh_h%C3%B9ng"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Bao giờ có yêu nhau",
+                "qid": "Q130748647",
+                "url": "https://vi.wikipedia.org/wiki/Bao_gi%E1%BB%9D_c%C3%B3_y%C3%AAu_nhau"
+            },
+            {
+                "name": "Jackpot",
+                "qid": "Q21065370",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%BAng_s%E1%BB%91_(phim_2015)"
+            },
+            {
+                "name": "Once Upon a Time in Vietnam",
+                "qid": "Q14948461",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%ADa_Ph%E1%BA%ADt"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Angela Rockwood",
+                "qid": "Q4762539",
+                "url": "https://vi.wikipedia.org/wiki/Angela_Rockwood"
+            },
+            {
+                "name": "Bebe Pham",
+                "qid": "Q4878312",
+                "url": "https://vi.wikipedia.org/wiki/BB_Minh_Th%C3%BAy"
+            }
+        ]
+    }
+}

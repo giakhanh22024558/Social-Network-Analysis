@@ -1,0 +1,56 @@
+{
+    "name": "Michael Patrick King",
+    "qid": "Q979221",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Patrick_King",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "showrunner",
+                "qid": "Q1440873",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1954-09-14T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Sex and the City",
+                "qid": "Q381751",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_%E1%BA%A5y_l%C3%A0_chuy%E1%BB%87n_nh%E1%BB%8F"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Sex and the City",
+                "qid": "Q381751",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_%E1%BA%A5y_l%C3%A0_chuy%E1%BB%87n_nh%E1%BB%8F"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

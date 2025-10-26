@@ -1,0 +1,136 @@
+{
+    "name": "Q219512",
+    "qid": "Q219512",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jesse_Eisenberg",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Hallie Eisenberg",
+                "qid": "Q291361"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-10-05T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "A Real Pain",
+                "qid": "Q123690368",
+                "url": "https://vi.wikipedia.org/wiki/A_Real_Pain"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Real Pain",
+                "qid": "Q123690368",
+                "url": "https://vi.wikipedia.org/wiki/A_Real_Pain"
+            },
+            {
+                "name": "Batman v Superman: Dawn of Justice",
+                "qid": "Q14772351",
+                "url": "https://vi.wikipedia.org/wiki/Batman_%C4%91%E1%BA%A1i_chi%E1%BA%BFn_Superman:_%C3%81nh_s%C3%A1ng_c%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Café Society",
+                "qid": "Q20950014",
+                "url": "https://vi.wikipedia.org/wiki/Caf%C3%A9_Society_(phim)"
+            },
+            {
+                "name": "Justice League",
+                "qid": "Q20501835",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_C%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Now You See Me",
+                "qid": "Q499851",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_th%E1%BA%BF_k%E1%BB%B7"
+            },
+            {
+                "name": "Now You See Me 2",
+                "qid": "Q18703028",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_th%E1%BA%BF_k%E1%BB%B7_2"
+            },
+            {
+                "name": "The Social Network",
+                "qid": "Q185888",
+                "url": "https://vi.wikipedia.org/wiki/The_Social_Network"
+            },
+            {
+                "name": "To Rome with Love",
+                "qid": "Q29658",
+                "url": "https://vi.wikipedia.org/wiki/To_Rome_with_Love_(phim)"
+            },
+            {
+                "name": "Zack Snyder's Justice League",
+                "qid": "Q94998134",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_C%C3%B4ng_l%C3%BD_phi%C3%AAn_b%E1%BA%A3n_c%E1%BB%A7a_Zack_Snyder"
+            },
+            {
+                "name": "Zombieland",
+                "qid": "Q219810",
+                "url": "https://vi.wikipedia.org/wiki/Zombieland"
+            },
+            {
+                "name": "Zombieland: Double Tap",
+                "qid": "Q58879016",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_th%C3%A2y_ma:_C%C3%BA_b%E1%BA%AFn_%C4%91%C3%BAp"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "A Real Pain",
+                "qid": "Q123690368",
+                "url": "https://vi.wikipedia.org/wiki/A_Real_Pain"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Poland",
+                "qid": "Q36",
+                "url": "https://vi.wikipedia.org/wiki/Ba_Lan"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

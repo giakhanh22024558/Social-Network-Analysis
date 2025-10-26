@@ -1,0 +1,63 @@
+{
+    "name": "Mary McDonnell",
+    "qid": "Q117500",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mary_McDonnell",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1952-04-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Dances with Wolves",
+                "qid": "Q20456",
+                "url": "https://vi.wikipedia.org/wiki/Dances_with_Wolves"
+            },
+            {
+                "name": "Donnie Darko",
+                "qid": "Q426828",
+                "url": "https://vi.wikipedia.org/wiki/Donnie_Darko"
+            },
+            {
+                "name": "Independence Day",
+                "qid": "Q105387",
+                "url": "https://vi.wikipedia.org/wiki/Independence_Day_(phim_1996)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Randle Mell",
+                "qid": "Q2455455"
+            }
+        ]
+    }
+}

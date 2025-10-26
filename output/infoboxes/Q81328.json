@@ -1,0 +1,187 @@
+{
+    "name": "Harrison Ford",
+    "qid": "Q81328",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Harrison_Ford",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Terence Ford",
+                "qid": "Q2667427"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Henry Ford",
+                "qid": "Q107297595"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Ben Ford",
+                "qid": "Q96755116"
+            },
+            {
+                "name": "Willard Ford",
+                "qid": "Q123915258"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Dorothy Ford",
+                "qid": "Q107297592"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "aircraft pilot",
+                "qid": "Q2095549",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng"
+            },
+            {
+                "name": "carpenter",
+                "qid": "Q154549",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A3_m%E1%BB%99c"
+            },
+            {
+                "name": "environmentalist",
+                "qid": "Q3578589",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%B4i_tr%C6%B0%E1%BB%9Dng_h%E1%BB%8Dc"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1942-07-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Air Force One",
+                "qid": "Q407184",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_l%E1%BB%B1c_M%E1%BB%99t_(phim)"
+            },
+            {
+                "name": "Apocalypse Now",
+                "qid": "Q182692",
+                "url": "https://vi.wikipedia.org/wiki/Apocalypse_Now"
+            },
+            {
+                "name": "Blade Runner",
+                "qid": "Q184843",
+                "url": "https://vi.wikipedia.org/wiki/Blade_Runner"
+            },
+            {
+                "name": "Blade Runner 2049",
+                "qid": "Q21500755",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%99i_ph%E1%BA%A1m_nh%C3%A2n_b%E1%BA%A3n_2049"
+            },
+            {
+                "name": "Captain America: Brave New World",
+                "qid": "Q112322116",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_Th%E1%BA%BF_gi%E1%BB%9Bi_m%E1%BB%9Bi"
+            },
+            {
+                "name": "Cowboys & Aliens",
+                "qid": "Q725578",
+                "url": "https://vi.wikipedia.org/wiki/Cao_b%E1%BB%93i_%26_qu%C3%A1i_v%E1%BA%ADt_ngo%C3%A0i_h%C3%A0nh_tinh"
+            },
+            {
+                "name": "Ender's Game",
+                "qid": "Q1758112",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91%E1%BA%A5u_c%E1%BB%A7a_Ender"
+            },
+            {
+                "name": "Indiana Jones and the Dial of Destiny",
+                "qid": "Q24278982",
+                "url": "https://vi.wikipedia.org/wiki/Indiana_Jones_v%C3%A0_v%C3%B2ng_quay_%C4%91%E1%BB%8Bnh_m%E1%BB%87nh"
+            },
+            {
+                "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+                "qid": "Q182373",
+                "url": "https://vi.wikipedia.org/wiki/Indiana_Jones_v%C3%A0_v%C6%B0%C6%A1ng_qu%E1%BB%91c_s%E1%BB%8D_ng%C6%B0%E1%BB%9Di"
+            },
+            {
+                "name": "Paranoia",
+                "qid": "Q964955",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%99i_gi%C3%A1n_(phim_2013)"
+            },
+            {
+                "name": "Raiders of the Lost Ark",
+                "qid": "Q174284",
+                "url": "https://vi.wikipedia.org/wiki/Indiana_Jones_v%C3%A0_chi%E1%BA%BFc_r%C6%B0%C6%A1ng_th%C3%A1nh_t%C3%ADch"
+            },
+            {
+                "name": "Six Days Seven Nights",
+                "qid": "Q1124980",
+                "url": "https://vi.wikipedia.org/wiki/Six_Days_Seven_Nights"
+            },
+            {
+                "name": "Star Wars: Episode IV – A New Hope",
+                "qid": "Q17738",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Ni%E1%BB%81m_hi_v%E1%BB%8Dng_m%E1%BB%9Bi"
+            },
+            {
+                "name": "Star Wars: Episode V – The Empire Strikes Back",
+                "qid": "Q181795",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars_5:_%C4%90%E1%BA%BF_ch%E1%BA%BF_ph%E1%BA%A3n_c%C3%B4ng"
+            },
+            {
+                "name": "Star Wars: Episode VI – Return of the Jedi",
+                "qid": "Q181803",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_S%E1%BB%B1_tr%E1%BB%9F_l%E1%BA%A1i_c%E1%BB%A7a_Jedi"
+            },
+            {
+                "name": "Star Wars: Episode VII – The Force Awakens",
+                "qid": "Q6074",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Th%E1%BA%A7n_l%E1%BB%B1c_th%E1%BB%A9c_t%E1%BB%89nh"
+            },
+            {
+                "name": "The Age of Adaline",
+                "qid": "Q16242543",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BA%AFc_%C4%91%E1%BA%B9p_v%C4%A9nh_c%E1%BB%ADu"
+            },
+            {
+                "name": "The Expendables 3",
+                "qid": "Q14370516",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_3"
+            },
+            {
+                "name": "The Fugitive",
+                "qid": "Q156309",
+                "url": "https://vi.wikipedia.org/wiki/The_Fugitive_(phim_1993)"
+            },
+            {
+                "name": "The Secret Life of Pets 2",
+                "qid": "Q28561715",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B3ng_c%E1%BA%A5p_th%C3%BA_c%C6%B0ng_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Calista Flockhart",
+                "qid": "Q26424"
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Jonah Hauer-King",
+    "qid": "Q58924367",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jonah_Hauer-King",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1995-05-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Dog's Way Home",
+                "qid": "Q57314401",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_v%E1%BB%81_nh%C3%A0_c%E1%BB%A7a_c%C3%BAn_con"
+            },
+            {
+                "name": "Postcards from London",
+                "qid": "Q55070339",
+                "url": "https://vi.wikipedia.org/wiki/Postcards_from_London"
+            },
+            {
+                "name": "The Little Mermaid",
+                "qid": "Q24357415",
+                "url": "https://vi.wikipedia.org/wiki/N%C3%A0ng_ti%C3%AAn_c%C3%A1_(phim_2023)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "name": "Jodie Foster",
+    "qid": "Q41351",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jodie_Foster",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Buddy Foster",
+                "qid": "Q4984858"
+            },
+            {
+                "name": "Connie Foster",
+                "qid": "Q4948616"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Lucius Fisher Foster",
+                "qid": "Q96202860"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Brandy Almond",
+                "qid": "Q96202899"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "theatrical producer",
+                "qid": "Q1759246"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-11-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Very Long Engagement",
+                "qid": "Q936425",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91%C3%ADnh_h%C3%B4n_l%C3%A2u_d%C3%A0i"
+            },
+            {
+                "name": "Contact",
+                "qid": "Q270215",
+                "url": "https://vi.wikipedia.org/wiki/Contact_(phim)"
+            },
+            {
+                "name": "Elysium",
+                "qid": "Q80959",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B7_nguy%C3%AAn_Elysium"
+            },
+            {
+                "name": "Flightplan",
+                "qid": "Q638386",
+                "url": "https://vi.wikipedia.org/wiki/Flightplan"
+            },
+            {
+                "name": "Hotel Artemis",
+                "qid": "Q30321613",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%A1ch_s%E1%BA%A1n_t%E1%BB%99i_ph%E1%BA%A1m"
+            },
+            {
+                "name": "Maverick",
+                "qid": "Q675520",
+                "url": "https://vi.wikipedia.org/wiki/Maverick_(phim)"
+            },
+            {
+                "name": "Panic Room",
+                "qid": "Q741042",
+                "url": "https://vi.wikipedia.org/wiki/Panic_Room"
+            },
+            {
+                "name": "Taxi Driver",
+                "qid": "Q47221",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A0i_x%E1%BA%BF_taxi"
+            },
+            {
+                "name": "The Accused",
+                "qid": "Q531310",
+                "url": "https://vi.wikipedia.org/wiki/The_Accused_(phim_1988)"
+            },
+            {
+                "name": "The Silence of the Lambs",
+                "qid": "Q133654",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_im_l%E1%BA%B7ng_c%E1%BB%A7a_b%E1%BA%A7y_c%E1%BB%ABu_(phim)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Money Monster",
+                "qid": "Q19363691",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%B7t_tr%C3%A1i_ph%E1%BB%91_Wall"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Alexandra Hedison",
+                "qid": "Q258980"
+            }
+        ]
+    }
+}

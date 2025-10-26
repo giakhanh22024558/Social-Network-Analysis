@@ -1,0 +1,42 @@
+{
+    "name": "Damian Lillard",
+    "qid": "Q622308",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Damian_Lillard",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "basketball player",
+                "qid": "Q3665646"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1990-07-15T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Space Jam: A New Legacy",
+                "qid": "Q56850065",
+                "url": "https://vi.wikipedia.org/wiki/Space_Jam:_K%E1%BB%B7_nguy%C3%AAn_m%E1%BB%9Bi"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

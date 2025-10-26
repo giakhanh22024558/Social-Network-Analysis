@@ -1,0 +1,48 @@
+{
+    "name": "Jessie T. Usher",
+    "qid": "Q19519424",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jessie_T._Usher",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-02-29T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Independence Day: Resurgence",
+                "qid": "Q19614711",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_%C4%91%E1%BB%99c_l%E1%BA%ADp:_T%C3%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Smile",
+                "qid": "Q112623225",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%9Di_(phim_n%C4%83m_2022)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Mae Jemison",
+    "qid": "Q34091",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mae_Jemison",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "astronaut",
+                "qid": "Q11631",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_du_h%C3%A0nh_v%C5%A9_tr%E1%BB%A5"
+            },
+            {
+                "name": "children's writer",
+                "qid": "Q4853732"
+            },
+            {
+                "name": "engineer",
+                "qid": "Q81096",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B9_s%C6%B0"
+            },
+            {
+                "name": "physician",
+                "qid": "Q39631",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9"
+            },
+            {
+                "name": "physicist",
+                "qid": "Q169470",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%E1%BA%ADt_l%C3%BD"
+            },
+            {
+                "name": "professor",
+                "qid": "Q121594",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1o_s%C6%B0"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1956-10-17T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

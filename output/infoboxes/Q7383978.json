@@ -1,0 +1,80 @@
+{
+    "name": "Ryan Coogler",
+    "qid": "Q7383978",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ryan_Coogler",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-05-23T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Creed III",
+                "qid": "Q110664384",
+                "url": "https://vi.wikipedia.org/wiki/Creed_III:_Tay_%C4%91%E1%BA%A5m_huy%E1%BB%81n_tho%E1%BA%A1i"
+            },
+            {
+                "name": "Sinners",
+                "qid": "Q125473145",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%99i_%C4%91%E1%BB%93"
+            },
+            {
+                "name": "Space Jam: A New Legacy",
+                "qid": "Q56850065",
+                "url": "https://vi.wikipedia.org/wiki/Space_Jam:_K%E1%BB%B7_nguy%C3%AAn_m%E1%BB%9Bi"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Black Panther",
+                "qid": "Q23780734",
+                "url": "https://vi.wikipedia.org/wiki/Black_Panther:_Chi%E1%BA%BFn_binh_B%C3%A1o_%C4%90en"
+            },
+            {
+                "name": "Black Panther: Wakanda Forever",
+                "qid": "Q54860489",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_binh_B%C3%A1o_%C4%90en:_Wakanda_b%E1%BA%A5t_di%E1%BB%87t"
+            },
+            {
+                "name": "Sinners",
+                "qid": "Q125473145",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%99i_%C4%91%E1%BB%93"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "name": "Steven Tyler",
+    "qid": "Q194045",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steven_Tyler",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Bebe Buell",
+                "qid": "Q275593"
+            },
+            {
+                "name": "Julia Holcomb",
+                "qid": "Q115933944"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/441d7b2d0526dc2a7ed8aacb7350c177"
+            },
+            {
+                "name": "Chelsea Tyler",
+                "qid": "Q47008774"
+            },
+            {
+                "name": "Liv Tyler",
+                "qid": "Q168763",
+                "url": "https://vi.wikipedia.org/wiki/Liv_Tyler"
+            },
+            {
+                "name": "Mia Tyler",
+                "qid": "Q2715743"
+            },
+            {
+                "name": "Taj Tallarico",
+                "qid": "Q28151261"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "banjoist",
+                "qid": "Q9648008"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "guitarist",
+                "qid": "Q855091",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_guitar"
+            },
+            {
+                "name": "mandolinist",
+                "qid": "Q19723482"
+            },
+            {
+                "name": "pianist",
+                "qid": "Q486748",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_d%C6%B0%C6%A1ng_c%E1%BA%A7m"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1948-03-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Epic",
+                "qid": "Q2700629",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_h%C3%B9ng_chi%E1%BA%BFn_x%E1%BB%A9_s%E1%BB%9F_l%C3%A1_c%C3%A2y"
+            },
+            {
+                "name": "The Polar Express",
+                "qid": "Q862197",
+                "url": "https://vi.wikipedia.org/wiki/The_Polar_Express_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Cyrinda Foxe",
+                "qid": "Q2615965"
+            },
+            {
+                "name": "Teresa Barrick",
+                "qid": "Q47008854"
+            }
+        ]
+    }
+}

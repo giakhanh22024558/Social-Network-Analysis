@@ -1,0 +1,85 @@
+{
+    "name": "Gore Verbinski",
+    "qid": "Q295463",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Gore_Verbinski",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1964-03-16T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Lone Ranger",
+                "qid": "Q548919",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_c%C3%B4_%C4%91%E1%BB%99c"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Pirates of the Caribbean: At World's End",
+                "qid": "Q54274",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%9Bp_bi%E1%BB%83n_v%C3%B9ng_Caribbean_3:_N%C6%A1i_t%E1%BA%ADn_c%C3%B9ng_th%E1%BA%BF_gi%E1%BB%9Bi"
+            },
+            {
+                "name": "Pirates of the Caribbean: Dead Man's Chest",
+                "qid": "Q161087",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%9Bp_bi%E1%BB%83n_v%C3%B9ng_Caribbe_2:_Chi%E1%BA%BFc_r%C6%B0%C6%A1ng_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "qid": "Q46717",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%9Bp_bi%E1%BB%83n_v%C3%B9ng_Caribbean:_L%E1%BB%9Di_nguy%E1%BB%81n_c%E1%BB%A7a_t%C3%A0u_Ng%E1%BB%8Dc_Trai_%C4%90en"
+            },
+            {
+                "name": "Rango",
+                "qid": "Q275432",
+                "url": "https://vi.wikipedia.org/wiki/Rango_(phim_2011)"
+            },
+            {
+                "name": "The Lone Ranger",
+                "qid": "Q548919",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_c%C3%B4_%C4%91%E1%BB%99c"
+            },
+            {
+                "name": "The Ring",
+                "qid": "Q212804",
+                "url": "https://vi.wikipedia.org/wiki/The_Ring_(phim_2002)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

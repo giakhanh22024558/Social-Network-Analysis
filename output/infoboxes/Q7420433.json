@@ -1,0 +1,51 @@
+{
+    "name": "Santino Fontana",
+    "qid": "Q7420433",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Santino_Fontana",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "theatrical director",
+                "qid": "Q3387717"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-03-21T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jessica Fontana",
+                "qid": "Q115019731"
+            }
+        ]
+    }
+}

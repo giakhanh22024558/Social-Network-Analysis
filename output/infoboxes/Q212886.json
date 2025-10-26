@@ -1,0 +1,77 @@
+{
+    "name": "Stephen Colbert",
+    "qid": "Q212886",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Stephen_Colbert",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Elizabeth Colbert Busch",
+                "qid": "Q5362608"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "James William Colbert, Jr.",
+                "qid": "Q24069531"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1964-05-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Miss Americana",
+                "qid": "Q77833628",
+                "url": "https://vi.wikipedia.org/wiki/Miss_Americana"
+            },
+            {
+                "name": "The Hobbit: The Desolation of Smaug",
+                "qid": "Q719915",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Hobbit:_%C4%90%E1%BA%A1i_chi%E1%BA%BFn_v%E1%BB%9Bi_r%E1%BB%93ng_l%E1%BB%ADa"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Evelyn McGee-Colbert",
+                "qid": "Q119795483"
+            }
+        ]
+    }
+}

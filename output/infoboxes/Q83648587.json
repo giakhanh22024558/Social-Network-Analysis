@@ -1,0 +1,78 @@
+{
+    "name": "Charli D'Amelio",
+    "qid": "Q83648587",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Charli_D%27Amelio",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Dixie D'Amelio",
+                "qid": "Q83708517",
+                "url": "https://vi.wikipedia.org/wiki/Dixie_D%27amelio"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Huddy",
+                "qid": "Q90354235"
+            },
+            {
+                "name": "Landon Barker",
+                "qid": "Q115626511"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Marc D'Amelio",
+                "qid": "Q92209051"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Heidi D'Amelio",
+                "qid": "Q100791818"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "TikToker",
+                "qid": "Q94791573"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "influencer",
+                "qid": "Q2906862"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "vlogger",
+                "qid": "Q4110598"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2004-05-01T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

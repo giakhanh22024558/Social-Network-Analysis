@@ -1,0 +1,88 @@
+{
+    "name": "Norman Reedus",
+    "qid": "Q503545",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Norman_Reedus",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Diane Kruger",
+                "qid": "Q57118",
+                "url": "https://vi.wikipedia.org/wiki/Diane_Kruger"
+            },
+            {
+                "name": "Helena Christensen",
+                "qid": "Q229397"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Mingus Lucien Reedus",
+                "qid": "Q107484456"
+            },
+            {
+                "name": "Nova Tennessee",
+                "qid": "Q107484407"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-01-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ballerina",
+                "qid": "Q84713105",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%AB_V%C5%A9_tr%E1%BB%A5_John_Wick:_Ballerina"
+            },
+            {
+                "name": "Triple 9",
+                "qid": "Q17144452",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_999"
+            },
+            {
+                "name": "Vacation",
+                "qid": "Q18155457",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B3_ngh%E1%BB%89_b%C3%A1_%C4%91%E1%BA%A1o"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

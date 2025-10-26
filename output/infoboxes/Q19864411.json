@@ -1,0 +1,53 @@
+{
+    "name": "Khalilah Ali",
+    "qid": "Q19864411",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Khalilah_Ali",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Maryum Ali",
+                "qid": "Q24293017"
+            },
+            {
+                "name": "Muhammad Ali Jr.",
+                "qid": "Q24293161"
+            },
+            {
+                "name": "Rasheda Ali",
+                "qid": "Q124377161"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1950-01-01T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Muhammad Ali",
+                "qid": "Q36107",
+                "url": "https://vi.wikipedia.org/wiki/Muhammad_Ali"
+            }
+        ]
+    }
+}

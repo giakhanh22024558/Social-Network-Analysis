@@ -1,0 +1,64 @@
+{
+    "name": "Chris Tucker",
+    "qid": "Q219717",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Chris_Tucker",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-08-31T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Billy Lynn's Long Halftime Walk",
+                "qid": "Q19839914",
+                "url": "https://vi.wikipedia.org/wiki/Billy_Lynn_v%C3%A0_cu%E1%BB%99c_chi%E1%BA%BFn_n%E1%BB%ADa_%C4%91%E1%BB%9Di_ng%C6%B0%E1%BB%9Di"
+            },
+            {
+                "name": "Rush Hour",
+                "qid": "Q255342",
+                "url": "https://vi.wikipedia.org/wiki/Rush_Hour_(phim_1998)"
+            },
+            {
+                "name": "Rush Hour 2",
+                "qid": "Q830208",
+                "url": "https://vi.wikipedia.org/wiki/Rush_Hour_2"
+            },
+            {
+                "name": "Silver Linings Playbook",
+                "qid": "Q116845",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%ACnh_y%C3%AAu_t%C3%ACm_l%E1%BA%A1i"
+            },
+            {
+                "name": "The Fifth Element",
+                "qid": "Q106506",
+                "url": "https://vi.wikipedia.org/wiki/The_Fifth_Element"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

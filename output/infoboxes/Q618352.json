@@ -1,0 +1,138 @@
+{
+    "name": "Kevin Hart",
+    "qid": "Q618352",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kevin_Hart",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Heaven Hart",
+                "qid": "Q127260535"
+            },
+            {
+                "name": "Hendrix Hart",
+                "qid": "Q47168306"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "author",
+                "qid": "Q482980",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1c_gi%E1%BA%A3"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stand-up comedian",
+                "qid": "Q18545066"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-07-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Borderlands",
+                "qid": "Q106329715",
+                "url": "https://vi.wikipedia.org/wiki/Borderlands:_Tr%E1%BB%9F_l%E1%BA%A1i_Pandora"
+            },
+            {
+                "name": "Central Intelligence",
+                "qid": "Q19867575",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_kh%C3%B4ng_ho%C3%A0n_h%E1%BA%A3o"
+            },
+            {
+                "name": "Fool's Gold",
+                "qid": "Q1305119",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%AD_m%E1%BA%ADt_d%C6%B0%E1%BB%9Bi_%C4%91%C3%A1y_bi%E1%BB%83n"
+            },
+            {
+                "name": "Hobbs & Shaw",
+                "qid": "Q56559254",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious:_Hobbs_%26_Shaw"
+            },
+            {
+                "name": "Jumanji: The Next Level",
+                "qid": "Q60501923",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_k%E1%BB%B3_%E1%BA%A3o:_Th%C4%83ng_c%E1%BA%A5p"
+            },
+            {
+                "name": "Jumanji: Welcome to the Jungle",
+                "qid": "Q20762680",
+                "url": "https://vi.wikipedia.org/wiki/Jumanji:_Tr%C3%B2_ch%C6%A1i_k%E1%BB%B3_%E1%BA%A3o"
+            },
+            {
+                "name": "Little Fockers",
+                "qid": "Q921985",
+                "url": "https://vi.wikipedia.org/wiki/G%E1%BA%B7p_g%E1%BB%A1_th%C3%B4ng_gia:_Nh%C3%B3c_Fockers"
+            },
+            {
+                "name": "Ride Along 2",
+                "qid": "Q17903453",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_t%E1%BA%ADp_s%E1%BB%B1"
+            },
+            {
+                "name": "The Secret Life of Pets 2",
+                "qid": "Q28561715",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B3ng_c%E1%BA%A5p_th%C3%BA_c%C6%B0ng_2"
+            },
+            {
+                "name": "The Wedding Ringer",
+                "qid": "Q17049587",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BB%8Bch_v%E1%BB%A5_trai_thu%C3%AA"
+            },
+            {
+                "name": "This Is the End",
+                "qid": "Q607363",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_n%E1%BB%91t_ng%C3%A0y_cu%E1%BB%91i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Eniko Hart",
+                "qid": "Q23887492"
+            }
+        ]
+    }
+}

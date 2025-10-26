@@ -1,0 +1,147 @@
+{
+    "name": "Dolph Lundgren",
+    "qid": "Q181678",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dolph_Lundgren",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Grace Jones",
+                "qid": "Q450429",
+                "url": "https://vi.wikipedia.org/wiki/Grace_Jones"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Greta Lundgren",
+                "qid": "Q82697528"
+            },
+            {
+                "name": "Ida Lundgren",
+                "qid": "Q82680322"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "bodybuilder",
+                "qid": "Q15982795"
+            },
+            {
+                "name": "boxer",
+                "qid": "Q11338576"
+            },
+            {
+                "name": "chemist",
+                "qid": "Q593644",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_h%C3%B3a_h%E1%BB%8Dc"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "engineer",
+                "qid": "Q81096",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B9_s%C6%B0"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "judoka",
+                "qid": "Q6665249"
+            },
+            {
+                "name": "karateka",
+                "qid": "Q9017214"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-11-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Aquaman",
+                "qid": "Q22998395",
+                "url": "https://vi.wikipedia.org/wiki/Aquaman:_%C4%90%E1%BA%BF_v%C6%B0%C6%A1ng_Atlantis"
+            },
+            {
+                "name": "Aquaman and the Lost Kingdom",
+                "qid": "Q91226161",
+                "url": "https://vi.wikipedia.org/wiki/Aquaman_v%C3%A0_v%C6%B0%C6%A1ng_qu%E1%BB%91c_th%E1%BA%A5t_l%E1%BA%A1c"
+            },
+            {
+                "name": "Expend4bles",
+                "qid": "Q108813842",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_4"
+            },
+            {
+                "name": "The Expendables",
+                "qid": "Q206374",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA"
+            },
+            {
+                "name": "The Expendables 2",
+                "qid": "Q210812",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_2"
+            },
+            {
+                "name": "The Expendables 3",
+                "qid": "Q14370516",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_3"
+            },
+            {
+                "name": "Universal Soldier: Day of Reckoning",
+                "qid": "Q166716",
+                "url": "https://vi.wikipedia.org/wiki/Universal_Soldier:_Day_of_Reckoning"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Sweden",
+                "qid": "Q34",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A5y_%C4%90i%E1%BB%83n"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Anette Qviberg",
+                "qid": "Q82704499"
+            }
+        ]
+    }
+}

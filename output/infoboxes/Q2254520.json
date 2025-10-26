@@ -1,0 +1,53 @@
+{
+    "name": "Pat Fraley",
+    "qid": "Q2254520",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Pat_Fraley",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Ford Fraley",
+                "qid": "Q64684062"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1949-02-18T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Cam Clarke",
+                "qid": "Q876726",
+                "url": "https://vi.wikipedia.org/wiki/Cam_Clarke"
+            },
+            {
+                "name": "Tina Cole",
+                "qid": "Q7807881"
+            }
+        ]
+    }
+}

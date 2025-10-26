@@ -1,0 +1,128 @@
+{
+    "name": "Jamie Lee Curtis",
+    "qid": "Q106997",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jamie_Lee_Curtis",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Kelly Curtis",
+                "qid": "Q273574"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Tony Curtis",
+                "qid": "Q162389",
+                "url": "https://vi.wikipedia.org/wiki/Tony_Curtis"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Annie Guest",
+                "qid": "Q56234831"
+            },
+            {
+                "name": "Ruby Guest",
+                "qid": "Q43376115"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Janet Leigh",
+                "qid": "Q205314"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "children's writer",
+                "qid": "Q4853732"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-11-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Borderlands",
+                "qid": "Q106329715",
+                "url": "https://vi.wikipedia.org/wiki/Borderlands:_Tr%E1%BB%9F_l%E1%BA%A1i_Pandora"
+            },
+            {
+                "name": "Everything Everywhere All at Once",
+                "qid": "Q83808444",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_%C4%91a_v%C5%A9_tr%E1%BB%A5"
+            },
+            {
+                "name": "Halloween",
+                "qid": "Q221103",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_(phim_1978)"
+            },
+            {
+                "name": "Halloween",
+                "qid": "Q20666646",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_(phim_2018)"
+            },
+            {
+                "name": "Halloween Ends",
+                "qid": "Q85997053",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_Ends"
+            },
+            {
+                "name": "Halloween H20: 20 Years Later",
+                "qid": "Q1050815",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_H20:_20_Years_Later"
+            },
+            {
+                "name": "Halloween Kills",
+                "qid": "Q67279679",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_Kills"
+            },
+            {
+                "name": "Halloween: Resurrection",
+                "qid": "Q176488",
+                "url": "https://vi.wikipedia.org/wiki/Halloween:_Resurrection"
+            },
+            {
+                "name": "Knives Out",
+                "qid": "Q57982486",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_%C4%91%C3%A2m_l%C3%A9n"
+            },
+            {
+                "name": "True Lies",
+                "qid": "Q110397",
+                "url": "https://vi.wikipedia.org/wiki/True_Lies"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Christopher Guest",
+                "qid": "Q336074"
+            }
+        ]
+    }
+}

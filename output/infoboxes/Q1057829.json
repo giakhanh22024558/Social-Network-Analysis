@@ -1,0 +1,44 @@
+{
+    "name": "Elly Trần",
+    "qid": "Q1057829",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Elly_Tr%E1%BA%A7n",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1987-08-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Saigon Electric",
+                "qid": "Q7400073",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A0i_G%C3%B2n_Yo!"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            },
+            {
+                "name": "Vietnam",
+                "qid": "Q881",
+                "url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam"
+            }
+        ]
+    }
+}

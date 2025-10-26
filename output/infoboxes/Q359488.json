@@ -1,0 +1,152 @@
+{
+    "name": "Michael Peña",
+    "qid": "Q359488",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Pe%C3%B1a",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1976-01-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Wrinkle in Time",
+                "qid": "Q24301388",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BA%BFp_g%E1%BA%A5p_th%E1%BB%9Di_gian_(phim_2018)"
+            },
+            {
+                "name": "American Hustle",
+                "qid": "Q9013673",
+                "url": "https://vi.wikipedia.org/wiki/S%C4%83n_ti%E1%BB%81n_ki%E1%BB%83u_M%E1%BB%B9"
+            },
+            {
+                "name": "Ant-Man",
+                "qid": "Q5901134",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_(phim)"
+            },
+            {
+                "name": "Ant-Man and the Wasp",
+                "qid": "Q22957393",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_v%C3%A0_Chi%E1%BA%BFn_binh_Ong"
+            },
+            {
+                "name": "Babel",
+                "qid": "Q191074",
+                "url": "https://vi.wikipedia.org/wiki/Babel_(phim)"
+            },
+            {
+                "name": "Collateral Beauty",
+                "qid": "Q22977777",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%BB_%C4%91%E1%BA%B9p_cu%E1%BB%99c_s%E1%BB%91ng"
+            },
+            {
+                "name": "Fantasy Island",
+                "qid": "Q60737563",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_kinh_ho%C3%A0ng_(phim_2020)"
+            },
+            {
+                "name": "Fury",
+                "qid": "Q14786561",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%93ng_n%E1%BB%99_(phim_2014)"
+            },
+            {
+                "name": "Gangster Squad",
+                "qid": "Q27751",
+                "url": "https://vi.wikipedia.org/wiki/Gangster_Squad"
+            },
+            {
+                "name": "Million Dollar Baby",
+                "qid": "Q184255",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tri%E1%BB%87u_%C4%91%C3%B4"
+            },
+            {
+                "name": "Moonfall",
+                "qid": "Q101440388",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C4%83ng_r%C6%A1i"
+            },
+            {
+                "name": "Murder on the Orient Express",
+                "qid": "Q27689100",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81n_m%E1%BA%A1ng_tr%C3%AAn_chuy%E1%BA%BFn_t%C3%A0u_t%E1%BB%91c_h%C3%A0nh_Ph%C6%B0%C6%A1ng_%C4%90%C3%B4ng_(phim_2017)"
+            },
+            {
+                "name": "Next Gen",
+                "qid": "Q56148489",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_gi%E1%BA%A3i_c%E1%BB%A9u_th%E1%BA%BF_gi%E1%BB%9Bi"
+            },
+            {
+                "name": "Shooter",
+                "qid": "Q309014",
+                "url": "https://vi.wikipedia.org/wiki/Shooter"
+            },
+            {
+                "name": "The Lego Ninjago Movie",
+                "qid": "Q22131901",
+                "url": "https://vi.wikipedia.org/wiki/Phim_Lego_Ninjago"
+            },
+            {
+                "name": "The Lincoln Lawyer",
+                "qid": "Q287748",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A2n_danh_c%C3%B4ng_l%C3%BD_(phim)"
+            },
+            {
+                "name": "The Martian",
+                "qid": "Q18547944",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_v%E1%BB%81_t%E1%BB%AB_Sao_H%E1%BB%8Fa"
+            },
+            {
+                "name": "Tom & Jerry",
+                "qid": "Q65921361",
+                "url": "https://vi.wikipedia.org/wiki/Tom_%26_Jerry:_Qu%E1%BA%ADy_tung_New_York"
+            },
+            {
+                "name": "Vacation",
+                "qid": "Q18155457",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B3_ngh%E1%BB%89_b%C3%A1_%C4%91%E1%BA%A1o"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Brie Peña",
+                "qid": "Q101246613"
+            }
+        ]
+    }
+}

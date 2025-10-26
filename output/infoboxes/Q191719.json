@@ -1,0 +1,134 @@
+{
+    "name": "Q191719",
+    "qid": "Q191719",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Zooey_Deschanel",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Emily Deschanel",
+                "qid": "Q204672"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Jonathan Scott",
+                "qid": "Q23664030"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Caleb Deschanel",
+                "qid": "Q49020"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Mary Jo Deschanel",
+                "qid": "Q1290421"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "fashion model",
+                "qid": "Q3357567"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-01-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "(500) Days of Summer",
+                "qid": "Q154935",
+                "url": "https://vi.wikipedia.org/wiki/500_ng%C3%A0y_y%C3%AAu"
+            },
+            {
+                "name": "Almost Famous",
+                "qid": "Q726294",
+                "url": "https://vi.wikipedia.org/wiki/Almost_Famous"
+            },
+            {
+                "name": "Harold and the Purple Crayon",
+                "qid": "Q111883640",
+                "url": "https://vi.wikipedia.org/wiki/Harold_v%C3%A0_c%C3%A2y_b%C3%BAt_ph%C3%A9p_thu%E1%BA%ADt_(phim)"
+            },
+            {
+                "name": "The Happening",
+                "qid": "Q681092",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A3m_h%E1%BB%8Da_to%C3%A0n_c%E1%BA%A7u"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Ben Gibbard",
+                "qid": "Q816502"
+            }
+        ]
+    }
+}

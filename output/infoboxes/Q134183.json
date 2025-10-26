@@ -1,0 +1,74 @@
+{
+    "name": "Magic Johnson",
+    "qid": "Q134183",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Magic_Johnson",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "EJ Johnson",
+                "qid": "Q29532274"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "HIV/AIDS activist",
+                "qid": "Q96034777"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "basketball coach",
+                "qid": "Q5137571"
+            },
+            {
+                "name": "basketball player",
+                "qid": "Q3665646"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "financier",
+                "qid": "Q1979607"
+            },
+            {
+                "name": "motivational speaker",
+                "qid": "Q15982858",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_gi%E1%BA%A3_truy%E1%BB%81n_c%E1%BA%A3m_h%E1%BB%A9ng"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-08-14T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

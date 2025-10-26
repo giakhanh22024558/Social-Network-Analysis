@@ -1,0 +1,67 @@
+{
+    "name": "Pitbull",
+    "qid": "Q187844",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Pitbull",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "brand ambassador",
+                "qid": "Q4956562",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_s%E1%BB%A9_th%C6%B0%C6%A1ng_hi%E1%BB%87u"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "philanthropist",
+                "qid": "Q12362622"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-01-15T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Epic",
+                "qid": "Q2700629",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_h%C3%B9ng_chi%E1%BA%BFn_x%E1%BB%A9_s%E1%BB%9F_l%C3%A1_c%C3%A2y"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

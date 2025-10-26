@@ -1,0 +1,39 @@
+{
+    "name": "Tati Gabrielle",
+    "qid": "Q58680736",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tati_Gabrielle",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1996-01-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Mortal Kombat II",
+                "qid": "Q117830073",
+                "url": "https://vi.wikipedia.org/wiki/Mortal_Kombat:_Cu%E1%BB%99c_chi%E1%BA%BFn_sinh_t%E1%BB%AD_II"
+            },
+            {
+                "name": "Uncharted",
+                "qid": "Q67171881",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A3_s%C4%83n_c%E1%BB%95_v%E1%BA%ADt"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

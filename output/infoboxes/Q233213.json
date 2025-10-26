@@ -1,0 +1,76 @@
+{
+    "name": "Paula Patton",
+    "qid": "Q233213",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Paula_Patton",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Julian Fuego",
+                "qid": "Q22443776"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1975-12-05T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Déjà Vu",
+                "qid": "Q252409",
+                "url": "https://vi.wikipedia.org/wiki/K%C3%BD_%E1%BB%A9c_%E1%BA%A3o_gi%C3%A1c"
+            },
+            {
+                "name": "Mirrors",
+                "qid": "Q1320806",
+                "url": "https://vi.wikipedia.org/wiki/Mirrors_(phim)"
+            },
+            {
+                "name": "Mission: Impossible – Ghost Protocol",
+                "qid": "Q628154",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi:_Chi%E1%BA%BFn_d%E1%BB%8Bch_b%C3%B3ng_ma"
+            },
+            {
+                "name": "Precious",
+                "qid": "Q269331",
+                "url": "https://vi.wikipedia.org/wiki/Precious_(phim)"
+            },
+            {
+                "name": "Warcraft",
+                "qid": "Q14513321",
+                "url": "https://vi.wikipedia.org/wiki/Warcraft:_%C4%90%E1%BA%A1i_chi%E1%BA%BFn_hai_th%E1%BA%BF_gi%E1%BB%9Bi"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Robin Thicke",
+                "qid": "Q467423",
+                "url": "https://vi.wikipedia.org/wiki/Robin_Thicke"
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "name": "Salman Rushdie",
+    "qid": "Q44306",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Salman_Rushdie",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Anis Ahmed Rushdie",
+                "qid": "Q111442669"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Milan Rushdie",
+                "qid": "Q76317252"
+            },
+            {
+                "name": "Zafar Rushdie",
+                "qid": "Q76317255"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "author",
+                "qid": "Q482980",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1c_gi%E1%BA%A3"
+            },
+            {
+                "name": "children's writer",
+                "qid": "Q4853732"
+            },
+            {
+                "name": "essayist",
+                "qid": "Q11774202"
+            },
+            {
+                "name": "novelist",
+                "qid": "Q6625963",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1947-06-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Midnight's Children",
+                "qid": "Q1649787",
+                "url": "https://vi.wikipedia.org/wiki/Midnight%27s_Children"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "India",
+                "qid": "Q668",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A4n_%C4%90%E1%BB%99"
+            },
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Clarissa Luard",
+                "qid": "Q76317254"
+            },
+            {
+                "name": "Elizabeth West",
+                "qid": "Q76317251"
+            },
+            {
+                "name": "Marianne Wiggins",
+                "qid": "Q6762285"
+            },
+            {
+                "name": "Padma Lakshmi",
+                "qid": "Q464835"
+            },
+            {
+                "name": "Rachel Eliza Griffiths",
+                "qid": "Q108330054"
+            }
+        ]
+    }
+}

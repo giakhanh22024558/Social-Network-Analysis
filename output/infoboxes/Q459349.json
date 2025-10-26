@@ -1,0 +1,98 @@
+{
+    "name": "Noah Baumbach",
+    "qid": "Q459349",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Noah_Baumbach",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Greta Gerwig",
+                "qid": "Q271967",
+                "url": "https://vi.wikipedia.org/wiki/Greta_Gerwig"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Jonathan Baumbach",
+                "qid": "Q21095469"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-09-03T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Frances Ha",
+                "qid": "Q5478692",
+                "url": "https://vi.wikipedia.org/wiki/Frances_Ha"
+            },
+            {
+                "name": "Greenberg",
+                "qid": "Q629974",
+                "url": "https://vi.wikipedia.org/wiki/Greenberg_(phim)"
+            },
+            {
+                "name": "Marriage Story",
+                "qid": "Q48671199",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_h%C3%B4n_nh%C3%A2n"
+            },
+            {
+                "name": "Mistress America",
+                "qid": "Q18699754",
+                "url": "https://vi.wikipedia.org/wiki/Mistress_America"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Greta Gerwig",
+                "qid": "Q271967",
+                "url": "https://vi.wikipedia.org/wiki/Greta_Gerwig"
+            },
+            {
+                "name": "Jennifer Jason Leigh",
+                "qid": "Q232902",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Jason_Leigh"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Kaity Nguyễn",
+    "qid": "Q97160431",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kaity_Nguy%E1%BB%85n",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1999-04-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Blood Moon Party",
+                "qid": "Q109431346",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%87c_tr%C4%83ng_m%C3%A1u"
+            },
+            {
+                "name": "Gái già lắm chiêu V: Những cuộc đời vương giả",
+                "qid": "Q111306702",
+                "url": "https://vi.wikipedia.org/wiki/G%C3%A1i_gi%C3%A0_l%E1%BA%AFm_chi%C3%AAu_V:_Nh%E1%BB%AFng_cu%E1%BB%99c_%C4%91%E1%BB%9Di_v%C6%B0%C6%A1ng_gi%E1%BA%A3"
+            },
+            {
+                "name": "Hijacked",
+                "qid": "Q135484611",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%AD_chi%E1%BA%BFn_tr%C3%AAn_kh%C3%B4ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            },
+            {
+                "name": "Vietnam",
+                "qid": "Q881",
+                "url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam"
+            }
+        ]
+    }
+}

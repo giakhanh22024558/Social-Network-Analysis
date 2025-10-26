@@ -1,0 +1,81 @@
+{
+    "name": "Powers Boothe",
+    "qid": "Q503027",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Powers_Boothe",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Parisse Boothe",
+                "qid": "Q1277041"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "art collector",
+                "qid": "Q10732476"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1948-06-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "MacGruber",
+                "qid": "Q1579371",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%B7c_v%E1%BB%A5_(phim_2010)"
+            },
+            {
+                "name": "Sin City",
+                "qid": "Q192115",
+                "url": "https://vi.wikipedia.org/wiki/Sin_City_(phim)"
+            },
+            {
+                "name": "Sin City: A Dame to Kill For",
+                "qid": "Q1653396",
+                "url": "https://vi.wikipedia.org/wiki/Sin_City:_A_Dame_to_Kill_For"
+            },
+            {
+                "name": "Sudden Death",
+                "qid": "Q241309",
+                "url": "https://vi.wikipedia.org/wiki/Sudden_Death"
+            },
+            {
+                "name": "The Avengers",
+                "qid": "Q182218",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_si%C3%AAu_anh_h%C3%B9ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

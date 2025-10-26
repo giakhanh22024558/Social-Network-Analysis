@@ -1,0 +1,52 @@
+{
+    "name": "Seth Godin",
+    "qid": "Q439396",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Seth_Godin",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "blogger",
+                "qid": "Q8246794",
+                "url": "https://vi.wikipedia.org/wiki/Blogger"
+            },
+            {
+                "name": "computer scientist",
+                "qid": "Q82594",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_khoa_h%E1%BB%8Dc_m%C3%A1y_t%C3%ADnh"
+            },
+            {
+                "name": "economist",
+                "qid": "Q188094",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_kinh_t%E1%BA%BF_h%E1%BB%8Dc"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1960-07-10T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

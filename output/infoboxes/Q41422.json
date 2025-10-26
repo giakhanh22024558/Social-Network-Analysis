@@ -1,0 +1,208 @@
+{
+    "name": "Mark Ruffalo",
+    "qid": "Q41422",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mark_Ruffalo",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Bella Noche Ruffalo",
+                "qid": "Q111700956"
+            },
+            {
+                "name": "Keen Ruffalo",
+                "qid": "Q111700950"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-11-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avengers: Age of Ultron",
+                "qid": "Q14171368",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_%C4%90%E1%BA%BF_ch%E1%BA%BF_Ultron"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Begin Again",
+                "qid": "Q2935739",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_cu%E1%BB%93ng_si"
+            },
+            {
+                "name": "Captain Marvel",
+                "qid": "Q23781129",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_u%C3%BD_Marvel_(phim)"
+            },
+            {
+                "name": "Date Night",
+                "qid": "Q1139801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_h%E1%BA%B9n_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Eternal Sunshine of the Spotless Mind",
+                "qid": "Q208269",
+                "url": "https://vi.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind"
+            },
+            {
+                "name": "In the Cut",
+                "qid": "Q59572",
+                "url": "https://vi.wikipedia.org/wiki/In_The_Cut"
+            },
+            {
+                "name": "Iron Man 3",
+                "qid": "Q209538",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_3"
+            },
+            {
+                "name": "Just like Heaven",
+                "qid": "Q75539",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93n_y%C3%AAu"
+            },
+            {
+                "name": "Mickey 17",
+                "qid": "Q112977213",
+                "url": "https://vi.wikipedia.org/wiki/Mickey_17"
+            },
+            {
+                "name": "Now You See Me",
+                "qid": "Q499851",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_th%E1%BA%BF_k%E1%BB%B7"
+            },
+            {
+                "name": "Now You See Me 2",
+                "qid": "Q18703028",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_th%E1%BA%BF_k%E1%BB%B7_2"
+            },
+            {
+                "name": "Ride with the Devil",
+                "qid": "Q669578",
+                "url": "https://vi.wikipedia.org/wiki/Ride_with_the_Devil"
+            },
+            {
+                "name": "Shang-Chi and the Legend of the Ten Rings",
+                "qid": "Q65768589",
+                "url": "https://vi.wikipedia.org/wiki/Shang-Chi_v%C3%A0_huy%E1%BB%81n_tho%E1%BA%A1i_Th%E1%BA%ADp_Lu%C3%A2n"
+            },
+            {
+                "name": "Shutter Island",
+                "qid": "Q210364",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_kinh_ho%C3%A0ng_(phim_2010)"
+            },
+            {
+                "name": "Spider-Man: Brand New Day",
+                "qid": "Q113244935",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Ng%C3%A0y_m%E1%BB%9Bi_toanh"
+            },
+            {
+                "name": "Spotlight",
+                "qid": "Q18154496",
+                "url": "https://vi.wikipedia.org/wiki/Spotlight_(phim)"
+            },
+            {
+                "name": "The Avengers",
+                "qid": "Q182218",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "The Kids Are All Right",
+                "qid": "Q380841",
+                "url": "https://vi.wikipedia.org/wiki/The_Kids_Are_All_Right_(phim)"
+            },
+            {
+                "name": "The Last Castle",
+                "qid": "Q1218847",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%A1o_%C4%91%C3%A0i_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "The Normal Heart",
+                "qid": "Q15039861",
+                "url": "https://vi.wikipedia.org/wiki/The_Normal_Heart_(phim)"
+            },
+            {
+                "name": "Thor: Ragnarok",
+                "qid": "Q22665878",
+                "url": "https://vi.wikipedia.org/wiki/Thor:_T%E1%BA%ADn_th%E1%BA%BF_Ragnarok"
+            },
+            {
+                "name": "Windtalkers",
+                "qid": "Q1145275",
+                "url": "https://vi.wikipedia.org/wiki/Windtalkers"
+            },
+            {
+                "name": "You Can Count on Me",
+                "qid": "Q2300341",
+                "url": "https://vi.wikipedia.org/wiki/You_Can_Count_On_Me"
+            },
+            {
+                "name": "Zodiac",
+                "qid": "Q218172",
+                "url": "https://vi.wikipedia.org/wiki/Zodiac_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Sunrise Coigney",
+                "qid": "Q7641073"
+            }
+        ]
+    }
+}

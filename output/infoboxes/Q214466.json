@@ -1,0 +1,80 @@
+{
+    "name": "Nick Carter",
+    "qid": "Q214466",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nick_Carter_(ngh%E1%BB%87_s%C4%A9_%C3%A2m_nh%E1%BA%A1c)",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Aaron Carter",
+                "qid": "Q301818",
+                "url": "https://vi.wikipedia.org/wiki/Aaron_Carter"
+            },
+            {
+                "name": "Bobbie Jean Carter",
+                "qid": "Q29075136"
+            },
+            {
+                "name": "Leslie Carter",
+                "qid": "Q255129"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Odin Carter",
+                "qid": "Q29075138"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-01-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Edward Scissorhands",
+                "qid": "Q217182",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_k%C3%A9o_h%E1%BB%8Dc_y%C3%AAu"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Lauren Kitt",
+                "qid": "Q29075145"
+            }
+        ]
+    }
+}

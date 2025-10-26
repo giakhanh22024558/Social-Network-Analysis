@@ -1,0 +1,159 @@
+{
+    "name": "Denzel Washington",
+    "qid": "Q42101",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Denzel_Washington",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "John David Washington",
+                "qid": "Q4120019"
+            },
+            {
+                "name": "Malcolm Washington",
+                "qid": "Q124164984"
+            },
+            {
+                "name": "Olivia Washington",
+                "qid": "Q120282933"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "spokesperson",
+                "qid": "Q17221",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_ph%C3%A1t_ng%C3%B4n"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1954-12-28T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Ma Rainey's Black Bottom",
+                "qid": "Q65049470",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87u_blues_c%E1%BB%A7a_Ma_Rainey"
+            },
+            {
+                "name": "The Book of Eli",
+                "qid": "Q274529",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%91n_s%C3%A1ch_c%E1%BB%A7a_Eli"
+            },
+            {
+                "name": "The Equalizer",
+                "qid": "Q13562643",
+                "url": "https://vi.wikipedia.org/wiki/Thi%E1%BB%87n_%C3%A1c_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "The Equalizer 3",
+                "qid": "Q114818951",
+                "url": "https://vi.wikipedia.org/wiki/Thi%E1%BB%87n_%C3%A1c_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u_3"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Déjà Vu",
+                "qid": "Q252409",
+                "url": "https://vi.wikipedia.org/wiki/K%C3%BD_%E1%BB%A9c_%E1%BA%A3o_gi%C3%A1c"
+            },
+            {
+                "name": "Fences",
+                "qid": "Q25136220",
+                "url": "https://vi.wikipedia.org/wiki/Fences_(phim)"
+            },
+            {
+                "name": "Gladiator II",
+                "qid": "Q115789958",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B5_s%C4%A9_gi%C3%A1c_%C4%91%E1%BA%A5u_II"
+            },
+            {
+                "name": "Philadelphia",
+                "qid": "Q204057",
+                "url": "https://vi.wikipedia.org/wiki/Philadelphia_(phim)"
+            },
+            {
+                "name": "Safe House",
+                "qid": "Q934739",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%91n_an_to%C3%A0n"
+            },
+            {
+                "name": "The Book of Eli",
+                "qid": "Q274529",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%91n_s%C3%A1ch_c%E1%BB%A7a_Eli"
+            },
+            {
+                "name": "The Equalizer",
+                "qid": "Q13562643",
+                "url": "https://vi.wikipedia.org/wiki/Thi%E1%BB%87n_%C3%A1c_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "The Equalizer 3",
+                "qid": "Q114818951",
+                "url": "https://vi.wikipedia.org/wiki/Thi%E1%BB%87n_%C3%A1c_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u_3"
+            },
+            {
+                "name": "Unstoppable",
+                "qid": "Q644276",
+                "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%83m_nguy_di_%C4%91%E1%BB%99ng"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Fences",
+                "qid": "Q25136220",
+                "url": "https://vi.wikipedia.org/wiki/Fences_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Pauletta Pearson Washington",
+                "qid": "Q11813757"
+            }
+        ]
+    }
+}

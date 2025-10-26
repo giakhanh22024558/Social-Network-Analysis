@@ -1,0 +1,62 @@
+{
+    "name": "Jerry Lawler",
+    "qid": "Q345019",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jerry_Lawler",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Brian Christopher",
+                "qid": "Q576846"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "pundit",
+                "qid": "Q1642960"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1949-11-29T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "The Kat",
+                "qid": "Q2175817"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "The Honky Tonk Man",
+                "qid": "Q953428"
+            }
+        ]
+    }
+}

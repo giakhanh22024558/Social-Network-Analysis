@@ -1,0 +1,100 @@
+{
+    "name": "Eva Mendes",
+    "qid": "Q170606",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Eva_Mendes",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Carlo Mendez",
+                "qid": "Q129172417"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Ryan Gosling",
+                "qid": "Q193815",
+                "url": "https://vi.wikipedia.org/wiki/Ryan_Gosling"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "spokesperson",
+                "qid": "Q17221",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_ph%C3%A1t_ng%C3%B4n"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-03-05T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "2 Fast 2 Furious",
+                "qid": "Q222867",
+                "url": "https://vi.wikipedia.org/wiki/2_Fast_2_Furious"
+            },
+            {
+                "name": "Fast Five",
+                "qid": "Q401976",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_5:_Phi_v%E1%BB%A5_Rio"
+            },
+            {
+                "name": "Ghost Rider",
+                "qid": "Q41754",
+                "url": "https://vi.wikipedia.org/wiki/Ma_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Once Upon a Time in Mexico",
+                "qid": "Q93853",
+                "url": "https://vi.wikipedia.org/wiki/Once_Upon_A_Time_In_Mexico"
+            },
+            {
+                "name": "The Other Guys",
+                "qid": "Q376807",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_c%E1%BB%9Bm_tranh_t%C3%A0i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

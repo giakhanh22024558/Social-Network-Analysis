@@ -1,0 +1,75 @@
+{
+    "name": "Tom Selleck",
+    "qid": "Q213706",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tom_Selleck",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Robert Dean Selleck",
+                "qid": "Q115626923"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Martha Jagger",
+                "qid": "Q115626937"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "basketball player",
+                "qid": "Q3665646"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1945-01-29T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Mr. Baseball",
+                "qid": "Q1749386",
+                "url": "https://vi.wikipedia.org/wiki/Mr._Baseball"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jacqueline Ray",
+                "qid": "Q28709195"
+            },
+            {
+                "name": "Jillie Mack",
+                "qid": "Q108043024"
+            }
+        ]
+    }
+}

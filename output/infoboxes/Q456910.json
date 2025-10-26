@@ -1,0 +1,80 @@
+{
+    "name": "Patty Jenkins",
+    "qid": "Q456910",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Patty_Jenkins",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-07-24T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Wonder Woman 1984",
+                "qid": "Q33408623",
+                "url": "https://vi.wikipedia.org/wiki/Wonder_Woman_1984:_N%E1%BB%AF_th%E1%BA%A7n_chi%E1%BA%BFn_binh"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Monster",
+                "qid": "Q459057",
+                "url": "https://vi.wikipedia.org/wiki/Monster_(phim_2003)"
+            },
+            {
+                "name": "Wonder Woman",
+                "qid": "Q20502242",
+                "url": "https://vi.wikipedia.org/wiki/Wonder_Woman:_N%E1%BB%AF_th%E1%BA%A7n_chi%E1%BA%BFn_binh"
+            },
+            {
+                "name": "Wonder Woman 1984",
+                "qid": "Q33408623",
+                "url": "https://vi.wikipedia.org/wiki/Wonder_Woman_1984:_N%E1%BB%AF_th%E1%BA%A7n_chi%E1%BA%BFn_binh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Sam Sheridan",
+                "qid": "Q30238591"
+            }
+        ]
+    }
+}

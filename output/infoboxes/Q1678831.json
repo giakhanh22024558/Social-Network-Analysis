@@ -1,0 +1,95 @@
+{
+    "name": "Jake Kasdan",
+    "qid": "Q1678831",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jake_Kasdan",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jon Kasdan",
+                "qid": "Q132058"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Lawrence Kasdan",
+                "qid": "Q240872"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Meg Kasdan",
+                "qid": "Q1916956"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-10-28T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Red One",
+                "qid": "Q114876737",
+                "url": "https://vi.wikipedia.org/wiki/Red_One:_M%E1%BA%ADt_m%C3%A3_%C4%91%E1%BB%8F"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Bad Teacher",
+                "qid": "Q798797",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_gi%C3%A1o_l%E1%BA%AFm_chi%C3%AAu"
+            },
+            {
+                "name": "Jumanji: The Next Level",
+                "qid": "Q60501923",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_k%E1%BB%B3_%E1%BA%A3o:_Th%C4%83ng_c%E1%BA%A5p"
+            },
+            {
+                "name": "Jumanji: Welcome to the Jungle",
+                "qid": "Q20762680",
+                "url": "https://vi.wikipedia.org/wiki/Jumanji:_Tr%C3%B2_ch%C6%A1i_k%E1%BB%B3_%E1%BA%A3o"
+            },
+            {
+                "name": "Red One",
+                "qid": "Q114876737",
+                "url": "https://vi.wikipedia.org/wiki/Red_One:_M%E1%BA%ADt_m%C3%A3_%C4%91%E1%BB%8F"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Inara George",
+                "qid": "Q274117"
+            }
+        ]
+    }
+}

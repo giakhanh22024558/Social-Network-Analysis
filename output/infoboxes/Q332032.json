@@ -1,0 +1,76 @@
+{
+    "name": "Alice Cooper",
+    "qid": "Q332032",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Alice_Cooper",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Calico Cooper",
+                "qid": "Q4943399"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "rock musician",
+                "qid": "Q12374149"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "vocalist",
+                "qid": "Q2643890"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1948-02-04T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Dark Shadows",
+                "qid": "Q323318",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_nguy%E1%BB%81n_b%C3%B3ng_%C4%91%C3%AAm_(phim)"
+            },
+            {
+                "name": "Freddy's Dead: The Final Nightmare",
+                "qid": "Q748614",
+                "url": "https://vi.wikipedia.org/wiki/Freddy%27s_Dead:_The_Final_Nightmare"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Sheryl Cooper",
+                "qid": "Q99472479"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Dave Mustaine",
+                "qid": "Q187165",
+                "url": "https://vi.wikipedia.org/wiki/Dave_Mustaine"
+            }
+        ]
+    }
+}

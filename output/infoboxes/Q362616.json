@@ -1,0 +1,107 @@
+{
+    "name": "Jon Bernthal",
+    "qid": "Q362616",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jon_Bernthal",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1976-09-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Baby Driver",
+                "qid": "Q23016644",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_x%E1%BA%BF_Baby"
+            },
+            {
+                "name": "Date Night",
+                "qid": "Q1139801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_h%E1%BA%B9n_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Ford v Ferrari",
+                "qid": "Q55081822",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91ua_l%E1%BB%8Bch_s%E1%BB%AD"
+            },
+            {
+                "name": "Fury",
+                "qid": "Q14786561",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%93ng_n%E1%BB%99_(phim_2014)"
+            },
+            {
+                "name": "King Richard",
+                "qid": "Q84203429",
+                "url": "https://vi.wikipedia.org/wiki/King_Richard:_Huy%E1%BB%81n_tho%E1%BA%A1i_nh%C3%A0_Williams"
+            },
+            {
+                "name": "Night at the Museum: Battle of the Smithsonian",
+                "qid": "Q476726",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_kinh_ho%C3%A0ng_2"
+            },
+            {
+                "name": "Sicario",
+                "qid": "Q17337292",
+                "url": "https://vi.wikipedia.org/wiki/Ranh_gi%E1%BB%9Bi_(phim_2015)"
+            },
+            {
+                "name": "Snitch",
+                "qid": "Q3963099",
+                "url": "https://vi.wikipedia.org/wiki/Snitch_(phim)"
+            },
+            {
+                "name": "Spider-Man: Brand New Day",
+                "qid": "Q113244935",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Ng%C3%A0y_m%E1%BB%9Bi_toanh"
+            },
+            {
+                "name": "The Accountant",
+                "qid": "Q18883455",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_danh:_K%E1%BA%BF_to%C3%A1n"
+            },
+            {
+                "name": "The Odyssey",
+                "qid": "Q131547207",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%AD_thi_Odyssey"
+            },
+            {
+                "name": "The Wolf of Wall Street",
+                "qid": "Q1392744",
+                "url": "https://vi.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(phim_2013)"
+            },
+            {
+                "name": "Wind River",
+                "qid": "Q25339940",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_t%E1%BB%AD_th%E1%BA%A7n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

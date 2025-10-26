@@ -1,0 +1,116 @@
+{
+    "name": "Jaden Smith",
+    "qid": "Q221364",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jaden_Smith",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Trey Smith",
+                "qid": "Q7885297"
+            },
+            {
+                "name": "Willow Smith",
+                "qid": "Q298209",
+                "url": "https://vi.wikipedia.org/wiki/Willow_Smith"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Will Smith",
+                "qid": "Q40096",
+                "url": "https://vi.wikipedia.org/wiki/Will_Smith"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Jada Pinkett Smith",
+                "qid": "Q228787",
+                "url": "https://vi.wikipedia.org/wiki/Jada_Pinkett_Smith"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "artistic director",
+                "qid": "Q1797162"
+            },
+            {
+                "name": "child actor",
+                "qid": "Q970153",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_nh%C3%AD"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1998-07-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "After Earth",
+                "qid": "Q1254088",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%9F_v%E1%BB%81_Tr%C3%A1i_%C4%90%E1%BA%A5t"
+            },
+            {
+                "name": "The Day the Earth Stood Still",
+                "qid": "Q187154",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_Tr%C3%A1i_%C4%90%E1%BA%A5t_ng%E1%BB%ABng_quay"
+            },
+            {
+                "name": "The Karate Kid",
+                "qid": "Q327685",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_nh%C3%AD_Karate"
+            },
+            {
+                "name": "The Pursuit of Happyness",
+                "qid": "Q220515",
+                "url": "https://vi.wikipedia.org/wiki/M%C6%B0u_c%E1%BA%A7u_h%E1%BA%A1nh_ph%C3%BAc"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

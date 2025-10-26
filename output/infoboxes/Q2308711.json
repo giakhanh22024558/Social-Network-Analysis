@@ -1,0 +1,40 @@
+{
+    "name": "David Strassman",
+    "qid": "Q2308711",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/David_Strassman",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "puppeteer",
+                "qid": "Q2629392",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91i%E1%BB%81u_khi%E1%BB%83n_r%E1%BB%91i"
+            },
+            {
+                "name": "street artist",
+                "qid": "Q2914170"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-09-06T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

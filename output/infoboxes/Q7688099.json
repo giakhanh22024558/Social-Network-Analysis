@@ -1,0 +1,70 @@
+{
+    "name": "Tatiana Maslany",
+    "qid": "Q7688099",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tatiana_Maslany",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Tom Cullen",
+                "qid": "Q7815481"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1985-09-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Vow",
+                "qid": "Q522389",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_l%E1%BA%A1i_t%E1%BB%AB_%C4%91%E1%BA%A7u"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Brendan Hines",
+                "qid": "Q716142"
+            }
+        ]
+    }
+}

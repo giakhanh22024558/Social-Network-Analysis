@@ -1,0 +1,63 @@
+{
+    "name": "Aaron Toronto",
+    "qid": "Q113970378",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Aaron_Toronto",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "theatrical director",
+                "qid": "Q3387717"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-01-01T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "The Brilliant Darkness!",
+                "qid": "Q113970161",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_t%E1%BB%91i_r%E1%BB%B1c_r%E1%BB%A1!"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Nhã Uyên",
+                "qid": "Q113989557",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A3_Uy%C3%AAn_(di%E1%BB%85n_vi%C3%AAn)"
+            }
+        ]
+    }
+}

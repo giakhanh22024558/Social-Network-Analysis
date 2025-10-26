@@ -1,0 +1,68 @@
+{
+    "name": "Elya Baskin",
+    "qid": "Q1334420",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Elya_Baskin",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1950-08-11T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Air Force One",
+                "qid": "Q407184",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_l%E1%BB%B1c_M%E1%BB%99t_(phim)"
+            },
+            {
+                "name": "Angels & Demons",
+                "qid": "Q192934",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_th%E1%BA%A7n_v%C3%A0_%C3%A1c_qu%E1%BB%B7_(phim)"
+            },
+            {
+                "name": "Spider-Man 2",
+                "qid": "Q190145",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_2"
+            },
+            {
+                "name": "Spider-Man 3",
+                "qid": "Q182212",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_3"
+            },
+            {
+                "name": "Transformers: Dark of the Moon",
+                "qid": "Q232774",
+                "url": "https://vi.wikipedia.org/wiki/Transformers_3"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Soviet Union",
+                "qid": "Q15180",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

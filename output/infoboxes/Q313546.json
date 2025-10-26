@@ -1,0 +1,99 @@
+{
+    "name": "William Baldwin",
+    "qid": "Q313546",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/William_Baldwin",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Alec Baldwin",
+                "qid": "Q170572",
+                "url": "https://vi.wikipedia.org/wiki/Alec_Baldwin"
+            },
+            {
+                "name": "Daniel Baldwin",
+                "qid": "Q432940"
+            },
+            {
+                "name": "Elizabeth Keuchler",
+                "qid": "Q98755958"
+            },
+            {
+                "name": "Jane Sasso",
+                "qid": "Q98755975"
+            },
+            {
+                "name": "Stephen Baldwin",
+                "qid": "Q310947",
+                "url": "https://vi.wikipedia.org/wiki/Stephen_Baldwin"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Alexander Baldwin",
+                "qid": "Q43373090"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Carol Baldwin",
+                "qid": "Q96242653"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-02-21T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Chynna Phillips",
+                "qid": "Q3676126"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Joseph Baldwin",
+                "qid": "Q3184556"
+            }
+        ]
+    }
+}

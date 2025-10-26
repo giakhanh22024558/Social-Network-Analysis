@@ -1,0 +1,48 @@
+{
+    "name": "Charles Robert Jenkins",
+    "qid": "Q705958",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Charles_Robert_Jenkins",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "soldier",
+                "qid": "Q4991371",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_l%C3%ADnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1940-02-18T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Japan",
+                "qid": "Q17",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n"
+            },
+            {
+                "name": "North Korea",
+                "qid": "Q423",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_D%C3%A2n_ch%E1%BB%A7_Nh%C3%A2n_d%C3%A2n_Tri%E1%BB%81u_Ti%C3%AAn"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Hitomi Soga",
+                "qid": "Q5872246"
+            }
+        ]
+    }
+}

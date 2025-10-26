@@ -1,0 +1,76 @@
+{
+    "name": "Barbara Hershey",
+    "qid": "Q229042",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Barbara_Hershey",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Q187038",
+                "qid": "Q187038"
+            },
+            {
+                "name": "Naveen Andrews",
+                "qid": "Q208374",
+                "url": "https://vi.wikipedia.org/wiki/Naveen_Andrews"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Arnold Nathan Herzstein",
+                "qid": "Q116468672"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Melrose Moore",
+                "qid": "Q116468673"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1948-02-05T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Black Swan",
+                "qid": "Q180214",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_nga_%C4%91en_(phim)"
+            },
+            {
+                "name": "Insidious",
+                "qid": "Q122713",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%B7_quy%E1%BB%87t_(phim)"
+            },
+            {
+                "name": "Insidious: Chapter 2",
+                "qid": "Q13423790",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%B7_quy%E1%BB%87t_2"
+            },
+            {
+                "name": "Insidious: The Last Key",
+                "qid": "Q27590064",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%B7_quy%E1%BB%87t:_Ch%C3%ACa_kh%C3%B3a_qu%E1%BB%B7_d%E1%BB%AF"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "name": "Chris Pine",
+    "qid": "Q23466",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Chris_Pine",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Robert Pine",
+                "qid": "Q1139435"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Gwynne Gilford",
+                "qid": "Q5623885"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "video game actor",
+                "qid": "Q116695160"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-08-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Wrinkle in Time",
+                "qid": "Q24301388",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BA%BFp_g%E1%BA%A5p_th%E1%BB%9Di_gian_(phim_2018)"
+            },
+            {
+                "name": "Batman v Superman: Dawn of Justice",
+                "qid": "Q14772351",
+                "url": "https://vi.wikipedia.org/wiki/Batman_%C4%91%E1%BA%A1i_chi%E1%BA%BFn_Superman:_%C3%81nh_s%C3%A1ng_c%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Don't Worry Darling",
+                "qid": "Q100801718",
+                "url": "https://vi.wikipedia.org/wiki/Em_y%C3%AAu_%C4%91%E1%BB%ABng_s%E1%BB%A3"
+            },
+            {
+                "name": "Dungeons & Dragons: Honor Among Thieves",
+                "qid": "Q105554572",
+                "url": "https://vi.wikipedia.org/wiki/Ng%E1%BB%A5c_t%E1%BB%91i_v%C3%A0_R%E1%BB%93ng:_Danh_d%E1%BB%B1_c%E1%BB%A7a_k%E1%BA%BB_tr%E1%BB%99m"
+            },
+            {
+                "name": "Hell or High Water",
+                "qid": "Q20026847",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_l%C3%B9i_b%C6%B0%E1%BB%9Bc_(phim)"
+            },
+            {
+                "name": "Horrible Bosses 2",
+                "qid": "Q15275703",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_ba_si%C3%AAu_b%E1%BB%B1a_2"
+            },
+            {
+                "name": "Into the Woods",
+                "qid": "Q14847067",
+                "url": "https://vi.wikipedia.org/wiki/Khu_r%E1%BB%ABng_c%E1%BB%95_t%C3%ADch"
+            },
+            {
+                "name": "Jack Ryan: Shadow Recruit",
+                "qid": "Q902672",
+                "url": "https://vi.wikipedia.org/wiki/Jack_Ryan:_%C4%90%E1%BA%B7c_v%E1%BB%A5_b%C3%B3ng_%C4%91%C3%AAm"
+            },
+            {
+                "name": "Just My Luck",
+                "qid": "Q228964",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%A5_h%C3%B4n_may_m%E1%BA%AFn"
+            },
+            {
+                "name": "Star Trek",
+                "qid": "Q213081",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek_(phim)"
+            },
+            {
+                "name": "Star Trek Beyond",
+                "qid": "Q15929448",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek:_Kh%C3%B4ng_gi%E1%BB%9Bi_h%E1%BA%A1n"
+            },
+            {
+                "name": "Star Trek Into Darkness",
+                "qid": "Q171711",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek:_Ch%C3%ACm_trong_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "The Finest Hours",
+                "qid": "Q18031184",
+                "url": "https://vi.wikipedia.org/wiki/The_Finest_Hours_(phim_2016)"
+            },
+            {
+                "name": "The Princess Diaries 2: Royal Engagement",
+                "qid": "Q696096",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_k%C3%BD_C%C3%B4ng_ch%C3%BAa:_%C4%90%C3%A1m_c%C6%B0%E1%BB%9Bi_Ho%C3%A0ng_gia"
+            },
+            {
+                "name": "This Means War",
+                "qid": "Q1049480",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_t%C3%ACnh_y%C3%AAu"
+            },
+            {
+                "name": "Unstoppable",
+                "qid": "Q644276",
+                "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%83m_nguy_di_%C4%91%E1%BB%99ng"
+            },
+            {
+                "name": "Wonder Woman",
+                "qid": "Q20502242",
+                "url": "https://vi.wikipedia.org/wiki/Wonder_Woman:_N%E1%BB%AF_th%E1%BA%A7n_chi%E1%BA%BFn_binh"
+            },
+            {
+                "name": "Wonder Woman 1984",
+                "qid": "Q33408623",
+                "url": "https://vi.wikipedia.org/wiki/Wonder_Woman_1984:_N%E1%BB%AF_th%E1%BA%A7n_chi%E1%BA%BFn_binh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Anne Gwynne",
+                "qid": "Q3617943",
+                "url": "https://vi.wikipedia.org/wiki/Anne_Gwynne"
+            }
+        ]
+    }
+}

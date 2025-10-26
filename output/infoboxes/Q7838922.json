@@ -1,0 +1,57 @@
+{
+    "name": "Trevante Rhodes",
+    "qid": "Q7838922",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Trevante_Rhodes",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "athletics competitor",
+                "qid": "Q11513337"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1990-02-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Bird Box",
+                "qid": "Q43370937",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%93ng_chim_(phim)"
+            },
+            {
+                "name": "Moonlight",
+                "qid": "Q21527875",
+                "url": "https://vi.wikipedia.org/wiki/Moonlight_(phim_2016)"
+            },
+            {
+                "name": "The Predator",
+                "qid": "Q25461297",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_th%C3%BA_v%C3%B4_h%C3%ACnh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

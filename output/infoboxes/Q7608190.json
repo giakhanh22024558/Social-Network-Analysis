@@ -1,0 +1,44 @@
+{
+    "name": "Stephane Gauger",
+    "qid": "Q7608190",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Stephane_Gauger",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-08-30T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Kiss & Spell",
+                "qid": "Q126688992",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_%C4%91i,_%C4%91%E1%BB%ABng_s%E1%BB%A3!"
+            },
+            {
+                "name": "Saigon Electric",
+                "qid": "Q7400073",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A0i_G%C3%B2n_Yo!"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

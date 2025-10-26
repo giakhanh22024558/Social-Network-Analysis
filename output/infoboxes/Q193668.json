@@ -1,0 +1,138 @@
+{
+    "name": "Benicio del Toro",
+    "qid": "Q193668",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Benicio_del_Toro",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Valeria Golino",
+                "qid": "Q230710",
+                "url": "https://vi.wikipedia.org/wiki/Valeria_Golino"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-02-19T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Wolfman",
+                "qid": "Q205532",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_s%C3%B3i_(phim_2010)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "21 Grams",
+                "qid": "Q214013",
+                "url": "https://vi.wikipedia.org/wiki/21_Grams"
+            },
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Guardians of the Galaxy",
+                "qid": "Q5887360",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_(phim)"
+            },
+            {
+                "name": "Inherent Vice",
+                "qid": "Q13806537",
+                "url": "https://vi.wikipedia.org/wiki/Inherent_Vice_(phim)"
+            },
+            {
+                "name": "One Battle After Another",
+                "qid": "Q117085614",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_chi%E1%BA%BFn_sau_tr%E1%BA%ADn_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Savages",
+                "qid": "Q1143802",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_man_r%E1%BB%A3"
+            },
+            {
+                "name": "Sicario",
+                "qid": "Q17337292",
+                "url": "https://vi.wikipedia.org/wiki/Ranh_gi%E1%BB%9Bi_(phim_2015)"
+            },
+            {
+                "name": "Sin City",
+                "qid": "Q192115",
+                "url": "https://vi.wikipedia.org/wiki/Sin_City_(phim)"
+            },
+            {
+                "name": "Star Wars: Episode VIII – The Last Jedi",
+                "qid": "Q18486021",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Jedi_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "The Usual Suspects",
+                "qid": "Q132351",
+                "url": "https://vi.wikipedia.org/wiki/The_Usual_Suspects"
+            },
+            {
+                "name": "The Wolfman",
+                "qid": "Q205532",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_s%C3%B3i_(phim_2010)"
+            },
+            {
+                "name": "Thor: The Dark World",
+                "qid": "Q1201853",
+                "url": "https://vi.wikipedia.org/wiki/Thor_2:_Th%E1%BA%BF_gi%E1%BB%9Bi_B%C3%B3ng_t%E1%BB%91i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Spain",
+                "qid": "Q29",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2y_Ban_Nha"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Rebeca Pous Del Toro",
+                "qid": "Q7301634"
+            }
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Jennifer Coolidge",
+    "qid": "Q230278",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jennifer_Coolidge",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Paul Constant Coolidge",
+                "qid": "Q116855296"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-08-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Cinderella Story",
+                "qid": "Q276415",
+                "url": "https://vi.wikipedia.org/wiki/A_Cinderella_Story"
+            },
+            {
+                "name": "A Minecraft Movie",
+                "qid": "Q40083273",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_b%E1%BB%99_phim_Minecraft"
+            },
+            {
+                "name": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+                "qid": "Q15104217",
+                "url": "https://vi.wikipedia.org/wiki/Alexander_v%C3%A0_m%E1%BB%99t_ng%C3%A0y_t%E1%BB%93i_t%E1%BB%87,_kinh_kh%E1%BB%A7ng,_ch%C3%A1n_n%E1%BA%A3n,_b%E1%BB%B1c_b%E1%BB%99i"
+            },
+            {
+                "name": "Alvin and the Chipmunks: The Road Chip",
+                "qid": "Q19801728",
+                "url": "https://vi.wikipedia.org/wiki/Alvin_and_the_Chipmunks:_S%C3%B3c_chu%E1%BB%99t_du_h%C3%AD"
+            },
+            {
+                "name": "Click",
+                "qid": "Q496654",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%BA_click_huy%E1%BB%81n_b%C3%AD"
+            },
+            {
+                "name": "Promising Young Woman",
+                "qid": "Q62595383",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tr%E1%BA%BB_h%E1%BB%A9a_h%E1%BA%B9n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

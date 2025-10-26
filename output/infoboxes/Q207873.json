@@ -1,0 +1,115 @@
+{
+    "name": "Mary Elizabeth Winstead",
+    "qid": "Q207873",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mary_Elizabeth_Winstead",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Ewan McGregor",
+                "qid": "Q165518",
+                "url": "https://vi.wikipedia.org/wiki/Ewan_McGregor"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1984-11-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "10 Cloverfield Lane",
+                "qid": "Q18703038",
+                "url": "https://vi.wikipedia.org/wiki/C%C4%83n_h%E1%BA%A7m_(phim_2016)"
+            },
+            {
+                "name": "A Good Day to Die Hard",
+                "qid": "Q72276",
+                "url": "https://vi.wikipedia.org/wiki/Die_Hard_5:_A_Good_Day_to_Die_Hard"
+            },
+            {
+                "name": "Abraham Lincoln: Vampire Hunter",
+                "qid": "Q587707",
+                "url": "https://vi.wikipedia.org/wiki/Abraham_Lincoln:_Th%E1%BB%A3_s%C4%83n_ma_c%C3%A0_r%E1%BB%93ng"
+            },
+            {
+                "name": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+                "qid": "Q57177410",
+                "url": "https://vi.wikipedia.org/wiki/Birds_of_Prey:_Cu%E1%BB%99c_l%E1%BB%99t_x%C3%A1c_huy_ho%C3%A0ng_c%E1%BB%A7a_Harley_Quinn"
+            },
+            {
+                "name": "Final Destination 3",
+                "qid": "Q820811",
+                "url": "https://vi.wikipedia.org/wiki/Final_Destination_3"
+            },
+            {
+                "name": "Gemini Man",
+                "qid": "Q50276507",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%A0n_%C3%B4ng_Song_T%E1%BB%AD"
+            },
+            {
+                "name": "Live Free or Die Hard",
+                "qid": "Q50861",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%C6%A1ng_%C4%91%E1%BA%A7u_v%E1%BB%9Bi_th%E1%BB%AD_th%C3%A1ch_4"
+            },
+            {
+                "name": "Scott Pilgrim vs. the World",
+                "qid": "Q753899",
+                "url": "https://vi.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World"
+            },
+            {
+                "name": "Sky High",
+                "qid": "Q858508",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_h%E1%BB%8Dc_si%C3%AAu_nh%C3%A2n"
+            },
+            {
+                "name": "The Ring Two",
+                "qid": "Q468253",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B2ng_tr%C3%B2n_%C4%91%E1%BB%8Bnh_m%E1%BB%87nh_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Ewan McGregor",
+                "qid": "Q165518",
+                "url": "https://vi.wikipedia.org/wiki/Ewan_McGregor"
+            },
+            {
+                "name": "Riley Stearns",
+                "qid": "Q7334238"
+            }
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "name": "Adam Brody",
+    "qid": "Q294372",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Adam_Brody",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Rachel Bilson",
+                "qid": "Q220949"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-12-15T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Mr. & Mrs. Smith",
+                "qid": "Q191040",
+                "url": "https://vi.wikipedia.org/wiki/%C3%94ng_b%C3%A0_Smith_(phim_2005)"
+            },
+            {
+                "name": "Promising Young Woman",
+                "qid": "Q62595383",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tr%E1%BA%BB_h%E1%BB%A9a_h%E1%BA%B9n"
+            },
+            {
+                "name": "Seeking a Friend for the End of the World",
+                "qid": "Q759448",
+                "url": "https://vi.wikipedia.org/wiki/Tri_k%E1%BB%B7_ng%C3%A0y_t%E1%BA%ADn_th%E1%BA%BF"
+            },
+            {
+                "name": "Shazam!",
+                "qid": "Q23685878",
+                "url": "https://vi.wikipedia.org/wiki/Shazam!_(phim)"
+            },
+            {
+                "name": "Shazam! Fury of the Gods",
+                "qid": "Q84712809",
+                "url": "https://vi.wikipedia.org/wiki/Shazam!_C%C6%A1n_th%E1%BB%8Bnh_n%E1%BB%99_c%E1%BB%A7a_c%C3%A1c_v%E1%BB%8B_th%E1%BA%A7n"
+            },
+            {
+                "name": "The Ring",
+                "qid": "Q212804",
+                "url": "https://vi.wikipedia.org/wiki/The_Ring_(phim_2002)"
+            },
+            {
+                "name": "Yoga Hosers",
+                "qid": "Q18168157",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_sinh_b%E1%BA%AFt_ma"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Leighton Meester",
+                "qid": "Q199931"
+            }
+        ]
+    }
+}

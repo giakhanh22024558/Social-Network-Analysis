@@ -1,0 +1,70 @@
+{
+    "name": "Q2444076",
+    "qid": "Q2444076",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Joseph_Kosinski",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-05-03T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "F1",
+                "qid": "Q114246242",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_th%E1%BB%A9c_1_(phim)"
+            },
+            {
+                "name": "Oblivion",
+                "qid": "Q638544",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%AD_m%E1%BA%ADt_Tr%C3%A1i_%C4%90%E1%BA%A5t_di%E1%BB%87t_vong"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "F1",
+                "qid": "Q114246242",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_th%E1%BB%A9c_1_(phim)"
+            },
+            {
+                "name": "Oblivion",
+                "qid": "Q638544",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%AD_m%E1%BA%ADt_Tr%C3%A1i_%C4%90%E1%BA%A5t_di%E1%BB%87t_vong"
+            },
+            {
+                "name": "Top Gun: Maverick",
+                "qid": "Q31202708",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng_si%C3%AAu_%C4%91%E1%BA%B3ng_Maverick"
+            },
+            {
+                "name": "Tron: Legacy",
+                "qid": "Q18954",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_%E1%BA%A3o_gi%C3%A1c"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

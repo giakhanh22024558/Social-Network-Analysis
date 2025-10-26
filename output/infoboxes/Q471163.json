@@ -1,0 +1,63 @@
+{
+    "name": "Jonathan Bennett",
+    "qid": "Q471163",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jonathan_Bennett_(di%E1%BB%85n_vi%C3%AAn)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-06-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Divorce Invitation",
+                "qid": "Q17514350",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%A3_y%C3%AAu_v%C3%A0_tri%E1%BB%87u_%C4%91%C3%B4"
+            },
+            {
+                "name": "Love Wrecked",
+                "qid": "Q1287979",
+                "url": "https://vi.wikipedia.org/wiki/Lovewrecked"
+            },
+            {
+                "name": "Mean Girls",
+                "qid": "Q631103",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_l%E1%BA%AFm_chi%C3%AAu"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

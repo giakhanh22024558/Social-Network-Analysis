@@ -1,0 +1,76 @@
+{
+    "name": "Claire Danes",
+    "qid": "Q867813",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Claire_Danes",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Billy Crudup",
+                "qid": "Q313650",
+                "url": "https://vi.wikipedia.org/wiki/Billy_Crudup"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Cyrus Michael Christopher Dancy",
+                "qid": "Q99500476"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-04-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Little Women",
+                "qid": "Q850522",
+                "url": "https://vi.wikipedia.org/wiki/Little_Women_(phim_1994)"
+            },
+            {
+                "name": "Stardust",
+                "qid": "Q244398",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81nh_sao_ma_thu%E1%BA%ADt"
+            },
+            {
+                "name": "Terminator 3: Rise of the Machines",
+                "qid": "Q29054009",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_h%E1%BB%A7y_di%E1%BB%87t_3:_K%E1%BB%B7_nguy%C3%AAn_ng%C6%B0%E1%BB%9Di_m%C3%A1y"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Hugh Dancy",
+                "qid": "Q314603"
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "name": "Jesse Williams",
+    "qid": "Q40046",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jesse_Williams",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Minka Kelly",
+                "qid": "Q232674"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "teacher",
+                "qid": "Q37226",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1o_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-08-05T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Brooklyn's Finest",
+                "qid": "Q905385",
+                "url": "https://vi.wikipedia.org/wiki/Brooklyn%27s_Finest"
+            },
+            {
+                "name": "Red Tails",
+                "qid": "Q1506057",
+                "url": "https://vi.wikipedia.org/wiki/Red_Tails"
+            },
+            {
+                "name": "The Cabin in the Woods",
+                "qid": "Q45394",
+                "url": "https://vi.wikipedia.org/wiki/The_Cabin_in_the_Woods"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Aryn Drake-Lee",
+                "qid": "Q105976107"
+            }
+        ]
+    }
+}

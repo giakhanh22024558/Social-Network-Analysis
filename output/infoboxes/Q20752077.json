@@ -1,0 +1,82 @@
+{
+    "name": "Mckenna Grace",
+    "qid": "Q20752077",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mckenna_Grace",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2006-06-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annabelle Comes Home",
+                "qid": "Q55973412",
+                "url": "https://vi.wikipedia.org/wiki/Annabelle:_%C3%81c_qu%E1%BB%B7_tr%E1%BB%9F_v%E1%BB%81"
+            },
+            {
+                "name": "Captain Marvel",
+                "qid": "Q23781129",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_u%C3%BD_Marvel_(phim)"
+            },
+            {
+                "name": "Ghostbusters: Afterlife",
+                "qid": "Q61883088",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma:_Chuy%E1%BB%83n_ki%E1%BA%BFp"
+            },
+            {
+                "name": "Ghostbusters: Frozen Empire",
+                "qid": "Q113300586",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma:_K%E1%BB%B7_nguy%C3%AAn_b%C4%83ng_gi%C3%A1"
+            },
+            {
+                "name": "I, Tonya",
+                "qid": "Q28369564",
+                "url": "https://vi.wikipedia.org/wiki/I,_Tonya"
+            },
+            {
+                "name": "Malignant",
+                "qid": "Q68549841",
+                "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_th%C3%A2n_t%C3%A0_%C3%A1c"
+            },
+            {
+                "name": "Ready Player One",
+                "qid": "Q22000542",
+                "url": "https://vi.wikipedia.org/wiki/Ready_Player_One:_%C4%90%E1%BA%A5u_tr%C6%B0%E1%BB%9Dng_%E1%BA%A3o"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

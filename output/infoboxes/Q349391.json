@@ -1,0 +1,151 @@
+{
+    "name": "Helen Mirren",
+    "qid": "Q349391",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Helen_Mirren",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Liam Neeson",
+                "qid": "Q58444",
+                "url": "https://vi.wikipedia.org/wiki/Liam_Neeson"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Basil Mirren",
+                "qid": "Q108841538"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Kitty Rogers",
+                "qid": "Q108841540"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1945-07-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Barbie",
+                "qid": "Q55436290",
+                "url": "https://vi.wikipedia.org/wiki/Barbie_(phim)"
+            },
+            {
+                "name": "Collateral Beauty",
+                "qid": "Q22977777",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%BB_%C4%91%E1%BA%B9p_cu%E1%BB%99c_s%E1%BB%91ng"
+            },
+            {
+                "name": "F9",
+                "qid": "Q29466808",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_9:_Huy%E1%BB%81n_tho%E1%BA%A1i_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            },
+            {
+                "name": "Hobbs & Shaw",
+                "qid": "Q56559254",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious:_Hobbs_%26_Shaw"
+            },
+            {
+                "name": "RED",
+                "qid": "Q858842",
+                "url": "https://vi.wikipedia.org/wiki/C.I.A_t%C3%A1i_xu%E1%BA%A5t"
+            },
+            {
+                "name": "RED 2",
+                "qid": "Q903930",
+                "url": "https://vi.wikipedia.org/wiki/C.I.A_t%C3%A1i_xu%E1%BA%A5t_2"
+            },
+            {
+                "name": "Shazam! Fury of the Gods",
+                "qid": "Q84712809",
+                "url": "https://vi.wikipedia.org/wiki/Shazam!_C%C6%A1n_th%E1%BB%8Bnh_n%E1%BB%99_c%E1%BB%A7a_c%C3%A1c_v%E1%BB%8B_th%E1%BA%A7n"
+            },
+            {
+                "name": "The Fate of the Furious",
+                "qid": "Q19829521",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_8"
+            },
+            {
+                "name": "The Hundred-Foot Journey",
+                "qid": "Q15220568",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tr%C3%ACnh_100_b%C6%B0%E1%BB%9Bc_ch%C3%A2n"
+            },
+            {
+                "name": "The Nutcracker and the Four Realms",
+                "qid": "Q24290097",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%B9p_H%E1%BA%A1t_D%E1%BA%BB_v%C3%A0_b%E1%BB%91n_v%C6%B0%C6%A1ng_qu%E1%BB%91c"
+            },
+            {
+                "name": "Trumbo",
+                "qid": "Q18692630",
+                "url": "https://vi.wikipedia.org/wiki/Trumbo_(phim_2015)"
+            },
+            {
+                "name": "Winchester",
+                "qid": "Q28968028",
+                "url": "https://vi.wikipedia.org/wiki/Dinh_th%E1%BB%B1_Winchester"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Taylor Hackford",
+                "qid": "Q545573"
+            }
+        ]
+    }
+}

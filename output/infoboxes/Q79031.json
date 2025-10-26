@@ -1,0 +1,66 @@
+{
+    "name": "Golpe",
+    "qid": "Q79031",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mike_Tyson",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "boxer",
+                "qid": "Q11338576"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-06-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ip Man 3",
+                "qid": "Q19757672",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%87p_V%E1%BA%A5n_3"
+            },
+            {
+                "name": "The Hangover",
+                "qid": "Q219315",
+                "url": "https://vi.wikipedia.org/wiki/Ba_ch%C3%A0ng_ng%E1%BB%B1_l%C3%A2m_(phim)"
+            },
+            {
+                "name": "The Hangover Part II",
+                "qid": "Q274748",
+                "url": "https://vi.wikipedia.org/wiki/Ba_ch%C3%A0ng_ng%E1%BB%B1_l%C3%A2m_ph%E1%BA%A7n_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Robin Givens",
+                "qid": "Q262495"
+            }
+        ]
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "name": "Katy Perry",
+    "qid": "Q42493",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Katy_Perry",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Angela Hudson",
+                "qid": "Q124485247"
+            },
+            {
+                "name": "David Hudson",
+                "qid": "Q5235209"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Diplo",
+                "qid": "Q533781",
+                "url": "https://vi.wikipedia.org/wiki/Diplo"
+            },
+            {
+                "name": "John Mayer",
+                "qid": "Q215215",
+                "url": "https://vi.wikipedia.org/wiki/John_Mayer"
+            },
+            {
+                "name": "Justin Trudeau",
+                "qid": "Q3099714",
+                "url": "https://vi.wikipedia.org/wiki/Justin_Trudeau"
+            },
+            {
+                "name": "Orlando Bloom",
+                "qid": "Q44467",
+                "url": "https://vi.wikipedia.org/wiki/Orlando_Bloom"
+            },
+            {
+                "name": "Travie McCoy",
+                "qid": "Q314107"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Keith Hudson",
+                "qid": "Q84709323"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Daisy Bloom",
+                "qid": "Q98686743"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Mary Perry",
+                "qid": "Q84707567"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "shoe designer",
+                "qid": "Q67175841"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1984-10-25T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Katy Perry: Part of Me",
+                "qid": "Q1199262",
+                "url": "https://vi.wikipedia.org/wiki/Katy_Perry:_Part_of_Me"
+            },
+            {
+                "name": "Katy Perry: The Prismatic World Tour",
+                "qid": "Q19693484",
+                "url": "https://vi.wikipedia.org/wiki/The_Prismatic_World_Tour_Live"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Katy Perry: Part of Me",
+                "qid": "Q1199262",
+                "url": "https://vi.wikipedia.org/wiki/Katy_Perry:_Part_of_Me"
+            },
+            {
+                "name": "Katy Perry: The Prismatic World Tour",
+                "qid": "Q19693484",
+                "url": "https://vi.wikipedia.org/wiki/The_Prismatic_World_Tour_Live"
+            },
+            {
+                "name": "The Smurfs",
+                "qid": "Q454398",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%AC_Trum_(phim)"
+            },
+            {
+                "name": "The Smurfs 2",
+                "qid": "Q1253366",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%AC_Trum_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Q296609",
+                "qid": "Q296609"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Frank Joseph Perry, Sr.",
+                "qid": "Q84772412"
+            },
+            {
+                "name": "Frank Perry",
+                "qid": "Q1350623",
+                "url": "https://vi.wikipedia.org/wiki/Frank_Perry"
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Alice Walker",
+    "qid": "Q215868",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Alice_Walker",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Robert L. Allen",
+                "qid": "Q7346504"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Rebecca Walker",
+                "qid": "Q468676"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "children's writer",
+                "qid": "Q4853732"
+            },
+            {
+                "name": "civil rights advocate",
+                "qid": "Q1021386"
+            },
+            {
+                "name": "climate activist",
+                "qid": "Q61048378"
+            },
+            {
+                "name": "educator",
+                "qid": "Q974144"
+            },
+            {
+                "name": "essayist",
+                "qid": "Q11774202"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "novelist",
+                "qid": "Q6625963",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia"
+            },
+            {
+                "name": "poet",
+                "qid": "Q49757",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%C6%A1"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "short story writer",
+                "qid": "Q15949613"
+            },
+            {
+                "name": "university teacher",
+                "qid": "Q1622272"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1944-02-09T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Melvyn R. Leventhal",
+                "qid": "Q37995070"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Reggie Watts",
+                "qid": "Q3423441"
+            }
+        ]
+    }
+}

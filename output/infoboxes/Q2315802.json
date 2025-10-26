@@ -1,0 +1,161 @@
+{
+    "name": "Dakota Johnson",
+    "qid": "Q2315802",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dakota_Johnson",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Grace Johnson",
+                "qid": "Q108715430"
+            },
+            {
+                "name": "Jesse Johnson",
+                "qid": "Q6186497"
+            },
+            {
+                "name": "Stella Banderas",
+                "qid": "Q30106387"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Chris Martin",
+                "qid": "Q712860",
+                "url": "https://vi.wikipedia.org/wiki/Chris_Martin"
+            },
+            {
+                "name": "Jordan Masterson",
+                "qid": "Q6276792"
+            },
+            {
+                "name": "Matthew Hitt",
+                "qid": "Q21030599"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Don Johnson",
+                "qid": "Q309788"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Melanie Griffith",
+                "qid": "Q176455",
+                "url": "https://vi.wikipedia.org/wiki/Melanie_Griffith"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "child actor",
+                "qid": "Q970153",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_nh%C3%AD"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1989-10-04T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "21 Jump Street",
+                "qid": "Q214014",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "Bad Times at the El Royale",
+                "qid": "Q48988117",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%BAt_kinh_ho%C3%A0ng_t%E1%BA%A1i_El_Royale"
+            },
+            {
+                "name": "Fifty Shades Darker",
+                "qid": "Q22662385",
+                "url": "https://vi.wikipedia.org/wiki/N%C4%83m_m%C6%B0%C6%A1i_s%E1%BA%AFc_th%C3%A1i_%C4%91en_(phim)"
+            },
+            {
+                "name": "Fifty Shades Freed",
+                "qid": "Q22712210",
+                "url": "https://vi.wikipedia.org/wiki/N%C4%83m_m%C6%B0%C6%A1i_s%E1%BA%AFc_th%C3%A1i_t%E1%BB%B1_do"
+            },
+            {
+                "name": "Fifty Shades of Grey",
+                "qid": "Q14566553",
+                "url": "https://vi.wikipedia.org/wiki/N%C4%83m_m%C6%B0%C6%A1i_s%E1%BA%AFc_th%C3%A1i_(phim)"
+            },
+            {
+                "name": "How to Be Single",
+                "qid": "Q19880527",
+                "url": "https://vi.wikipedia.org/wiki/Tuy%C3%AAn_ng%C3%B4n_%C4%91%E1%BB%99c_th%C3%A2n"
+            },
+            {
+                "name": "Madame Web",
+                "qid": "Q111677117",
+                "url": "https://vi.wikipedia.org/wiki/Madame_Web_(phim)"
+            },
+            {
+                "name": "Materialists",
+                "qid": "Q125726790",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_n%E1%BB%ADa_ho%C3%A0n_h%E1%BA%A3o"
+            },
+            {
+                "name": "Need for Speed",
+                "qid": "Q13374569",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90am_m%C3%AA_t%E1%BB%91c_%C4%91%E1%BB%99_(phim)"
+            },
+            {
+                "name": "The Lost Daughter",
+                "qid": "Q99926331",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_con_g%C3%A1i_th%E1%BA%A5t_l%E1%BA%A1c"
+            },
+            {
+                "name": "The Social Network",
+                "qid": "Q185888",
+                "url": "https://vi.wikipedia.org/wiki/The_Social_Network"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Peter Griffith",
+                "qid": "Q7174386"
+            },
+            {
+                "name": "Tippi Hedren",
+                "qid": "Q142546",
+                "url": "https://vi.wikipedia.org/wiki/Tippi_Hedren"
+            },
+            {
+                "name": "Tracy Griffith",
+                "qid": "Q7831743"
+            }
+        ]
+    }
+}

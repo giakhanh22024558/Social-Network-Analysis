@@ -1,0 +1,198 @@
+{
+    "name": "Cate Blanchett",
+    "qid": "Q80966",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Cate_Blanchett",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-05-14T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Babel",
+                "qid": "Q191074",
+                "url": "https://vi.wikipedia.org/wiki/Babel_(phim)"
+            },
+            {
+                "name": "Blue Jasmine",
+                "qid": "Q2907178",
+                "url": "https://vi.wikipedia.org/wiki/Blue_Jasmine"
+            },
+            {
+                "name": "Borderlands",
+                "qid": "Q106329715",
+                "url": "https://vi.wikipedia.org/wiki/Borderlands:_Tr%E1%BB%9F_l%E1%BA%A1i_Pandora"
+            },
+            {
+                "name": "Carol",
+                "qid": "Q15963780",
+                "url": "https://vi.wikipedia.org/wiki/Carol_(phim)"
+            },
+            {
+                "name": "Cinderella",
+                "qid": "Q15046091",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%8D_Lem_(phim_2015)"
+            },
+            {
+                "name": "Don't Look Up",
+                "qid": "Q100361490",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%ABng_nh%C3%ACn_l%C3%AAn"
+            },
+            {
+                "name": "Hanna",
+                "qid": "Q170268",
+                "url": "https://vi.wikipedia.org/wiki/Hanna_b%C3%AD_%E1%BA%A9n"
+            },
+            {
+                "name": "Hot Fuzz",
+                "qid": "Q729788",
+                "url": "https://vi.wikipedia.org/wiki/Hot_Fuzz"
+            },
+            {
+                "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+                "qid": "Q182373",
+                "url": "https://vi.wikipedia.org/wiki/Indiana_Jones_v%C3%A0_v%C6%B0%C6%A1ng_qu%E1%BB%91c_s%E1%BB%8D_ng%C6%B0%E1%BB%9Di"
+            },
+            {
+                "name": "Monuments Men",
+                "qid": "Q4407383",
+                "url": "https://vi.wikipedia.org/wiki/Kho_b%C3%A1u_b%E1%BB%8B_%C4%91%C3%A1nh_c%E1%BA%AFp"
+            },
+            {
+                "name": "Mowgli: Legend of the Jungle",
+                "qid": "Q19595098",
+                "url": "https://vi.wikipedia.org/wiki/Mowgli:_Huy%E1%BB%81n_tho%E1%BA%A1i_r%E1%BB%ABng_xanh"
+            },
+            {
+                "name": "Nightmare Alley",
+                "qid": "Q82430214",
+                "url": "https://vi.wikipedia.org/wiki/Con_h%E1%BA%BBm_%C3%A1c_m%E1%BB%99ng"
+            },
+            {
+                "name": "Ocean's 8",
+                "qid": "Q25627545",
+                "url": "https://vi.wikipedia.org/wiki/B%C4%83ng_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7:_%C4%90%E1%BA%B3ng_c%E1%BA%A5p_qu%C3%BD_c%C3%B4"
+            },
+            {
+                "name": "Robin Hood",
+                "qid": "Q223559",
+                "url": "https://vi.wikipedia.org/wiki/Robin_Hood_(phim_2010)"
+            },
+            {
+                "name": "The Aviator",
+                "qid": "Q201924",
+                "url": "https://vi.wikipedia.org/wiki/The_Aviator_(phim)"
+            },
+            {
+                "name": "The Curious Case of Benjamin Button",
+                "qid": "Q183239",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BB%8B_nh%C3%A2n_Benjamin"
+            },
+            {
+                "name": "The Hobbit: An Unexpected Journey",
+                "qid": "Q80379",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Hobbit:_H%C3%A0nh_tr%C3%ACnh_v%C3%B4_%C4%91%E1%BB%8Bnh"
+            },
+            {
+                "name": "The Hobbit: The Battle of the Five Armies",
+                "qid": "Q919649",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Hobbit:_%C4%90%E1%BA%A1i_chi%E1%BA%BFn_N%C4%83m_c%C3%A1nh_qu%C3%A2n"
+            },
+            {
+                "name": "The Hobbit: The Desolation of Smaug",
+                "qid": "Q719915",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Hobbit:_%C4%90%E1%BA%A1i_chi%E1%BA%BFn_v%E1%BB%9Bi_r%E1%BB%93ng_l%E1%BB%ADa"
+            },
+            {
+                "name": "The House with a Clock in Its Walls",
+                "qid": "Q42914959",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%B4i_nh%C3%A0_c%C3%B3_chi%E1%BA%BFc_%C4%91%E1%BB%93ng_h%E1%BB%93_ma_thu%E1%BA%ADt"
+            },
+            {
+                "name": "The Lord of the Rings: The Fellowship of the Ring",
+                "qid": "Q127367",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAa_t%E1%BB%83_nh%E1%BB%AFng_chi%E1%BA%BFc_nh%E1%BA%ABn:_Hi%E1%BB%87p_h%E1%BB%99i_nh%E1%BA%ABn_th%E1%BA%A7n"
+            },
+            {
+                "name": "The Lord of the Rings: The Return of the King",
+                "qid": "Q131074",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAa_t%E1%BB%83_nh%E1%BB%AFng_chi%E1%BA%BFc_nh%E1%BA%ABn:_S%E1%BB%B1_tr%E1%BB%9F_l%E1%BA%A1i_c%E1%BB%A7a_nh%C3%A0_vua"
+            },
+            {
+                "name": "The Lord of the Rings: The Two Towers",
+                "qid": "Q164963",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAa_t%E1%BB%83_nh%E1%BB%AFng_chi%E1%BA%BFc_nh%E1%BA%ABn:_Hai_t%C3%B2a_th%C3%A1p"
+            },
+            {
+                "name": "The Talented Mr. Ripley",
+                "qid": "Q390052",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0i_Ripley_t%C3%A0i_ba_(phim)"
+            },
+            {
+                "name": "Thor: Ragnarok",
+                "qid": "Q22665878",
+                "url": "https://vi.wikipedia.org/wiki/Thor:_T%E1%BA%ADn_th%E1%BA%BF_Ragnarok"
+            },
+            {
+                "name": "Tár",
+                "qid": "Q108649516",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1r"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Australia",
+                "qid": "Q408",
+                "url": "https://vi.wikipedia.org/wiki/%C3%9Ac"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Andrew Upton",
+                "qid": "Q4758784"
+            }
+        ]
+    }
+}

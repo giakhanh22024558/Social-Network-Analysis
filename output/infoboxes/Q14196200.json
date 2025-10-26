@@ -1,0 +1,37 @@
+{
+    "name": "Eva Marie",
+    "qid": "Q14196200",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Eva_Marie",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1984-09-19T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jonathan Coyle",
+                "qid": "Q117382656"
+            }
+        ]
+    }
+}

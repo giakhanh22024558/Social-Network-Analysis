@@ -1,0 +1,86 @@
+{
+    "name": "Nas",
+    "qid": "Q194220",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nas",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Olu Dara",
+                "qid": "Q1357746"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "dressmaker",
+                "qid": "Q2034021"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            },
+            {
+                "name": "investor",
+                "qid": "Q557880",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%91%E1%BA%A7u_t%C6%B0"
+            },
+            {
+                "name": "music executive",
+                "qid": "Q3089940",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_%C3%A2m_nh%E1%BA%A1c"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "restaurateur",
+                "qid": "Q3427922"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1973-09-14T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Kelis",
+                "qid": "Q294979"
+            }
+        ]
+    }
+}

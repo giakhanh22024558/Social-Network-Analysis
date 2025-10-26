@@ -1,0 +1,48 @@
+{
+    "name": "Michelle Ye",
+    "qid": "Q712374",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Di%E1%BB%87p_Tuy%E1%BB%81n",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-02-14T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Founding of a Party",
+                "qid": "Q1074397",
+                "url": "https://vi.wikipedia.org/wiki/Ki%E1%BA%BFn_%C4%91%E1%BA%A3ng_v%C4%A9_nghi%E1%BB%87p"
+            },
+            {
+                "name": "Vengeance",
+                "qid": "Q1451982",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1o_th%C3%B9_(phim_2009)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "People's Republic of China",
+                "qid": "Q148",
+                "url": "https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

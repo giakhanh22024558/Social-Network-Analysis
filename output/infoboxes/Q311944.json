@@ -1,0 +1,42 @@
+{
+    "name": "Drew McIntyre",
+    "qid": "Q311944",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Drew_McIntyre",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1985-06-06T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Taryn Terrell",
+                "qid": "Q235323"
+            }
+        ]
+    }
+}

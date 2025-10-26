@@ -1,0 +1,65 @@
+{
+    "name": "Mary-Kate Olsen",
+    "qid": "Q1151944",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mary-Kate_Olsen",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Ashley Olsen",
+                "qid": "Q1193914",
+                "url": "https://vi.wikipedia.org/wiki/Ashley_Olsen"
+            },
+            {
+                "name": "Elizabeth Olsen",
+                "qid": "Q234644",
+                "url": "https://vi.wikipedia.org/wiki/Elizabeth_Olsen"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Sean Avery",
+                "qid": "Q725726"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "equestrian",
+                "qid": "Q2730732"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-06-13T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Olivier Sarkozy",
+                "qid": "Q3351364"
+            }
+        ]
+    }
+}

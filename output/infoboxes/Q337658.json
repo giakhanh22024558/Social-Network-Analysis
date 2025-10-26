@@ -1,0 +1,83 @@
+{
+    "name": "Christopher McQuarrie",
+    "qid": "Q337658",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Christopher_McQuarrie",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1968-06-12T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Jack Reacher: Never Go Back",
+                "qid": "Q21168538",
+                "url": "https://vi.wikipedia.org/wiki/Jack_Reacher:_Kh%C3%B4ng_quay_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "Mission: Impossible – Dead Reckoning Part One",
+                "qid": "Q61876370",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5:_B%E1%BA%A5t_kh%E1%BA%A3_thi_%E2%80%93_Nghi%E1%BB%87p_b%C3%A1o_ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "Top Gun: Maverick",
+                "qid": "Q31202708",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng_si%C3%AAu_%C4%91%E1%BA%B3ng_Maverick"
+            },
+            {
+                "name": "Valkyrie",
+                "qid": "Q159054",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_v%E1%BB%A5_Valkyrie"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Usual Suspects",
+                "qid": "Q132351",
+                "url": "https://vi.wikipedia.org/wiki/The_Usual_Suspects"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Mission: Impossible – Dead Reckoning Part One",
+                "qid": "Q61876370",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5:_B%E1%BA%A5t_kh%E1%BA%A3_thi_%E2%80%93_Nghi%E1%BB%87p_b%C3%A1o_ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "Mission: Impossible – Fallout",
+                "qid": "Q29261993",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi:_S%E1%BB%A5p_%C4%91%E1%BB%95"
+            },
+            {
+                "name": "Mission: Impossible – Rogue Nation",
+                "qid": "Q17548046",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi:_Qu%E1%BB%91c_gia_b%C3%AD_%E1%BA%A9n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

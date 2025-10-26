@@ -1,0 +1,263 @@
+{
+    "name": "Robert De Niro",
+    "qid": "Q36949",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Robert_De_Niro",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Charmaine Sinclair",
+                "qid": "Q5086425"
+            },
+            {
+                "name": "Toukie Smith",
+                "qid": "Q7828852"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Robert De Niro Sr.",
+                "qid": "Q951321"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Airyn De Niro",
+                "qid": "Q28151968"
+            },
+            {
+                "name": "Drena De Niro",
+                "qid": "Q541821"
+            },
+            {
+                "name": "Elliot De Niro",
+                "qid": "Q28151955"
+            },
+            {
+                "name": "Julian De Niro",
+                "qid": "Q28151971"
+            },
+            {
+                "name": "Raphael De Niro",
+                "qid": "Q28001783"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Virginia Admiral",
+                "qid": "Q7815833"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "theatrical producer",
+                "qid": "Q1759246"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1943-08-17T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Artemis Fowl",
+                "qid": "Q12302227",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_Artemis_Fowl"
+            },
+            {
+                "name": "Little Fockers",
+                "qid": "Q921985",
+                "url": "https://vi.wikipedia.org/wiki/G%E1%BA%B7p_g%E1%BB%A1_th%C3%B4ng_gia:_Nh%C3%B3c_Fockers"
+            },
+            {
+                "name": "The Irishman",
+                "qid": "Q29057443",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_Ireland"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "9/11",
+                "qid": "Q490229",
+                "url": "https://vi.wikipedia.org/wiki/9/11_(phim_2002)"
+            },
+            {
+                "name": "American Hustle",
+                "qid": "Q9013673",
+                "url": "https://vi.wikipedia.org/wiki/S%C4%83n_ti%E1%BB%81n_ki%E1%BB%83u_M%E1%BB%B9"
+            },
+            {
+                "name": "Amsterdam",
+                "qid": "Q104830968",
+                "url": "https://vi.wikipedia.org/wiki/Amsterdam_%E2%80%93_V%E1%BB%A5_%C3%A1n_m%E1%BA%A1ng_k%E1%BB%B3_b%C3%AD"
+            },
+            {
+                "name": "Dirty Grandpa",
+                "qid": "Q18669866",
+                "url": "https://vi.wikipedia.org/wiki/Tay_ch%C6%A1i_kh%C3%B4ng_tu%E1%BB%95i"
+            },
+            {
+                "name": "Heat",
+                "qid": "Q42198",
+                "url": "https://vi.wikipedia.org/wiki/Heat_(phim_1995)"
+            },
+            {
+                "name": "Heist",
+                "qid": "Q18386107",
+                "url": "https://vi.wikipedia.org/wiki/B%C4%83ng_c%C6%B0%E1%BB%9Bp_s%C3%B2ng_b%E1%BA%A1c_(phim_2015)"
+            },
+            {
+                "name": "Joker",
+                "qid": "Q42759035",
+                "url": "https://vi.wikipedia.org/wiki/Joker_(phim)"
+            },
+            {
+                "name": "Joy",
+                "qid": "Q19320969",
+                "url": "https://vi.wikipedia.org/wiki/Joy_%E2%80%93_Ng%C6%B0%E1%BB%9Di_ph%E1%BB%A5_n%E1%BB%AF_mang_t%C3%AAn_%22Ni%E1%BB%81m_vui%22"
+            },
+            {
+                "name": "Killer Elite",
+                "qid": "Q1320416",
+                "url": "https://vi.wikipedia.org/wiki/Killer_Elite"
+            },
+            {
+                "name": "Killers of the Flower Moon",
+                "qid": "Q66316924",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%A7ng_tr%C4%83ng_m%C3%A1u_(phim)"
+            },
+            {
+                "name": "Killing Season",
+                "qid": "Q3196650",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_s%C4%83n_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Little Fockers",
+                "qid": "Q921985",
+                "url": "https://vi.wikipedia.org/wiki/G%E1%BA%B7p_g%E1%BB%A1_th%C3%B4ng_gia:_Nh%C3%B3c_Fockers"
+            },
+            {
+                "name": "Once Upon a Time in America",
+                "qid": "Q206388",
+                "url": "https://vi.wikipedia.org/wiki/Once_Upon_a_Time_in_America"
+            },
+            {
+                "name": "Silver Linings Playbook",
+                "qid": "Q116845",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%ACnh_y%C3%AAu_t%C3%ACm_l%E1%BA%A1i"
+            },
+            {
+                "name": "Stardust",
+                "qid": "Q244398",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81nh_sao_ma_thu%E1%BA%ADt"
+            },
+            {
+                "name": "Taxi Driver",
+                "qid": "Q47221",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A0i_x%E1%BA%BF_taxi"
+            },
+            {
+                "name": "The Godfather Part II",
+                "qid": "Q184768",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_gi%C3%A0_ph%E1%BA%A7n_II"
+            },
+            {
+                "name": "The Intern",
+                "qid": "Q18151084",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_gi%C3%A0_h%E1%BB%8Dc_vi%E1%BB%87c"
+            },
+            {
+                "name": "The Irishman",
+                "qid": "Q29057443",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_Ireland"
+            },
+            {
+                "name": "The Score",
+                "qid": "Q241941",
+                "url": "https://vi.wikipedia.org/wiki/The_Score"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Italy",
+                "qid": "Q38",
+                "url": "https://vi.wikipedia.org/wiki/%C3%9D"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Diahnne Abbott",
+                "qid": "Q509192"
+            },
+            {
+                "name": "Grace Hightower",
+                "qid": "Q404341"
+            }
+        ]
+    }
+}

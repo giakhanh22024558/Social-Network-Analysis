@@ -1,0 +1,141 @@
+{
+    "name": "Geraldine Chaplin",
+    "qid": "Q230636",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Geraldine_Chaplin",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Charles Chaplin",
+                "qid": "Q729356"
+            },
+            {
+                "name": "Christopher Chaplin",
+                "qid": "Q2966564"
+            },
+            {
+                "name": "Eugene Chaplin",
+                "qid": "Q120593"
+            },
+            {
+                "name": "Josephine Chaplin",
+                "qid": "Q461259"
+            },
+            {
+                "name": "Michael Chaplin",
+                "qid": "Q453804"
+            },
+            {
+                "name": "Sydney Chaplin",
+                "qid": "Q546008"
+            },
+            {
+                "name": "Victoria Chaplin",
+                "qid": "Q433683"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Carlos Saura",
+                "qid": "Q295855",
+                "url": "https://vi.wikipedia.org/wiki/Carlos_Saura"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Charlie Chaplin",
+                "qid": "Q882",
+                "url": "https://vi.wikipedia.org/wiki/Charlie_Chaplin"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Oona Castilla Chaplin",
+                "qid": "Q459348",
+                "url": "https://vi.wikipedia.org/wiki/Oona_Chaplin"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Oona O'Neill",
+                "qid": "Q137808"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1944-07-31T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Monster Calls",
+                "qid": "Q18200409",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_th%E1%BB%89nh_c%E1%BA%A7u_Qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Doctor Zhivago",
+                "qid": "Q323827",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9_Zhivago_(phim)"
+            },
+            {
+                "name": "Jurassic World: Fallen Kingdom",
+                "qid": "Q21877685",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long:_V%C6%B0%C6%A1ng_qu%E1%BB%91c_s%E1%BB%A5p_%C4%91%E1%BB%95"
+            },
+            {
+                "name": "The Impossible",
+                "qid": "Q277038",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A3m_h%E1%BB%8Da_s%C3%B3ng_th%E1%BA%A7n_(phim)"
+            },
+            {
+                "name": "The Wolfman",
+                "qid": "Q205532",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_s%C3%B3i_(phim_2010)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Spain",
+                "qid": "Q29",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2y_Ban_Nha"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Patricio Castilla",
+                "qid": "Q22910233"
+            }
+        ]
+    }
+}

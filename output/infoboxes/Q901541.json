@@ -1,0 +1,135 @@
+{
+    "name": "Patrick Schwarzenegger",
+    "qid": "Q901541",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Patrick_Schwarzenegger",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Christina Schwarzenegger",
+                "qid": "Q28109921"
+            },
+            {
+                "name": "Christopher Schwarzenegger",
+                "qid": "Q28109928"
+            },
+            {
+                "name": "Joseph Baena",
+                "qid": "Q23800185"
+            },
+            {
+                "name": "Katherine Schwarzenegger",
+                "qid": "Q4521676",
+                "url": "https://vi.wikipedia.org/wiki/Katherine_Schwarzenegger"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Arnold Schwarzenegger",
+                "qid": "Q2685",
+                "url": "https://vi.wikipedia.org/wiki/Arnold_Schwarzenegger"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Maria Shriver",
+                "qid": "Q230654"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "fashion model",
+                "qid": "Q3357567"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1993-09-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Grown Ups 2",
+                "qid": "Q5611721",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_%C4%91%E1%BB%A9a_tr%E1%BA%BB_to_x%C3%A1c_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Austria",
+                "qid": "Q40",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81o"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Q24004771",
+                "qid": "Q24004771"
+            },
+            {
+                "name": "Anthony Shriver",
+                "qid": "Q4773467"
+            },
+            {
+                "name": "Bobby Shriver",
+                "qid": "Q3436301"
+            },
+            {
+                "name": "John F. Kennedy",
+                "qid": "Q9696",
+                "url": "https://vi.wikipedia.org/wiki/John_F._Kennedy"
+            },
+            {
+                "name": "Mark Shriver",
+                "qid": "Q6769708"
+            },
+            {
+                "name": "Meinhard Schwarzenegger",
+                "qid": "Q38196234"
+            },
+            {
+                "name": "Robert F. Kennedy",
+                "qid": "Q25310",
+                "url": "https://vi.wikipedia.org/wiki/Robert_F._Kennedy"
+            },
+            {
+                "name": "Ted Kennedy",
+                "qid": "Q134549",
+                "url": "https://vi.wikipedia.org/wiki/Ted_Kennedy"
+            },
+            {
+                "name": "Timothy Shriver",
+                "qid": "Q3529079"
+            }
+        ]
+    }
+}

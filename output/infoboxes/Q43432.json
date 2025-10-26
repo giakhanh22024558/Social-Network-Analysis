@@ -1,0 +1,102 @@
+{
+    "name": "Justin Timberlake",
+    "qid": "Q43432",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Justin_Timberlake",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Britney Spears",
+                "qid": "Q11975",
+                "url": "https://vi.wikipedia.org/wiki/Britney_Spears"
+            },
+            {
+                "name": "Cameron Diaz",
+                "qid": "Q44380",
+                "url": "https://vi.wikipedia.org/wiki/Cameron_Diaz"
+            },
+            {
+                "name": "Veronica Finn",
+                "qid": "Q109740394"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Randall Timberlake",
+                "qid": "Q96817174"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Silas Timberlake",
+                "qid": "Q23820958"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Lynn Bomar",
+                "qid": "Q96817261"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-01-31T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Beyoncé",
+                "qid": "Q15303590",
+                "url": "https://vi.wikipedia.org/wiki/Beyonc%C3%A9_(album_c%E1%BB%A7a_Beyonc%C3%A9)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Bad Teacher",
+                "qid": "Q798797",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_gi%C3%A1o_l%E1%BA%AFm_chi%C3%AAu"
+            },
+            {
+                "name": "In Time",
+                "qid": "Q628082",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%9Di_kh%E1%BA%AFc_sinh_t%E1%BB%AD"
+            },
+            {
+                "name": "Money Monster",
+                "qid": "Q19363691",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%B7t_tr%C3%A1i_ph%E1%BB%91_Wall"
+            },
+            {
+                "name": "The Social Network",
+                "qid": "Q185888",
+                "url": "https://vi.wikipedia.org/wiki/The_Social_Network"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jessica Biel",
+                "qid": "Q163249",
+                "url": "https://vi.wikipedia.org/wiki/Jessica_Biel"
+            }
+        ]
+    }
+}

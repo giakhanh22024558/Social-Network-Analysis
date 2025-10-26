@@ -1,0 +1,59 @@
+{
+    "name": "Max Greenfield",
+    "qid": "Q891796",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Max_Greenfield",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-09-04T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Promising Young Woman",
+                "qid": "Q62595383",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tr%E1%BA%BB_h%E1%BB%A9a_h%E1%BA%B9n"
+            },
+            {
+                "name": "The Big Short",
+                "qid": "Q19850715",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Short_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Tess Sanchez",
+                "qid": "Q133801379"
+            }
+        ]
+    }
+}

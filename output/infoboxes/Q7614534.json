@@ -1,0 +1,48 @@
+{
+    "name": "Steven C. Miller",
+    "qid": "Q7614534",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steven_C._Miller",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-03-08T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Arsenal",
+                "qid": "Q28173334",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_t%E1%BB%91ng_ti%E1%BB%81n"
+            },
+            {
+                "name": "Escape Plan 2: Hades",
+                "qid": "Q30637119",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BF_ho%E1%BA%A1ch_%C4%91%C3%A0o_t%E1%BA%A9u_2:_%C4%90%E1%BB%8Ba_ng%E1%BB%A5c"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

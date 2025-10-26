@@ -1,0 +1,72 @@
+{
+    "name": "Christian Serratos",
+    "qid": "Q235719",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Christian_Serratos",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1990-09-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 1",
+                "qid": "Q60506",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 2",
+                "qid": "Q60487",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_2"
+            },
+            {
+                "name": "The Twilight Saga: Eclipse",
+                "qid": "Q217010",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_Nh%E1%BA%ADt_th%E1%BB%B1c"
+            },
+            {
+                "name": "The Twilight Saga: New Moon",
+                "qid": "Q116928",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C4%83ng_non_(phim)"
+            },
+            {
+                "name": "Twilight",
+                "qid": "Q160071",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BA%A1ng_v%E1%BA%A1ng_(phim_2008)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

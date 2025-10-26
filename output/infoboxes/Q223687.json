@@ -1,0 +1,136 @@
+{
+    "name": "Wes Anderson",
+    "qid": "Q223687",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Wes_Anderson",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Eric Chase Anderson",
+                "qid": "Q3056245"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Juman Malouf",
+                "qid": "Q109152825"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-05-01T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Asteroid City",
+                "qid": "Q108086029",
+                "url": "https://vi.wikipedia.org/wiki/Asteroid_City"
+            },
+            {
+                "name": "Fantastic Mr. Fox",
+                "qid": "Q465275",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0i_c%C3%A1o_tuy%E1%BB%87t_v%E1%BB%9Di"
+            },
+            {
+                "name": "Hotel Chevalier",
+                "qid": "Q474531",
+                "url": "https://vi.wikipedia.org/wiki/Hotel_Chevalier"
+            },
+            {
+                "name": "Isle of Dogs",
+                "qid": "Q28065409",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_c%E1%BB%A7a_nh%E1%BB%AFng_ch%C3%BA_ch%C3%B3"
+            },
+            {
+                "name": "Moonrise Kingdom",
+                "qid": "Q217112",
+                "url": "https://vi.wikipedia.org/wiki/Moonrise_Kingdom"
+            },
+            {
+                "name": "The Grand Budapest Hotel",
+                "qid": "Q3521099",
+                "url": "https://vi.wikipedia.org/wiki/The_Grand_Budapest_Hotel"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Asteroid City",
+                "qid": "Q108086029",
+                "url": "https://vi.wikipedia.org/wiki/Asteroid_City"
+            },
+            {
+                "name": "Fantastic Mr. Fox",
+                "qid": "Q465275",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0i_c%C3%A1o_tuy%E1%BB%87t_v%E1%BB%9Di"
+            },
+            {
+                "name": "Hotel Chevalier",
+                "qid": "Q474531",
+                "url": "https://vi.wikipedia.org/wiki/Hotel_Chevalier"
+            },
+            {
+                "name": "Isle of Dogs",
+                "qid": "Q28065409",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_c%E1%BB%A7a_nh%E1%BB%AFng_ch%C3%BA_ch%C3%B3"
+            },
+            {
+                "name": "Moonrise Kingdom",
+                "qid": "Q217112",
+                "url": "https://vi.wikipedia.org/wiki/Moonrise_Kingdom"
+            },
+            {
+                "name": "The Grand Budapest Hotel",
+                "qid": "Q3521099",
+                "url": "https://vi.wikipedia.org/wiki/The_Grand_Budapest_Hotel"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

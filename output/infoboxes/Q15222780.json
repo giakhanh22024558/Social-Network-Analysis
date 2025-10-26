@@ -1,0 +1,118 @@
+{
+    "name": "Katherine Waterston",
+    "qid": "Q15222780",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Katherine_Waterston",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Elisabeth Waterston",
+                "qid": "Q18684672"
+            },
+            {
+                "name": "Graham Waterston",
+                "qid": "Q78004135"
+            },
+            {
+                "name": "James Waterston",
+                "qid": "Q1659349"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Sam Waterston",
+                "qid": "Q284876"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Lynn Louisa Woodruff",
+                "qid": "Q77995992"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-03-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Alien: Covenant",
+                "qid": "Q20430699",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_v%E1%BA%ADt_kh%C3%B4ng_gian"
+            },
+            {
+                "name": "Babylon",
+                "qid": "Q107119206",
+                "url": "https://vi.wikipedia.org/wiki/Babylon_(phim_2022)"
+            },
+            {
+                "name": "Fantastic Beasts and Where to Find Them",
+                "qid": "Q18199330",
+                "url": "https://vi.wikipedia.org/wiki/Sinh_v%E1%BA%ADt_huy%E1%BB%81n_b%C3%AD_v%C3%A0_n%C6%A1i_t%C3%ACm_ra_ch%C3%BAng_(phim)"
+            },
+            {
+                "name": "Fantastic Beasts: The Crimes of Grindelwald",
+                "qid": "Q18199331",
+                "url": "https://vi.wikipedia.org/wiki/Sinh_v%E1%BA%ADt_huy%E1%BB%81n_b%C3%AD:_T%E1%BB%99i_%C3%A1c_c%E1%BB%A7a_Grindelwald"
+            },
+            {
+                "name": "Fantastic Beasts: The Secrets of Dumbledore",
+                "qid": "Q18199332",
+                "url": "https://vi.wikipedia.org/wiki/Sinh_v%E1%BA%ADt_huy%E1%BB%81n_b%C3%AD:_Nh%E1%BB%AFng_b%C3%AD_m%E1%BA%ADt_c%E1%BB%A7a_Dumbledore"
+            },
+            {
+                "name": "Inherent Vice",
+                "qid": "Q13806537",
+                "url": "https://vi.wikipedia.org/wiki/Inherent_Vice_(phim)"
+            },
+            {
+                "name": "Michael Clayton",
+                "qid": "Q694140",
+                "url": "https://vi.wikipedia.org/wiki/Michael_Clayton_(phim)"
+            },
+            {
+                "name": "Steve Jobs",
+                "qid": "Q18754959",
+                "url": "https://vi.wikipedia.org/wiki/Steve_Jobs_(phim)"
+            },
+            {
+                "name": "Taking Woodstock",
+                "qid": "Q696652",
+                "url": "https://vi.wikipedia.org/wiki/Taking_Woodstock"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

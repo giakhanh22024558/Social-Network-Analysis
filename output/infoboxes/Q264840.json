@@ -1,0 +1,124 @@
+{
+    "name": "Vera Farmiga",
+    "qid": "Q264840",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Vera_Farmiga",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Molly Hawkey",
+                "qid": "Q19668044"
+            },
+            {
+                "name": "Taissa Farmiga",
+                "qid": "Q389017",
+                "url": "https://vi.wikipedia.org/wiki/Taissa_Farmiga"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1973-08-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annabelle Comes Home",
+                "qid": "Q55973412",
+                "url": "https://vi.wikipedia.org/wiki/Annabelle:_%C3%81c_qu%E1%BB%B7_tr%E1%BB%9F_v%E1%BB%81"
+            },
+            {
+                "name": "Godzilla: King of the Monsters",
+                "qid": "Q17501972",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAa_t%E1%BB%83_Godzilla:_%C4%90%E1%BA%BF_v%C6%B0%C6%A1ng_b%E1%BA%A5t_t%E1%BB%AD"
+            },
+            {
+                "name": "Orphan",
+                "qid": "Q387414",
+                "url": "https://vi.wikipedia.org/wiki/Orphan_(phim)"
+            },
+            {
+                "name": "Safe House",
+                "qid": "Q934739",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%91n_an_to%C3%A0n"
+            },
+            {
+                "name": "Source Code",
+                "qid": "Q266209",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_m%C3%A3_g%E1%BB%91c"
+            },
+            {
+                "name": "The Boy in the Striped Pajamas",
+                "qid": "Q157556",
+                "url": "https://vi.wikipedia.org/wiki/The_Boy_in_the_Striped_Pyjamas"
+            },
+            {
+                "name": "The Conjuring",
+                "qid": "Q5540479",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81m_%E1%BA%A3nh_kinh_ho%C3%A0ng"
+            },
+            {
+                "name": "The Conjuring 2",
+                "qid": "Q21001651",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81m_%E1%BA%A3nh_kinh_ho%C3%A0ng_2"
+            },
+            {
+                "name": "The Conjuring: Last Rites",
+                "qid": "Q114802043",
+                "url": "https://vi.wikipedia.org/wiki/The_Conjuring:_Nghi_l%E1%BB%85_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "The Conjuring: The Devil Made Me Do It",
+                "qid": "Q64145552",
+                "url": "https://vi.wikipedia.org/wiki/The_Conjuring:_Ma_xui_qu%E1%BB%B7_khi%E1%BA%BFn"
+            },
+            {
+                "name": "The Departed",
+                "qid": "Q172975",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_v%E1%BB%A5_Boston"
+            },
+            {
+                "name": "The Nun II",
+                "qid": "Q111784581",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81c_qu%E1%BB%B7_ma_s%C6%A1_2"
+            },
+            {
+                "name": "Up in the Air",
+                "qid": "Q211429",
+                "url": "https://vi.wikipedia.org/wiki/Up_in_the_Air_(phim_2009)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Renn Hawkey",
+                "qid": "Q7313297"
+            }
+        ]
+    }
+}

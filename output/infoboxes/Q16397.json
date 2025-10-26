@@ -1,0 +1,173 @@
+{
+    "name": "Bruce Lee",
+    "qid": "Q16397",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/L%C3%BD_Ti%E1%BB%83u_Long",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Agnes Lee",
+                "qid": "Q23034465"
+            },
+            {
+                "name": "Peter Lee Jung-sum",
+                "qid": "Q48645261"
+            },
+            {
+                "name": "Phoebe Lee",
+                "qid": "Q23034464"
+            },
+            {
+                "name": "Robert Lee",
+                "qid": "Q7346798"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Lee Hoi-chuen",
+                "qid": "Q712093"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Brandon Lee",
+                "qid": "Q211462",
+                "url": "https://vi.wikipedia.org/wiki/L%C3%BD_Qu%E1%BB%91c_H%C3%A0o"
+            },
+            {
+                "name": "Shannon Lee",
+                "qid": "Q698411"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Grace Ho",
+                "qid": "Q23034463"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "martial artist",
+                "qid": "Q11124885"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stunt coordinator",
+                "qid": "Q2833480"
+            },
+            {
+                "name": "stunt performer",
+                "qid": "Q465501",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91%C3%B3ng_th%E1%BA%BF"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1940-11-27T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Game of Death",
+                "qid": "Q854576",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%AD_vong_du_h%C3%BD"
+            },
+            {
+                "name": "Way of the Dragon",
+                "qid": "Q462409",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%A3nh_long_qu%C3%A1_giang"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Game of Death",
+                "qid": "Q854576",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%AD_vong_du_h%C3%BD"
+            },
+            {
+                "name": "Game of Death II",
+                "qid": "Q1754392",
+                "url": "https://vi.wikipedia.org/wiki/Th%C3%A1p_T%E1%BB%AD_Vong"
+            },
+            {
+                "name": "Way of the Dragon",
+                "qid": "Q462409",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%A3nh_long_qu%C3%A1_giang"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Game of Death",
+                "qid": "Q854576",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%AD_vong_du_h%C3%BD"
+            },
+            {
+                "name": "Way of the Dragon",
+                "qid": "Q462409",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%A3nh_long_qu%C3%A1_giang"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "British Hong Kong",
+                "qid": "Q1054923",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93ng_K%C3%B4ng_thu%E1%BB%99c_Anh"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Linda Lee Cadwell",
+                "qid": "Q1130195",
+                "url": "https://vi.wikipedia.org/wiki/Linda_Lee_Cadwell"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Barry Pang",
+                "qid": "Q98433994"
+            }
+        ]
+    }
+}

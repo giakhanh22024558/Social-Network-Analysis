@@ -1,0 +1,57 @@
+{
+    "name": "Mercedes Moné",
+    "qid": "Q6818195",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sasha_Banks",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-01-26T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/d74e54f3ca2a1ef12401b17c7fb1ae97"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Q6096",
+                "qid": "Q6096",
+                "url": "https://vi.wikipedia.org/wiki/Snoop_Dogg"
+            },
+            {
+                "name": "Brandy Norwood",
+                "qid": "Q690974",
+                "url": "https://vi.wikipedia.org/wiki/Brandy_Norwood"
+            },
+            {
+                "name": "Daz Dillinger",
+                "qid": "Q551154"
+            },
+            {
+                "name": "Ray J",
+                "qid": "Q542267",
+                "url": "https://vi.wikipedia.org/wiki/Ray_J"
+            }
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Abigail Breslin",
+    "qid": "Q201418",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Abigail_Breslin",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Spencer Breslin",
+                "qid": "Q251984",
+                "url": "https://vi.wikipedia.org/wiki/Spencer_Breslin"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1996-04-14T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "August: Osage County",
+                "qid": "Q4055443",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%B9a_h%C3%A8_%E1%BB%9F_Osage_County_(phim)"
+            },
+            {
+                "name": "Definitely, Maybe",
+                "qid": "Q1121878",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%A3nh_gh%C3%A9p_t%C3%ACnh_y%C3%AAu"
+            },
+            {
+                "name": "Ender's Game",
+                "qid": "Q1758112",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91%E1%BA%A5u_c%E1%BB%A7a_Ender"
+            },
+            {
+                "name": "Freak Show",
+                "qid": "Q21646414",
+                "url": "https://vi.wikipedia.org/wiki/Freak_Show_(phim)"
+            },
+            {
+                "name": "Little Miss Sunshine",
+                "qid": "Q192073",
+                "url": "https://vi.wikipedia.org/wiki/Little_Miss_Sunshine"
+            },
+            {
+                "name": "Maggie",
+                "qid": "Q16252844",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A9a_con_zombie_(phim)"
+            },
+            {
+                "name": "No Reservations",
+                "qid": "Q761548",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_ho%C3%A0ng_b%C4%83ng_gi%C3%A1_(phim_2007)"
+            },
+            {
+                "name": "The Call",
+                "qid": "Q3019722",
+                "url": "https://vi.wikipedia.org/wiki/911_(phim)"
+            },
+            {
+                "name": "The Princess Diaries 2: Royal Engagement",
+                "qid": "Q696096",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_k%C3%BD_C%C3%B4ng_ch%C3%BAa:_%C4%90%C3%A1m_c%C6%B0%E1%BB%9Bi_Ho%C3%A0ng_gia"
+            },
+            {
+                "name": "Zombieland",
+                "qid": "Q219810",
+                "url": "https://vi.wikipedia.org/wiki/Zombieland"
+            },
+            {
+                "name": "Zombieland: Double Tap",
+                "qid": "Q58879016",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_th%C3%A2y_ma:_C%C3%BA_b%E1%BA%AFn_%C4%91%C3%BAp"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

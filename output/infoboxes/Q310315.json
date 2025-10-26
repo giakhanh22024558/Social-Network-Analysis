@@ -1,0 +1,105 @@
+{
+    "name": "Ving Rhames",
+    "qid": "Q310315",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ving_Rhames",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-05-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Casualties of War",
+                "qid": "Q1126637",
+                "url": "https://vi.wikipedia.org/wiki/Casualties_of_War"
+            },
+            {
+                "name": "Con Air",
+                "qid": "Q607910",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_t%E1%BA%B7c_(phim_1997)"
+            },
+            {
+                "name": "Death Race 2",
+                "qid": "Q670551",
+                "url": "https://vi.wikipedia.org/wiki/Death_Race_2"
+            },
+            {
+                "name": "Entrapment",
+                "qid": "Q578873",
+                "url": "https://vi.wikipedia.org/wiki/Entrapment_(phim)"
+            },
+            {
+                "name": "Guardians of the Galaxy Vol. 2",
+                "qid": "Q20001199",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_2"
+            },
+            {
+                "name": "Mission: Impossible – Dead Reckoning Part One",
+                "qid": "Q61876370",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5:_B%E1%BA%A5t_kh%E1%BA%A3_thi_%E2%80%93_Nghi%E1%BB%87p_b%C3%A1o_ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "Mission: Impossible – Fallout",
+                "qid": "Q29261993",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi:_S%E1%BB%A5p_%C4%91%E1%BB%95"
+            },
+            {
+                "name": "Mission: Impossible – Ghost Protocol",
+                "qid": "Q628154",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi:_Chi%E1%BA%BFn_d%E1%BB%8Bch_b%C3%B3ng_ma"
+            },
+            {
+                "name": "Mission: Impossible – Rogue Nation",
+                "qid": "Q17548046",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi:_Qu%E1%BB%91c_gia_b%C3%AD_%E1%BA%A9n"
+            },
+            {
+                "name": "Piranha 3D",
+                "qid": "Q733995",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A1_h%E1%BB%95_%C4%83n_th%E1%BB%8Bt_ng%C6%B0%E1%BB%9Di_(phim_2010)"
+            },
+            {
+                "name": "Pulp Fiction",
+                "qid": "Q104123",
+                "url": "https://vi.wikipedia.org/wiki/Pulp_Fiction"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Olivia Culpo",
+    "qid": "Q291102",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Olivia_Culpo",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Christian McCaffrey",
+                "qid": "Q21621996"
+            },
+            {
+                "name": "Danny Amendola",
+                "qid": "Q3702263"
+            },
+            {
+                "name": "Nick Jonas",
+                "qid": "Q201656",
+                "url": "https://vi.wikipedia.org/wiki/Nick_Jonas"
+            },
+            {
+                "name": "Tim Tebow",
+                "qid": "Q517467"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "beauty pageant contestant",
+                "qid": "Q18581305"
+            },
+            {
+                "name": "celebrity",
+                "qid": "Q211236",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_n%E1%BB%95i_ti%E1%BA%BFng"
+            },
+            {
+                "name": "influencer",
+                "qid": "Q2906862"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-05-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Other Woman",
+                "qid": "Q14272676",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%A3,_ng%C6%B0%E1%BB%9Di_y%C3%AAu,_ng%C6%B0%E1%BB%9Di_t%C3%ACnh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

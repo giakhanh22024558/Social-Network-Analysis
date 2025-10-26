@@ -1,0 +1,61 @@
+{
+    "name": "Spencer Breslin",
+    "qid": "Q251984",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Spencer_Breslin",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Abigail Breslin",
+                "qid": "Q201418",
+                "url": "https://vi.wikipedia.org/wiki/Abigail_Breslin"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-05-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Happening",
+                "qid": "Q681092",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A3m_h%E1%BB%8Da_to%C3%A0n_c%E1%BA%A7u"
+            },
+            {
+                "name": "The Princess Diaries 2: Royal Engagement",
+                "qid": "Q696096",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_k%C3%BD_C%C3%B4ng_ch%C3%BAa:_%C4%90%C3%A1m_c%C6%B0%E1%BB%9Bi_Ho%C3%A0ng_gia"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Grace Tame",
+                "qid": "Q105070881"
+            }
+        ]
+    }
+}

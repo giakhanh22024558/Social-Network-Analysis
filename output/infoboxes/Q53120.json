@@ -1,0 +1,91 @@
+{
+    "name": "Dylan McDermott",
+    "qid": "Q53120",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dylan_McDermott",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Maggie Q",
+                "qid": "Q614774",
+                "url": "https://vi.wikipedia.org/wiki/Maggie_Q"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "V",
+                "qid": "Q2086841"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-10-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "In the Line of Fire",
+                "qid": "Q427386",
+                "url": "https://vi.wikipedia.org/wiki/In_the_Line_of_Fire"
+            },
+            {
+                "name": "King Richard",
+                "qid": "Q84203429",
+                "url": "https://vi.wikipedia.org/wiki/King_Richard:_Huy%E1%BB%81n_tho%E1%BA%A1i_nh%C3%A0_Williams"
+            },
+            {
+                "name": "Olympus Has Fallen",
+                "qid": "Q3010512",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_Tr%E1%BA%AFng_th%E1%BA%A5t_th%E1%BB%A7"
+            },
+            {
+                "name": "Survivor",
+                "qid": "Q15715647",
+                "url": "https://vi.wikipedia.org/wiki/Ph%E1%BA%A3n_s%C3%A1t_(phim)"
+            },
+            {
+                "name": "The Perks of Being a Wallflower",
+                "qid": "Q675468",
+                "url": "https://vi.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Shiva Rose",
+                "qid": "Q6018486"
+            }
+        ]
+    }
+}

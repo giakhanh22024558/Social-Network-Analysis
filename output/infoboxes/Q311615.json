@@ -1,0 +1,120 @@
+{
+    "name": "Thomas Haden Church",
+    "qid": "Q311615",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Thomas_Haden_Church",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Mia Zottoli",
+                "qid": "Q126917681"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "radio personality",
+                "qid": "Q2722764"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1960-06-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Aliens in the Attic",
+                "qid": "Q119889",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_v%E1%BA%ADt_tr%C3%AAn_g%C3%A1c_x%C3%A9p"
+            },
+            {
+                "name": "All About Steve",
+                "qid": "Q590813",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_n%C3%A0ng_d%E1%BA%A1i_trai"
+            },
+            {
+                "name": "Charlotte's Web",
+                "qid": "Q213773",
+                "url": "https://vi.wikipedia.org/wiki/Charlotte%27s_Web_(phim_2006)"
+            },
+            {
+                "name": "Daddy's Home",
+                "qid": "Q18619590",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_ngoan,_b%E1%BB%91_h%C6%B0"
+            },
+            {
+                "name": "George of the Jungle",
+                "qid": "Q225260",
+                "url": "https://vi.wikipedia.org/wiki/George_of_the_Jungle"
+            },
+            {
+                "name": "John Carter",
+                "qid": "Q235347",
+                "url": "https://vi.wikipedia.org/wiki/John_Carter_(phim)"
+            },
+            {
+                "name": "Spider-Man 3",
+                "qid": "Q182212",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_3"
+            },
+            {
+                "name": "Spider-Man: No Way Home",
+                "qid": "Q68934496",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Kh%C3%B4ng_c%C3%B2n_nh%C3%A0"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

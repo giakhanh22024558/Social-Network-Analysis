@@ -1,0 +1,62 @@
+{
+    "name": "Brian J. Smith",
+    "qid": "Q912401",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Brian_J._Smith",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-10-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Hate Crime",
+                "qid": "Q4377503",
+                "url": "https://vi.wikipedia.org/wiki/Hate_Crime_(phim_2005)"
+            },
+            {
+                "name": "The Matrix Resurrections",
+                "qid": "Q80322391",
+                "url": "https://vi.wikipedia.org/wiki/Ma_tr%E1%BA%ADn:_H%E1%BB%93i_sinh"
+            },
+            {
+                "name": "The War Boys",
+                "qid": "Q12132358",
+                "url": "https://vi.wikipedia.org/wiki/The_War_Boys"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

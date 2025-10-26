@@ -1,0 +1,59 @@
+{
+    "name": "Jane Levy",
+    "qid": "Q452618",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jane_Levy",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1989-12-29T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Don't Breathe",
+                "qid": "Q21450470",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_nh%C3%A2n_trong_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "Evil Dead",
+                "qid": "Q73279",
+                "url": "https://vi.wikipedia.org/wiki/Ma_c%C3%A2y_(phim_2013)"
+            },
+            {
+                "name": "Monster Trucks",
+                "qid": "Q16939122",
+                "url": "https://vi.wikipedia.org/wiki/Xe_t%E1%BA%A3i_qu%C3%A1i_v%E1%BA%ADt"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jaime Freitas",
+                "qid": "Q65459433"
+            }
+        ]
+    }
+}

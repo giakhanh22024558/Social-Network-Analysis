@@ -1,0 +1,112 @@
+{
+    "name": "Elizabeth Avellán Ochoa",
+    "qid": "Q465517",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Elizabeth_Avell%C3%A1n",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Racer Rodriguez",
+                "qid": "Q28032516"
+            },
+            {
+                "name": "Rebel Rodriguez",
+                "qid": "Q2134986"
+            },
+            {
+                "name": "Rhiannon Rodriguez",
+                "qid": "Q28124056"
+            },
+            {
+                "name": "Rocket Rodriguez",
+                "qid": "Q28032537"
+            },
+            {
+                "name": "Rogue Rodriguez",
+                "qid": "Q28124049"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1960-11-08T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Once Upon a Time in Mexico",
+                "qid": "Q93853",
+                "url": "https://vi.wikipedia.org/wiki/Once_Upon_A_Time_In_Mexico"
+            },
+            {
+                "name": "Sin City",
+                "qid": "Q192115",
+                "url": "https://vi.wikipedia.org/wiki/Sin_City_(phim)"
+            },
+            {
+                "name": "The Adventures of Sharkboy and Lavagirl in 3-D",
+                "qid": "Q656357",
+                "url": "https://vi.wikipedia.org/wiki/The_Adventures_of_Sharkboy_and_Lavagirl_in_3-D"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Chile",
+                "qid": "Q298",
+                "url": "https://vi.wikipedia.org/wiki/Chile"
+            },
+            {
+                "name": "Mexico",
+                "qid": "Q96",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%A9xico"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            },
+            {
+                "name": "Venezuela",
+                "qid": "Q717",
+                "url": "https://vi.wikipedia.org/wiki/Venezuela"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Robert Rodriguez",
+                "qid": "Q47284",
+                "url": "https://vi.wikipedia.org/wiki/Robert_Rodriguez"
+            }
+        ]
+    }
+}

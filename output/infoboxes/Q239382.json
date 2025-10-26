@@ -1,0 +1,78 @@
+{
+    "name": "Scout Taylor-Compton",
+    "qid": "Q239382",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Scout_Taylor-Compton",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1989-02-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Halloween",
+                "qid": "Q909063",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_(phim_2007)"
+            },
+            {
+                "name": "Halloween II",
+                "qid": "Q908690",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_II_(phim_2009)"
+            },
+            {
+                "name": "Return to Sender",
+                "qid": "Q20022655",
+                "url": "https://vi.wikipedia.org/wiki/O%C3%A1n_tr%E1%BA%A3_o%C3%A1n_(phim_2015)"
+            },
+            {
+                "name": "The Long Night",
+                "qid": "Q110791795",
+                "url": "https://vi.wikipedia.org/wiki/The_Long_Night_(phim_2022)"
+            },
+            {
+                "name": "The Runaways",
+                "qid": "Q206336",
+                "url": "https://vi.wikipedia.org/wiki/Thi%E1%BA%BFu_n%E1%BB%AF_n%E1%BB%95i_lo%E1%BA%A1n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

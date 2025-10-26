@@ -1,0 +1,155 @@
+{
+    "name": "Liev Schreiber",
+    "qid": "Q298368",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Liev_Schreiber",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Pablo Schreiber",
+                "qid": "Q26173",
+                "url": "https://vi.wikipedia.org/wiki/Pablo_Schreiber"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Naomi Watts",
+                "qid": "Q132616",
+                "url": "https://vi.wikipedia.org/wiki/Naomi_Watts"
+            },
+            {
+                "name": "Taylor Neisen",
+                "qid": "Q116534646"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Tell Schreiber",
+                "qid": "Q108798350"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Kai Schreiber",
+                "qid": "Q24718144"
+            },
+            {
+                "name": "Sasha Schreiber",
+                "qid": "Q24718118"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-10-04T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Rainy Day in New York",
+                "qid": "Q42307699",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_ng%C3%A0y_m%C6%B0a_%E1%BB%9F_New_York"
+            },
+            {
+                "name": "Asteroid City",
+                "qid": "Q108086029",
+                "url": "https://vi.wikipedia.org/wiki/Asteroid_City"
+            },
+            {
+                "name": "Love in the Time of Cholera",
+                "qid": "Q849169",
+                "url": "https://vi.wikipedia.org/wiki/Love_in_the_Time_of_Cholera_(EP)"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "Repo Men",
+                "qid": "Q1460779",
+                "url": "https://vi.wikipedia.org/wiki/Repo_Men"
+            },
+            {
+                "name": "Salt",
+                "qid": "Q628139",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_%C4%91i%E1%BB%87p_vi%C3%AAn_(phim_2010)"
+            },
+            {
+                "name": "Scream",
+                "qid": "Q27411",
+                "url": "https://vi.wikipedia.org/wiki/Scream_(phim_1996)"
+            },
+            {
+                "name": "Spotlight",
+                "qid": "Q18154496",
+                "url": "https://vi.wikipedia.org/wiki/Spotlight_(phim)"
+            },
+            {
+                "name": "Taking Woodstock",
+                "qid": "Q696652",
+                "url": "https://vi.wikipedia.org/wiki/Taking_Woodstock"
+            },
+            {
+                "name": "The 5th Wave",
+                "qid": "Q17436508",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A3t_t%E1%BA%A5n_c%C3%B4ng_th%E1%BB%A9_5"
+            },
+            {
+                "name": "X-Men Origins: Wolverine",
+                "qid": "Q217552",
+                "url": "https://vi.wikipedia.org/wiki/Ngu%E1%BB%93n_g%E1%BB%91c_X-Men:_Ng%C6%B0%E1%BB%9Di_S%C3%B3i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

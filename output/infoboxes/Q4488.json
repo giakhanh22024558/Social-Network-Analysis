@@ -1,0 +1,121 @@
+{
+    "name": "Clancy Brown",
+    "qid": "Q4488",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Clancy_Brown",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Bud Brown",
+                "qid": "Q4983802"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "investor",
+                "qid": "Q557880",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%91%E1%BA%A7u_t%C6%B0"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-01-05T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Nightmare on Elm Street",
+                "qid": "Q300508",
+                "url": "https://vi.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_(phim_2010)"
+            },
+            {
+                "name": "Cowboys & Aliens",
+                "qid": "Q725578",
+                "url": "https://vi.wikipedia.org/wiki/Cao_b%E1%BB%93i_%26_qu%C3%A1i_v%E1%BA%ADt_ngo%C3%A0i_h%C3%A0nh_tinh"
+            },
+            {
+                "name": "John Wick: Chapter 4",
+                "qid": "Q80322358",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_th%E1%BB%A7_John_Wick:_Ph%E1%BA%A7n_4"
+            },
+            {
+                "name": "Lady and the Tramp",
+                "qid": "Q56596746",
+                "url": "https://vi.wikipedia.org/wiki/Lady_and_the_Tramp_(phim_2019)"
+            },
+            {
+                "name": "Last Looks",
+                "qid": "Q61939510",
+                "url": "https://vi.wikipedia.org/wiki/Last_Looks"
+            },
+            {
+                "name": "Promising Young Woman",
+                "qid": "Q62595383",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tr%E1%BA%BB_h%E1%BB%A9a_h%E1%BA%B9n"
+            },
+            {
+                "name": "The Bride",
+                "qid": "Q118985",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_d%C3%A2u_(phim_1985)"
+            },
+            {
+                "name": "The Shawshank Redemption",
+                "qid": "Q172241",
+                "url": "https://vi.wikipedia.org/wiki/The_Shawshank_Redemption"
+            },
+            {
+                "name": "Warcraft",
+                "qid": "Q14513321",
+                "url": "https://vi.wikipedia.org/wiki/Warcraft:_%C4%90%E1%BA%A1i_chi%E1%BA%BFn_hai_th%E1%BA%BF_gi%E1%BB%9Bi"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

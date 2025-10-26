@@ -1,0 +1,192 @@
+{
+    "name": "Zoë Kravitz",
+    "qid": "Q227129",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Zo%C3%AB_Kravitz",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Channing Tatum",
+                "qid": "Q212064",
+                "url": "https://vi.wikipedia.org/wiki/Channing_Tatum"
+            },
+            {
+                "name": "Ezra Miller",
+                "qid": "Q508049",
+                "url": "https://vi.wikipedia.org/wiki/Ezra_Miller"
+            },
+            {
+                "name": "Penn Badgley",
+                "qid": "Q311750"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Lenny Kravitz",
+                "qid": "Q180224",
+                "url": "https://vi.wikipedia.org/wiki/Lenny_Kravitz"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Lisa Bonet",
+                "qid": "Q232414"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1988-12-01T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Blink Twice",
+                "qid": "Q113012523",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%ADn_hi%E1%BB%87u_c%E1%BA%A7u_c%E1%BB%A9u_(phim_2024)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "After Earth",
+                "qid": "Q1254088",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%9F_v%E1%BB%81_Tr%C3%A1i_%C4%90%E1%BA%A5t"
+            },
+            {
+                "name": "Divergent",
+                "qid": "Q8561227",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BB%8B_bi%E1%BB%87t_(phim)"
+            },
+            {
+                "name": "Fantastic Beasts: The Crimes of Grindelwald",
+                "qid": "Q18199331",
+                "url": "https://vi.wikipedia.org/wiki/Sinh_v%E1%BA%ADt_huy%E1%BB%81n_b%C3%AD:_T%E1%BB%99i_%C3%A1c_c%E1%BB%A7a_Grindelwald"
+            },
+            {
+                "name": "Kimi",
+                "qid": "Q106363032",
+                "url": "https://vi.wikipedia.org/wiki/Kimi_(phim)"
+            },
+            {
+                "name": "Mad Max: Fury Road",
+                "qid": "Q1757288",
+                "url": "https://vi.wikipedia.org/wiki/Max_%C4%91i%C3%AAn:_Con_%C4%91%C6%B0%E1%BB%9Dng_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "No Reservations",
+                "qid": "Q761548",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_ho%C3%A0ng_b%C4%83ng_gi%C3%A1_(phim_2007)"
+            },
+            {
+                "name": "Rough Night",
+                "qid": "Q27701601",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%87c_%C4%91%E1%BB%99c_th%C3%A2n_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "The Batman",
+                "qid": "Q61117344",
+                "url": "https://vi.wikipedia.org/wiki/Batman_(phim_2022)"
+            },
+            {
+                "name": "The Divergent Series: Allegiant",
+                "qid": "Q19648591",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_trung_ki%C3%AAn"
+            },
+            {
+                "name": "The Divergent Series: Insurgent",
+                "qid": "Q16997069",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_n%E1%BB%95i_lo%E1%BA%A1n_(phim_2015)"
+            },
+            {
+                "name": "X-Men: First Class",
+                "qid": "Q223596",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Th%E1%BA%BF_h%E1%BB%87_th%E1%BB%A9_nh%E1%BA%A5t"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Blink Twice",
+                "qid": "Q113012523",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%ADn_hi%E1%BB%87u_c%E1%BA%A7u_c%E1%BB%A9u_(phim_2024)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Karl Glusman",
+                "qid": "Q20993783"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Allen Bonet",
+                "qid": "Q114238340"
+            },
+            {
+                "name": "Arlene Litman",
+                "qid": "Q114238512"
+            },
+            {
+                "name": "Lola Momoa",
+                "qid": "Q28659023"
+            },
+            {
+                "name": "Nakoa-Wolf Momoa",
+                "qid": "Q28658907"
+            },
+            {
+                "name": "Roxie Roker",
+                "qid": "Q456903"
+            },
+            {
+                "name": "Sy Kravitz",
+                "qid": "Q3506733"
+            }
+        ]
+    }
+}

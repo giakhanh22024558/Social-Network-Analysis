@@ -1,0 +1,90 @@
+{
+    "name": "Sydney Sweeney",
+    "qid": "Q49561909",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sydney_Sweeney",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Pedro Sánchez",
+                "qid": "Q6070218",
+                "url": "https://vi.wikipedia.org/wiki/Pedro_S%C3%A1nchez"
+            },
+            {
+                "name": "Scooter Braun",
+                "qid": "Q1189670",
+                "url": "https://vi.wikipedia.org/wiki/Scooter_Braun"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1997-09-12T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Immaculate",
+                "qid": "Q116980365",
+                "url": "https://vi.wikipedia.org/wiki/Tu_vi%E1%BB%87n_m%C3%A1u"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Immaculate",
+                "qid": "Q116980365",
+                "url": "https://vi.wikipedia.org/wiki/Tu_vi%E1%BB%87n_m%C3%A1u"
+            },
+            {
+                "name": "Madame Web",
+                "qid": "Q111677117",
+                "url": "https://vi.wikipedia.org/wiki/Madame_Web_(phim)"
+            },
+            {
+                "name": "Once Upon a Time in Hollywood",
+                "qid": "Q47300912",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_ng%C3%A0y_x%C6%B0a_%E1%BB%9F..._Hollywood"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

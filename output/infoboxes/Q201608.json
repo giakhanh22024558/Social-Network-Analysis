@@ -1,0 +1,79 @@
+{
+    "name": "Dennis Rodman",
+    "qid": "Q201608",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dennis_Rodman",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Madonna",
+                "qid": "Q1744",
+                "url": "https://vi.wikipedia.org/wiki/Madonna"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "DJ Rodman",
+                "qid": "Q95304986"
+            },
+            {
+                "name": "Trinity Rodman",
+                "qid": "Q97760769"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "amateur wrestler",
+                "qid": "Q12369333"
+            },
+            {
+                "name": "basketball coach",
+                "qid": "Q5137571"
+            },
+            {
+                "name": "basketball player",
+                "qid": "Q3665646"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-05-13T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Carmen Electra",
+                "qid": "Q185122"
+            },
+            {
+                "name": "Michelle Moyer",
+                "qid": "Q109371381"
+            }
+        ]
+    }
+}

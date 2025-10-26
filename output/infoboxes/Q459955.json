@@ -1,0 +1,81 @@
+{
+    "name": "Steve Aoki",
+    "qid": "Q459955",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steve_Aoki",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Devon Aoki",
+                "qid": "Q230817"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Hiroaki Aoki",
+                "qid": "Q5770004"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Rocky77 Aoki",
+                "qid": "Q135479956"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "club DJ",
+                "qid": "Q10816969"
+            },
+            {
+                "name": "collector",
+                "qid": "Q3243461"
+            },
+            {
+                "name": "disc jockey",
+                "qid": "Q130857",
+                "url": "https://vi.wikipedia.org/wiki/DJ"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-11-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Why Him?",
+                "qid": "Q23058779",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_v%E1%BB%A3_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u_ch%C3%A0ng_r%E1%BB%83"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Japan",
+                "qid": "Q17",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Sasha Sofine",
+                "qid": "Q135039090"
+            }
+        ]
+    }
+}

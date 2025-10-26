@@ -1,0 +1,148 @@
+{
+    "name": "James Gunn",
+    "qid": "Q717015",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/James_Gunn",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Brian Gunn",
+                "qid": "Q23887610"
+            },
+            {
+                "name": "Matt Gunn",
+                "qid": "Q6788746"
+            },
+            {
+                "name": "Sean Gunn",
+                "qid": "Q431753",
+                "url": "https://vi.wikipedia.org/wiki/Sean_Gunn"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "James Gunn Sr.",
+                "qid": "Q65953457"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Leota Gunn",
+                "qid": "Q65953467"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-08-05T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Superman",
+                "qid": "Q116547790",
+                "url": "https://vi.wikipedia.org/wiki/Superman_(phim_2025)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Guardians of the Galaxy",
+                "qid": "Q5887360",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_(phim)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Guardians of the Galaxy",
+                "qid": "Q5887360",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_(phim)"
+            },
+            {
+                "name": "Guardians of the Galaxy Vol. 2",
+                "qid": "Q20001199",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_2"
+            },
+            {
+                "name": "Guardians of the Galaxy Vol. 3",
+                "qid": "Q29226331",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_3"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "Superman",
+                "qid": "Q116547790",
+                "url": "https://vi.wikipedia.org/wiki/Superman_(phim_2025)"
+            },
+            {
+                "name": "The Guardians of the Galaxy Holiday Special",
+                "qid": "Q106729096",
+                "url": "https://vi.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special"
+            },
+            {
+                "name": "The Suicide Squad",
+                "qid": "Q57317060",
+                "url": "https://vi.wikipedia.org/wiki/Suicide_Squad:_%C4%90i%E1%BB%87p_v%E1%BB%A5_c%E1%BA%A3m_t%E1%BB%AD"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jenna Fischer",
+                "qid": "Q238877"
+            },
+            {
+                "name": "Jennifer Holland",
+                "qid": "Q3177067"
+            }
+        ]
+    }
+}

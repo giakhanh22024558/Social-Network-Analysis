@@ -1,0 +1,49 @@
+{
+    "name": "Edwin Catmull",
+    "qid": "Q93161",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Edwin_Catmull",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "computer scientist",
+                "qid": "Q82594",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_khoa_h%E1%BB%8Dc_m%C3%A1y_t%C3%ADnh"
+            },
+            {
+                "name": "engineer",
+                "qid": "Q81096",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B9_s%C6%B0"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1945-03-31T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Toy Story",
+                "qid": "Q171048",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_%C4%91%E1%BB%93_ch%C6%A1i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

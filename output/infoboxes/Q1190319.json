@@ -1,0 +1,105 @@
+{
+    "name": "Josh Gad",
+    "qid": "Q1190319",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Josh_Gad",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Isabella Gad",
+                "qid": "Q109498878"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-02-23T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Artemis Fowl",
+                "qid": "Q12302227",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_Artemis_Fowl"
+            },
+            {
+                "name": "Beauty and the Beast",
+                "qid": "Q19946102",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%E1%BA%B9p_v%C3%A0_qu%C3%A1i_v%E1%BA%ADt_(phim_2017)"
+            },
+            {
+                "name": "Murder on the Orient Express",
+                "qid": "Q27689100",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81n_m%E1%BA%A1ng_tr%C3%AAn_chuy%E1%BA%BFn_t%C3%A0u_t%E1%BB%91c_h%C3%A0nh_Ph%C6%B0%C6%A1ng_%C4%90%C3%B4ng_(phim_2017)"
+            },
+            {
+                "name": "Pixels",
+                "qid": "Q17182905",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_Pixels"
+            },
+            {
+                "name": "The Internship",
+                "qid": "Q4207359",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%B1c_t%E1%BA%ADp_sinh_(phim)"
+            },
+            {
+                "name": "The Wedding Ringer",
+                "qid": "Q17049587",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BB%8Bch_v%E1%BB%A5_trai_thu%C3%AA"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Ida Darvish",
+                "qid": "Q67015207"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Evelyn Greenblatt",
+                "qid": "Q123378861"
+            },
+            {
+                "name": "Sarah Rosenberg",
+                "qid": "Q123378662"
+            }
+        ]
+    }
+}

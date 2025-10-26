@@ -1,0 +1,228 @@
+{
+    "name": "Leonardo DiCaprio",
+    "qid": "Q38111",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Leonardo_DiCaprio",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Bar Refaeli",
+                "qid": "Q298197",
+                "url": "https://vi.wikipedia.org/wiki/Bar_Refaeli"
+            },
+            {
+                "name": "Blake Lively",
+                "qid": "Q162959",
+                "url": "https://vi.wikipedia.org/wiki/Blake_Lively"
+            },
+            {
+                "name": "Camila Morrone",
+                "qid": "Q27449526",
+                "url": "https://vi.wikipedia.org/wiki/Camila_Morrone"
+            },
+            {
+                "name": "Erin Heatherton",
+                "qid": "Q235959"
+            },
+            {
+                "name": "Gigi Hadid",
+                "qid": "Q16843706",
+                "url": "https://vi.wikipedia.org/wiki/Gigi_Hadid"
+            },
+            {
+                "name": "Gisele Bündchen",
+                "qid": "Q152208",
+                "url": "https://vi.wikipedia.org/wiki/Gisele_B%C3%BCndchen"
+            },
+            {
+                "name": "Helena Christensen",
+                "qid": "Q229397"
+            },
+            {
+                "name": "Kelly Rohrbach",
+                "qid": "Q21997695"
+            },
+            {
+                "name": "Nina Agdal",
+                "qid": "Q7037835"
+            },
+            {
+                "name": "Toni Garrn",
+                "qid": "Q64960",
+                "url": "https://vi.wikipedia.org/wiki/Toni_Garrn"
+            },
+            {
+                "name": "Vittoria Ceretti",
+                "qid": "Q21207531"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "George DiCaprio",
+                "qid": "Q5538516"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Irmelin DiCaprio",
+                "qid": "Q22984557"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "environmentalist",
+                "qid": "Q3578589",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%B4i_tr%C6%B0%E1%BB%9Dng_h%E1%BB%8Dc"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-11-11T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Orphan",
+                "qid": "Q387414",
+                "url": "https://vi.wikipedia.org/wiki/Orphan_(phim)"
+            },
+            {
+                "name": "Robin Hood",
+                "qid": "Q28811584",
+                "url": "https://vi.wikipedia.org/wiki/Robin_Hood_(phim_2018)"
+            },
+            {
+                "name": "The Wolf of Wall Street",
+                "qid": "Q1392744",
+                "url": "https://vi.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(phim_2013)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Body of Lies",
+                "qid": "Q578312",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_v%E1%BB%A5_c%C3%A1_%C4%91u%E1%BB%91i"
+            },
+            {
+                "name": "Catch Me If You Can",
+                "qid": "Q208108",
+                "url": "https://vi.wikipedia.org/wiki/Catch_Me_If_You_Can"
+            },
+            {
+                "name": "Django Unchained",
+                "qid": "Q571032",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tr%C3%ACnh_Django"
+            },
+            {
+                "name": "Don't Look Up",
+                "qid": "Q100361490",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%ABng_nh%C3%ACn_l%C3%AAn"
+            },
+            {
+                "name": "Inception",
+                "qid": "Q25188",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_tr%E1%BB%99m_gi%E1%BA%A5c_m%C6%A1"
+            },
+            {
+                "name": "J. Edgar",
+                "qid": "Q1137236",
+                "url": "https://vi.wikipedia.org/wiki/J._Edgar"
+            },
+            {
+                "name": "Killers of the Flower Moon",
+                "qid": "Q66316924",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%A7ng_tr%C4%83ng_m%C3%A1u_(phim)"
+            },
+            {
+                "name": "Once Upon a Time in Hollywood",
+                "qid": "Q47300912",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_ng%C3%A0y_x%C6%B0a_%E1%BB%9F..._Hollywood"
+            },
+            {
+                "name": "One Battle After Another",
+                "qid": "Q117085614",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_chi%E1%BA%BFn_sau_tr%E1%BA%ADn_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Shutter Island",
+                "qid": "Q210364",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_kinh_ho%C3%A0ng_(phim_2010)"
+            },
+            {
+                "name": "The Aviator",
+                "qid": "Q201924",
+                "url": "https://vi.wikipedia.org/wiki/The_Aviator_(phim)"
+            },
+            {
+                "name": "The Departed",
+                "qid": "Q172975",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_v%E1%BB%A5_Boston"
+            },
+            {
+                "name": "The Great Gatsby",
+                "qid": "Q892735",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_gia_Gatsby_(phim_2013)"
+            },
+            {
+                "name": "The Revenant",
+                "qid": "Q18002795",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_v%E1%BB%81_t%E1%BB%AB_c%C3%B5i_ch%E1%BA%BFt"
+            },
+            {
+                "name": "The Wolf of Wall Street",
+                "qid": "Q1392744",
+                "url": "https://vi.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(phim_2013)"
+            },
+            {
+                "name": "Titanic",
+                "qid": "Q44578",
+                "url": "https://vi.wikipedia.org/wiki/Titanic_(phim_1997)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Adam Farrar",
+                "qid": "Q22984560"
+            },
+            {
+                "name": "Helene Indenbirken",
+                "qid": "Q111151873"
+            }
+        ]
+    }
+}

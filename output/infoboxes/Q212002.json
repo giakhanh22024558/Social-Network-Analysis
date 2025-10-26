@@ -1,0 +1,54 @@
+{
+    "name": "Amanda Bynes",
+    "qid": "Q212002",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Amanda_Bynes",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-04-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Hairspray",
+                "qid": "Q222041",
+                "url": "https://vi.wikipedia.org/wiki/Hairspray_(phim_2007)"
+            },
+            {
+                "name": "Love Wrecked",
+                "qid": "Q1287979",
+                "url": "https://vi.wikipedia.org/wiki/Lovewrecked"
+            },
+            {
+                "name": "She's the Man",
+                "qid": "Q72925",
+                "url": "https://vi.wikipedia.org/wiki/She%E2%80%99s_the_Man"
+            },
+            {
+                "name": "Sydney White",
+                "qid": "Q1137907",
+                "url": "https://vi.wikipedia.org/wiki/Sydney_White"
+            },
+            {
+                "name": "What a Girl Wants",
+                "qid": "Q1123621",
+                "url": "https://vi.wikipedia.org/wiki/What_a_Girl_Wants_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

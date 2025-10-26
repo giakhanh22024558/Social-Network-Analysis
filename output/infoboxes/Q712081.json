@@ -1,0 +1,36 @@
+{
+    "name": "Richard Sandrak",
+    "qid": "Q712081",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Richard_Sandrak",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "bodybuilder",
+                "qid": "Q15982795"
+            },
+            {
+                "name": "child actor",
+                "qid": "Q970153",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_nh%C3%AD"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-04-15T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

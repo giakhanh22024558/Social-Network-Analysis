@@ -1,0 +1,61 @@
+{
+    "name": "Kaitlyn Dever",
+    "qid": "Q519784",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kaitlyn_Dever",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1996-12-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Bad Teacher",
+                "qid": "Q798797",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_gi%C3%A1o_l%E1%BA%AFm_chi%C3%AAu"
+            },
+            {
+                "name": "J. Edgar",
+                "qid": "Q1137236",
+                "url": "https://vi.wikipedia.org/wiki/J._Edgar"
+            },
+            {
+                "name": "Ticket to Paradise",
+                "qid": "Q109511080",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BA%A5m_v%C3%A9_%C4%91%E1%BA%BFn_thi%C3%AAn_%C4%91%C6%B0%E1%BB%9Dng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "name": "Octavia Spencer",
+    "qid": "Q229254",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Octavia_Spencer",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-05-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Being John Malkovich",
+                "qid": "Q649165",
+                "url": "https://vi.wikipedia.org/wiki/Being_John_Malkovich"
+            },
+            {
+                "name": "Dolittle",
+                "qid": "Q38689704",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9_Dolittle:_Chuy%E1%BA%BFn_phi%C3%AAu_l%C6%B0u_th%E1%BA%A7n_tho%E1%BA%A1i"
+            },
+            {
+                "name": "Drag Me to Hell",
+                "qid": "Q632737",
+                "url": "https://vi.wikipedia.org/wiki/Drag_Me_to_Hell"
+            },
+            {
+                "name": "Halloween II",
+                "qid": "Q908690",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_II_(phim_2009)"
+            },
+            {
+                "name": "Paradise",
+                "qid": "Q14514268",
+                "url": "https://vi.wikipedia.org/wiki/Paradise_(phim_2013)"
+            },
+            {
+                "name": "Seven Pounds",
+                "qid": "Q635924",
+                "url": "https://vi.wikipedia.org/wiki/Seven_Pounds"
+            },
+            {
+                "name": "Snowpiercer",
+                "qid": "Q492908",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BA%BFn_t%C3%A0u_b%C4%83ng_gi%C3%A1"
+            },
+            {
+                "name": "Spider-Man",
+                "qid": "Q484442",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_(phim_2002)"
+            },
+            {
+                "name": "The Divergent Series: Allegiant",
+                "qid": "Q19648591",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_trung_ki%C3%AAn"
+            },
+            {
+                "name": "The Divergent Series: Insurgent",
+                "qid": "Q16997069",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_n%E1%BB%95i_lo%E1%BA%A1n_(phim_2015)"
+            },
+            {
+                "name": "The Help",
+                "qid": "Q204374",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_gi%C3%BAp_vi%E1%BB%87c_(phim)"
+            },
+            {
+                "name": "The Shape of Water",
+                "qid": "Q26698156",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%E1%BA%B9p_v%C3%A0_th%E1%BB%A7y_qu%C3%A1i"
+            },
+            {
+                "name": "The Witches",
+                "qid": "Q63630439",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%B9_th%E1%BB%A7y,_ph%C3%B9_th%E1%BB%A7y"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

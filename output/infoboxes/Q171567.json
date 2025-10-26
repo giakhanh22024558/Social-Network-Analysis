@@ -1,0 +1,94 @@
+{
+    "name": "Laura Prepon",
+    "qid": "Q171567",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Laura_Prepon",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Brad Prepon",
+                "qid": "Q22116782"
+            },
+            {
+                "name": "Danielle Prepon",
+                "qid": "Q22116785"
+            },
+            {
+                "name": "Jocelyn Prepon",
+                "qid": "Q22116784"
+            },
+            {
+                "name": "Stephanie Prepon",
+                "qid": "Q22116783"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Michael Prepon",
+                "qid": "Q22116787"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Marjorie Prepon",
+                "qid": "Q22116786"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-03-07T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Girl on the Train",
+                "qid": "Q21433535",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tr%C3%AAn_t%C3%A0u_(phim_2016)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Ben Foster",
+                "qid": "Q311804",
+                "url": "https://vi.wikipedia.org/wiki/Ben_Foster_(di%E1%BB%85n_vi%C3%AAn)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Jake Johnson",
+    "qid": "Q171525",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jake_Johnson",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-05-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "21 Jump Street",
+                "qid": "Q214014",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "Jurassic World",
+                "qid": "Q3512046",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long"
+            },
+            {
+                "name": "Jurassic World Dominion",
+                "qid": "Q55178974",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long:_L%C3%A3nh_%C4%91%E1%BB%8Ba"
+            },
+            {
+                "name": "No Strings Attached",
+                "qid": "Q474087",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_kh%C3%B4ng_r%C3%A0ng_bu%E1%BB%99c"
+            },
+            {
+                "name": "The Mummy",
+                "qid": "Q23759268",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%A1c_%C6%B0%E1%BB%9Bp_(phim_2017)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

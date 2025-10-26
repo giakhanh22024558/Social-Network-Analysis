@@ -1,0 +1,79 @@
+{
+    "name": "Gary Trousdale",
+    "qid": "Q1152051",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Gary_Trousdale",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "effects animator",
+                "qid": "Q28122965"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "music video director",
+                "qid": "Q2340668"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "storyboard artist",
+                "qid": "Q5762300",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_k%E1%BB%8Bch_b%E1%BA%A3n_ph%C3%A2n_c%E1%BA%A3nh"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1960-06-08T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Atlantis: The Lost Empire",
+                "qid": "Q318975",
+                "url": "https://vi.wikipedia.org/wiki/Atlantis:_%C4%90%E1%BA%BF_ch%E1%BA%BF_th%E1%BA%A5t_l%E1%BA%A1c"
+            },
+            {
+                "name": "Beauty and the Beast",
+                "qid": "Q179673",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%E1%BA%B9p_v%C3%A0_qu%C3%A1i_v%E1%BA%ADt_(phim_1991)"
+            },
+            {
+                "name": "The Hunchback of Notre Dame",
+                "qid": "Q213787",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%B1ng_g%C3%B9_%E1%BB%9F_nh%C3%A0_th%E1%BB%9D_%C4%90%E1%BB%A9c_B%C3%A0_(phim_1996)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

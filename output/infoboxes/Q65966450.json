@@ -1,0 +1,49 @@
+{
+    "name": "Jack Champion",
+    "qid": "Q65966450",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jack_Champion",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2004-11-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avatar 4",
+                "qid": "Q29580931",
+                "url": "https://vi.wikipedia.org/wiki/Avatar_4"
+            },
+            {
+                "name": "Avatar: Fire and Ash",
+                "qid": "Q29580929",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_L%E1%BB%ADa_v%C3%A0_tro_t%C3%A0n"
+            },
+            {
+                "name": "Avatar: The Way of Water",
+                "qid": "Q3604746",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_D%C3%B2ng_ch%E1%BA%A3y_c%E1%BB%A7a_n%C6%B0%E1%BB%9Bc"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

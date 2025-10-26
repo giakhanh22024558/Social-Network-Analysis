@@ -1,0 +1,78 @@
+{
+    "name": "Kyle Gallner",
+    "qid": "Q704395",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kyle_Gallner",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-10-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Nightmare on Elm Street",
+                "qid": "Q300508",
+                "url": "https://vi.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_(phim_2010)"
+            },
+            {
+                "name": "American Sniper",
+                "qid": "Q16970789",
+                "url": "https://vi.wikipedia.org/wiki/American_Sniper"
+            },
+            {
+                "name": "Beautiful Creatures",
+                "qid": "Q738704",
+                "url": "https://vi.wikipedia.org/wiki/Gia_t%E1%BB%99c_huy%E1%BB%81n_b%C3%AD"
+            },
+            {
+                "name": "Scream",
+                "qid": "Q88563268",
+                "url": "https://vi.wikipedia.org/wiki/Scream_5"
+            },
+            {
+                "name": "Smile",
+                "qid": "Q112623225",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%9Di_(phim_n%C4%83m_2022)"
+            },
+            {
+                "name": "Smile 2",
+                "qid": "Q123472063",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%9Di_2_(phim_2024)"
+            },
+            {
+                "name": "The Finest Hours",
+                "qid": "Q18031184",
+                "url": "https://vi.wikipedia.org/wiki/The_Finest_Hours_(phim_2016)"
+            },
+            {
+                "name": "The Haunting in Connecticut",
+                "qid": "Q45692",
+                "url": "https://vi.wikipedia.org/wiki/The_Haunting_in_Connecticut"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

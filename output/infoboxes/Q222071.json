@@ -1,0 +1,104 @@
+{
+    "name": "Courtney Love",
+    "qid": "Q222071",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Courtney_Love",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Hank Harrison",
+                "qid": "Q98699861"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Frances Bean Cobain",
+                "qid": "Q426999"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Linda Carroll",
+                "qid": "Q6551441"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "guitarist",
+                "qid": "Q855091",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_guitar"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1964-07-09T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "James Moreland",
+                "qid": "Q3738698"
+            },
+            {
+                "name": "Kurt Cobain",
+                "qid": "Q8446",
+                "url": "https://vi.wikipedia.org/wiki/Kurt_Cobain"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Elsie Fox",
+                "qid": "Q5367583"
+            },
+            {
+                "name": "Paul Hervey Fox",
+                "qid": "Q110824076"
+            },
+            {
+                "name": "Paula Fox",
+                "qid": "Q134477"
+            }
+        ]
+    }
+}

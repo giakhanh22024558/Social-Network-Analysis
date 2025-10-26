@@ -1,0 +1,90 @@
+{
+    "name": "Hilary Swank",
+    "qid": "Q93187",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Hilary_Swank",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Stephen Michael Swank",
+                "qid": "Q98699373"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Aya Swank-Schneider",
+                "qid": "Q122782726"
+            },
+            {
+                "name": "Ohm Swank-Schneider",
+                "qid": "Q122782563"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Judy Kay Clough",
+                "qid": "Q98699411"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-07-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Million Dollar Baby",
+                "qid": "Q184255",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tri%E1%BB%87u_%C4%91%C3%B4"
+            },
+            {
+                "name": "P.S. I Love You",
+                "qid": "Q593726",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1i_b%C3%BAt:_Anh_y%C3%AAu_em"
+            },
+            {
+                "name": "The Homesman",
+                "qid": "Q15961525",
+                "url": "https://vi.wikipedia.org/wiki/The_Homesman"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Chad Lowe",
+                "qid": "Q714661"
+            },
+            {
+                "name": "Philip Schneider",
+                "qid": "Q122782615"
+            }
+        ]
+    }
+}

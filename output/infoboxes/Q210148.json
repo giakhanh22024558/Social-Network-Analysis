@@ -1,0 +1,108 @@
+{
+    "name": "Peter Fonda",
+    "qid": "Q210148",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Peter_Fonda",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jane Fonda",
+                "qid": "Q41142",
+                "url": "https://vi.wikipedia.org/wiki/Jane_Fonda"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Henry Fonda",
+                "qid": "Q19155",
+                "url": "https://vi.wikipedia.org/wiki/Henry_Fonda"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Bridget Fonda",
+                "qid": "Q913872"
+            },
+            {
+                "name": "Justin Fonda",
+                "qid": "Q52226160"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Frances Ford Seymour",
+                "qid": "Q10961701"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1940-02-23T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "3:10 to Yuma",
+                "qid": "Q746029",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BA%BFn_t%C3%A0u_%C4%91%E1%BA%BFn_Yuma"
+            },
+            {
+                "name": "Ghost Rider",
+                "qid": "Q41754",
+                "url": "https://vi.wikipedia.org/wiki/Ma_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "The Most Hated Woman in America",
+                "qid": "Q24884039",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_ph%E1%BB%A5_n%E1%BB%AF_b%E1%BB%8B_gh%C3%A9t_nh%E1%BA%A5t_n%C6%B0%E1%BB%9Bc_M%E1%BB%B9"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Portia Rebecca Crockett",
+                "qid": "Q75619409"
+            },
+            {
+                "name": "Susan Brewer",
+                "qid": "Q52226045"
+            }
+        ]
+    }
+}

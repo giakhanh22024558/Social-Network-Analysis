@@ -1,0 +1,81 @@
+{
+    "name": "Justin Lin",
+    "qid": "Q551876",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Justin_Lin",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-10-11T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            },
+            {
+                "name": "Hollywood Adventures",
+                "qid": "Q19758827",
+                "url": "https://vi.wikipedia.org/wiki/Khu%E1%BA%A5y_%C4%91%E1%BA%A3o_Hollywood"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "F9",
+                "qid": "Q29466808",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_9:_Huy%E1%BB%81n_tho%E1%BA%A1i_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Fast & Furious",
+                "qid": "Q380996",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_4"
+            },
+            {
+                "name": "Fast & Furious 6",
+                "qid": "Q5516100",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_6"
+            },
+            {
+                "name": "Fast Five",
+                "qid": "Q401976",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_5:_Phi_v%E1%BB%A5_Rio"
+            },
+            {
+                "name": "Star Trek Beyond",
+                "qid": "Q15929448",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek:_Kh%C3%B4ng_gi%E1%BB%9Bi_h%E1%BA%A1n"
+            },
+            {
+                "name": "The Fast and the Furious: Tokyo Drift",
+                "qid": "Q213208",
+                "url": "https://vi.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

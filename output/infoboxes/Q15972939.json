@@ -1,0 +1,57 @@
+{
+    "name": "Destin Daniel Cretton",
+    "qid": "Q15972939",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Destin_Daniel_Cretton",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-11-23T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Shang-Chi and the Legend of the Ten Rings",
+                "qid": "Q65768589",
+                "url": "https://vi.wikipedia.org/wiki/Shang-Chi_v%C3%A0_huy%E1%BB%81n_tho%E1%BA%A1i_Th%E1%BA%ADp_Lu%C3%A2n"
+            },
+            {
+                "name": "Spider-Man: Brand New Day",
+                "qid": "Q113244935",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Ng%C3%A0y_m%E1%BB%9Bi_toanh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

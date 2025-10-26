@@ -1,0 +1,147 @@
+{
+    "name": "Jason Momoa",
+    "qid": "Q315271",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jason_Momoa",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Adria Arjona",
+                "qid": "Q18684239",
+                "url": "https://vi.wikipedia.org/wiki/Adria_Arjona"
+            },
+            {
+                "name": "Simmone Jade Mackinnon",
+                "qid": "Q254695"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Lola Momoa",
+                "qid": "Q28659023"
+            },
+            {
+                "name": "Nakoa-Wolf Momoa",
+                "qid": "Q28658907"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-08-01T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "A Minecraft Movie",
+                "qid": "Q40083273",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_b%E1%BB%99_phim_Minecraft"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Minecraft Movie",
+                "qid": "Q40083273",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_b%E1%BB%99_phim_Minecraft"
+            },
+            {
+                "name": "Aquaman",
+                "qid": "Q22998395",
+                "url": "https://vi.wikipedia.org/wiki/Aquaman:_%C4%90%E1%BA%BF_v%C6%B0%C6%A1ng_Atlantis"
+            },
+            {
+                "name": "Aquaman and the Lost Kingdom",
+                "qid": "Q91226161",
+                "url": "https://vi.wikipedia.org/wiki/Aquaman_v%C3%A0_v%C6%B0%C6%A1ng_qu%E1%BB%91c_th%E1%BA%A5t_l%E1%BA%A1c"
+            },
+            {
+                "name": "Batman v Superman: Dawn of Justice",
+                "qid": "Q14772351",
+                "url": "https://vi.wikipedia.org/wiki/Batman_%C4%91%E1%BA%A1i_chi%E1%BA%BFn_Superman:_%C3%81nh_s%C3%A1ng_c%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Dune",
+                "qid": "Q60834962",
+                "url": "https://vi.wikipedia.org/wiki/Dune:_H%C3%A0nh_tinh_c%C3%A1t"
+            },
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            },
+            {
+                "name": "Justice League",
+                "qid": "Q20501835",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_C%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Zack Snyder's Justice League",
+                "qid": "Q94998134",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_C%C3%B4ng_l%C3%BD_phi%C3%AAn_b%E1%BA%A3n_c%E1%BB%A7a_Zack_Snyder"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Lisa Bonet",
+                "qid": "Q232414"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Zoë Kravitz",
+                "qid": "Q227129",
+                "url": "https://vi.wikipedia.org/wiki/Zo%C3%AB_Kravitz"
+            }
+        ]
+    }
+}

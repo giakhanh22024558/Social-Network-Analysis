@@ -1,0 +1,159 @@
+{
+    "name": "John Travolta",
+    "qid": "Q80938",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Travolta",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Ellen Travolta",
+                "qid": "Q5365040"
+            },
+            {
+                "name": "Joey Travolta",
+                "qid": "Q556300"
+            },
+            {
+                "name": "Margaret Travolta",
+                "qid": "Q6759968"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Salvatore Travolta",
+                "qid": "Q77631775"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Ella Bleu Travolta",
+                "qid": "Q5829730"
+            },
+            {
+                "name": "Jett Travolta",
+                "qid": "Q66763528"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Helen Cecilia Travolta",
+                "qid": "Q107338255"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1954-02-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Carrie",
+                "qid": "Q162672",
+                "url": "https://vi.wikipedia.org/wiki/Carrie_(phim_1976)"
+            },
+            {
+                "name": "Face/Off",
+                "qid": "Q223887",
+                "url": "https://vi.wikipedia.org/wiki/Face/Off"
+            },
+            {
+                "name": "Grease",
+                "qid": "Q267721",
+                "url": "https://vi.wikipedia.org/wiki/Grease_(phim)"
+            },
+            {
+                "name": "Hairspray",
+                "qid": "Q222041",
+                "url": "https://vi.wikipedia.org/wiki/Hairspray_(phim_2007)"
+            },
+            {
+                "name": "I Am Wrath",
+                "qid": "Q19880557",
+                "url": "https://vi.wikipedia.org/wiki/Ph%E1%BA%ABn_n%E1%BB%99_(phim)"
+            },
+            {
+                "name": "Killing Season",
+                "qid": "Q3196650",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_s%C4%83n_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Pulp Fiction",
+                "qid": "Q104123",
+                "url": "https://vi.wikipedia.org/wiki/Pulp_Fiction"
+            },
+            {
+                "name": "Religulous",
+                "qid": "Q591709",
+                "url": "https://vi.wikipedia.org/wiki/Religulous"
+            },
+            {
+                "name": "Saturday Night Fever",
+                "qid": "Q47654",
+                "url": "https://vi.wikipedia.org/wiki/Saturday_Night_Fever"
+            },
+            {
+                "name": "Savages",
+                "qid": "Q1143802",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_man_r%E1%BB%A3"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Kelly Preston",
+                "qid": "Q236842",
+                "url": "https://vi.wikipedia.org/wiki/Kelly_Preston"
+            }
+        ]
+    }
+}

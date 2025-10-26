@@ -1,0 +1,85 @@
+{
+    "name": "Nicky Hilton",
+    "qid": "Q216298",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nicky_Hilton",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Conrad Hughes Hilton",
+                "qid": "Q75788162"
+            },
+            {
+                "name": "Paris Hilton",
+                "qid": "Q47899",
+                "url": "https://vi.wikipedia.org/wiki/Paris_Hilton"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Richard Hilton",
+                "qid": "Q948705"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Lily-Grace Rothschild",
+                "qid": "Q76197013"
+            },
+            {
+                "name": "Teddy Marilyn Rothschild",
+                "qid": "Q75817295"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Kathy Hilton",
+                "qid": "Q269846"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "designer",
+                "qid": "Q5322166"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-10-05T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "James Rothschild",
+                "qid": "Q22952212"
+            }
+        ]
+    }
+}

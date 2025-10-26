@@ -1,0 +1,72 @@
+{
+    "name": "Q105695",
+    "qid": "Q105695",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/AnnaSophia_Robb",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1993-12-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Charlie and the Chocolate Factory",
+                "qid": "Q218235",
+                "url": "https://vi.wikipedia.org/wiki/Charlie_v%C3%A0_nh%C3%A0_m%C3%A1y_s%C3%B4c%C3%B4la_(phim)"
+            },
+            {
+                "name": "Freak Show",
+                "qid": "Q21646414",
+                "url": "https://vi.wikipedia.org/wiki/Freak_Show_(phim)"
+            },
+            {
+                "name": "Jumper",
+                "qid": "Q541079",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_th%E1%BB%91ng_tr%E1%BB%8B"
+            },
+            {
+                "name": "Race to Witch Mountain",
+                "qid": "Q922006",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91ua_%C4%91%E1%BA%BFn_n%C3%BAi_ph%C3%B9_th%E1%BB%A7y"
+            },
+            {
+                "name": "Soul Surfer",
+                "qid": "Q1156089",
+                "url": "https://vi.wikipedia.org/wiki/Soul_Surfer_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

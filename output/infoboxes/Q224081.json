@@ -1,0 +1,140 @@
+{
+    "name": "Giovanni Ribisi",
+    "qid": "Q224081",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Giovanni_Ribisi",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Marissa Ribisi",
+                "qid": "Q299790"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Agyness Deyn",
+                "qid": "Q181243"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "cinematographer",
+                "qid": "Q222344",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_h%C3%ACnh_%E1%BA%A3nh"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-12-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Million Ways to Die in the West",
+                "qid": "Q13582568",
+                "url": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_ki%E1%BB%83u_ch%E1%BA%BFt_mi%E1%BB%81n_vi%E1%BB%85n_T%C3%A2y"
+            },
+            {
+                "name": "Avatar",
+                "qid": "Q24871",
+                "url": "https://vi.wikipedia.org/wiki/Avatar_(phim_2009)"
+            },
+            {
+                "name": "Avatar: Fire and Ash",
+                "qid": "Q29580929",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_L%E1%BB%ADa_v%C3%A0_tro_t%C3%A0n"
+            },
+            {
+                "name": "Avatar: The Way of Water",
+                "qid": "Q3604746",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_D%C3%B2ng_ch%E1%BA%A3y_c%E1%BB%A7a_n%C6%B0%E1%BB%9Bc"
+            },
+            {
+                "name": "Boiler Room",
+                "qid": "Q1336293",
+                "url": "https://vi.wikipedia.org/wiki/Boiler_Room_(phim)"
+            },
+            {
+                "name": "Cold Mountain",
+                "qid": "Q390097",
+                "url": "https://vi.wikipedia.org/wiki/N%C3%BAi_l%E1%BA%A1nh_(phim)"
+            },
+            {
+                "name": "Contraband",
+                "qid": "Q1129080",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_ng%E1%BA%A7m"
+            },
+            {
+                "name": "Gangster Squad",
+                "qid": "Q27751",
+                "url": "https://vi.wikipedia.org/wiki/Gangster_Squad"
+            },
+            {
+                "name": "Lost in Translation",
+                "qid": "Q107270",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BA%A1c_l%E1%BB%91i_%E1%BB%9F_Tokyo"
+            },
+            {
+                "name": "Public Enemies",
+                "qid": "Q329448",
+                "url": "https://vi.wikipedia.org/wiki/Public_Enemies"
+            },
+            {
+                "name": "Saving Private Ryan",
+                "qid": "Q165817",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_c%E1%BB%A9u_binh_nh%C3%AC_Ryan"
+            },
+            {
+                "name": "Ted",
+                "qid": "Q641760",
+                "url": "https://vi.wikipedia.org/wiki/Ted_(phim)"
+            },
+            {
+                "name": "Ted 2",
+                "qid": "Q17713411",
+                "url": "https://vi.wikipedia.org/wiki/Ted_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Agyness Deyn",
+                "qid": "Q181243"
+            },
+            {
+                "name": "Mariah O'Brien",
+                "qid": "Q6761758"
+            }
+        ]
+    }
+}

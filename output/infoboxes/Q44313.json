@@ -1,0 +1,89 @@
+{
+    "name": "Stone Cold Steve Austin",
+    "qid": "Q44313",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Stone_Cold_Steve_Austin",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Tess Broussard",
+                "qid": "Q7705556"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/44f0ea3d5274820d68a4567d797c36f4"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/4edb6fe46476e414bd37e5212a17096b"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/d142b79512f9c4cdfa6e72e8dd7c6af6"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1964-12-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Grown Ups 2",
+                "qid": "Q5611721",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_%C4%91%E1%BB%A9a_tr%E1%BA%BB_to_x%C3%A1c_2"
+            },
+            {
+                "name": "The Expendables",
+                "qid": "Q206374",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/0067d06c915c5bff6908195a6c4da63f"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/b1053ce538c513bf1098d3b5f5a5bd2f"
+            },
+            {
+                "name": "Debra Marshall",
+                "qid": "Q2190435"
+            },
+            {
+                "name": "Jeanie Clarke",
+                "qid": "Q6172328"
+            }
+        ]
+    }
+}

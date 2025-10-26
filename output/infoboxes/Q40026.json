@@ -1,0 +1,200 @@
+{
+    "name": "Sylvester Stallone",
+    "qid": "Q40026",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sylvester_Stallone",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Frank Stallone",
+                "qid": "Q959153"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Angie Everhart",
+                "qid": "Q437351"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Nicola Junakovic",
+                "qid": "Q18392091"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Sage Stallone",
+                "qid": "Q440932"
+            },
+            {
+                "name": "Scarlet Rose Stallone",
+                "qid": "Q22977806"
+            },
+            {
+                "name": "Seargeoh Stallone",
+                "qid": "Q22977792"
+            },
+            {
+                "name": "Sistine Stallone",
+                "qid": "Q22977821"
+            },
+            {
+                "name": "Sophia Rose Stallone",
+                "qid": "Q22977809"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Jackie Stallone",
+                "qid": "Q2361659"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1946-07-06T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Creed III",
+                "qid": "Q110664384",
+                "url": "https://vi.wikipedia.org/wiki/Creed_III:_Tay_%C4%91%E1%BA%A5m_huy%E1%BB%81n_tho%E1%BA%A1i"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Escape Plan",
+                "qid": "Q196685",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%A3t_ng%E1%BB%A5c_(phim)"
+            },
+            {
+                "name": "Escape Plan 2: Hades",
+                "qid": "Q30637119",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BF_ho%E1%BA%A1ch_%C4%91%C3%A0o_t%E1%BA%A9u_2:_%C4%90%E1%BB%8Ba_ng%E1%BB%A5c"
+            },
+            {
+                "name": "Expend4bles",
+                "qid": "Q108813842",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_4"
+            },
+            {
+                "name": "First Blood",
+                "qid": "Q244963",
+                "url": "https://vi.wikipedia.org/wiki/First_Blood"
+            },
+            {
+                "name": "Guardians of the Galaxy Vol. 2",
+                "qid": "Q20001199",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_2"
+            },
+            {
+                "name": "Guardians of the Galaxy Vol. 3",
+                "qid": "Q29226331",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_3"
+            },
+            {
+                "name": "Men in Black",
+                "qid": "Q51416",
+                "url": "https://vi.wikipedia.org/wiki/Men_in_Black_(phim_1997)"
+            },
+            {
+                "name": "Rambo",
+                "qid": "Q159870",
+                "url": "https://vi.wikipedia.org/wiki/Rambo_(phim_2008)"
+            },
+            {
+                "name": "Rambo III",
+                "qid": "Q392355",
+                "url": "https://vi.wikipedia.org/wiki/Rambo_III"
+            },
+            {
+                "name": "Rambo: First Blood Part II",
+                "qid": "Q319783",
+                "url": "https://vi.wikipedia.org/wiki/Rambo_2"
+            },
+            {
+                "name": "Rambo: Last Blood",
+                "qid": "Q54854465",
+                "url": "https://vi.wikipedia.org/wiki/Rambo:_H%E1%BB%93i_k%E1%BA%BFt_%C4%91%E1%BA%ABm_m%C3%A1u"
+            },
+            {
+                "name": "Rocky",
+                "qid": "Q188652",
+                "url": "https://vi.wikipedia.org/wiki/Rocky"
+            },
+            {
+                "name": "Rocky II",
+                "qid": "Q478366",
+                "url": "https://vi.wikipedia.org/wiki/Rocky_II"
+            },
+            {
+                "name": "The Expendables",
+                "qid": "Q206374",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA"
+            },
+            {
+                "name": "The Expendables 2",
+                "qid": "Q210812",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_2"
+            },
+            {
+                "name": "The Expendables 3",
+                "qid": "Q14370516",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_3"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Rambo",
+                "qid": "Q159870",
+                "url": "https://vi.wikipedia.org/wiki/Rambo_(phim_2008)"
+            },
+            {
+                "name": "Rocky II",
+                "qid": "Q478366",
+                "url": "https://vi.wikipedia.org/wiki/Rocky_II"
+            },
+            {
+                "name": "The Expendables",
+                "qid": "Q206374",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jennifer Flavin",
+                "qid": "Q1109260"
+            }
+        ]
+    }
+}

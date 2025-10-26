@@ -1,0 +1,77 @@
+{
+    "name": "Scottie Pippen",
+    "qid": "Q193637",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Scottie_Pippen",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Preston Clyde Pippen",
+                "qid": "Q107338087"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Antron Pippen",
+                "qid": "Q107534041"
+            },
+            {
+                "name": "Justin Pippen",
+                "qid": "Q107534052"
+            },
+            {
+                "name": "Preston Pippen",
+                "qid": "Q107534057"
+            },
+            {
+                "name": "Scotty Pippen Jr.",
+                "qid": "Q100901254"
+            },
+            {
+                "name": "Taylor Pippen",
+                "qid": "Q107534067"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Ethel Lee Pippen",
+                "qid": "Q107338088"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "basketball player",
+                "qid": "Q3665646"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1965-09-25T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Larsa Pippen",
+                "qid": "Q110442394"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Kavion Pippen",
+                "qid": "Q55431064"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Tom Wopat",
+    "qid": "Q2004171",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tom_Wopat",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1951-09-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Django Unchained",
+                "qid": "Q571032",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tr%C3%ACnh_Django"
+            },
+            {
+                "name": "Fair Haven",
+                "qid": "Q31070036",
+                "url": "https://vi.wikipedia.org/wiki/Fair_Haven_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "name": "Dennis Quaid",
+    "qid": "Q200768",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dennis_Quaid",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Randy Quaid",
+                "qid": "Q316647"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Meg Ryan",
+                "qid": "Q167498",
+                "url": "https://vi.wikipedia.org/wiki/Meg_Ryan"
+            },
+            {
+                "name": "Shanna Moakler",
+                "qid": "Q258736"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Jack Quaid",
+                "qid": "Q1139078",
+                "url": "https://vi.wikipedia.org/wiki/Jack_Quaid"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "aircraft pilot",
+                "qid": "Q2095549",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1954-04-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Frequency",
+                "qid": "Q1003845",
+                "url": "https://vi.wikipedia.org/wiki/Frequency_(phim)"
+            },
+            {
+                "name": "G.I. Joe: The Rise of Cobra",
+                "qid": "Q288645",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_G.I._Joe:_Cu%E1%BB%99c_chi%E1%BA%BFn_M%C3%A3ng_x%C3%A0"
+            },
+            {
+                "name": "Legion",
+                "qid": "Q287960",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81c_th%E1%BA%A7n_(phim)"
+            },
+            {
+                "name": "Midway",
+                "qid": "Q56551019",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_chi%E1%BA%BFn_Midway_(phim_2019)"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "Soul Surfer",
+                "qid": "Q1156089",
+                "url": "https://vi.wikipedia.org/wiki/Soul_Surfer_(phim)"
+            },
+            {
+                "name": "The Substance",
+                "qid": "Q113380226",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A7n_d%C6%B0%E1%BB%A3c"
+            },
+            {
+                "name": "The Tiger Rising",
+                "qid": "Q105044498",
+                "url": "https://vi.wikipedia.org/wiki/The_Tiger_Rising"
+            },
+            {
+                "name": "Vantage Point",
+                "qid": "Q274887",
+                "url": "https://vi.wikipedia.org/wiki/Vantage_Point"
+            },
+            {
+                "name": "What to Expect When You're Expecting",
+                "qid": "Q616649",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2m_s%E1%BB%B1_b%C3%A0_b%E1%BA%A7u"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Kimberly Quaid",
+                "qid": "Q47428800"
+            },
+            {
+                "name": "Meg Ryan",
+                "qid": "Q167498",
+                "url": "https://vi.wikipedia.org/wiki/Meg_Ryan"
+            },
+            {
+                "name": "P. J. Soles",
+                "qid": "Q270079"
+            }
+        ]
+    }
+}

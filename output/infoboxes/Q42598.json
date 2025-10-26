@@ -1,0 +1,52 @@
+{
+    "name": "Ted DiBiase Jr.",
+    "qid": "Q42598",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ted_DiBiase,_Jr.",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Brett DiBiase",
+                "qid": "Q2169093"
+            },
+            {
+                "name": "Mike DiBiase II",
+                "qid": "Q3313289"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Ted DiBiase",
+                "qid": "Q344997"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-11-08T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

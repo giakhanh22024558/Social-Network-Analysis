@@ -1,0 +1,117 @@
+{
+    "name": "Michael B. Jordan",
+    "qid": "Q3308007",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_B._Jordan",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Lori Harvey",
+                "qid": "Q78223744"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1987-02-09T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Creed III",
+                "qid": "Q110664384",
+                "url": "https://vi.wikipedia.org/wiki/Creed_III:_Tay_%C4%91%E1%BA%A5m_huy%E1%BB%81n_tho%E1%BA%A1i"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Black Panther",
+                "qid": "Q23780734",
+                "url": "https://vi.wikipedia.org/wiki/Black_Panther:_Chi%E1%BA%BFn_binh_B%C3%A1o_%C4%90en"
+            },
+            {
+                "name": "Chronicle",
+                "qid": "Q1087883",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%A9c_m%E1%BA%A1nh_v%C3%B4_h%C3%ACnh"
+            },
+            {
+                "name": "Creed III",
+                "qid": "Q110664384",
+                "url": "https://vi.wikipedia.org/wiki/Creed_III:_Tay_%C4%91%E1%BA%A5m_huy%E1%BB%81n_tho%E1%BA%A1i"
+            },
+            {
+                "name": "Fantastic Four",
+                "qid": "Q16795448",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_t%E1%BB%A9_si%C3%AAu_%C4%91%E1%BA%B3ng_(phim_2015)"
+            },
+            {
+                "name": "Red Tails",
+                "qid": "Q1506057",
+                "url": "https://vi.wikipedia.org/wiki/Red_Tails"
+            },
+            {
+                "name": "Sinners",
+                "qid": "Q125473145",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%99i_%C4%91%E1%BB%93"
+            },
+            {
+                "name": "Space Jam: A New Legacy",
+                "qid": "Q56850065",
+                "url": "https://vi.wikipedia.org/wiki/Space_Jam:_K%E1%BB%B7_nguy%C3%AAn_m%E1%BB%9Bi"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Creed III",
+                "qid": "Q110664384",
+                "url": "https://vi.wikipedia.org/wiki/Creed_III:_Tay_%C4%91%E1%BA%A5m_huy%E1%BB%81n_tho%E1%BA%A1i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

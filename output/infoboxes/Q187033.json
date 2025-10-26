@@ -1,0 +1,119 @@
+{
+    "name": "Sally Field",
+    "qid": "Q187033",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sally_Field",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Richard Dryden Field",
+                "qid": "Q100698034"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Eli Craig",
+                "qid": "Q975203"
+            },
+            {
+                "name": "Peter Craig",
+                "qid": "Q7173432",
+                "url": "https://vi.wikipedia.org/wiki/Peter_Craig"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Margaret Field",
+                "qid": "Q511926"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1946-11-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Forrest Gump",
+                "qid": "Q134773",
+                "url": "https://vi.wikipedia.org/wiki/Forrest_Gump"
+            },
+            {
+                "name": "Lincoln",
+                "qid": "Q32433",
+                "url": "https://vi.wikipedia.org/wiki/Lincoln_(phim)"
+            },
+            {
+                "name": "Mrs. Doubtfire",
+                "qid": "Q483852",
+                "url": "https://vi.wikipedia.org/wiki/Mrs._Doubtfire"
+            },
+            {
+                "name": "The Amazing Spider-Man",
+                "qid": "Q229808",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Si%C3%AAu_nh%E1%BB%87n_t%C3%A1i_xu%E1%BA%A5t"
+            },
+            {
+                "name": "The Amazing Spider-Man 2",
+                "qid": "Q4254026",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_si%C3%AAu_%C4%91%E1%BA%B3ng_2:_S%E1%BB%B1_tr%E1%BB%97i_d%E1%BA%ADy_c%E1%BB%A7a_Ng%C6%B0%E1%BB%9Di_%C4%90i%E1%BB%87n"
+            },
+            {
+                "name": "Where the Heart Is",
+                "qid": "Q1500457",
+                "url": "https://vi.wikipedia.org/wiki/Where_the_Heart_Is_(phim_2000)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Chris Buck",
+    "qid": "Q156596",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Chris_Buck",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Reed Buck",
+                "qid": "Q41572246"
+            },
+            {
+                "name": "Woody Buck",
+                "qid": "Q41572414"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character animator",
+                "qid": "Q28122926"
+            },
+            {
+                "name": "character designer",
+                "qid": "Q1062952"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "concept artist",
+                "qid": "Q28107590"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1960-10-25T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Frozen",
+                "qid": "Q246283",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_ho%C3%A0ng_b%C4%83ng_gi%C3%A1_(phim_2013)"
+            },
+            {
+                "name": "Frozen 2",
+                "qid": "Q24733929",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_ho%C3%A0ng_b%C4%83ng_gi%C3%A1_II"
+            },
+            {
+                "name": "Frozen Fever",
+                "qid": "Q18398561",
+                "url": "https://vi.wikipedia.org/wiki/Frozen_Fever"
+            },
+            {
+                "name": "Surf's Up",
+                "qid": "Q633053",
+                "url": "https://vi.wikipedia.org/wiki/Surf%27s_Up"
+            },
+            {
+                "name": "Tarzan",
+                "qid": "Q208696",
+                "url": "https://vi.wikipedia.org/wiki/Tarzan_(phim_1999)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Shelley Rae Hilton",
+                "qid": "Q56088371"
+            }
+        ]
+    }
+}

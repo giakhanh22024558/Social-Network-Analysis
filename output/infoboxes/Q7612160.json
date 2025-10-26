@@ -1,0 +1,49 @@
+{
+    "name": "Steve Carr",
+    "qid": "Q7612160",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steve_Carr",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-01-01T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Dr. Dolittle 2",
+                "qid": "Q1253887",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9_th%C3%BA_y_2"
+            },
+            {
+                "name": "Middle School: The Worst Years of My Life",
+                "qid": "Q21780586",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_ca_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng:_Th%E1%BB%9Di_trung_h%E1%BB%8Dc_d%E1%BB%AF_d%E1%BB%99i"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

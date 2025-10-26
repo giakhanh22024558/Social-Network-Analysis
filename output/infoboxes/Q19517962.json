@@ -1,0 +1,72 @@
+{
+    "name": "Greta Lee",
+    "qid": "Q19517962",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Greta_Lee",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-01-01T00:00:00Z"
+            },
+            {
+                "name": "1983-03-07T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Money Monster",
+                "qid": "Q19363691",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%B7t_tr%C3%A1i_ph%E1%BB%91_Wall"
+            },
+            {
+                "name": "Past Lives",
+                "qid": "Q116025865",
+                "url": "https://vi.wikipedia.org/wiki/Mu%C3%B4n_ki%E1%BA%BFp_nh%C3%A2n_duy%C3%AAn"
+            },
+            {
+                "name": "The Cobbler",
+                "qid": "Q15407653",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%A0ng_th%E1%BB%A3_gi%E1%BA%A7y_vui_t%C3%ADnh"
+            },
+            {
+                "name": "Tron: Ares",
+                "qid": "Q120237363",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_%E1%BA%A3o_gi%C3%A1c:_Ares"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Russ Armstrong",
+                "qid": "Q111725967"
+            }
+        ]
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "name": "Ethan Hawke",
+    "qid": "Q484615",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ethan_Hawke",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "James Steven Hawke",
+                "qid": "Q96308451"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Clementine Hawke",
+                "qid": "Q128601382"
+            },
+            {
+                "name": "Levon Hawke",
+                "qid": "Q119248191"
+            },
+            {
+                "name": "Maya Hawke",
+                "qid": "Q46994907",
+                "url": "https://vi.wikipedia.org/wiki/Maya_Hawke"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Leslie Carole Green",
+                "qid": "Q96308484"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "comics writer",
+                "qid": "Q11892507"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "novelist",
+                "qid": "Q6625963",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "theatrical director",
+                "qid": "Q3387717"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-11-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Before Sunrise",
+                "qid": "Q659609",
+                "url": "https://vi.wikipedia.org/wiki/Before_Sunrise"
+            },
+            {
+                "name": "Boyhood",
+                "qid": "Q4103201",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%9Di_th%C6%A1_%E1%BA%A5u_(phim)"
+            },
+            {
+                "name": "Brooklyn's Finest",
+                "qid": "Q905385",
+                "url": "https://vi.wikipedia.org/wiki/Brooklyn%27s_Finest"
+            },
+            {
+                "name": "Dead Poets Society",
+                "qid": "Q106316",
+                "url": "https://vi.wikipedia.org/wiki/Dead_Poets_Society"
+            },
+            {
+                "name": "Getaway",
+                "qid": "Q400117",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BA%A9u_tho%C3%A1t_nhanh"
+            },
+            {
+                "name": "Leave the World Behind",
+                "qid": "Q111670916",
+                "url": "https://vi.wikipedia.org/wiki/Leave_the_World_Behind_(phim)"
+            },
+            {
+                "name": "Lord of War",
+                "qid": "Q308681",
+                "url": "https://vi.wikipedia.org/wiki/Lord_of_War_(phim)"
+            },
+            {
+                "name": "Maudie",
+                "qid": "Q27959296",
+                "url": "https://vi.wikipedia.org/wiki/Maudie"
+            },
+            {
+                "name": "New York, I Love You",
+                "qid": "Q44935",
+                "url": "https://vi.wikipedia.org/wiki/New_York,_I_Love_You"
+            },
+            {
+                "name": "Regression",
+                "qid": "Q16672410",
+                "url": "https://vi.wikipedia.org/wiki/Truy_h%E1%BB%93i_k%C3%BD_%E1%BB%A9c"
+            },
+            {
+                "name": "The Black Phone",
+                "qid": "Q105584511",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_tho%E1%BA%A1i_%C4%91en"
+            },
+            {
+                "name": "The Purge",
+                "qid": "Q7758789",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_thanh_tr%E1%BB%ABng_(phim_2013)"
+            },
+            {
+                "name": "The Woman in the Fifth",
+                "qid": "Q63278",
+                "url": "https://vi.wikipedia.org/wiki/La_femme_du_V%C3%A8me"
+            },
+            {
+                "name": "Total Recall",
+                "qid": "Q634810",
+                "url": "https://vi.wikipedia.org/wiki/Truy_t%C3%ACm_k%C3%BD_%E1%BB%A9c"
+            },
+            {
+                "name": "Valérian and the City of a Thousand Planets",
+                "qid": "Q20926273",
+                "url": "https://vi.wikipedia.org/wiki/Valerian_v%C3%A0_th%C3%A0nh_ph%E1%BB%91_ng%C3%A0n_h%C3%A0nh_tinh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Ryan Hawke",
+                "qid": "Q128601362"
+            },
+            {
+                "name": "Uma Thurman",
+                "qid": "Q125017",
+                "url": "https://vi.wikipedia.org/wiki/Uma_Thurman"
+            }
+        ]
+    }
+}

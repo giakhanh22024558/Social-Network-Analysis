@@ -1,0 +1,70 @@
+{
+    "name": "Steven R. McQueen",
+    "qid": "Q313463",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steven_R._McQueen",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Chad McQueen",
+                "qid": "Q1058602"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1988-07-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Minutemen",
+                "qid": "Q1342998",
+                "url": "https://vi.wikipedia.org/wiki/Minutemen_(phim)"
+            },
+            {
+                "name": "Piranha 3D",
+                "qid": "Q733995",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A1_h%E1%BB%95_%C4%83n_th%E1%BB%8Bt_ng%C6%B0%E1%BB%9Di_(phim_2010)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Neile Adams",
+                "qid": "Q194762"
+            },
+            {
+                "name": "Steve McQueen",
+                "qid": "Q159347",
+                "url": "https://vi.wikipedia.org/wiki/Steve_McQueen"
+            }
+        ]
+    }
+}

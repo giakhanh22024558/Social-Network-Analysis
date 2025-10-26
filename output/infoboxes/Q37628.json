@@ -1,0 +1,148 @@
+{
+    "name": "Mila Kunis",
+    "qid": "Q37628",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mila_Kunis",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Ashton Kutcher",
+                "qid": "Q164782",
+                "url": "https://vi.wikipedia.org/wiki/Ashton_Kutcher"
+            },
+            {
+                "name": "Macaulay Culkin",
+                "qid": "Q103578",
+                "url": "https://vi.wikipedia.org/wiki/Macaulay_Culkin"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Mark Kunis",
+                "qid": "Q108840932"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Dimitri Kutcher",
+                "qid": "Q56760003"
+            },
+            {
+                "name": "Wyatt Kutcher",
+                "qid": "Q22442784"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Elvira Kunis",
+                "qid": "Q108840933"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "child actor",
+                "qid": "Q970153",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_nh%C3%AD"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-08-14T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annie",
+                "qid": "Q15039835",
+                "url": "https://vi.wikipedia.org/wiki/Annie_(phim_2014)"
+            },
+            {
+                "name": "Bad Moms",
+                "qid": "Q22074948",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_b%C3%A0_m%E1%BA%B9_%22ngoan%22"
+            },
+            {
+                "name": "Black Swan",
+                "qid": "Q180214",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_nga_%C4%91en_(phim)"
+            },
+            {
+                "name": "Date Night",
+                "qid": "Q1139801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_h%E1%BA%B9n_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Gia",
+                "qid": "Q429557",
+                "url": "https://vi.wikipedia.org/wiki/Gia"
+            },
+            {
+                "name": "Jupiter Ascending",
+                "qid": "Q12125299",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_th%E1%BB%ABa_k%E1%BA%BF_v%C5%A9_tr%E1%BB%A5"
+            },
+            {
+                "name": "Oz the Great and Powerful",
+                "qid": "Q590216",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BA%A1c_v%C3%A0o_x%E1%BB%A9_Oz_v%C4%A9_%C4%91%E1%BA%A1i_v%C3%A0_quy%E1%BB%81n_n%C4%83ng"
+            },
+            {
+                "name": "Ted",
+                "qid": "Q641760",
+                "url": "https://vi.wikipedia.org/wiki/Ted_(phim)"
+            },
+            {
+                "name": "The Angriest Man in Brooklyn",
+                "qid": "Q7713813",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BB%9D_ph%C3%BAt_sinh_t%E1%BB%AD"
+            },
+            {
+                "name": "The Book of Eli",
+                "qid": "Q274529",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%91n_s%C3%A1ch_c%E1%BB%A7a_Eli"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Ashton Kutcher",
+                "qid": "Q164782",
+                "url": "https://vi.wikipedia.org/wiki/Ashton_Kutcher"
+            }
+        ]
+    }
+}

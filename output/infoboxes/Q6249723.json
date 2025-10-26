@@ -1,0 +1,75 @@
+{
+    "name": "John Mulaney",
+    "qid": "Q6249723",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Mulaney",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Olivia Munn",
+                "qid": "Q236475",
+                "url": "https://vi.wikipedia.org/wiki/Olivia_Munn"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Malcolm Hiệp Mulaney",
+                "qid": "Q110289047"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stand-up comedian",
+                "qid": "Q18545066"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-08-26T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Annamarie Tendler",
+                "qid": "Q52730274"
+            },
+            {
+                "name": "Olivia Munn",
+                "qid": "Q236475",
+                "url": "https://vi.wikipedia.org/wiki/Olivia_Munn"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "George J. Bates",
+                "qid": "Q1507631"
+            }
+        ]
+    }
+}

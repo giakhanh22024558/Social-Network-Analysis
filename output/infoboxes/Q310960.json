@@ -1,0 +1,116 @@
+{
+    "name": "Brad Bird",
+    "qid": "Q310960",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Brad_Bird",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Michael Bird",
+                "qid": "Q44549323"
+            },
+            {
+                "name": "Nicholas Bird",
+                "qid": "Q37856256"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-09-24T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Tomorrowland",
+                "qid": "Q7820305",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_b%C3%AD_%E1%BA%A9n_(phim)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Jurassic World",
+                "qid": "Q3512046",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Incredibles 2",
+                "qid": "Q24832112",
+                "url": "https://vi.wikipedia.org/wiki/Gia_%C4%91%C3%ACnh_si%C3%AAu_nh%C3%A2n_2"
+            },
+            {
+                "name": "Jack-Jack Attack",
+                "qid": "Q1004385",
+                "url": "https://vi.wikipedia.org/wiki/Jack-Jack_Attack"
+            },
+            {
+                "name": "Mission: Impossible – Ghost Protocol",
+                "qid": "Q628154",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi:_Chi%E1%BA%BFn_d%E1%BB%8Bch_b%C3%B3ng_ma"
+            },
+            {
+                "name": "Ratatouille",
+                "qid": "Q170035",
+                "url": "https://vi.wikipedia.org/wiki/Chu%E1%BB%99t_%C4%91%E1%BA%A7u_b%E1%BA%BFp"
+            },
+            {
+                "name": "The Incredibles",
+                "qid": "Q213326",
+                "url": "https://vi.wikipedia.org/wiki/Gia_%C4%91%C3%ACnh_si%C3%AAu_nh%C3%A2n"
+            },
+            {
+                "name": "The Iron Giant",
+                "qid": "Q867283",
+                "url": "https://vi.wikipedia.org/wiki/The_Iron_Giant"
+            },
+            {
+                "name": "Tomorrowland",
+                "qid": "Q7820305",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_b%C3%AD_%E1%BA%A9n_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

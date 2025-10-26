@@ -1,0 +1,53 @@
+{
+    "name": "Stephanie Hsu",
+    "qid": "Q63381497",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Stephanie_Hsu",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1990-11-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Everything Everywhere All at Once",
+                "qid": "Q83808444",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_%C4%91a_v%C5%A9_tr%E1%BB%A5"
+            },
+            {
+                "name": "The Fall Guy",
+                "qid": "Q113671585",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_th%E1%BA%BF_th%C3%A2n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

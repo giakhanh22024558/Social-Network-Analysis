@@ -1,0 +1,87 @@
+{
+    "name": "Rob Delaney",
+    "qid": "Q762782",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rob_Delaney",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "activist",
+                "qid": "Q15253558"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-01-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Argylle",
+                "qid": "Q107460063",
+                "url": "https://vi.wikipedia.org/wiki/Argylle:_Si%C3%AAu_%C4%91i%E1%BB%87p_vi%C3%AAn"
+            },
+            {
+                "name": "Bombshell",
+                "qid": "Q58814589",
+                "url": "https://vi.wikipedia.org/wiki/Tin_%E2%80%9Cn%C3%B3ng%E2%80%9D"
+            },
+            {
+                "name": "Deadpool & Wolverine",
+                "qid": "Q102180106",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_v%C3%A0_Wolverine"
+            },
+            {
+                "name": "Deadpool 2",
+                "qid": "Q25431158",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_2"
+            },
+            {
+                "name": "Hobbs & Shaw",
+                "qid": "Q56559254",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious:_Hobbs_%26_Shaw"
+            },
+            {
+                "name": "Last Christmas",
+                "qid": "Q60370884",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1ng_sinh_n%C4%83m_%E1%BA%A5y"
+            },
+            {
+                "name": "Mission: Impossible – Dead Reckoning Part One",
+                "qid": "Q61876370",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5:_B%E1%BA%A5t_kh%E1%BA%A3_thi_%E2%80%93_Nghi%E1%BB%87p_b%C3%A1o_ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "Tom & Jerry",
+                "qid": "Q65921361",
+                "url": "https://vi.wikipedia.org/wiki/Tom_%26_Jerry:_Qu%E1%BA%ADy_tung_New_York"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

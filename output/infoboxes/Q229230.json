@@ -1,0 +1,59 @@
+{
+    "name": "Evan Rachel Wood",
+    "qid": "Q229230",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Evan_Rachel_Wood",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Ira David Wood IV",
+                "qid": "Q6066020"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Marilyn Manson",
+                "qid": "Q186327",
+                "url": "https://vi.wikipedia.org/wiki/Marilyn_Manson"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Ira David Wood III",
+                "qid": "Q6066018"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1987-09-07T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Wrestler",
+                "qid": "Q139326",
+                "url": "https://vi.wikipedia.org/wiki/The_Wrestler"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jamie Bell",
+                "qid": "Q297071"
+            }
+        ]
+    }
+}

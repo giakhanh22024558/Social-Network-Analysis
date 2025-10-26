@@ -1,0 +1,45 @@
+{
+    "name": "Sofia Pernas",
+    "qid": "Q28739925",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sofia_Pernas",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1989-07-31T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Sonic the Hedgehog 3",
+                "qid": "Q115859490",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%ADm_Sonic_3"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Morocco",
+                "qid": "Q1028",
+                "url": "https://vi.wikipedia.org/wiki/Maroc"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Justin Hartley",
+                "qid": "Q195255"
+            }
+        ]
+    }
+}

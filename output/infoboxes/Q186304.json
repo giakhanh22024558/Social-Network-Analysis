@@ -1,0 +1,177 @@
+{
+    "name": "Kim Kardashian",
+    "qid": "Q186304",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kim_Kardashian",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Kendall Jenner",
+                "qid": "Q1375057",
+                "url": "https://vi.wikipedia.org/wiki/Kendall_Jenner"
+            },
+            {
+                "name": "Khloé Kardashian",
+                "qid": "Q231270",
+                "url": "https://vi.wikipedia.org/wiki/Khlo%C3%A9_Kardashian"
+            },
+            {
+                "name": "Kourtney Kardashian",
+                "qid": "Q575689",
+                "url": "https://vi.wikipedia.org/wiki/Kourtney_Kardashian"
+            },
+            {
+                "name": "Kylie Jenner",
+                "qid": "Q1770624",
+                "url": "https://vi.wikipedia.org/wiki/Kylie_Jenner"
+            },
+            {
+                "name": "Rob Kardashian",
+                "qid": "Q26318",
+                "url": "https://vi.wikipedia.org/wiki/Rob_Kardashian"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Q348533",
+                "qid": "Q348533",
+                "url": "https://vi.wikipedia.org/wiki/Nick_Cannon"
+            },
+            {
+                "name": "Nick Lachey",
+                "qid": "Q356109"
+            },
+            {
+                "name": "Pete Davidson",
+                "qid": "Q18097962",
+                "url": "https://vi.wikipedia.org/wiki/Pete_Davidson"
+            },
+            {
+                "name": "Reggie Bush",
+                "qid": "Q555271"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Robert Kardashian",
+                "qid": "Q1816737",
+                "url": "https://vi.wikipedia.org/wiki/Robert_Kardashian"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Chicago West",
+                "qid": "Q56034652"
+            },
+            {
+                "name": "North West",
+                "qid": "Q55428718"
+            },
+            {
+                "name": "Psalm West",
+                "qid": "Q63927876"
+            },
+            {
+                "name": "Saint West",
+                "qid": "Q55428786"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Kris Jenner",
+                "qid": "Q1138235",
+                "url": "https://vi.wikipedia.org/wiki/Kris_Jenner"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "blogger",
+                "qid": "Q8246794",
+                "url": "https://vi.wikipedia.org/wiki/Blogger"
+            },
+            {
+                "name": "celebrity",
+                "qid": "Q211236",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_n%E1%BB%95i_ti%E1%BA%BFng"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "erotic photography model",
+                "qid": "Q3286043",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu_khi%C3%AAu_d%C3%A2m"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-10-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Kim Kardashian, Superstar",
+                "qid": "Q64947919",
+                "url": "https://vi.wikipedia.org/wiki/Kim_Kardashian,_Superstar"
+            },
+            {
+                "name": "Miss Americana",
+                "qid": "Q77833628",
+                "url": "https://vi.wikipedia.org/wiki/Miss_Americana"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Damon Thomas",
+                "qid": "Q21013519"
+            },
+            {
+                "name": "Kanye West",
+                "qid": "Q15935",
+                "url": "https://vi.wikipedia.org/wiki/Kanye_West"
+            },
+            {
+                "name": "Kris Humphries",
+                "qid": "Q363421"
+            }
+        ]
+    }
+}

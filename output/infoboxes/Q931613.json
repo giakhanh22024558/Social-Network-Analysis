@@ -1,0 +1,87 @@
+{
+    "name": "Matt Reeves",
+    "qid": "Q931613",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Matt_Reeves",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Andrew Reeves",
+                "qid": "Q107077629"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-04-27T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Batman",
+                "qid": "Q61117344",
+                "url": "https://vi.wikipedia.org/wiki/Batman_(phim_2022)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Cloverfield",
+                "qid": "Q123742",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A3m_h%E1%BB%8Da_di%E1%BB%87t_vong_(phim)"
+            },
+            {
+                "name": "Dawn of the Planet of the Apes",
+                "qid": "Q11220194",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_kh%E1%BB%9Fi_%C4%91%E1%BA%A7u_c%E1%BB%A7a_h%C3%A0nh_tinh_kh%E1%BB%89"
+            },
+            {
+                "name": "The Batman",
+                "qid": "Q61117344",
+                "url": "https://vi.wikipedia.org/wiki/Batman_(phim_2022)"
+            },
+            {
+                "name": "War for the Planet of the Apes",
+                "qid": "Q19938437",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_h%C3%A0nh_tinh_kh%E1%BB%89"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Melinda Wang",
+                "qid": "Q29032898"
+            }
+        ]
+    }
+}

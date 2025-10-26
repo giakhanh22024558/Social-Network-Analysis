@@ -1,0 +1,86 @@
+{
+    "name": "Stormy Daniels",
+    "qid": "Q233240",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Stormy_Daniels",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "author",
+                "qid": "Q482980",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1c_gi%E1%BA%A3"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "ghost hunter",
+                "qid": "Q1499007"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "pornographic actor",
+                "qid": "Q488111",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_phim_khi%C3%AAu_d%C3%A2m"
+            },
+            {
+                "name": "pornographic film director",
+                "qid": "Q17456089"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stripper",
+                "qid": "Q1141526",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng_tho%C3%A1t_y"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-03-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Wrong Side of Town",
+                "qid": "Q1886792",
+                "url": "https://vi.wikipedia.org/wiki/Wrong_Side_of_Town"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Barrett Blade",
+                "qid": "Q329886"
+            },
+            {
+                "name": "Brendon Miller",
+                "qid": "Q15846402"
+            },
+            {
+                "name": "Pat Myne",
+                "qid": "Q5999461"
+            }
+        ]
+    }
+}

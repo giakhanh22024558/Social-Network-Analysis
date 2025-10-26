@@ -1,0 +1,108 @@
+{
+    "name": "Michael Bloomberg",
+    "qid": "Q607",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Bloomberg",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Marjorie Tiven",
+                "qid": "Q22339052"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Diana Taylor",
+                "qid": "Q5271319"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "William Henry Bloomberg",
+                "qid": "Q22339200"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Emma Bloomberg",
+                "qid": "Q17978424"
+            },
+            {
+                "name": "Georgina Bloomberg",
+                "qid": "Q980958"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Charlotte Bloomberg",
+                "qid": "Q22339203"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "aircraft pilot",
+                "qid": "Q2095549",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng"
+            },
+            {
+                "name": "bank manager",
+                "qid": "Q32947888"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "politician",
+                "qid": "Q82955",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%ADnh_kh%C3%A1ch"
+            },
+            {
+                "name": "trader",
+                "qid": "Q1424605",
+                "url": "https://vi.wikipedia.org/wiki/Th%C6%B0%C6%A1ng_nh%C3%A2n_t%C3%A0i_ch%C3%ADnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1942-02-14T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Sex and the City",
+                "qid": "Q381751",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_%E1%BA%A5y_l%C3%A0_chuy%E1%BB%87n_nh%E1%BB%8F"
+            },
+            {
+                "name": "The Adjustment Bureau",
+                "qid": "Q492089",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BA%A3n_%C4%91%E1%BB%93_%C4%91%E1%BB%8Bnh_m%E1%BB%87nh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Susan Brown",
+                "qid": "Q22290413"
+            }
+        ]
+    }
+}

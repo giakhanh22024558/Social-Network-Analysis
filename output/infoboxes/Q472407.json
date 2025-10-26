@@ -1,0 +1,53 @@
+{
+    "name": "Haaz Sleiman",
+    "qid": "Q472407",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Haaz_Sleiman",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1976-07-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Eternals",
+                "qid": "Q23894629",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7ng_t%E1%BB%99c_b%E1%BA%A5t_t%E1%BB%AD"
+            },
+            {
+                "name": "Those People",
+                "qid": "Q21428173",
+                "url": "https://vi.wikipedia.org/wiki/Those_People"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Lebanon",
+                "qid": "Q822",
+                "url": "https://vi.wikipedia.org/wiki/Liban"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

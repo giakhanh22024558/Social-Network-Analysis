@@ -1,0 +1,104 @@
+{
+    "name": "Peter Sarsgaard",
+    "qid": "Q315099",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Peter_Sarsgaard",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Gloria Sarsgaard",
+                "qid": "Q115870179"
+            },
+            {
+                "name": "Ramona Sarsgaard",
+                "qid": "Q115870127"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-03-07T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "An Education",
+                "qid": "Q482436",
+                "url": "https://vi.wikipedia.org/wiki/An_Education"
+            },
+            {
+                "name": "Blue Jasmine",
+                "qid": "Q2907178",
+                "url": "https://vi.wikipedia.org/wiki/Blue_Jasmine"
+            },
+            {
+                "name": "Flightplan",
+                "qid": "Q638386",
+                "url": "https://vi.wikipedia.org/wiki/Flightplan"
+            },
+            {
+                "name": "Garden State",
+                "qid": "Q59931",
+                "url": "https://vi.wikipedia.org/wiki/Garden_State_(phim)"
+            },
+            {
+                "name": "Knight and Day",
+                "qid": "Q679918",
+                "url": "https://vi.wikipedia.org/wiki/Knight_and_Day"
+            },
+            {
+                "name": "Orphan",
+                "qid": "Q387414",
+                "url": "https://vi.wikipedia.org/wiki/Orphan_(phim)"
+            },
+            {
+                "name": "The Batman",
+                "qid": "Q61117344",
+                "url": "https://vi.wikipedia.org/wiki/Batman_(phim_2022)"
+            },
+            {
+                "name": "The Cell",
+                "qid": "Q221104",
+                "url": "https://vi.wikipedia.org/wiki/The_Cell"
+            },
+            {
+                "name": "The Lost Daughter",
+                "qid": "Q99926331",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_con_g%C3%A1i_th%E1%BA%A5t_l%E1%BA%A1c"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Maggie Gyllenhaal",
+                "qid": "Q202381",
+                "url": "https://vi.wikipedia.org/wiki/Maggie_Gyllenhaal"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Q361336",
+    "qid": "Q361336",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Bill_Condon",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-10-22T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Beauty and the Beast",
+                "qid": "Q19946102",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%E1%BA%B9p_v%C3%A0_qu%C3%A1i_v%E1%BA%ADt_(phim_2017)"
+            },
+            {
+                "name": "Dreamgirls",
+                "qid": "Q329056",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A5c_m%C6%A1_danh_v%E1%BB%8Dng"
+            },
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 1",
+                "qid": "Q60506",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 2",
+                "qid": "Q60487",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

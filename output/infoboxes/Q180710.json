@@ -1,0 +1,90 @@
+{
+    "name": "Anna Nicole Smith",
+    "qid": "Q180710",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Anna_Nicole_Smith",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Howard K. Stern",
+                "qid": "Q5920069"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Daniel Wayne Smith",
+                "qid": "Q2566243"
+            },
+            {
+                "name": "Dannielynn Birkhead",
+                "qid": "Q19956214"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "Playboy Playmate",
+                "qid": "Q728711"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "television personality",
+                "qid": "Q44508716"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-11-28T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Billy Wayne Smith",
+                "qid": "Q119855954"
+            },
+            {
+                "name": "Howard K. Stern",
+                "qid": "Q5920069"
+            },
+            {
+                "name": "J. Howard Marshall",
+                "qid": "Q2527743"
+            }
+        ]
+    }
+}

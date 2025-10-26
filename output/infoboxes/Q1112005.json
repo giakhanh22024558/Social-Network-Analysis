@@ -1,0 +1,92 @@
+{
+    "name": "Queen Latifah",
+    "qid": "Q1112005",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Queen_Latifah",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "talk show host",
+                "qid": "Q18668527"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-03-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "22 Jump Street",
+                "qid": "Q15040917",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_%C4%91%E1%BA%A1i_h%E1%BB%8Dc"
+            },
+            {
+                "name": "Chicago",
+                "qid": "Q189889",
+                "url": "https://vi.wikipedia.org/wiki/Chicago_(phim_2002)"
+            },
+            {
+                "name": "Hairspray",
+                "qid": "Q222041",
+                "url": "https://vi.wikipedia.org/wiki/Hairspray_(phim_2007)"
+            },
+            {
+                "name": "Last Holiday",
+                "qid": "Q1634476",
+                "url": "https://vi.wikipedia.org/wiki/Last_Holiday_(phim_2006)"
+            },
+            {
+                "name": "The Tiger Rising",
+                "qid": "Q105044498",
+                "url": "https://vi.wikipedia.org/wiki/The_Tiger_Rising"
+            },
+            {
+                "name": "Valentine's Day",
+                "qid": "Q244975",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A8n_s%E1%BB%91_t%C3%ACnh_y%C3%AAu"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

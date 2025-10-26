@@ -1,0 +1,158 @@
+{
+    "name": "Jamie Foxx",
+    "qid": "Q171905",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jamie_Foxx",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Katie Holmes",
+                "qid": "Q174346",
+                "url": "https://vi.wikipedia.org/wiki/Katie_Holmes"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Corinne Foxx",
+                "qid": "Q52557834"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "game show host",
+                "qid": "Q22662561"
+            },
+            {
+                "name": "pianist",
+                "qid": "Q486748",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_d%C6%B0%C6%A1ng_c%E1%BA%A7m"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-12-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Million Ways to Die in the West",
+                "qid": "Q13582568",
+                "url": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_ki%E1%BB%83u_ch%E1%BA%BFt_mi%E1%BB%81n_vi%E1%BB%85n_T%C3%A2y"
+            },
+            {
+                "name": "Annie",
+                "qid": "Q15039835",
+                "url": "https://vi.wikipedia.org/wiki/Annie_(phim_2014)"
+            },
+            {
+                "name": "Baby Driver",
+                "qid": "Q23016644",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_x%E1%BA%BF_Baby"
+            },
+            {
+                "name": "Django Unchained",
+                "qid": "Q571032",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tr%C3%ACnh_Django"
+            },
+            {
+                "name": "Dreamgirls",
+                "qid": "Q329056",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A5c_m%C6%A1_danh_v%E1%BB%8Dng"
+            },
+            {
+                "name": "Horrible Bosses 2",
+                "qid": "Q15275703",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_ba_si%C3%AAu_b%E1%BB%B1a_2"
+            },
+            {
+                "name": "Project Power",
+                "qid": "Q57246586",
+                "url": "https://vi.wikipedia.org/wiki/Project_Power:_D%E1%BB%B1_%C3%A1n_si%C3%AAu_n%C4%83ng_l%E1%BB%B1c"
+            },
+            {
+                "name": "Robin Hood",
+                "qid": "Q28811584",
+                "url": "https://vi.wikipedia.org/wiki/Robin_Hood_(phim_2018)"
+            },
+            {
+                "name": "Spider-Man: No Way Home",
+                "qid": "Q68934496",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Kh%C3%B4ng_c%C3%B2n_nh%C3%A0"
+            },
+            {
+                "name": "The Amazing Spider-Man 2",
+                "qid": "Q4254026",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_si%C3%AAu_%C4%91%E1%BA%B3ng_2:_S%E1%BB%B1_tr%E1%BB%97i_d%E1%BA%ADy_c%E1%BB%A7a_Ng%C6%B0%E1%BB%9Di_%C4%90i%E1%BB%87n"
+            },
+            {
+                "name": "Valentine's Day",
+                "qid": "Q244975",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A8n_s%E1%BB%91_t%C3%ACnh_y%C3%AAu"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

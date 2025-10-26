@@ -1,0 +1,106 @@
+{
+    "name": "Paul Thomas Anderson",
+    "qid": "Q25132",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Paul_Thomas_Anderson",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Maya Rudolph",
+                "qid": "Q236527"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Ernie Anderson",
+                "qid": "Q748391"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Pearl Anderson",
+                "qid": "Q46653131"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "cinematographer",
+                "qid": "Q222344",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_h%C3%ACnh_%E1%BA%A3nh"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-06-26T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Inherent Vice",
+                "qid": "Q13806537",
+                "url": "https://vi.wikipedia.org/wiki/Inherent_Vice_(phim)"
+            },
+            {
+                "name": "One Battle After Another",
+                "qid": "Q117085614",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_chi%E1%BA%BFn_sau_tr%E1%BA%ADn_chi%E1%BA%BFn"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Inherent Vice",
+                "qid": "Q13806537",
+                "url": "https://vi.wikipedia.org/wiki/Inherent_Vice_(phim)"
+            },
+            {
+                "name": "One Battle After Another",
+                "qid": "Q117085614",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_chi%E1%BA%BFn_sau_tr%E1%BA%ADn_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Phantom Thread",
+                "qid": "Q28840386",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%B3ng_ma_s%E1%BB%A3i_ch%E1%BB%89"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

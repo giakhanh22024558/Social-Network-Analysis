@@ -1,0 +1,131 @@
+{
+    "name": "Mariah Carey",
+    "qid": "Q41076",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mariah_Carey",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Alisson Carey",
+                "qid": "Q129899770"
+            },
+            {
+                "name": "Morgan Carey",
+                "qid": "Q129900091"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Bryan Tanaka",
+                "qid": "Q9667868"
+            },
+            {
+                "name": "Derek Jeter",
+                "qid": "Q353511"
+            },
+            {
+                "name": "James Packer",
+                "qid": "Q1680948"
+            },
+            {
+                "name": "Luis Miguel",
+                "qid": "Q1069140"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Alfred Roy Carey",
+                "qid": "Q115997583"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Patricia Hickey Carey",
+                "qid": "Q60515354"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "entertainer",
+                "qid": "Q138858",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A2n_v%E1%BA%ADt_gi%E1%BA%A3i_tr%C3%AD"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "music video director",
+                "qid": "Q2340668"
+            },
+            {
+                "name": "philanthropist",
+                "qid": "Q12362622"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-03-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Precious",
+                "qid": "Q269331",
+                "url": "https://vi.wikipedia.org/wiki/Precious_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Q348533",
+                "qid": "Q348533",
+                "url": "https://vi.wikipedia.org/wiki/Nick_Cannon"
+            },
+            {
+                "name": "Tommy Mottola",
+                "qid": "Q548921"
+            }
+        ]
+    }
+}

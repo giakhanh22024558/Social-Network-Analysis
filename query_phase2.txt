@@ -1,0 +1,117 @@
+# SELECT ?propertyLabel ?propertyID ?valueLabel ?viwikiURL
+# WHERE {
+#   # Giới hạn chỉ lấy Leonardo DiCaprio có bài viết trên Wikipedia tiếng Việt
+#   ?article_actor schema:about wd:Q25191;
+#                  schema:isPartOf <https://vi.wikipedia.org/>.
+# #   BIND("https://vi.wikipedia.org/wiki/Leonardo_DiCaprio" AS ?actorURL)
+# 
+#   {
+#     # ======== Bảng ánh xạ tự định nghĩa ========
+#     VALUES ( ?property ?propertyID ?propertyLabel ) {
+#       (wdt:P569 "P569" "Ngày sinh"@vi)
+#       (wdt:P19  "P19"  "Nơi sinh"@vi)
+#       (wdt:P27  "P27"  "Quốc tịch"@vi)
+#       (wdt:P106 "P106" "Nghề nghiệp"@vi)
+#       (wdt:P166 "P166" "Giải thưởng đã nhận"@vi)
+#       (wdt:P856 "P856" "Trang web chính thức"@vi)
+#       (wdt:P22  "P22"  "Cha"@vi)
+#       (wdt:P25  "P25"  "Mẹ"@vi)
+#       (wdt:P451 "P451" "Bạn tình"@vi)
+#       (wdt:P26  "P26"  "Vợ/Chồng"@vi)
+#       (wdt:P3373"P3373""Anh/Chị em"@vi)
+#     }
+# 
+#     wd:Q25191 ?property ?value.
+# 
+#     # Nếu giá trị có bài viết tiếng Việt thì thêm URL
+#     OPTIONAL {
+#       ?article_value schema:about ?value;
+#                      schema:isPartOf <https://vi.wikipedia.org/>.
+#       BIND(STR(?article_value) AS ?viwikiURL)
+#     }
+# 
+#     SERVICE wikibase:label { 
+#       bd:serviceParam wikibase:language "en".
+#       ?value rdfs:label ?valueLabel.
+#     }
+#   }
+# 
+#   UNION
+# 
+#   {
+#     # ======== Phim Leonardo DiCaprio tham gia ========
+#     ?film wdt:P161 wd:Q25191.
+#     ?article_film schema:about ?film;
+#                   schema:isPartOf <https://vi.wikipedia.org/>.
+#     BIND(STR(?article_film) AS ?viwikiURL)
+# 
+#     # Tự định nghĩa property cho phim
+#     BIND("Phim đã tham gia"@vi AS ?propertyLabel)
+#     BIND("P161" AS ?propertyID)
+# 
+#     SERVICE wikibase:label {
+#         bd:serviceParam wikibase:language "en".
+#         ?film rdfs:label ?valueLabel.
+#     }
+#   }
+# }
+# ORDER BY ?propertyLabel ?valueLabel
+
+
+
+
+SELECT ?propertyLabel ?propertyID ?valueLabel ?viwikiURL
+WHERE {
+  ?article_person schema:about wd:Q26876;
+                  schema:isPartOf <https://vi.wikipedia.org/>.
+#   BIND("{person_url}" AS ?personURL)
+
+  # --- Thông tin cơ bản ---
+  {
+    VALUES ( ?property ?propertyID ?propertyLabel ) {
+      (wdt:P569 "P569" "Ngày sinh"@vi)
+#       (wdt:P19  "P19"  "Nơi sinh"@vi)
+      (wdt:P27  "P27"  "Quốc tịch"@vi)
+      (wdt:P106 "P106" "Nghề nghiệp"@vi)
+      (wdt:P1038 "P1038" "Ông/bà"@vi)
+#       (wdt:P166 "P166" "Giải thưởng đã nhận"@vi)
+#       (wdt:P856 "P856" "Trang web chính thức"@vi)
+      (wdt:P22  "P22"  "Cha"@vi)
+      (wdt:P25  "P25"  "Mẹ"@vi)
+      (wdt:P451 "P451" "Bạn tình"@vi)
+      (wdt:P26  "P26"  "Vợ/Chồng"@vi)
+      (wdt:P3373"P3373""Anh/Chị em"@vi)
+      (wdt:P40  "P40"  "Con cái"@vi)
+    }
+    wd:Q26876 ?property ?value.
+    OPTIONAL {
+      ?article_value schema:about ?value;
+                     schema:isPartOf <https://vi.wikipedia.org/>.
+      BIND(STR(?article_value) AS ?viwikiURL)
+    }
+    SERVICE wikibase:label { 
+      bd:serviceParam wikibase:language "en".
+      ?value rdfs:label ?valueLabel.
+    }
+  }
+
+  # --- Phim liên quan ---
+  UNION {
+    VALUES (?roleProperty ?propertyID ?propertyLabel) {
+      (wdt:P161 "P161" "Phim đã tham gia (diễn viên)"@vi)
+      (wdt:P57  "P57"  "Phim đã đạo diễn"@vi)
+#       (wdt:P58  "P58"  "Phim đã viết kịch bản"@vi)
+      (wdt:P162 "P162" "Phim đã sản xuất"@vi)
+    }
+    ?film ?roleProperty wd:Q26876.
+    ?film wdt:P31/wdt:P279* wd:Q11424.   # 🔸 chỉ lấy các phim
+    ?article_film schema:about ?film;
+                  schema:isPartOf <https://vi.wikipedia.org/>.
+    BIND(STR(?article_film) AS ?viwikiURL)
+    SERVICE wikibase:label {
+        bd:serviceParam wikibase:language "en".
+        ?film rdfs:label ?valueLabel.
+    }
+  }
+}
+ORDER BY ?propertyLabel ?valueLabel

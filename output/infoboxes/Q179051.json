@@ -1,0 +1,67 @@
+{
+    "name": "Kareem Abdul-Jabbar",
+    "qid": "Q179051",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kareem_Abdul-Jabbar",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Kareem Abdul-Jabbar, Jr.",
+                "qid": "Q59383879"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "author",
+                "qid": "Q482980",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1c_gi%E1%BA%A3"
+            },
+            {
+                "name": "basketball coach",
+                "qid": "Q5137571"
+            },
+            {
+                "name": "basketball player",
+                "qid": "Q3665646"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1947-04-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Game of Death",
+                "qid": "Q854576",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%AD_vong_du_h%C3%BD"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

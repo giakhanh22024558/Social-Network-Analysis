@@ -1,0 +1,73 @@
+{
+    "name": "Kathryn Bigelow",
+    "qid": "Q34816",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kathryn_Bigelow",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1951-11-27T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Hurt Locker",
+                "qid": "Q183066",
+                "url": "https://vi.wikipedia.org/wiki/The_Hurt_Locker"
+            },
+            {
+                "name": "Zero Dark Thirty",
+                "qid": "Q152531",
+                "url": "https://vi.wikipedia.org/wiki/30%27_sau_n%E1%BB%ADa_%C4%91%C3%AAm"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "The Hurt Locker",
+                "qid": "Q183066",
+                "url": "https://vi.wikipedia.org/wiki/The_Hurt_Locker"
+            },
+            {
+                "name": "Zero Dark Thirty",
+                "qid": "Q152531",
+                "url": "https://vi.wikipedia.org/wiki/30%27_sau_n%E1%BB%ADa_%C4%91%C3%AAm"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "James Cameron",
+                "qid": "Q42574",
+                "url": "https://vi.wikipedia.org/wiki/James_Cameron"
+            }
+        ]
+    }
+}

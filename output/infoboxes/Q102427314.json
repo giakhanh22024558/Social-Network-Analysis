@@ -1,0 +1,34 @@
+{
+    "name": "Xochitl Gomez",
+    "qid": "Q102427314",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Xochitl_Gomez",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2006-04-29T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Doctor Strange in the Multiverse of Madness",
+                "qid": "Q64211112",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%B9_th%E1%BB%A7y_t%E1%BB%91i_th%C6%B0%E1%BB%A3ng_trong_%C4%90a_V%C5%A9_tr%E1%BB%A5_h%E1%BB%97n_lo%E1%BA%A1n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

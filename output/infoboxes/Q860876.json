@@ -1,0 +1,78 @@
+{
+    "name": "Dane DeHaan",
+    "qid": "Q860876",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dane_DeHaan",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-02-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Chronicle",
+                "qid": "Q1087883",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%A9c_m%E1%BA%A1nh_v%C3%B4_h%C3%ACnh"
+            },
+            {
+                "name": "Kill Your Darlings",
+                "qid": "Q565623",
+                "url": "https://vi.wikipedia.org/wiki/Kill_Your_Darlings"
+            },
+            {
+                "name": "Lincoln",
+                "qid": "Q32433",
+                "url": "https://vi.wikipedia.org/wiki/Lincoln_(phim)"
+            },
+            {
+                "name": "Oppenheimer",
+                "qid": "Q108839994",
+                "url": "https://vi.wikipedia.org/wiki/Oppenheimer_(phim)"
+            },
+            {
+                "name": "The Amazing Spider-Man 2",
+                "qid": "Q4254026",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_si%C3%AAu_%C4%91%E1%BA%B3ng_2:_S%E1%BB%B1_tr%E1%BB%97i_d%E1%BA%ADy_c%E1%BB%A7a_Ng%C6%B0%E1%BB%9Di_%C4%90i%E1%BB%87n"
+            },
+            {
+                "name": "Valérian and the City of a Thousand Planets",
+                "qid": "Q20926273",
+                "url": "https://vi.wikipedia.org/wiki/Valerian_v%C3%A0_th%C3%A0nh_ph%E1%BB%91_ng%C3%A0n_h%C3%A0nh_tinh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Anna Wood",
+                "qid": "Q16739662"
+            }
+        ]
+    }
+}

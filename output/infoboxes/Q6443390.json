@@ -1,0 +1,106 @@
+{
+    "name": "Kumail Nanjiani",
+    "qid": "Q6443390",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kumail_Nanjiani",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stand-up comedian",
+                "qid": "Q18545066"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-05-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Central Intelligence",
+                "qid": "Q19867575",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_kh%C3%B4ng_ho%C3%A0n_h%E1%BA%A3o"
+            },
+            {
+                "name": "Dolittle",
+                "qid": "Q38689704",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9_Dolittle:_Chuy%E1%BA%BFn_phi%C3%AAu_l%C6%B0u_th%E1%BA%A7n_tho%E1%BA%A1i"
+            },
+            {
+                "name": "Duck Butter",
+                "qid": "Q30101331",
+                "url": "https://vi.wikipedia.org/wiki/Duck_Butter"
+            },
+            {
+                "name": "Eternals",
+                "qid": "Q23894629",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7ng_t%E1%BB%99c_b%E1%BA%A5t_t%E1%BB%AD"
+            },
+            {
+                "name": "Ghostbusters: Frozen Empire",
+                "qid": "Q113300586",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma:_K%E1%BB%B7_nguy%C3%AAn_b%C4%83ng_gi%C3%A1"
+            },
+            {
+                "name": "Men in Black: International",
+                "qid": "Q55439830",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_v%E1%BB%A5_%C3%A1o_%C4%91en:_S%E1%BB%A9_m%E1%BB%87nh_to%C3%A0n_c%E1%BA%A7u"
+            },
+            {
+                "name": "The Kings of Summer",
+                "qid": "Q13423400",
+                "url": "https://vi.wikipedia.org/wiki/The_Kings_of_Summer"
+            },
+            {
+                "name": "The Lego Ninjago Movie",
+                "qid": "Q22131901",
+                "url": "https://vi.wikipedia.org/wiki/Phim_Lego_Ninjago"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Pakistan",
+                "qid": "Q843",
+                "url": "https://vi.wikipedia.org/wiki/Pakistan"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Emily V. Gordon",
+                "qid": "Q27057681"
+            }
+        ]
+    }
+}

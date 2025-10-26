@@ -1,0 +1,59 @@
+{
+    "name": "Jeff Dunham",
+    "qid": "Q296567",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jeff_Dunham",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "politician",
+                "qid": "Q82955",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%ADnh_kh%C3%A1ch"
+            },
+            {
+                "name": "puppeteer",
+                "qid": "Q2629392",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91i%E1%BB%81u_khi%E1%BB%83n_r%E1%BB%91i"
+            },
+            {
+                "name": "ventriloquist",
+                "qid": "Q15618890"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "wildland firefighter",
+                "qid": "Q116254310"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-04-18T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

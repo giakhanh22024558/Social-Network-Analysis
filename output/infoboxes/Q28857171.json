@@ -1,0 +1,37 @@
+{
+    "name": "Ashley Park",
+    "qid": "Q28857171",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ashley_Park",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Paul Forman",
+                "qid": "Q112032769"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1991-06-06T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

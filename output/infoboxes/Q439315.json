@@ -1,0 +1,131 @@
+{
+    "name": "Jemaine Clement",
+    "qid": "Q439315",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jemaine_Clement",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stand-up comedian",
+                "qid": "Q18545066"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-01-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Minecraft Movie",
+                "qid": "Q40083273",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_b%E1%BB%99_phim_Minecraft"
+            },
+            {
+                "name": "Avatar: Fire and Ash",
+                "qid": "Q29580929",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_L%E1%BB%ADa_v%C3%A0_tro_t%C3%A0n"
+            },
+            {
+                "name": "Avatar: The Way of Water",
+                "qid": "Q3604746",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_D%C3%B2ng_ch%E1%BA%A3y_c%E1%BB%A7a_n%C6%B0%E1%BB%9Bc"
+            },
+            {
+                "name": "Harold and the Purple Crayon",
+                "qid": "Q111883640",
+                "url": "https://vi.wikipedia.org/wiki/Harold_v%C3%A0_c%C3%A2y_b%C3%BAt_ph%C3%A9p_thu%E1%BA%ADt_(phim)"
+            },
+            {
+                "name": "M3GAN 2.0",
+                "qid": "Q116258185",
+                "url": "https://vi.wikipedia.org/wiki/M3GAN_2.0"
+            },
+            {
+                "name": "Men in Black 3",
+                "qid": "Q327713",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_%C3%A1o_%C4%91en_3"
+            },
+            {
+                "name": "The BFG",
+                "qid": "Q19689203",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_ch%C6%B0a_k%E1%BB%83_%E1%BB%9F_x%E1%BB%A9_s%E1%BB%9F_kh%E1%BB%95ng_l%E1%BB%93"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "New Zealand",
+                "qid": "Q664",
+                "url": "https://vi.wikipedia.org/wiki/New_Zealand"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Miranda Manasiadis",
+                "qid": "Q43169431"
+            }
+        ]
+    }
+}

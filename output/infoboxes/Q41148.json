@@ -1,0 +1,249 @@
+{
+    "name": "Martin Scorsese",
+    "qid": "Q41148",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Martin_Scorsese",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Charles Scorsese",
+                "qid": "Q1066037"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Cathy Scorsese",
+                "qid": "Q65029634"
+            },
+            {
+                "name": "Domenica Cameron-Scorsese",
+                "qid": "Q41732108"
+            },
+            {
+                "name": "Francesca Scorsese",
+                "qid": "Q66091313"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Catherine Scorsese",
+                "qid": "Q441713"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "film historian",
+                "qid": "Q20971250"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "music video director",
+                "qid": "Q2340668"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1942-11-17T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Hugo",
+                "qid": "Q206576",
+                "url": "https://vi.wikipedia.org/wiki/Hugo_(phim)"
+            },
+            {
+                "name": "Killers of the Flower Moon",
+                "qid": "Q66316924",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%A7ng_tr%C4%83ng_m%C3%A1u_(phim)"
+            },
+            {
+                "name": "Shutter Island",
+                "qid": "Q210364",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_kinh_ho%C3%A0ng_(phim_2010)"
+            },
+            {
+                "name": "The Irishman",
+                "qid": "Q29057443",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_Ireland"
+            },
+            {
+                "name": "The Wolf of Wall Street",
+                "qid": "Q1392744",
+                "url": "https://vi.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(phim_2013)"
+            },
+            {
+                "name": "You Can Count on Me",
+                "qid": "Q2300341",
+                "url": "https://vi.wikipedia.org/wiki/You_Can_Count_On_Me"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Hugo",
+                "qid": "Q206576",
+                "url": "https://vi.wikipedia.org/wiki/Hugo_(phim)"
+            },
+            {
+                "name": "Taxi Driver",
+                "qid": "Q47221",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A0i_x%E1%BA%BF_taxi"
+            },
+            {
+                "name": "The Aviator",
+                "qid": "Q201924",
+                "url": "https://vi.wikipedia.org/wiki/The_Aviator_(phim)"
+            },
+            {
+                "name": "The Last Waltz",
+                "qid": "Q847599",
+                "url": "https://vi.wikipedia.org/wiki/The_Last_Waltz"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Hugo",
+                "qid": "Q206576",
+                "url": "https://vi.wikipedia.org/wiki/Hugo_(phim)"
+            },
+            {
+                "name": "It's Not Just You",
+                "qid": "Q3284170",
+                "url": "https://vi.wikipedia.org/wiki/It%27s_Not_Just_You,_Murray!"
+            },
+            {
+                "name": "Killers of the Flower Moon",
+                "qid": "Q66316924",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%A7ng_tr%C4%83ng_m%C3%A1u_(phim)"
+            },
+            {
+                "name": "Shutter Island",
+                "qid": "Q210364",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_kinh_ho%C3%A0ng_(phim_2010)"
+            },
+            {
+                "name": "Taxi Driver",
+                "qid": "Q47221",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A0i_x%E1%BA%BF_taxi"
+            },
+            {
+                "name": "The Aviator",
+                "qid": "Q201924",
+                "url": "https://vi.wikipedia.org/wiki/The_Aviator_(phim)"
+            },
+            {
+                "name": "The Departed",
+                "qid": "Q172975",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_v%E1%BB%A5_Boston"
+            },
+            {
+                "name": "The Irishman",
+                "qid": "Q29057443",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_Ireland"
+            },
+            {
+                "name": "The Last Waltz",
+                "qid": "Q847599",
+                "url": "https://vi.wikipedia.org/wiki/The_Last_Waltz"
+            },
+            {
+                "name": "The Wolf of Wall Street",
+                "qid": "Q1392744",
+                "url": "https://vi.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(phim_2013)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Italy",
+                "qid": "Q38",
+                "url": "https://vi.wikipedia.org/wiki/%C3%9D"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Barbara De Fina",
+                "qid": "Q2141296"
+            },
+            {
+                "name": "Helen Schermerhorn Morris",
+                "qid": "Q21694246"
+            },
+            {
+                "name": "Isabella Rossellini",
+                "qid": "Q203840",
+                "url": "https://vi.wikipedia.org/wiki/Isabella_Rossellini"
+            },
+            {
+                "name": "Julia Cameron",
+                "qid": "Q4412539"
+            },
+            {
+                "name": "Laraine Marie Brennan",
+                "qid": "Q21694247"
+            }
+        ]
+    }
+}

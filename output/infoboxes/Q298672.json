@@ -1,0 +1,126 @@
+{
+    "name": "Justin Long",
+    "qid": "Q298672",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Justin_Long",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Amanda Seyfried",
+                "qid": "Q189226",
+                "url": "https://vi.wikipedia.org/wiki/Amanda_Seyfried"
+            },
+            {
+                "name": "Drew Barrymore",
+                "qid": "Q676094",
+                "url": "https://vi.wikipedia.org/wiki/Drew_Barrymore"
+            },
+            {
+                "name": "Kate Bosworth",
+                "qid": "Q236822"
+            },
+            {
+                "name": "Lauren Mayberry",
+                "qid": "Q16732185"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "R. James Long",
+                "qid": "Q7273734"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-06-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Alvin and the Chipmunks",
+                "qid": "Q387348",
+                "url": "https://vi.wikipedia.org/wiki/Alvin_si%C3%AAu_qu%E1%BA%ADy"
+            },
+            {
+                "name": "Alvin and the Chipmunks: Chipwrecked",
+                "qid": "Q303678",
+                "url": "https://vi.wikipedia.org/wiki/Alvin_and_the_Chipmunks_3"
+            },
+            {
+                "name": "Alvin and the Chipmunks: The Road Chip",
+                "qid": "Q19801728",
+                "url": "https://vi.wikipedia.org/wiki/Alvin_and_the_Chipmunks:_S%C3%B3c_chu%E1%BB%99t_du_h%C3%AD"
+            },
+            {
+                "name": "Alvin and the Chipmunks: The Squeakquel",
+                "qid": "Q378311",
+                "url": "https://vi.wikipedia.org/wiki/Alvin_and_the_Chipmunks_2"
+            },
+            {
+                "name": "Drag Me to Hell",
+                "qid": "Q632737",
+                "url": "https://vi.wikipedia.org/wiki/Drag_Me_to_Hell"
+            },
+            {
+                "name": "He's Just Not That Into You",
+                "qid": "Q155559",
+                "url": "https://vi.wikipedia.org/wiki/He%27s_Just_Not_That_Into_You_(phim)"
+            },
+            {
+                "name": "Live Free or Die Hard",
+                "qid": "Q50861",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%C6%A1ng_%C4%91%E1%BA%A7u_v%E1%BB%9Bi_th%E1%BB%AD_th%C3%A1ch_4"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "Yoga Hosers",
+                "qid": "Q18168157",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_sinh_b%E1%BA%AFt_ma"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

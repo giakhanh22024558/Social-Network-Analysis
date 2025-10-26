@@ -1,0 +1,74 @@
+{
+    "name": "James Gandolfini",
+    "qid": "Q308722",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/James_Gandolfini",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Michael Gandolfini",
+                "qid": "Q63315368"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-09-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Extremely Loud and Incredibly Close",
+                "qid": "Q918769",
+                "url": "https://vi.wikipedia.org/wiki/Extremely_Loud_and_Incredibly_Close_(phim)"
+            },
+            {
+                "name": "The Incredible Burt Wonderstone",
+                "qid": "Q1444108",
+                "url": "https://vi.wikipedia.org/wiki/The_Incredible_Burt_Wonderstone"
+            },
+            {
+                "name": "The Last Castle",
+                "qid": "Q1218847",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%A1o_%C4%91%C3%A0i_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "The Man Who Wasn't There",
+                "qid": "Q913440",
+                "url": "https://vi.wikipedia.org/wiki/The_Man_Who_Wasn%27t_There"
+            },
+            {
+                "name": "Zero Dark Thirty",
+                "qid": "Q152531",
+                "url": "https://vi.wikipedia.org/wiki/30%27_sau_n%E1%BB%ADa_%C4%91%C3%AAm"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Deborah Lin",
+                "qid": "Q108667449"
+            },
+            {
+                "name": "Marcy Wudarski",
+                "qid": "Q108667446"
+            }
+        ]
+    }
+}

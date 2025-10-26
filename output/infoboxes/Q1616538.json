@@ -1,0 +1,106 @@
+{
+    "name": "Rob Riggle",
+    "qid": "Q1616538",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rob_Riggle",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "military officer",
+                "qid": "Q189290",
+                "url": "https://vi.wikipedia.org/wiki/S%C4%A9_quan"
+            },
+            {
+                "name": "opinion journalist",
+                "qid": "Q6051619"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "soldier",
+                "qid": "Q4991371",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_l%C3%ADnh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-04-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "21 Jump Street",
+                "qid": "Q214014",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "22 Jump Street",
+                "qid": "Q15040917",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_%C4%91%E1%BA%A1i_h%E1%BB%8Dc"
+            },
+            {
+                "name": "Absolutely Anything",
+                "qid": "Q16156329",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%91%C6%B0%E1%BB%A3c_%C6%B0%E1%BB%9Bc_th%E1%BA%A5y"
+            },
+            {
+                "name": "Dumb and Dumber To",
+                "qid": "Q14932750",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_ng%E1%BB%91c_g%E1%BA%B7p_nhau"
+            },
+            {
+                "name": "Middle School: The Worst Years of My Life",
+                "qid": "Q21780586",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_ca_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng:_Th%E1%BB%9Di_trung_h%E1%BB%8Dc_d%E1%BB%AF_d%E1%BB%99i"
+            },
+            {
+                "name": "The Hangover",
+                "qid": "Q219315",
+                "url": "https://vi.wikipedia.org/wiki/Ba_ch%C3%A0ng_ng%E1%BB%B1_l%C3%A2m_(phim)"
+            },
+            {
+                "name": "The Internship",
+                "qid": "Q4207359",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%B1c_t%E1%BA%ADp_sinh_(phim)"
+            },
+            {
+                "name": "The Other Guys",
+                "qid": "Q376807",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_c%E1%BB%9Bm_tranh_t%C3%A0i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Dee Bradley Baker",
+    "qid": "Q837676",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dee_Bradley_Baker",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Cora Baker",
+                "qid": "Q63649755"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "blogger",
+                "qid": "Q8246794",
+                "url": "https://vi.wikipedia.org/wiki/Blogger"
+            },
+            {
+                "name": "dub actor",
+                "qid": "Q11481802"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "puppeteer",
+                "qid": "Q2629392",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91i%E1%BB%81u_khi%E1%BB%83n_r%E1%BB%91i"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-08-31T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "G-Force",
+                "qid": "Q784444",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_chu%E1%BB%99t_lang"
+            },
+            {
+                "name": "The Jungle Book",
+                "qid": "Q16857406",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_r%E1%BB%ABng_xanh_(phim_2016)"
+            },
+            {
+                "name": "The Last Airbender",
+                "qid": "Q11593",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BA%BFt_kh%C3%AD_s%C6%B0_cu%E1%BB%91i_c%C3%B9ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

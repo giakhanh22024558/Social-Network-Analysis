@@ -1,0 +1,122 @@
+{
+    "name": "Jennifer Connelly",
+    "qid": "Q103343",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jennifer_Connelly",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Billy Campbell",
+                "qid": "Q553813"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Gerard Karl Connelly",
+                "qid": "Q51273039"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Agnes Bettany",
+                "qid": "Q85159841"
+            },
+            {
+                "name": "Stellan Bettany",
+                "qid": "Q85159579"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-12-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Beautiful Mind",
+                "qid": "Q164103",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_t%C3%A2m_h%E1%BB%93n_%C4%91%E1%BA%B9p"
+            },
+            {
+                "name": "Alita: Battle Angel",
+                "qid": "Q24053265",
+                "url": "https://vi.wikipedia.org/wiki/Alita:_Thi%C3%AAn_th%E1%BA%A7n_chi%E1%BA%BFn_binh"
+            },
+            {
+                "name": "Creation",
+                "qid": "Q2319804",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1ng_t%E1%BA%A1o_(phim_2009)"
+            },
+            {
+                "name": "He's Just Not That Into You",
+                "qid": "Q155559",
+                "url": "https://vi.wikipedia.org/wiki/He%27s_Just_Not_That_Into_You_(phim)"
+            },
+            {
+                "name": "Noah",
+                "qid": "Q286868",
+                "url": "https://vi.wikipedia.org/wiki/Noah:_%C4%90%E1%BA%A1i_h%E1%BB%93ng_th%E1%BB%A7y"
+            },
+            {
+                "name": "Once Upon a Time in America",
+                "qid": "Q206388",
+                "url": "https://vi.wikipedia.org/wiki/Once_Upon_a_Time_in_America"
+            },
+            {
+                "name": "Requiem for a Dream",
+                "qid": "Q487181",
+                "url": "https://vi.wikipedia.org/wiki/Requiem_for_a_Dream"
+            },
+            {
+                "name": "The Day the Earth Stood Still",
+                "qid": "Q187154",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_Tr%C3%A1i_%C4%90%E1%BA%A5t_ng%E1%BB%ABng_quay"
+            },
+            {
+                "name": "Top Gun: Maverick",
+                "qid": "Q31202708",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng_si%C3%AAu_%C4%91%E1%BA%B3ng_Maverick"
+            },
+            {
+                "name": "Winter's Tale",
+                "qid": "Q3569395",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_t%C3%ACnh_m%C3%B9a_%C4%91%C3%B4ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Paul Bettany",
+                "qid": "Q242707",
+                "url": "https://vi.wikipedia.org/wiki/Paul_Bettany"
+            }
+        ]
+    }
+}

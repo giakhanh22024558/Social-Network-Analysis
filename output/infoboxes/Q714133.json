@@ -1,0 +1,79 @@
+{
+    "name": "Nicholas Braun",
+    "qid": "Q714133",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nicholas_Braun",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Craig Braun",
+                "qid": "Q55218207"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1988-05-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "How to Be Single",
+                "qid": "Q19880527",
+                "url": "https://vi.wikipedia.org/wiki/Tuy%C3%AAn_ng%C3%B4n_%C4%91%E1%BB%99c_th%C3%A2n"
+            },
+            {
+                "name": "Minutemen",
+                "qid": "Q1342998",
+                "url": "https://vi.wikipedia.org/wiki/Minutemen_(phim)"
+            },
+            {
+                "name": "Poltergeist",
+                "qid": "Q15040721",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_tinh_(phim_2015)"
+            },
+            {
+                "name": "Princess Protection Program",
+                "qid": "Q549859",
+                "url": "https://vi.wikipedia.org/wiki/Princess_Protection_Program"
+            },
+            {
+                "name": "Sky High",
+                "qid": "Q858508",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_h%E1%BB%8Dc_si%C3%AAu_nh%C3%A2n"
+            },
+            {
+                "name": "The Perks of Being a Wallflower",
+                "qid": "Q675468",
+                "url": "https://vi.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower_(phim)"
+            },
+            {
+                "name": "The Watch",
+                "qid": "Q29313",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_d%C3%A2n_ph%C3%B2ng_tinh_nhu%E1%BB%87"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

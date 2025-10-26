@@ -1,0 +1,132 @@
+{
+    "name": "Paul Walker",
+    "qid": "Q213864",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Paul_Walker",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Caleb Walker",
+                "qid": "Q26211028"
+            },
+            {
+                "name": "Cody Walker",
+                "qid": "Q20658844"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Paul Walker III",
+                "qid": "Q123194353"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Meadow Walker",
+                "qid": "Q94234781"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "marine biologist",
+                "qid": "Q3640160"
+            },
+            {
+                "name": "racing automobile driver",
+                "qid": "Q10349745"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1973-09-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "2 Fast 2 Furious",
+                "qid": "Q222867",
+                "url": "https://vi.wikipedia.org/wiki/2_Fast_2_Furious"
+            },
+            {
+                "name": "Brick Mansions",
+                "qid": "Q13435412",
+                "url": "https://vi.wikipedia.org/wiki/Khu_nguy_hi%E1%BB%83m"
+            },
+            {
+                "name": "Fast & Furious",
+                "qid": "Q380996",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_4"
+            },
+            {
+                "name": "Fast & Furious 6",
+                "qid": "Q5516100",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_6"
+            },
+            {
+                "name": "Fast Five",
+                "qid": "Q401976",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_5:_Phi_v%E1%BB%A5_Rio"
+            },
+            {
+                "name": "Furious 7",
+                "qid": "Q14650496",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_7"
+            },
+            {
+                "name": "See You Again",
+                "qid": "Q19756862",
+                "url": "https://vi.wikipedia.org/wiki/See_You_Again_(b%C3%A0i_h%C3%A1t_c%E1%BB%A7a_Wiz_Khalifa)"
+            },
+            {
+                "name": "The Fast and the Furious",
+                "qid": "Q155476",
+                "url": "https://vi.wikipedia.org/wiki/The_Fast_and_the_Furious_(phim_2001)"
+            },
+            {
+                "name": "The Skulls",
+                "qid": "Q83612",
+                "url": "https://vi.wikipedia.org/wiki/The_Skulls_(phim_2000)"
+            },
+            {
+                "name": "Varsity Blues",
+                "qid": "Q549889",
+                "url": "https://vi.wikipedia.org/wiki/Varsity_Blues_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

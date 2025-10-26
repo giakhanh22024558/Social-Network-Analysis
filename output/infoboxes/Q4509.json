@@ -1,0 +1,122 @@
+{
+    "name": "Chloë Grace Moretz",
+    "qid": "Q4509",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Chlo%C3%AB_Grace_Moretz",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1997-02-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "(500) Days of Summer",
+                "qid": "Q154935",
+                "url": "https://vi.wikipedia.org/wiki/500_ng%C3%A0y_y%C3%AAu"
+            },
+            {
+                "name": "Carrie",
+                "qid": "Q45384",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%A1n_th%E1%BB%8Bnh_n%E1%BB%99_c%E1%BB%A7a_Carrie"
+            },
+            {
+                "name": "Clouds of Sils Maria",
+                "qid": "Q14775069",
+                "url": "https://vi.wikipedia.org/wiki/Clouds_of_Sils_Maria"
+            },
+            {
+                "name": "Dark Places",
+                "qid": "Q15109729",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%B3ng_ma_k%C3%BD_%E1%BB%A9c_(phim_2015)"
+            },
+            {
+                "name": "Dark Shadows",
+                "qid": "Q323318",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_nguy%E1%BB%81n_b%C3%B3ng_%C4%91%C3%AAm_(phim)"
+            },
+            {
+                "name": "Diary of a Wimpy Kid",
+                "qid": "Q74671",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_k%C3%BD_ch%C3%BA_b%C3%A9_nh%C3%BAt_nh%C3%A1t_(phim)"
+            },
+            {
+                "name": "Greta",
+                "qid": "Q55392278",
+                "url": "https://vi.wikipedia.org/wiki/Greta"
+            },
+            {
+                "name": "Hick",
+                "qid": "Q1617244",
+                "url": "https://vi.wikipedia.org/wiki/Hick_(phim)"
+            },
+            {
+                "name": "Hugo",
+                "qid": "Q206576",
+                "url": "https://vi.wikipedia.org/wiki/Hugo_(phim)"
+            },
+            {
+                "name": "Kick-Ass",
+                "qid": "Q2201",
+                "url": "https://vi.wikipedia.org/wiki/Kick-Ass_(phim)"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "The 5th Wave",
+                "qid": "Q17436508",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A3t_t%E1%BA%A5n_c%C3%B4ng_th%E1%BB%A9_5"
+            },
+            {
+                "name": "The Amityville Horror",
+                "qid": "Q471054",
+                "url": "https://vi.wikipedia.org/wiki/The_Amityville_Horror_(phim_2005)"
+            },
+            {
+                "name": "The Equalizer",
+                "qid": "Q13562643",
+                "url": "https://vi.wikipedia.org/wiki/Thi%E1%BB%87n_%C3%A1c_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "Tom & Jerry",
+                "qid": "Q65921361",
+                "url": "https://vi.wikipedia.org/wiki/Tom_%26_Jerry:_Qu%E1%BA%ADy_tung_New_York"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

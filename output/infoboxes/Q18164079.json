@@ -1,0 +1,63 @@
+{
+    "name": "Q18164079",
+    "qid": "Q18164079",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ronny_Chieng",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "lawyer",
+                "qid": "Q40348",
+                "url": "https://vi.wikipedia.org/wiki/Lu%E1%BA%ADt_s%C6%B0"
+            },
+            {
+                "name": "social worker",
+                "qid": "Q7019111"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1985-01-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Crazy Rich Asians",
+                "qid": "Q29588623",
+                "url": "https://vi.wikipedia.org/wiki/Con_nh%C3%A0_si%C3%AAu_gi%C3%A0u_ch%C3%A2u_%C3%81"
+            },
+            {
+                "name": "M3GAN",
+                "qid": "Q110661062",
+                "url": "https://vi.wikipedia.org/wiki/M3GAN"
+            },
+            {
+                "name": "Shang-Chi and the Legend of the Ten Rings",
+                "qid": "Q65768589",
+                "url": "https://vi.wikipedia.org/wiki/Shang-Chi_v%C3%A0_huy%E1%BB%81n_tho%E1%BA%A1i_Th%E1%BA%ADp_Lu%C3%A2n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Malaysia",
+                "qid": "Q833",
+                "url": "https://vi.wikipedia.org/wiki/Malaysia"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

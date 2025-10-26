@@ -1,0 +1,112 @@
+{
+    "name": "Megan Fox",
+    "qid": "Q80069",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Megan_Fox",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Brian Austin Green",
+                "qid": "Q313311"
+            },
+            {
+                "name": "Johnny Simmons",
+                "qid": "Q116636"
+            },
+            {
+                "name": "Machine Gun Kelly",
+                "qid": "Q1354843",
+                "url": "https://vi.wikipedia.org/wiki/Machine_Gun_Kelly_(rapper)"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Bodhi Ransom Green",
+                "qid": "Q22337565"
+            },
+            {
+                "name": "Journey River Green",
+                "qid": "Q52159225"
+            },
+            {
+                "name": "Noah Shannon Green",
+                "qid": "Q22337564"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-05-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Expend4bles",
+                "qid": "Q108813842",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_4"
+            },
+            {
+                "name": "Teenage Mutant Ninja Turtles",
+                "qid": "Q9653404",
+                "url": "https://vi.wikipedia.org/wiki/Ninja_R%C3%B9a_(phim_2014)"
+            },
+            {
+                "name": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+                "qid": "Q19842746",
+                "url": "https://vi.wikipedia.org/wiki/Ninja_R%C3%B9a:_%C4%90%E1%BA%ADp_tan_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "The Dictator",
+                "qid": "Q464964",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_%C4%91%E1%BB%99c_t%C3%A0i_(phim_2012)"
+            },
+            {
+                "name": "Transformers",
+                "qid": "Q171453",
+                "url": "https://vi.wikipedia.org/wiki/Robot_%C4%91%E1%BA%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Transformers: Revenge of the Fallen",
+                "qid": "Q191100",
+                "url": "https://vi.wikipedia.org/wiki/Transformers:_B%E1%BA%A1i_binh_ph%E1%BB%A5c_h%E1%BA%ADn"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Brian Austin Green",
+                "qid": "Q313311"
+            }
+        ]
+    }
+}

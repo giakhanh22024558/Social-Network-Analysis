@@ -1,0 +1,131 @@
+{
+    "name": "William Fichtner",
+    "qid": "Q220335",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/William_Fichtner",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1956-11-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Armageddon",
+                "qid": "Q208344",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_t%E1%BA%ADn_th%E1%BA%BF_(phim_1998)"
+            },
+            {
+                "name": "Black Hawk Down",
+                "qid": "Q221384",
+                "url": "https://vi.wikipedia.org/wiki/Black_Hawk_Down_(phim_2001)"
+            },
+            {
+                "name": "Contact",
+                "qid": "Q270215",
+                "url": "https://vi.wikipedia.org/wiki/Contact_(phim)"
+            },
+            {
+                "name": "Date Night",
+                "qid": "Q1139801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_h%E1%BA%B9n_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Elysium",
+                "qid": "Q80959",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B7_nguy%C3%AAn_Elysium"
+            },
+            {
+                "name": "Heat",
+                "qid": "Q42198",
+                "url": "https://vi.wikipedia.org/wiki/Heat_(phim_1995)"
+            },
+            {
+                "name": "Hot Summer Nights",
+                "qid": "Q20875660",
+                "url": "https://vi.wikipedia.org/wiki/Hot_Summer_Nights"
+            },
+            {
+                "name": "Independence Day: Resurgence",
+                "qid": "Q19614711",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_%C4%91%E1%BB%99c_l%E1%BA%ADp:_T%C3%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Mr. & Mrs. Smith",
+                "qid": "Q191040",
+                "url": "https://vi.wikipedia.org/wiki/%C3%94ng_b%C3%A0_Smith_(phim_2005)"
+            },
+            {
+                "name": "Pearl Harbor",
+                "qid": "Q194413",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A2n_Ch%C3%A2u_C%E1%BA%A3ng_(phim)"
+            },
+            {
+                "name": "Teenage Mutant Ninja Turtles",
+                "qid": "Q9653404",
+                "url": "https://vi.wikipedia.org/wiki/Ninja_R%C3%B9a_(phim_2014)"
+            },
+            {
+                "name": "The Dark Knight",
+                "qid": "Q163872",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm"
+            },
+            {
+                "name": "The Homesman",
+                "qid": "Q15961525",
+                "url": "https://vi.wikipedia.org/wiki/The_Homesman"
+            },
+            {
+                "name": "The Lone Ranger",
+                "qid": "Q548919",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_c%C3%B4_%C4%91%E1%BB%99c"
+            },
+            {
+                "name": "The Perfect Storm",
+                "qid": "Q508349",
+                "url": "https://vi.wikipedia.org/wiki/The_Perfect_Storm_(phim)"
+            },
+            {
+                "name": "Ultraviolet",
+                "qid": "Q951900",
+                "url": "https://vi.wikipedia.org/wiki/Ultraviolet"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

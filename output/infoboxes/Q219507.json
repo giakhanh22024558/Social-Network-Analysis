@@ -1,0 +1,146 @@
+{
+    "name": "Simon Kinberg",
+    "qid": "Q219507",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Simon_Kinberg",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1973-08-02T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "A Haunting in Venice",
+                "qid": "Q114589148",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81n_m%E1%BA%A1ng_%E1%BB%9F_Venice"
+            },
+            {
+                "name": "Chappie",
+                "qid": "Q15209986",
+                "url": "https://vi.wikipedia.org/wiki/Chappie_(phim)"
+            },
+            {
+                "name": "Cinderella",
+                "qid": "Q15046091",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%8D_Lem_(phim_2015)"
+            },
+            {
+                "name": "Dark Phoenix",
+                "qid": "Q31188935",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Ph%C6%B0%E1%BB%A3ng_ho%C3%A0ng_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "Deadpool",
+                "qid": "Q19347291",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_(phim)"
+            },
+            {
+                "name": "Deadpool 2",
+                "qid": "Q25431158",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_2"
+            },
+            {
+                "name": "Death on the Nile",
+                "qid": "Q56816969",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81n_m%E1%BA%A1ng_tr%C3%AAn_s%C3%B4ng_Nile_(phim_2022)"
+            },
+            {
+                "name": "Elysium",
+                "qid": "Q80959",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B7_nguy%C3%AAn_Elysium"
+            },
+            {
+                "name": "Fantastic Four",
+                "qid": "Q16795448",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_t%E1%BB%A9_si%C3%AAu_%C4%91%E1%BA%B3ng_(phim_2015)"
+            },
+            {
+                "name": "Jumper",
+                "qid": "Q541079",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_th%E1%BB%91ng_tr%E1%BB%8B"
+            },
+            {
+                "name": "Logan",
+                "qid": "Q24053263",
+                "url": "https://vi.wikipedia.org/wiki/Logan:_Ng%C6%B0%E1%BB%9Di_s%C3%B3i"
+            },
+            {
+                "name": "Murder on the Orient Express",
+                "qid": "Q27689100",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81n_m%E1%BA%A1ng_tr%C3%AAn_chuy%E1%BA%BFn_t%C3%A0u_t%E1%BB%91c_h%C3%A0nh_Ph%C6%B0%C6%A1ng_%C4%90%C3%B4ng_(phim_2017)"
+            },
+            {
+                "name": "Star Wars: Episode VIII – The Last Jedi",
+                "qid": "Q18486021",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Jedi_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "The 355",
+                "qid": "Q65090801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_v%E1%BB%A5_355"
+            },
+            {
+                "name": "The New Mutants",
+                "qid": "Q28912376",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BB%8B_nh%C3%A2n_th%E1%BA%BF_h%E1%BB%87_m%E1%BB%9Bi_(phim)"
+            },
+            {
+                "name": "This Means War",
+                "qid": "Q1049480",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_t%C3%ACnh_y%C3%AAu"
+            },
+            {
+                "name": "X-Men: Days of Future Past",
+                "qid": "Q4985891",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Ng%C3%A0y_c%C5%A9_c%E1%BB%A7a_t%C6%B0%C6%A1ng_lai"
+            },
+            {
+                "name": "X-Men: First Class",
+                "qid": "Q223596",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Th%E1%BA%BF_h%E1%BB%87_th%E1%BB%A9_nh%E1%BA%A5t"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Dark Phoenix",
+                "qid": "Q31188935",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Ph%C6%B0%E1%BB%A3ng_ho%C3%A0ng_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "The 355",
+                "qid": "Q65090801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_v%E1%BB%A5_355"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Rachel Zegler",
+    "qid": "Q61693947",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rachel_Zegler",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "Internet celebrity",
+                "qid": "Q2045208",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_n%E1%BB%95i_ti%E1%BA%BFng_tr%C3%AAn_m%E1%BA%A1ng"
+            },
+            {
+                "name": "YouTuber",
+                "qid": "Q17125263",
+                "url": "https://vi.wikipedia.org/wiki/YouTuber"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "political activist",
+                "qid": "Q11499147"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2001-05-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Shazam! Fury of the Gods",
+                "qid": "Q84712809",
+                "url": "https://vi.wikipedia.org/wiki/Shazam!_C%C6%A1n_th%E1%BB%8Bnh_n%E1%BB%99_c%E1%BB%A7a_c%C3%A1c_v%E1%BB%8B_th%E1%BA%A7n"
+            },
+            {
+                "name": "Snow White",
+                "qid": "Q27660145",
+                "url": "https://vi.wikipedia.org/wiki/N%C3%A0ng_B%E1%BA%A1ch_Tuy%E1%BA%BFt_(phim_2025)"
+            },
+            {
+                "name": "The Hunger Games: The Ballad of Songbirds and Snakes",
+                "qid": "Q96377121",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A5u_tr%C6%B0%E1%BB%9Dng_sinh_t%E1%BB%AD:_Kh%C3%BAc_h%C3%A1t_c%E1%BB%A7a_chim_ca_v%C3%A0_r%E1%BA%AFn_%C4%91%E1%BB%99c"
+            },
+            {
+                "name": "West Side Story",
+                "qid": "Q63643994",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_ph%C3%ADa_T%C3%A2y_(phim_2021)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

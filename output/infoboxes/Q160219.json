@@ -1,0 +1,98 @@
+{
+    "name": "Stephenie Meyer",
+    "qid": "Q160219",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Stephenie_Meyer",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "children's writer",
+                "qid": "Q4853732"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "novelist",
+                "qid": "Q6625963",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia"
+            },
+            {
+                "name": "science fiction writer",
+                "qid": "Q18844224"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1973-12-24T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Host",
+                "qid": "Q552775",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%ADt_ch%E1%BB%A7_(phim_2013)"
+            },
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 1",
+                "qid": "Q60506",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 2",
+                "qid": "Q60487",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_2"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 1",
+                "qid": "Q60506",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "Twilight",
+                "qid": "Q160071",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BA%A1ng_v%E1%BA%A1ng_(phim_2008)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

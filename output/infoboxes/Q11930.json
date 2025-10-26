@@ -1,0 +1,170 @@
+{
+    "name": "Kevin Costner",
+    "qid": "Q11930",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kevin_Costner",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Birgit Cunningham",
+                "qid": "Q29914100"
+            },
+            {
+                "name": "Bridget Rooney",
+                "qid": "Q104450825"
+            },
+            {
+                "name": "Elle Macpherson",
+                "qid": "Q224097"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Annie Costner",
+                "qid": "Q15783577"
+            },
+            {
+                "name": "Joe Costner",
+                "qid": "Q28030315"
+            },
+            {
+                "name": "Lily Costner",
+                "qid": "Q28031619"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-01-18T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Dances with Wolves",
+                "qid": "Q20456",
+                "url": "https://vi.wikipedia.org/wiki/Dances_with_Wolves"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "3 Days to Kill",
+                "qid": "Q3525931",
+                "url": "https://vi.wikipedia.org/wiki/3_ng%C3%A0y_%C4%91%E1%BB%95i_m%E1%BA%A1ng"
+            },
+            {
+                "name": "Batman v Superman: Dawn of Justice",
+                "qid": "Q14772351",
+                "url": "https://vi.wikipedia.org/wiki/Batman_%C4%91%E1%BA%A1i_chi%E1%BA%BFn_Superman:_%C3%81nh_s%C3%A1ng_c%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Criminal",
+                "qid": "Q18149041",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%99i_ph%E1%BA%A1m_(phim_2016)"
+            },
+            {
+                "name": "Dances with Wolves",
+                "qid": "Q20456",
+                "url": "https://vi.wikipedia.org/wiki/Dances_with_Wolves"
+            },
+            {
+                "name": "Draft Day",
+                "qid": "Q15985322",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_tuy%E1%BB%83n_ch%E1%BB%8Dn"
+            },
+            {
+                "name": "Field of Dreams",
+                "qid": "Q517958",
+                "url": "https://vi.wikipedia.org/wiki/Field_of_Dreams"
+            },
+            {
+                "name": "JFK",
+                "qid": "Q741823",
+                "url": "https://vi.wikipedia.org/wiki/JFK_(phim)"
+            },
+            {
+                "name": "Jack Ryan: Shadow Recruit",
+                "qid": "Q902672",
+                "url": "https://vi.wikipedia.org/wiki/Jack_Ryan:_%C4%90%E1%BA%B7c_v%E1%BB%A5_b%C3%B3ng_%C4%91%C3%AAm"
+            },
+            {
+                "name": "Man of Steel",
+                "qid": "Q622769",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_th%C3%A9p"
+            },
+            {
+                "name": "Zack Snyder's Justice League",
+                "qid": "Q94998134",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_C%C3%B4ng_l%C3%BD_phi%C3%AAn_b%E1%BA%A3n_c%E1%BB%A7a_Zack_Snyder"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Dances with Wolves",
+                "qid": "Q20456",
+                "url": "https://vi.wikipedia.org/wiki/Dances_with_Wolves"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Christine Baumgartner",
+                "qid": "Q21401579"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Vincent Cox",
+                "qid": "Q135179727"
+            }
+        ]
+    }
+}

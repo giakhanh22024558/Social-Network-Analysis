@@ -1,0 +1,148 @@
+{
+    "name": "Bobby Cannavale",
+    "qid": "Q428819",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Bobby_Cannavale",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Rose Byrne",
+                "qid": "Q228717",
+                "url": "https://vi.wikipedia.org/wiki/Rose_Byrne"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Jake Cannavale",
+                "qid": "Q19605385"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-03-03T00:00:00Z"
+            },
+            {
+                "name": "1970-05-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annie",
+                "qid": "Q15039835",
+                "url": "https://vi.wikipedia.org/wiki/Annie_(phim_2014)"
+            },
+            {
+                "name": "Ant-Man",
+                "qid": "Q5901134",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_(phim)"
+            },
+            {
+                "name": "Ant-Man and the Wasp",
+                "qid": "Q22957393",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_v%C3%A0_Chi%E1%BA%BFn_binh_Ong"
+            },
+            {
+                "name": "Blonde",
+                "qid": "Q66823622",
+                "url": "https://vi.wikipedia.org/wiki/Blonde"
+            },
+            {
+                "name": "Blue Jasmine",
+                "qid": "Q2907178",
+                "url": "https://vi.wikipedia.org/wiki/Blue_Jasmine"
+            },
+            {
+                "name": "Chef",
+                "qid": "Q15046490",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%A7u_b%E1%BA%BFp_(phim_2014)"
+            },
+            {
+                "name": "Daddy's Home",
+                "qid": "Q18619590",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_ngoan,_b%E1%BB%91_h%C6%B0"
+            },
+            {
+                "name": "I, Tonya",
+                "qid": "Q28369564",
+                "url": "https://vi.wikipedia.org/wiki/I,_Tonya"
+            },
+            {
+                "name": "Jumanji: Welcome to the Jungle",
+                "qid": "Q20762680",
+                "url": "https://vi.wikipedia.org/wiki/Jumanji:_Tr%C3%B2_ch%C6%A1i_k%E1%BB%B3_%E1%BA%A3o"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "Parker",
+                "qid": "Q3896119",
+                "url": "https://vi.wikipedia.org/wiki/Parker_(phim_2013)"
+            },
+            {
+                "name": "Snakes on a Plane",
+                "qid": "Q822660",
+                "url": "https://vi.wikipedia.org/wiki/R%E1%BA%AFn_%C4%91%E1%BB%99c_tr%C3%AAn_kh%C3%B4ng"
+            },
+            {
+                "name": "Spy",
+                "qid": "Q16389838",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%BD_b%C3%A0_%C4%91i%E1%BB%87p_vi%C3%AAn_(phim_2015)"
+            },
+            {
+                "name": "The Irishman",
+                "qid": "Q29057443",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_Ireland"
+            },
+            {
+                "name": "The Other Guys",
+                "qid": "Q376807",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_c%E1%BB%9Bm_tranh_t%C3%A0i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jenny Lumet",
+                "qid": "Q3807913"
+            }
+        ]
+    }
+}

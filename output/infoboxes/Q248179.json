@@ -1,0 +1,66 @@
+{
+    "name": "Ty Burrell",
+    "qid": "Q248179",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ty_Burrell",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-08-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Black Hawk Down",
+                "qid": "Q221384",
+                "url": "https://vi.wikipedia.org/wiki/Black_Hawk_Down_(phim_2001)"
+            },
+            {
+                "name": "Fair Game",
+                "qid": "Q917254",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_s%C3%B2ng_ph%E1%BA%B3ng"
+            },
+            {
+                "name": "Rough Night",
+                "qid": "Q27701601",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%87c_%C4%91%E1%BB%99c_th%C3%A2n_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "The Incredible Hulk",
+                "qid": "Q466611",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_kh%E1%BB%95ng_l%E1%BB%93_xanh_phi_th%C6%B0%E1%BB%9Dng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

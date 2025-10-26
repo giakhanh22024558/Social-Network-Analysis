@@ -1,0 +1,153 @@
+{
+    "name": "Kevin Bacon",
+    "qid": "Q3454165",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kevin_Bacon",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Michael Bacon",
+                "qid": "Q3308009"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Edmund Bacon",
+                "qid": "Q1285964"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Sosie Bacon",
+                "qid": "Q3491343"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Ruth Hilda Holmes",
+                "qid": "Q96089569"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-07-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Friday the 13th",
+                "qid": "Q1243029",
+                "url": "https://vi.wikipedia.org/wiki/Friday_the_13th_(phim_1980)"
+            },
+            {
+                "name": "Hollow Man",
+                "qid": "Q1098140",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_v%C3%B4_h%C3%ACnh_(phim)"
+            },
+            {
+                "name": "In the Cut",
+                "qid": "Q59572",
+                "url": "https://vi.wikipedia.org/wiki/In_The_Cut"
+            },
+            {
+                "name": "JFK",
+                "qid": "Q741823",
+                "url": "https://vi.wikipedia.org/wiki/JFK_(phim)"
+            },
+            {
+                "name": "Leave the World Behind",
+                "qid": "Q111670916",
+                "url": "https://vi.wikipedia.org/wiki/Leave_the_World_Behind_(phim)"
+            },
+            {
+                "name": "Mystic River",
+                "qid": "Q221586",
+                "url": "https://vi.wikipedia.org/wiki/Mystic_River"
+            },
+            {
+                "name": "Patriots Day",
+                "qid": "Q23767799",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_%C4%91%E1%BB%8Bnh_m%E1%BB%87nh"
+            },
+            {
+                "name": "R.I.P.D.",
+                "qid": "Q3012553",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93n_c%E1%BA%A3nh_s%C3%A1t_ma"
+            },
+            {
+                "name": "The Guardians of the Galaxy Holiday Special",
+                "qid": "Q106729096",
+                "url": "https://vi.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special"
+            },
+            {
+                "name": "X-Men: First Class",
+                "qid": "Q223596",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Th%E1%BA%BF_h%E1%BB%87_th%E1%BB%A9_nh%E1%BA%A5t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Kyra Sedgwick",
+                "qid": "Q229572"
+            }
+        ]
+    }
+}

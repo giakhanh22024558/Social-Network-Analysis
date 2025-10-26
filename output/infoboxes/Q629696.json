@@ -1,0 +1,107 @@
+{
+    "name": "Denis O'Hare",
+    "qid": "Q629696",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Denis_O%27Hare",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-01-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "21 Grams",
+                "qid": "Q214013",
+                "url": "https://vi.wikipedia.org/wiki/21_Grams"
+            },
+            {
+                "name": "A Mighty Heart",
+                "qid": "Q917355",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A1i_tim_qu%E1%BA%A3_c%E1%BA%A3m"
+            },
+            {
+                "name": "C.O.G.",
+                "qid": "Q15109181",
+                "url": "https://vi.wikipedia.org/wiki/C.O.G."
+            },
+            {
+                "name": "Changeling",
+                "qid": "Q275553",
+                "url": "https://vi.wikipedia.org/wiki/Changeling_(phim)"
+            },
+            {
+                "name": "Dallas Buyers Club",
+                "qid": "Q3520498",
+                "url": "https://vi.wikipedia.org/wiki/Dallas_Buyers_Club"
+            },
+            {
+                "name": "Edge of Darkness",
+                "qid": "Q760093",
+                "url": "https://vi.wikipedia.org/wiki/Edge_of_Darkness_(phim_2010)"
+            },
+            {
+                "name": "Garden State",
+                "qid": "Q59931",
+                "url": "https://vi.wikipedia.org/wiki/Garden_State_(phim)"
+            },
+            {
+                "name": "J. Edgar",
+                "qid": "Q1137236",
+                "url": "https://vi.wikipedia.org/wiki/J._Edgar"
+            },
+            {
+                "name": "Michael Clayton",
+                "qid": "Q694140",
+                "url": "https://vi.wikipedia.org/wiki/Michael_Clayton_(phim)"
+            },
+            {
+                "name": "Milk",
+                "qid": "Q201687",
+                "url": "https://vi.wikipedia.org/wiki/Milk_(phim)"
+            },
+            {
+                "name": "The Normal Heart",
+                "qid": "Q15039861",
+                "url": "https://vi.wikipedia.org/wiki/The_Normal_Heart_(phim)"
+            },
+            {
+                "name": "The Proposal",
+                "qid": "Q108586",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_c%E1%BA%A7u_h%C3%B4n"
+            },
+            {
+                "name": "The Pyramid",
+                "qid": "Q18534407",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%AD_%E1%BA%A9n_kim_t%E1%BB%B1_th%C3%A1p"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

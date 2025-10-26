@@ -1,0 +1,110 @@
+{
+    "name": "John Cena",
+    "qid": "Q44437",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Cena",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Nikki Garcia",
+                "qid": "Q3876871",
+                "url": "https://vi.wikipedia.org/wiki/Nikki_Bella"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "John Cena Sr.",
+                "qid": "Q122978449"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Carol Walter",
+                "qid": "Q100152484"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "amateur wrestler",
+                "qid": "Q12369333"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-04-23T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Argylle",
+                "qid": "Q107460063",
+                "url": "https://vi.wikipedia.org/wiki/Argylle:_Si%C3%AAu_%C4%91i%E1%BB%87p_vi%C3%AAn"
+            },
+            {
+                "name": "Barbie",
+                "qid": "Q55436290",
+                "url": "https://vi.wikipedia.org/wiki/Barbie_(phim)"
+            },
+            {
+                "name": "Bumblebee",
+                "qid": "Q34220038",
+                "url": "https://vi.wikipedia.org/wiki/Bumblebee_(phim)"
+            },
+            {
+                "name": "Daddy's Home",
+                "qid": "Q18619590",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_ngoan,_b%E1%BB%91_h%C6%B0"
+            },
+            {
+                "name": "Dolittle",
+                "qid": "Q38689704",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9_Dolittle:_Chuy%E1%BA%BFn_phi%C3%AAu_l%C6%B0u_th%E1%BA%A7n_tho%E1%BA%A1i"
+            },
+            {
+                "name": "F9",
+                "qid": "Q29466808",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_9:_Huy%E1%BB%81n_tho%E1%BA%A1i_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            },
+            {
+                "name": "The Suicide Squad",
+                "qid": "Q57317060",
+                "url": "https://vi.wikipedia.org/wiki/Suicide_Squad:_%C4%90i%E1%BB%87p_v%E1%BB%A5_c%E1%BA%A3m_t%E1%BB%AD"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/3d81bf89c37a570c0081520b5710279a"
+            }
+        ]
+    }
+}

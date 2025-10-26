@@ -1,0 +1,53 @@
+{
+    "name": "Noah Centineo",
+    "qid": "Q3877574",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Noah_Centineo",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1996-05-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Black Adam",
+                "qid": "Q28657013",
+                "url": "https://vi.wikipedia.org/wiki/Black_Adam_(phim)"
+            },
+            {
+                "name": "Charlie's Angels",
+                "qid": "Q55815650",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_thi%C3%AAn_th%E1%BA%A7n_c%E1%BB%A7a_Charlie_(phim_2019)"
+            },
+            {
+                "name": "To All the Boys I've Loved Before",
+                "qid": "Q35783117",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_ch%C3%A0ng_trai_n%C4%83m_%E1%BA%A5y"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

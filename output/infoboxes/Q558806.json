@@ -1,0 +1,73 @@
+{
+    "name": "Scott Derrickson",
+    "qid": "Q558806",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Scott_Derrickson",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-07-16T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Deliver Us from Evil",
+                "qid": "Q14370012",
+                "url": "https://vi.wikipedia.org/wiki/Linh_h%E1%BB%93n_b%C3%A1o_th%C3%B9_(phim)"
+            },
+            {
+                "name": "Doctor Strange",
+                "qid": "Q18406872",
+                "url": "https://vi.wikipedia.org/wiki/Doctor_Strange:_Ph%C3%B9_th%E1%BB%A7y_t%E1%BB%91i_th%C6%B0%E1%BB%A3ng"
+            },
+            {
+                "name": "The Black Phone",
+                "qid": "Q105584511",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_tho%E1%BA%A1i_%C4%91en"
+            },
+            {
+                "name": "The Day the Earth Stood Still",
+                "qid": "Q187154",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_Tr%C3%A1i_%C4%90%E1%BA%A5t_ng%E1%BB%ABng_quay"
+            },
+            {
+                "name": "The Exorcism of Emily Rose",
+                "qid": "Q845204",
+                "url": "https://vi.wikipedia.org/wiki/The_Exorcism_of_Emily_Rose"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

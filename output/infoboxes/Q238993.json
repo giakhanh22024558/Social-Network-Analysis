@@ -1,0 +1,87 @@
+{
+    "name": "Sônia Braga",
+    "qid": "Q238993",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/S%C3%B4nia_Braga",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Ana Braga",
+                "qid": "Q56345417"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Arduíno Colassanti",
+                "qid": "Q4788320"
+            },
+            {
+                "name": "David Lee Roth",
+                "qid": "Q313992"
+            },
+            {
+                "name": "Robert Redford",
+                "qid": "Q59215",
+                "url": "https://vi.wikipedia.org/wiki/Robert_Redford"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1950-06-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The First Omen",
+                "qid": "Q117842576",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%81m_b%C3%A1o_c%E1%BB%A7a_qu%E1%BB%B7"
+            },
+            {
+                "name": "Wonder",
+                "qid": "Q27958394",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%81u_k%E1%BB%B3_di%E1%BB%87u_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Brazil",
+                "qid": "Q155",
+                "url": "https://vi.wikipedia.org/wiki/Brasil"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Antonio Guerreiro",
+                "qid": "Q25444614"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Alice Braga",
+                "qid": "Q230903",
+                "url": "https://vi.wikipedia.org/wiki/Alice_Braga"
+            }
+        ]
+    }
+}

@@ -1,0 +1,3810 @@
+[
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q4235"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-11-23T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Miley Cyrus"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Miley_Cyrus"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q4473"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-06-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jennette McCurdy"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jennette_McCurdy"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q4473"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-06-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jennette McCurdy"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jennette_McCurdy"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q4509"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-02-10T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Chloë Grace Moretz"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Chlo%C3%AB_Grace_Moretz"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5104"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-05-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Miranda Cosgrove"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Miranda_Cosgrove"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q18804"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-06-21T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Rebecca Black"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Rebecca_Black"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q18804"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-06-21T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Rebecca Black"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Rebecca_Black"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q24304"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-12-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Eden Sher"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Eden_Sher"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q24304"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-12-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Eden Sher"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Eden_Sher"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q83287"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-07-22T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Selena Gomez"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Selena_Gomez"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q112536"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1999-07-30T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Joey King"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Joey_King"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q105695"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-12-08T00:00:00Z"
+        },
+        "personLabel": {
+            "type": "literal",
+            "value": "Q105695"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/AnnaSophia_Robb"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q115541"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-02-23T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Dakota Fanning"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Dakota_Fanning"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q115541"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-02-23T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Dakota Fanning"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Dakota_Fanning"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q126599"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-04-09T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kristen Stewart"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kristen_Stewart"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q126599"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-04-09T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kristen Stewart"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kristen_Stewart"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q151892"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-06-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Ariana Grande"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Ariana_Grande"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q201418"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-04-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Abigail Breslin"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Abigail_Breslin"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q204005"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-05-13T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Debby Ryan"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Debby_Ryan"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q188401"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-03-10T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Emily Osment"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Emily_Osment"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q189490"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-08-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jennifer Lawrence"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jennifer_Lawrence"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q189490"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-08-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jennifer Lawrence"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jennifer_Lawrence"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q230209"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-07-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Elizabeth Gillies"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Elizabeth_Gillies"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q230395"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-02-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Meaghan Jette Martin"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Meaghan_Jette_Martin"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q165625"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-02-08T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kathryn Newton"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kathryn_Newton"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q40473"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-03-04T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Andrea Bowen"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Andrea_Bowen"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q231058"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-11-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Shailene Woodley"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Shailene_Woodley"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q241749"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1999-10-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bailee Madison"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Bailee_Madison"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q235719"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-09-21T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Christian Serratos"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Christian_Serratos"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q236066"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-04-10T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "AJ Michalka"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Amanda_Michalka"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q236343"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1998-12-22T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "G Hannelius"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/G_Hannelius"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q231536"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-06-10T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kate Upton"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kate_Upton"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q231713"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-03-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Christina Grimmie"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Christina_Grimmie"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q231713"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-03-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Christina Grimmie"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Christina_Grimmie"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q231726"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-12-11T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Hailee Steinfeld"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Hailee_Steinfeld"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q228598"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-02-10T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Emma Roberts"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Emma_Roberts"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q208117"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-10-08T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bella Thorne"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Bella_Thorne"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q208117"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-10-08T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bella Thorne"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Bella_Thorne"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215219"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-12-20T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "JoJo"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/JoJo_(ca_s%C4%A9)"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q218279"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-11-10T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Zoey Deutch"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Zoey_Deutch"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q228603"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-04-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Saoirse Ronan"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Saoirse_Ronan"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q233085"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-11-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Sarah Hyland"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sarah_Hyland"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q228943"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1998-04-09T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Elle Fanning"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Elle_Fanning"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q228943"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1998-04-09T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Elle Fanning"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Elle_Fanning"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q269671"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-04-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Skyler Samuels"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Skyler_Samuels"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q229069"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-02-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jennifer Stone"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jennifer_Stone"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q235333"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-04-18T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Britt Robertson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Britt_Robertson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q235333"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-04-18T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Britt Robertson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Britt_Robertson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q271125"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-08-20T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Liana Liberato"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Liana_Liberato"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q271385"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-05-31T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Azealia Banks"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Azealia_Banks"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q273044"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-08-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Keke Palmer"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Keke_Palmer"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q291102"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-05-08T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Olivia Culpo"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Olivia_Culpo"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q389017"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-08-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Taissa Farmiga"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Taissa_Farmiga"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q434745"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-02-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Tinashe"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tinashe"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q434745"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-02-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Tinashe"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tinashe"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q435807"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-09-16T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Taylor Parks"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tayla_Parx"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q439437"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-05-09T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Aholani Danik"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Mary_Mouser"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q439939"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1999-11-10T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kiernan Shipka"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kiernan_Shipka"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q287346"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-05-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "McKaley Miller"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/McKaley_Miller"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q454994"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1998-01-04T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Coco Jones"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Coco_Jones"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q464623"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-10-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Krystal Jung"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Krystal_Jung"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q519784"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-12-21T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kaitlyn Dever"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kaitlyn_Dever"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q494992"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-10-07T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Nicole Jung"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Nicole_Jung"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1051455"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-10-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kiko Mizuhara"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Mizuhara_Kiko"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q842949"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-11-23T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Miley Stewart"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Miley_Stewart"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1375057"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-11-03T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kendall Jenner"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kendall_Jenner"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1386236"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-04-30T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Lindsay Pearce"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Lindsay_Pearce"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1393997"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-03-02T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Becky G"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Becky_G"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1740419"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-12-11T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Tiffany Alvord"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tiffany_Alvord"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2625632"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-03-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Nicole Fox"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Nicole_Fox"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2670512"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-06-02T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Brittany Curran"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Brittany_Curran"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q3208406"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-04-18T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Chloe Bennet"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Chloe_Bennet"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q4749131"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-04-02T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Amy Castle"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Amy_Castle"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5372335"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-06-07T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Emily Ratajkowski"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Emily_Ratajkowski"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q6818195"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-01-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Mercedes Moné"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sasha_Banks"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q7396400"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1999-05-11T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Sabrina Carpenter"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sabrina_Carpenter"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q7620233"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-06-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Stormi Henley"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Stormi_Henley"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11838475"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-05-09T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bonnie Rotten"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Bonnie_Rotten"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11838475"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-05-09T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bonnie Rotten"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Bonnie_Rotten"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q12297196"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-06-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Lele Pons"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Lele_Pons"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q12297196"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-06-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Lele Pons"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Lele_Pons"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q13560358"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-02-01T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Julia Garner"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Julia_Garner"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q13560423"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-01-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Dove Cameron"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Dove_Cameron"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q8977834"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-11-28T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Mayuko Kawakita"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kawakita_Mayuko"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q15059490"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1999-03-05T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Madison Beer"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Madison_Beer"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q15696586"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1998-01-04T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Liza Soberano"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Liza_Soberano"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q15222833"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-11-22T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Katherine McNamara"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Katherine_McNamara"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16236368"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-06-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Erin Moriarty"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Erin_Moriarty"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16235655"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-05-29T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Maika Monroe"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Maika_Monroe"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16236978"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-03-07T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Haley Lu Richardson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Haley_Lu_Richardson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16201392"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-06-19T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Ashly Burch"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Ashly_Burch"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16211162"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-04-28T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Melanie Martinez"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Melanie_Martinez"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16211162"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-04-28T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Melanie Martinez"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Melanie_Martinez"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16335035"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-02-27T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Lindsey Morgan"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Lindsey_Morgan"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q17380672"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1994-10-23T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Margaret Qualley"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Margaret_Qualley"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q17386495"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-10-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Osas Ighodaro"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Osas_Ighodaro"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q17487638"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-07-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Billie Lourd"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Billie_Lourd"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q17465599"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1998-03-22T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Paola Andino"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Paola_Andino"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q18222476"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1993-04-10T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Sofia Carson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sofia_Carson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q18946847"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-04-18T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Virginia Gardner"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Virginia_Gardner"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q18810940"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-03-03T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Camila Cabello"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Camila_Cabello"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q19877654"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-03-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Casey Calvert"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Casey_Calvert_(di%E1%BB%85n_vi%C3%AAn)"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q19877654"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-03-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Casey Calvert"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Casey_Calvert_(di%E1%BB%85n_vi%C3%AAn)"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q20670730"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1999-05-27T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Lily-Rose Depp"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Lily-Rose_Depp"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q22912313"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-05-16T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kirstin Maldonado"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kirstin_Maldonado"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q23894602"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-03-28T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Laura Harrier"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Laura_Harrier"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q24174945"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-09-29T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Sasha Lane"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sasha_Lane"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q24250404"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-05-11T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Lana Condor"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Lana_Condor"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q26232134"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-01-13T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Natalia Dyer"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Natalia_Dyer"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q26997611"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-06-01T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Zazie Beetz"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Zazie_Beetz"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q27449526"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-06-16T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Camila Morrone"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Camila_Morrone"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q28549924"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-06-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Amanda Cerny"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Amanda_Cerny"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q28549850"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-03-31T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Liza Koshy"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Liza_Koshy"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q28653501"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-09-13T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Lili Reinhart"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Lili_Reinhart"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q29033668"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1992-10-11T00:00:00Z"
+        },
+        "personLabel": {
+            "type": "literal",
+            "value": "Q29033668"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Cardi_B"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q28857171"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1991-06-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Ashley Park"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Ashley_Park"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q43387663"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1998-07-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Cailee Spaeny"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Cailee_Spaeny"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q46994907"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1998-07-08T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Maya Hawke"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Maya_Hawke"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q49561909"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-09-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Sydney Sweeney"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sydney_Sweeney"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q50359499"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-11-07T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Sophia Ali"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sophia_Ali"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q50359499"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-11-07T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Sophia Ali"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sophia_Ali"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q58680736"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1996-01-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Tati Gabrielle"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tati_Gabrielle"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q59268408"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-02-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Megan Thee Stallion"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Megan_Thee_Stallion"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q63381497"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1990-11-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Stephanie Hsu"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Stephanie_Hsu"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q97160431"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1999-04-09T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kaity Nguyễn"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kaity_Nguy%E1%BB%85n"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q105353116"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1997-11-05T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Dominique Thorne"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Dominique_Thorne"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q107560666"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1995-04-21T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Sarah Catherine Hook"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "female"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sarah_Catherine_Hook"
+        }
+    }
+]

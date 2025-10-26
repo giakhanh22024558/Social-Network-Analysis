@@ -1,0 +1,83 @@
+{
+    "name": "Linh Nga",
+    "qid": "Q153576",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Linh_Nga",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "news presenter",
+                "qid": "Q270389",
+                "url": "https://vi.wikipedia.org/wiki/Bi%C3%AAn_t%E1%BA%ADp_vi%C3%AAn_th%E1%BB%9Di_s%E1%BB%B1"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-01-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Xuoi nguoc duong tran",
+                "qid": "Q19507879",
+                "url": "https://vi.wikipedia.org/wiki/Xu%C3%B4i_ng%C6%B0%E1%BB%A3c_%C4%91%C6%B0%E1%BB%9Dng_tr%E1%BA%A7n"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Xuoi nguoc duong tran",
+                "qid": "Q19507879",
+                "url": "https://vi.wikipedia.org/wiki/Xu%C3%B4i_ng%C6%B0%E1%BB%A3c_%C4%91%C6%B0%E1%BB%9Dng_tr%E1%BA%A7n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            },
+            {
+                "name": "Vietnam",
+                "qid": "Q881",
+                "url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Thuyet Buon Vua",
+                "qid": "Q16193899",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_V%C4%83n_Thuy%E1%BA%BFt"
+            }
+        ]
+    }
+}

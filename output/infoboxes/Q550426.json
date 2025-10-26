@@ -1,0 +1,74 @@
+{
+    "name": "Jeffrey Katzenberg",
+    "qid": "Q550426",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jeffrey_Katzenberg",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1950-12-21T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Shrek",
+                "qid": "Q483815",
+                "url": "https://vi.wikipedia.org/wiki/Shrek"
+            },
+            {
+                "name": "Sinbad: Legend of the Seven Seas",
+                "qid": "Q1043425",
+                "url": "https://vi.wikipedia.org/wiki/Sinbad:_Huy%E1%BB%81n_tho%E1%BA%A1i_7_%C4%90%E1%BA%A1i_D%C6%B0%C6%A1ng"
+            },
+            {
+                "name": "Spirit: Stallion of the Cimarron",
+                "qid": "Q641315",
+                "url": "https://vi.wikipedia.org/wiki/Spirit:_Stallion_of_the_Cimarron"
+            },
+            {
+                "name": "The Prince of Egypt",
+                "qid": "Q245227",
+                "url": "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_t%E1%BB%AD_Ai_C%E1%BA%ADp"
+            },
+            {
+                "name": "The Road to El Dorado",
+                "qid": "Q866358",
+                "url": "https://vi.wikipedia.org/wiki/The_Road_to_El_Dorado"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

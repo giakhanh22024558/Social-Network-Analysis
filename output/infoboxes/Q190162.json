@@ -1,0 +1,176 @@
+{
+    "name": "Zoe Saldaña",
+    "qid": "Q190162",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Zoe_Salda%C3%B1a",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "ballet dancer",
+                "qid": "Q805221"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-06-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Amsterdam",
+                "qid": "Q104830968",
+                "url": "https://vi.wikipedia.org/wiki/Amsterdam_%E2%80%93_V%E1%BB%A5_%C3%A1n_m%E1%BA%A1ng_k%E1%BB%B3_b%C3%AD"
+            },
+            {
+                "name": "Avatar",
+                "qid": "Q24871",
+                "url": "https://vi.wikipedia.org/wiki/Avatar_(phim_2009)"
+            },
+            {
+                "name": "Avatar 4",
+                "qid": "Q29580931",
+                "url": "https://vi.wikipedia.org/wiki/Avatar_4"
+            },
+            {
+                "name": "Avatar: Fire and Ash",
+                "qid": "Q29580929",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_L%E1%BB%ADa_v%C3%A0_tro_t%C3%A0n"
+            },
+            {
+                "name": "Avatar: The Way of Water",
+                "qid": "Q3604746",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_D%C3%B2ng_ch%E1%BA%A3y_c%E1%BB%A7a_n%C6%B0%E1%BB%9Bc"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Drumline",
+                "qid": "Q1261289",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_tr%E1%BB%91ng_c%E1%BB%95_%C4%91%E1%BB%99ng_(phim)"
+            },
+            {
+                "name": "Emilia Pérez",
+                "qid": "Q123928072",
+                "url": "https://vi.wikipedia.org/wiki/Emilia_P%C3%A9rez"
+            },
+            {
+                "name": "Guardians of the Galaxy",
+                "qid": "Q5887360",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_(phim)"
+            },
+            {
+                "name": "Guardians of the Galaxy Vol. 2",
+                "qid": "Q20001199",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_2"
+            },
+            {
+                "name": "Guardians of the Galaxy Vol. 3",
+                "qid": "Q29226331",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_3"
+            },
+            {
+                "name": "Live by Night",
+                "qid": "Q21293827",
+                "url": "https://vi.wikipedia.org/wiki/Lu%E1%BA%ADt_ng%E1%BA%A7m_(phim)"
+            },
+            {
+                "name": "Missing Link",
+                "qid": "Q55388281",
+                "url": "https://vi.wikipedia.org/wiki/Missing_Link"
+            },
+            {
+                "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "qid": "Q46717",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%9Bp_bi%E1%BB%83n_v%C3%B9ng_Caribbean:_L%E1%BB%9Di_nguy%E1%BB%81n_c%E1%BB%A7a_t%C3%A0u_Ng%E1%BB%8Dc_Trai_%C4%90en"
+            },
+            {
+                "name": "Star Trek",
+                "qid": "Q213081",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek_(phim)"
+            },
+            {
+                "name": "Star Trek Beyond",
+                "qid": "Q15929448",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek:_Kh%C3%B4ng_gi%E1%BB%9Bi_h%E1%BA%A1n"
+            },
+            {
+                "name": "Star Trek Into Darkness",
+                "qid": "Q171711",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek:_Ch%C3%ACm_trong_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "The Guardians of the Galaxy Holiday Special",
+                "qid": "Q106729096",
+                "url": "https://vi.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special"
+            },
+            {
+                "name": "The Losers",
+                "qid": "Q1760081",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_ki%E1%BB%87t_th%E1%BA%A5t_th%E1%BA%BF"
+            },
+            {
+                "name": "The Terminal",
+                "qid": "Q318766",
+                "url": "https://vi.wikipedia.org/wiki/The_Terminal"
+            },
+            {
+                "name": "Vantage Point",
+                "qid": "Q274887",
+                "url": "https://vi.wikipedia.org/wiki/Vantage_Point"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Marco Perego",
+                "qid": "Q40164720"
+            }
+        ]
+    }
+}

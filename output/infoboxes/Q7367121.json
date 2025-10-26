@@ -1,0 +1,58 @@
+{
+    "name": "Rosa Salazar",
+    "qid": "Q7367121",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rosa_Salazar",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1985-07-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Alita: Battle Angel",
+                "qid": "Q24053265",
+                "url": "https://vi.wikipedia.org/wiki/Alita:_Thi%C3%AAn_th%E1%BA%A7n_chi%E1%BA%BFn_binh"
+            },
+            {
+                "name": "Bird Box",
+                "qid": "Q43370937",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%93ng_chim_(phim)"
+            },
+            {
+                "name": "Maze Runner: The Death Cure",
+                "qid": "Q23068002",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_m%C3%AA_cung:_L%E1%BB%91i_tho%C3%A1t_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Maze Runner: The Scorch Trials",
+                "qid": "Q18359358",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_m%C3%AA_cung:_Th%E1%BB%AD_nghi%E1%BB%87m_%C4%91%E1%BA%A5t_ch%C3%A1y"
+            },
+            {
+                "name": "The Divergent Series: Insurgent",
+                "qid": "Q16997069",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_n%E1%BB%95i_lo%E1%BA%A1n_(phim_2015)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Titus Welliver",
+    "qid": "Q437693",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Titus_Welliver",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Neil Welliver",
+                "qid": "Q6989468"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-03-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Argo",
+                "qid": "Q59653",
+                "url": "https://vi.wikipedia.org/wiki/Argo_(phim)"
+            },
+            {
+                "name": "Escape Plan 2: Hades",
+                "qid": "Q30637119",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BF_ho%E1%BA%A1ch_%C4%91%C3%A0o_t%E1%BA%A9u_2:_%C4%90%E1%BB%8Ba_ng%E1%BB%A5c"
+            },
+            {
+                "name": "Live by Night",
+                "qid": "Q21293827",
+                "url": "https://vi.wikipedia.org/wiki/Lu%E1%BA%ADt_ng%E1%BA%A7m_(phim)"
+            },
+            {
+                "name": "Man on a Ledge",
+                "qid": "Q194696",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_tr%C3%AAn_g%E1%BB%9D_t%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "RED 2",
+                "qid": "Q903930",
+                "url": "https://vi.wikipedia.org/wiki/C.I.A_t%C3%A1i_xu%E1%BA%A5t_2"
+            },
+            {
+                "name": "Transformers: Age of Extinction",
+                "qid": "Q6151665",
+                "url": "https://vi.wikipedia.org/wiki/Transformers_4:_K%E1%BB%B7_nguy%C3%AAn_h%E1%BB%A7y_di%E1%BB%87t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

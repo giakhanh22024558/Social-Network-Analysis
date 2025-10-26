@@ -1,0 +1,53 @@
+{
+    "name": "Nicky Jam",
+    "qid": "Q1374560",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nicky_Jam",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-03-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Bad Boys for Life",
+                "qid": "Q29021224",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_g%C3%A3_trai_h%C6%B0_tr%E1%BB%8Dn_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "xXx Return of Xander Cage",
+                "qid": "Q22075020",
+                "url": "https://vi.wikipedia.org/wiki/XXx:_Ph%E1%BA%A3n_%C4%91%C3%B2n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

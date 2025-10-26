@@ -1,0 +1,63 @@
+{
+    "name": "Becky G",
+    "qid": "Q1393997",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Becky_G",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "lyricist",
+                "qid": "Q822146",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_vi%E1%BA%BFt_l%E1%BB%9Di_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1997-03-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A.X.L.",
+                "qid": "Q55262219",
+                "url": "https://vi.wikipedia.org/wiki/A-X-L_ch%C3%BA_ch%C3%B3_robot"
+            },
+            {
+                "name": "Power Rangers",
+                "qid": "Q21648810",
+                "url": "https://vi.wikipedia.org/wiki/N%C4%83m_anh_em_si%C3%AAu_nh%C3%A2n_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Q201181",
+    "qid": "Q201181",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sarah_Wayne_Callies",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Q134176988",
+                "qid": "Q134176988"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Keala Winterhalt",
+                "qid": "Q22329649"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Q134176987",
+                "qid": "Q134176987"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-06-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Into the Storm",
+                "qid": "Q15989191",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%93ng_phong_th%E1%BB%8Bnh_n%E1%BB%99"
+            },
+            {
+                "name": "Pay the Ghost",
+                "qid": "Q18209411",
+                "url": "https://vi.wikipedia.org/wiki/Pay_the_Ghost"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Q22329648",
+                "qid": "Q22329648"
+            }
+        ]
+    }
+}

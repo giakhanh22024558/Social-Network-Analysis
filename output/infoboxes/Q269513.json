@@ -1,0 +1,83 @@
+{
+    "name": "Cheng Pei-pei",
+    "qid": "Q269513",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tr%C3%ACnh_Ph%E1%BB%91i_Ph%E1%BB%91i",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Eugenia Yuan",
+                "qid": "Q5407935"
+            },
+            {
+                "name": "Marsha Yuan Hu Ma",
+                "qid": "Q9072719"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1946-01-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Crouching Tiger, Hidden Dragon",
+                "qid": "Q273978",
+                "url": "https://vi.wikipedia.org/wiki/Ng%E1%BB%8Da_h%E1%BB%95_t%C3%A0ng_long"
+            },
+            {
+                "name": "Flirting Scholar",
+                "qid": "Q838900",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_B%C3%A1_H%E1%BB%95_%C4%91i%E1%BB%83m_Thu_H%C6%B0%C6%A1ng"
+            },
+            {
+                "name": "Mulan",
+                "qid": "Q24284283",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_M%E1%BB%99c_Lan_(phim_2020)"
+            },
+            {
+                "name": "Naked Weapon",
+                "qid": "Q2975195",
+                "url": "https://vi.wikipedia.org/wiki/Naked_Weapon"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "British Hong Kong",
+                "qid": "Q1054923",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93ng_K%C3%B4ng_thu%E1%BB%99c_Anh"
+            },
+            {
+                "name": "China",
+                "qid": "Q13426199",
+                "url": "https://vi.wikipedia.org/wiki/Trung_Hoa_D%C3%A2n_Qu%E1%BB%91c_(1912%E2%80%931949)"
+            },
+            {
+                "name": "People's Republic of China",
+                "qid": "Q148",
+                "url": "https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

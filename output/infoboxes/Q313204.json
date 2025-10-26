@@ -1,0 +1,107 @@
+{
+    "name": "Kieran Culkin",
+    "qid": "Q313204",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kieran_Culkin",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Christian Culkin",
+                "qid": "Q15831734"
+            },
+            {
+                "name": "Dakota Culkin",
+                "qid": "Q106503895"
+            },
+            {
+                "name": "Macaulay Culkin",
+                "qid": "Q103578",
+                "url": "https://vi.wikipedia.org/wiki/Macaulay_Culkin"
+            },
+            {
+                "name": "Rory Culkin",
+                "qid": "Q431038"
+            },
+            {
+                "name": "Shane Culkin",
+                "qid": "Q15978043"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Kit Culkin",
+                "qid": "Q3815699"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-09-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Real Pain",
+                "qid": "Q123690368",
+                "url": "https://vi.wikipedia.org/wiki/A_Real_Pain"
+            },
+            {
+                "name": "Home Alone",
+                "qid": "Q105031",
+                "url": "https://vi.wikipedia.org/wiki/Home_Alone"
+            },
+            {
+                "name": "Home Alone 2: Lost in New York",
+                "qid": "Q221202",
+                "url": "https://vi.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "Nowhere to Run",
+                "qid": "Q682289",
+                "url": "https://vi.wikipedia.org/wiki/Nowhere_to_Run_(phim_1993)"
+            },
+            {
+                "name": "Scott Pilgrim vs. the World",
+                "qid": "Q753899",
+                "url": "https://vi.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jazz Charton",
+                "qid": "Q115207608"
+            }
+        ]
+    }
+}

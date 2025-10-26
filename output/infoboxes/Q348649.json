@@ -1,0 +1,88 @@
+{
+    "name": "Harry Shum",
+    "qid": "Q348649",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Harry_Shum,_Jr.",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "choreographer",
+                "qid": "Q2490358"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-04-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Crazy Rich Asians",
+                "qid": "Q29588623",
+                "url": "https://vi.wikipedia.org/wiki/Con_nh%C3%A0_si%C3%AAu_gi%C3%A0u_ch%C3%A2u_%C3%81"
+            },
+            {
+                "name": "Everything Everywhere All at Once",
+                "qid": "Q83808444",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_%C4%91a_v%C5%A9_tr%E1%BB%A5"
+            },
+            {
+                "name": "Love Hard",
+                "qid": "Q104858962",
+                "url": "https://vi.wikipedia.org/wiki/Love_Hard"
+            },
+            {
+                "name": "Step Up 2: The Streets",
+                "qid": "Q81487",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_%C4%91i%E1%BB%87u_t%C3%ACnh_y%C3%AAu:_B%C6%B0%E1%BB%9Bc_nh%E1%BA%A3y_%C4%91%C6%B0%E1%BB%9Dng_ph%E1%BB%91"
+            },
+            {
+                "name": "Step Up 3D",
+                "qid": "Q81037",
+                "url": "https://vi.wikipedia.org/wiki/Step_Up_3D"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Costa Rica",
+                "qid": "Q800",
+                "url": "https://vi.wikipedia.org/wiki/Costa_Rica"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Shelby Rabara",
+                "qid": "Q19866609"
+            }
+        ]
+    }
+}

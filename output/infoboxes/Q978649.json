@@ -1,0 +1,91 @@
+{
+    "name": "Greg Berlanti",
+    "qid": "Q978649",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Greg_Berlanti",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "showrunner",
+                "qid": "Q1440873",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1972-05-24T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Free Guy",
+                "qid": "Q38685497",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_c%E1%BB%A9u_%22Guy%22"
+            },
+            {
+                "name": "Pan",
+                "qid": "Q15713892",
+                "url": "https://vi.wikipedia.org/wiki/Pan_%26_v%C3%B9ng_%C4%91%E1%BA%A5t_Neverland"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Fly Me to the Moon",
+                "qid": "Q115057826",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%A5_b%C3%AA_b%E1%BB%91i_%C3%A1nh_tr%C4%83ng"
+            },
+            {
+                "name": "Love, Simon",
+                "qid": "Q29169280",
+                "url": "https://vi.wikipedia.org/wiki/Th%C6%B0%C6%A1ng_m%E1%BA%BFn,_Simon"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Robbie Rogers",
+                "qid": "Q924638"
+            }
+        ]
+    }
+}

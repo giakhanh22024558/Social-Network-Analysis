@@ -1,0 +1,98 @@
+{
+    "name": "Linda McCartney",
+    "qid": "Q228899",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Linda_McCartney",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "John L. Eastman",
+                "qid": "Q130506949"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Lee Eastman",
+                "qid": "Q6513517"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Heather McCartney",
+                "qid": "Q3129093"
+            },
+            {
+                "name": "James McCartney",
+                "qid": "Q498390"
+            },
+            {
+                "name": "Mary McCartney",
+                "qid": "Q201739"
+            },
+            {
+                "name": "Stella McCartney",
+                "qid": "Q232812"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Louise Lindner",
+                "qid": "Q6688828"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "artist",
+                "qid": "Q483501",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "keyboardist",
+                "qid": "Q1075651"
+            },
+            {
+                "name": "photographer",
+                "qid": "Q33231",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BA%BFp_%E1%BA%A3nh_gia"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1941-09-24T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Paul McCartney",
+                "qid": "Q2599",
+                "url": "https://vi.wikipedia.org/wiki/Paul_McCartney"
+            }
+        ]
+    }
+}

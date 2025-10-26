@@ -1,0 +1,112 @@
+{
+    "name": "Jon Hamm",
+    "qid": "Q313107",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jon_Hamm",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Jennifer Westfeldt",
+                "qid": "Q271554"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "teacher",
+                "qid": "Q37226",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1o_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "waiter",
+                "qid": "Q157195",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%93i_b%C3%A0n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-03-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Baby Driver",
+                "qid": "Q23016644",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_x%E1%BA%BF_Baby"
+            },
+            {
+                "name": "Bad Times at the El Royale",
+                "qid": "Q48988117",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%BAt_kinh_ho%C3%A0ng_t%E1%BA%A1i_El_Royale"
+            },
+            {
+                "name": "The A-Team",
+                "qid": "Q471746",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_h%C3%A0nh_%C4%91%E1%BB%99ng"
+            },
+            {
+                "name": "The Day the Earth Stood Still",
+                "qid": "Q187154",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_Tr%C3%A1i_%C4%90%E1%BA%A5t_ng%E1%BB%ABng_quay"
+            },
+            {
+                "name": "Top Gun: Maverick",
+                "qid": "Q31202708",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng_si%C3%AAu_%C4%91%E1%BA%B3ng_Maverick"
+            },
+            {
+                "name": "We Were Soldiers",
+                "qid": "Q623502",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAng_t%C3%B4i_t%E1%BB%ABng_l%C3%A0_l%C3%ADnh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Anna Osceola",
+                "qid": "Q61944218"
+            },
+            {
+                "name": "Jennifer Westfeldt",
+                "qid": "Q271554"
+            }
+        ]
+    }
+}

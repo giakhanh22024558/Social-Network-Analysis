@@ -1,0 +1,69 @@
+{
+    "name": "Criss Angel",
+    "qid": "Q131685",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Criss_Angel",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "YouTuber",
+                "qid": "Q17125263",
+                "url": "https://vi.wikipedia.org/wiki/YouTuber"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "hypnotist",
+                "qid": "Q16746942"
+            },
+            {
+                "name": "magician",
+                "qid": "Q15855449",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A2o_thu%E1%BA%ADt_gia"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "philosopher",
+                "qid": "Q4964182",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_tri%E1%BA%BFt_h%E1%BB%8Dc"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "stunt performer",
+                "qid": "Q465501",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91%C3%B3ng_th%E1%BA%BF"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-12-19T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

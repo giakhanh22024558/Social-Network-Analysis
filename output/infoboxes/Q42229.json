@@ -1,0 +1,208 @@
+{
+    "name": "Mel Gibson",
+    "qid": "Q42229",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mel_Gibson",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Donal Gibson",
+                "qid": "Q534411"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Oksana Grigorieva",
+                "qid": "Q4149360"
+            },
+            {
+                "name": "Rosalind Ross",
+                "qid": "Q38527294"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Hutton Gibson",
+                "qid": "Q11863866"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Hannah Gibson",
+                "qid": "Q121863786"
+            },
+            {
+                "name": "Milo Gibson",
+                "qid": "Q58613040"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Anne Patricia Reilly",
+                "qid": "Q107297572"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1956-01-03T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Apocalypto",
+                "qid": "Q188035",
+                "url": "https://vi.wikipedia.org/wiki/Apocalypto"
+            },
+            {
+                "name": "Braveheart",
+                "qid": "Q162729",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A1i_tim_d%C5%A9ng_c%E1%BA%A3m"
+            },
+            {
+                "name": "The Passion of the Christ",
+                "qid": "Q51668",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_kh%E1%BB%95_n%E1%BA%A1n_c%E1%BB%A7a_Ch%C3%BAa_Gi%C3%AAsu_(phim)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Braveheart",
+                "qid": "Q162729",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A1i_tim_d%C5%A9ng_c%E1%BA%A3m"
+            },
+            {
+                "name": "Edge of Darkness",
+                "qid": "Q760093",
+                "url": "https://vi.wikipedia.org/wiki/Edge_of_Darkness_(phim_2010)"
+            },
+            {
+                "name": "Last Looks",
+                "qid": "Q61939510",
+                "url": "https://vi.wikipedia.org/wiki/Last_Looks"
+            },
+            {
+                "name": "Lethal Weapon",
+                "qid": "Q462447",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_kh%C3%AD_t%E1%BB%91i_th%C6%B0%E1%BB%A3ng"
+            },
+            {
+                "name": "Maverick",
+                "qid": "Q675520",
+                "url": "https://vi.wikipedia.org/wiki/Maverick_(phim)"
+            },
+            {
+                "name": "The Expendables 3",
+                "qid": "Q14370516",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_3"
+            },
+            {
+                "name": "The Patriot",
+                "qid": "Q646633",
+                "url": "https://vi.wikipedia.org/wiki/The_Patriot_(phim_2000)"
+            },
+            {
+                "name": "We Were Soldiers",
+                "qid": "Q623502",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAng_t%C3%B4i_t%E1%BB%ABng_l%C3%A0_l%C3%ADnh"
+            },
+            {
+                "name": "What Women Want",
+                "qid": "Q156394",
+                "url": "https://vi.wikipedia.org/wiki/What_Women_Want"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Apocalypto",
+                "qid": "Q188035",
+                "url": "https://vi.wikipedia.org/wiki/Apocalypto"
+            },
+            {
+                "name": "Braveheart",
+                "qid": "Q162729",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A1i_tim_d%C5%A9ng_c%E1%BA%A3m"
+            },
+            {
+                "name": "Hacksaw Ridge",
+                "qid": "Q21010856",
+                "url": "https://vi.wikipedia.org/wiki/Hacksaw_Ridge"
+            },
+            {
+                "name": "The Passion of the Christ",
+                "qid": "Q51668",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_kh%E1%BB%95_n%E1%BA%A1n_c%E1%BB%A7a_Ch%C3%BAa_Gi%C3%AAsu_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Ireland",
+                "qid": "Q27",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Robyn Moore",
+                "qid": "Q36970756"
+            }
+        ]
+    }
+}

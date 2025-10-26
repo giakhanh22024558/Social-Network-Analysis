@@ -1,0 +1,106 @@
+{
+    "name": "Ansel Elgort",
+    "qid": "Q13426679",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ansel_Elgort",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Arthur Elgort",
+                "qid": "Q377545"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Grethe Barrett Holby",
+                "qid": "Q16121080"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "disc jockey",
+                "qid": "Q130857",
+                "url": "https://vi.wikipedia.org/wiki/DJ"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1994-03-14T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Baby Driver",
+                "qid": "Q23016644",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_x%E1%BA%BF_Baby"
+            },
+            {
+                "name": "Carrie",
+                "qid": "Q45384",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%A1n_th%E1%BB%8Bnh_n%E1%BB%99_c%E1%BB%A7a_Carrie"
+            },
+            {
+                "name": "Divergent",
+                "qid": "Q8561227",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BB%8B_bi%E1%BB%87t_(phim)"
+            },
+            {
+                "name": "Paper Towns",
+                "qid": "Q18603039",
+                "url": "https://vi.wikipedia.org/wiki/Paper_Towns_(phim)"
+            },
+            {
+                "name": "The Divergent Series: Allegiant",
+                "qid": "Q19648591",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_trung_ki%C3%AAn"
+            },
+            {
+                "name": "The Divergent Series: Insurgent",
+                "qid": "Q16997069",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_n%E1%BB%95i_lo%E1%BA%A1n_(phim_2015)"
+            },
+            {
+                "name": "The Fault in Our Stars",
+                "qid": "Q14704171",
+                "url": "https://vi.wikipedia.org/wiki/The_Fault_in_Our_Stars_(phim)"
+            },
+            {
+                "name": "West Side Story",
+                "qid": "Q63643994",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_ph%C3%ADa_T%C3%A2y_(phim_2021)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

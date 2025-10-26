@@ -1,0 +1,39 @@
+{
+    "name": "Judith Barsi",
+    "qid": "Q235922",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Judith_Barsi",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "József Istvan Barsi",
+                "qid": "Q135574920"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Maria Agnes Barsi",
+                "qid": "Q135573794"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-06-06T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

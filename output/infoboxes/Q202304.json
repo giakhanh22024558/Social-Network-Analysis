@@ -1,0 +1,99 @@
+{
+    "name": "Jason Segel",
+    "qid": "Q202304",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jason_Segel",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Michelle Williams",
+                "qid": "Q156796",
+                "url": "https://vi.wikipedia.org/wiki/Michelle_Williams_(di%E1%BB%85n_vi%C3%AAn)"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "puppeteer",
+                "qid": "Q2629392",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91i%E1%BB%81u_khi%E1%BB%83n_r%E1%BB%91i"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-01-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Bad Teacher",
+                "qid": "Q798797",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_gi%C3%A1o_l%E1%BA%AFm_chi%C3%AAu"
+            },
+            {
+                "name": "Gulliver's Travels",
+                "qid": "Q1320997",
+                "url": "https://vi.wikipedia.org/wiki/Gulliver_du_k%C3%BD_(phim_2010)"
+            },
+            {
+                "name": "The Muppets",
+                "qid": "Q550558",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_nh%E1%BA%A1c_h%E1%BB%99i_r%E1%BB%91i"
+            },
+            {
+                "name": "The Sky Is Everywhere",
+                "qid": "Q104845853",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BA%A7u_tr%E1%BB%9Di_bao_la"
+            },
+            {
+                "name": "This Is the End",
+                "qid": "Q607363",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_n%E1%BB%91t_ng%C3%A0y_cu%E1%BB%91i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "name": "Liv Tyler",
+    "qid": "Q168763",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Liv_Tyler",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Chelsea Tyler",
+                "qid": "Q47008774"
+            },
+            {
+                "name": "Keoni K. Watson",
+                "qid": "Q124464366"
+            },
+            {
+                "name": "Mia Tyler",
+                "qid": "Q2715743"
+            },
+            {
+                "name": "Randy Rundgren",
+                "qid": "Q124460802"
+            },
+            {
+                "name": "Rebop Rundgren",
+                "qid": "Q124461325"
+            },
+            {
+                "name": "Rex Rundgren",
+                "qid": "Q124460190"
+            },
+            {
+                "name": "Taj Tallarico",
+                "qid": "Q28151261"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Joaquin Phoenix",
+                "qid": "Q185140",
+                "url": "https://vi.wikipedia.org/wiki/Joaquin_Phoenix"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Steven Tyler",
+                "qid": "Q194045",
+                "url": "https://vi.wikipedia.org/wiki/Steven_Tyler"
+            },
+            {
+                "name": "Todd Rundgren",
+                "qid": "Q364875"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Bebe Buell",
+                "qid": "Q275593"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "fashion model",
+                "qid": "Q3357567"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-07-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ad Astra",
+                "qid": "Q38774788",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_b%C3%AD_%E1%BA%A9n_Ng%C3%A2n_H%C3%A0"
+            },
+            {
+                "name": "Armageddon",
+                "qid": "Q208344",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_t%E1%BA%ADn_th%E1%BA%BF_(phim_1998)"
+            },
+            {
+                "name": "Captain America: Brave New World",
+                "qid": "Q112322116",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_Th%E1%BA%BF_gi%E1%BB%9Bi_m%E1%BB%9Bi"
+            },
+            {
+                "name": "Jamie Marks Is Dead",
+                "qid": "Q16644504",
+                "url": "https://vi.wikipedia.org/wiki/Jamie_Marks_Is_Dead"
+            },
+            {
+                "name": "Onegin",
+                "qid": "Q50969",
+                "url": "https://vi.wikipedia.org/wiki/Onegin_(phim)"
+            },
+            {
+                "name": "Silent Fall",
+                "qid": "Q1304103",
+                "url": "https://vi.wikipedia.org/wiki/Silent_Fall"
+            },
+            {
+                "name": "Stealing Beauty",
+                "qid": "Q749191",
+                "url": "https://vi.wikipedia.org/wiki/Stealing_Beauty"
+            },
+            {
+                "name": "The Incredible Hulk",
+                "qid": "Q466611",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_kh%E1%BB%95ng_l%E1%BB%93_xanh_phi_th%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "The Lord of the Rings: The Fellowship of the Ring",
+                "qid": "Q127367",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAa_t%E1%BB%83_nh%E1%BB%AFng_chi%E1%BA%BFc_nh%E1%BA%ABn:_Hi%E1%BB%87p_h%E1%BB%99i_nh%E1%BA%ABn_th%E1%BA%A7n"
+            },
+            {
+                "name": "The Lord of the Rings: The Return of the King",
+                "qid": "Q131074",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAa_t%E1%BB%83_nh%E1%BB%AFng_chi%E1%BA%BFc_nh%E1%BA%ABn:_S%E1%BB%B1_tr%E1%BB%9F_l%E1%BA%A1i_c%E1%BB%A7a_nh%C3%A0_vua"
+            },
+            {
+                "name": "The Lord of the Rings: The Two Towers",
+                "qid": "Q164963",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAa_t%E1%BB%83_nh%E1%BB%AFng_chi%E1%BA%BFc_nh%E1%BA%ABn:_Hai_t%C3%B2a_th%C3%A1p"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Royston Langdon",
+                "qid": "Q16214162"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Ella Rose Richards",
+                "qid": "Q124526514"
+            }
+        ]
+    }
+}

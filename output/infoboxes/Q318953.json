@@ -1,0 +1,61 @@
+{
+    "name": "Jim Davis",
+    "qid": "Q318953",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jim_Davis_(h%E1%BB%8Da_s%C4%A9_truy%E1%BB%87n_tranh)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "comics artist",
+                "qid": "Q715301"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1945-07-28T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Garfield: The Movie",
+                "qid": "Q568928",
+                "url": "https://vi.wikipedia.org/wiki/Garfield_(phim)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Garfield: The Movie",
+                "qid": "Q568928",
+                "url": "https://vi.wikipedia.org/wiki/Garfield_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "James Garfield Davis",
+                "qid": "Q122987094"
+            }
+        ]
+    }
+}

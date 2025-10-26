@@ -1,0 +1,233 @@
+{
+    "name": "Angelina Jolie",
+    "qid": "Q13909",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Angelina_Jolie",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "James Haven",
+                "qid": "Q560170"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Brad Pitt",
+                "qid": "Q35332",
+                "url": "https://vi.wikipedia.org/wiki/Brad_Pitt"
+            },
+            {
+                "name": "Jenny Shimizu",
+                "qid": "Q432710"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Jon Voight",
+                "qid": "Q167520",
+                "url": "https://vi.wikipedia.org/wiki/Jon_Voight"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Knox Jolie-Pitt",
+                "qid": "Q107151224"
+            },
+            {
+                "name": "Maddox Jolie-Pitt.",
+                "qid": "Q13147738"
+            },
+            {
+                "name": "Pax Jolie-Pitt",
+                "qid": "Q107151215"
+            },
+            {
+                "name": "Shiloh Jolie",
+                "qid": "Q55430492"
+            },
+            {
+                "name": "Vivienne Jolie-Pitt",
+                "qid": "Q107151227"
+            },
+            {
+                "name": "Zahara Jolie-Pitt",
+                "qid": "Q107151200"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Marcheline Bertrand",
+                "qid": "Q235845"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "philanthropist",
+                "qid": "Q12362622"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1975-06-04T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "First They Killed My Father",
+                "qid": "Q22908422",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A7u_ti%C3%AAn_h%E1%BB%8D_gi%E1%BA%BFt_cha_t%C3%B4i"
+            },
+            {
+                "name": "Maleficent: Mistress of Evil",
+                "qid": "Q54437950",
+                "url": "https://vi.wikipedia.org/wiki/Ti%C3%AAn_h%E1%BA%AFc_%C3%A1m_2"
+            },
+            {
+                "name": "Unbroken",
+                "qid": "Q15146380",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_khu%E1%BA%A5t_ph%E1%BB%A5c"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Mighty Heart",
+                "qid": "Q917355",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A1i_tim_qu%E1%BA%A3_c%E1%BA%A3m"
+            },
+            {
+                "name": "Changeling",
+                "qid": "Q275553",
+                "url": "https://vi.wikipedia.org/wiki/Changeling_(phim)"
+            },
+            {
+                "name": "Cyborg 2",
+                "qid": "Q1147262",
+                "url": "https://vi.wikipedia.org/wiki/Cyborg_2"
+            },
+            {
+                "name": "Eternals",
+                "qid": "Q23894629",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7ng_t%E1%BB%99c_b%E1%BA%A5t_t%E1%BB%AD"
+            },
+            {
+                "name": "George Wallace",
+                "qid": "Q1641156",
+                "url": "https://vi.wikipedia.org/wiki/George_Wallace_(phim)"
+            },
+            {
+                "name": "Gia",
+                "qid": "Q429557",
+                "url": "https://vi.wikipedia.org/wiki/Gia"
+            },
+            {
+                "name": "Girl, Interrupted",
+                "qid": "Q463101",
+                "url": "https://vi.wikipedia.org/wiki/Girl,_Interrupted_(phim)"
+            },
+            {
+                "name": "Hackers",
+                "qid": "Q13908",
+                "url": "https://vi.wikipedia.org/wiki/Hackers_(phim)"
+            },
+            {
+                "name": "Lara Croft: Tomb Raider",
+                "qid": "Q464014",
+                "url": "https://vi.wikipedia.org/wiki/Lara_Croft:_Tomb_Raider"
+            },
+            {
+                "name": "Lookin' to Get Out",
+                "qid": "Q1315907",
+                "url": "https://vi.wikipedia.org/wiki/Lookin%27_to_Get_Out"
+            },
+            {
+                "name": "Maleficent",
+                "qid": "Q172271",
+                "url": "https://vi.wikipedia.org/wiki/Ti%C3%AAn_h%E1%BA%AFc_%C3%A1m_(phim)"
+            },
+            {
+                "name": "Maleficent: Mistress of Evil",
+                "qid": "Q54437950",
+                "url": "https://vi.wikipedia.org/wiki/Ti%C3%AAn_h%E1%BA%AFc_%C3%A1m_2"
+            },
+            {
+                "name": "Mr. & Mrs. Smith",
+                "qid": "Q191040",
+                "url": "https://vi.wikipedia.org/wiki/%C3%94ng_b%C3%A0_Smith_(phim_2005)"
+            },
+            {
+                "name": "Salt",
+                "qid": "Q628139",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_%C4%91i%E1%BB%87p_vi%C3%AAn_(phim_2010)"
+            },
+            {
+                "name": "The Tourist",
+                "qid": "Q629975",
+                "url": "https://vi.wikipedia.org/wiki/Du_kh%C3%A1ch_b%C3%AD_%E1%BA%A9n"
+            },
+            {
+                "name": "Wanted",
+                "qid": "Q4444",
+                "url": "https://vi.wikipedia.org/wiki/Truy_s%C3%A1t_(phim_2008)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "First They Killed My Father",
+                "qid": "Q22908422",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A7u_ti%C3%AAn_h%E1%BB%8D_gi%E1%BA%BFt_cha_t%C3%B4i"
+            },
+            {
+                "name": "Unbroken",
+                "qid": "Q15146380",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_khu%E1%BA%A5t_ph%E1%BB%A5c"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Cambodia",
+                "qid": "Q424",
+                "url": "https://vi.wikipedia.org/wiki/Campuchia"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Billy Bob Thornton",
+                "qid": "Q202735"
+            },
+            {
+                "name": "Brad Pitt",
+                "qid": "Q35332",
+                "url": "https://vi.wikipedia.org/wiki/Brad_Pitt"
+            },
+            {
+                "name": "Jonny Lee Miller",
+                "qid": "Q7516"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Barry Voight",
+                "qid": "Q17515118"
+            },
+            {
+                "name": "Chip Taylor",
+                "qid": "Q962604"
+            }
+        ]
+    }
+}

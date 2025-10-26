@@ -1,0 +1,203 @@
+{
+    "name": "James Franco",
+    "qid": "Q306403",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/James_Franco",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Dave Franco",
+                "qid": "Q383930",
+                "url": "https://vi.wikipedia.org/wiki/Dave_Franco"
+            },
+            {
+                "name": "Tom Franco",
+                "qid": "Q21155081"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "playwright",
+                "qid": "Q214917",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_vi%E1%BA%BFt_k%E1%BB%8Bch"
+            },
+            {
+                "name": "poet",
+                "qid": "Q49757",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%C6%A1"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "teacher",
+                "qid": "Q37226",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1o_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-04-19T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "I Am Michael",
+                "qid": "Q17619306",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91%E1%BB%9Di_c%E1%BB%A7a_Michael"
+            },
+            {
+                "name": "King Cobra",
+                "qid": "Q23893043",
+                "url": "https://vi.wikipedia.org/wiki/King_Cobra_(phim_2016)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "127 Hours",
+                "qid": "Q174371",
+                "url": "https://vi.wikipedia.org/wiki/127_gi%E1%BB%9D"
+            },
+            {
+                "name": "Alien: Covenant",
+                "qid": "Q20430699",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_v%E1%BA%ADt_kh%C3%B4ng_gian"
+            },
+            {
+                "name": "Date Night",
+                "qid": "Q1139801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_h%E1%BA%B9n_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Dawn of the Planet of the Apes",
+                "qid": "Q11220194",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_kh%E1%BB%9Fi_%C4%91%E1%BA%A7u_c%E1%BB%A7a_h%C3%A0nh_tinh_kh%E1%BB%89"
+            },
+            {
+                "name": "I Am Michael",
+                "qid": "Q17619306",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91%E1%BB%9Di_c%E1%BB%A7a_Michael"
+            },
+            {
+                "name": "King Cobra",
+                "qid": "Q23893043",
+                "url": "https://vi.wikipedia.org/wiki/King_Cobra_(phim_2016)"
+            },
+            {
+                "name": "Milk",
+                "qid": "Q201687",
+                "url": "https://vi.wikipedia.org/wiki/Milk_(phim)"
+            },
+            {
+                "name": "Oz the Great and Powerful",
+                "qid": "Q590216",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BA%A1c_v%C3%A0o_x%E1%BB%A9_Oz_v%C4%A9_%C4%91%E1%BA%A1i_v%C3%A0_quy%E1%BB%81n_n%C4%83ng"
+            },
+            {
+                "name": "Rise of the Planet of the Apes",
+                "qid": "Q243983",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_tr%E1%BB%97i_d%E1%BA%ADy_c%E1%BB%A7a_h%C3%A0nh_tinh_kh%E1%BB%89"
+            },
+            {
+                "name": "Spider-Man",
+                "qid": "Q484442",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_(phim_2002)"
+            },
+            {
+                "name": "Spider-Man 2",
+                "qid": "Q190145",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_2"
+            },
+            {
+                "name": "Spider-Man 3",
+                "qid": "Q182212",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_3"
+            },
+            {
+                "name": "The Disaster Artist",
+                "qid": "Q22078002",
+                "url": "https://vi.wikipedia.org/wiki/The_Disaster_Artist_(phim)"
+            },
+            {
+                "name": "The Green Hornet",
+                "qid": "Q738152",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_binh_b%C3%AD_%E1%BA%A9n"
+            },
+            {
+                "name": "The Interview",
+                "qid": "Q15524911",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_ph%E1%BB%8Fng_v%E1%BA%A5n"
+            },
+            {
+                "name": "This Is the End",
+                "qid": "Q607363",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_n%E1%BB%91t_ng%C3%A0y_cu%E1%BB%91i"
+            },
+            {
+                "name": "Why Him?",
+                "qid": "Q23058779",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_v%E1%BB%A3_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u_ch%C3%A0ng_r%E1%BB%83"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "The Disaster Artist",
+                "qid": "Q22078002",
+                "url": "https://vi.wikipedia.org/wiki/The_Disaster_Artist_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Lennon Franco",
+                "qid": "Q136526025"
+            }
+        ]
+    }
+}

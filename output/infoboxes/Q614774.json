@@ -1,0 +1,126 @@
+{
+    "name": "Maggie Q",
+    "qid": "Q614774",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Maggie_Q",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Dylan McDermott",
+                "qid": "Q53120",
+                "url": "https://vi.wikipedia.org/wiki/Dylan_McDermott"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-05-22T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Earthlings",
+                "qid": "Q1277684",
+                "url": "https://vi.wikipedia.org/wiki/Earthlings_(phim)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Divergent",
+                "qid": "Q8561227",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BB%8B_bi%E1%BB%87t_(phim)"
+            },
+            {
+                "name": "Fantasy Island",
+                "qid": "Q60737563",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_kinh_ho%C3%A0ng_(phim_2020)"
+            },
+            {
+                "name": "Gen-Y Cops",
+                "qid": "Q3100345",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_c%E1%BA%A3nh_t%C3%A2n_nh%C3%A2n_lo%E1%BA%A1i_2"
+            },
+            {
+                "name": "Live Free or Die Hard",
+                "qid": "Q50861",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%C6%A1ng_%C4%91%E1%BA%A7u_v%E1%BB%9Bi_th%E1%BB%AD_th%C3%A1ch_4"
+            },
+            {
+                "name": "Naked Weapon",
+                "qid": "Q2975195",
+                "url": "https://vi.wikipedia.org/wiki/Naked_Weapon"
+            },
+            {
+                "name": "New York, I Love You",
+                "qid": "Q44935",
+                "url": "https://vi.wikipedia.org/wiki/New_York,_I_Love_You"
+            },
+            {
+                "name": "Rice Rhapsody",
+                "qid": "Q3087300",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%A1m_g%C3%A0_H%E1%BA%A3i_Nam_(phim)"
+            },
+            {
+                "name": "Rush Hour 2",
+                "qid": "Q830208",
+                "url": "https://vi.wikipedia.org/wiki/Rush_Hour_2"
+            },
+            {
+                "name": "Slumber",
+                "qid": "Q23707694",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A5c_m%E1%BB%99ng_kinh_ho%C3%A0ng"
+            },
+            {
+                "name": "The Divergent Series: Allegiant",
+                "qid": "Q19648591",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_trung_ki%C3%AAn"
+            },
+            {
+                "name": "The Divergent Series: Insurgent",
+                "qid": "Q16997069",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_n%E1%BB%95i_lo%E1%BA%A1n_(phim_2015)"
+            },
+            {
+                "name": "The King of Fighters",
+                "qid": "Q1046883",
+                "url": "https://vi.wikipedia.org/wiki/Sinh_t%E1%BB%AD_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Three Kingdoms: Resurrection of the Dragon",
+                "qid": "Q703857",
+                "url": "https://vi.wikipedia.org/wiki/Tam_qu%E1%BB%91c_ch%C3%AD:_R%E1%BB%93ng_t%C3%A1i_sinh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "name": "Thomas Tull",
+    "qid": "Q16213294",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Thomas_Tull",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-06-09T00:00:00Z"
+            },
+            {
+                "name": "1970-06-11T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "300: Rise of an Empire",
+                "qid": "Q400332",
+                "url": "https://vi.wikipedia.org/wiki/300:_%C4%90%E1%BA%BF_ch%E1%BA%BF_tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "Crimson Peak",
+                "qid": "Q15729025",
+                "url": "https://vi.wikipedia.org/wiki/L%C3%A2u_%C4%91%C3%A0i_%C4%91%E1%BA%ABm_m%C3%A1u"
+            },
+            {
+                "name": "Dune",
+                "qid": "Q60834962",
+                "url": "https://vi.wikipedia.org/wiki/Dune:_H%C3%A0nh_tinh_c%C3%A1t"
+            },
+            {
+                "name": "Godzilla",
+                "qid": "Q7731172",
+                "url": "https://vi.wikipedia.org/wiki/Godzilla_(phim_2014)"
+            },
+            {
+                "name": "Godzilla x Kong: The New Empire",
+                "qid": "Q113360912",
+                "url": "https://vi.wikipedia.org/wiki/Godzilla_x_Kong:_%C4%90%E1%BA%BF_ch%E1%BA%BF_m%E1%BB%9Bi"
+            },
+            {
+                "name": "Godzilla: King of the Monsters",
+                "qid": "Q17501972",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAa_t%E1%BB%83_Godzilla:_%C4%90%E1%BA%BF_v%C6%B0%C6%A1ng_b%E1%BA%A5t_t%E1%BB%AD"
+            },
+            {
+                "name": "Jurassic World",
+                "qid": "Q3512046",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long"
+            },
+            {
+                "name": "Kong: Skull Island",
+                "qid": "Q21203766",
+                "url": "https://vi.wikipedia.org/wiki/Kong:_%C4%90%E1%BA%A3o_%C4%90%E1%BA%A7u_l%C3%A2u"
+            },
+            {
+                "name": "Krampus",
+                "qid": "Q19627473",
+                "url": "https://vi.wikipedia.org/wiki/Krampus:_%C3%81c_m%E1%BB%99ng_%C4%91%C3%AAm_Gi%C3%A1ng_sinh"
+            },
+            {
+                "name": "The Seventh Son",
+                "qid": "Q74579",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A9a_con_th%E1%BB%A9_7_(phim)"
+            },
+            {
+                "name": "Warcraft",
+                "qid": "Q14513321",
+                "url": "https://vi.wikipedia.org/wiki/Warcraft:_%C4%90%E1%BA%A1i_chi%E1%BA%BFn_hai_th%E1%BA%BF_gi%E1%BB%9Bi"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Dark Knight Rises",
+                "qid": "Q189330",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm_tr%E1%BB%97i_d%E1%BA%ADy"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

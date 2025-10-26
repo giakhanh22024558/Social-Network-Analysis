@@ -1,0 +1,50 @@
+{
+    "name": "Jaeden Martell",
+    "qid": "Q19019158",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jaeden_Martell",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Wes Lieberher",
+                "qid": "Q18157429"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2003-01-04T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "It",
+                "qid": "Q25136484",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BA_h%E1%BB%81_ma_qu%C3%A1i"
+            },
+            {
+                "name": "It: Chapter Two",
+                "qid": "Q42726338",
+                "url": "https://vi.wikipedia.org/wiki/G%C3%A3_h%E1%BB%81_ma_qu%C3%A1i_2"
+            },
+            {
+                "name": "Midnight Special",
+                "qid": "Q17025594",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A3n_l%E1%BB%B1c_si%C3%AAu_nhi%C3%AAn_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

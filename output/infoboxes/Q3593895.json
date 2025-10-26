@@ -1,0 +1,74 @@
+{
+    "name": "Don Duong",
+    "qid": "Q3593895",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/%C4%90%C6%A1n_D%C6%B0%C6%A1ng_(di%E1%BB%85n_vi%C3%AAn)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-08-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Devil's mark",
+                "qid": "Q117452338",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BA%A5u_%E1%BA%A5n_c%E1%BB%A7a_qu%E1%BB%B7"
+            },
+            {
+                "name": "Green Dragon",
+                "qid": "Q2385586",
+                "url": "https://vi.wikipedia.org/wiki/R%E1%BB%93ng_xanh"
+            },
+            {
+                "name": "Me Thao, there was once a time when...",
+                "qid": "Q10796223",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%AA_Th%E1%BA%A3o,_th%E1%BB%9Di_vang_b%C3%B3ng"
+            },
+            {
+                "name": "Sandy lives",
+                "qid": "Q116848027",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%9Di_c%C3%A1t"
+            },
+            {
+                "name": "The Building",
+                "qid": "Q14442565",
+                "url": "https://vi.wikipedia.org/wiki/The_Building_(phim)"
+            },
+            {
+                "name": "The Gamble",
+                "qid": "Q130463984",
+                "url": "https://vi.wikipedia.org/wiki/Canh_b%E1%BA%A1c"
+            },
+            {
+                "name": "The Wild Reed",
+                "qid": "Q134385261",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%8F_lau"
+            },
+            {
+                "name": "Three Seasons",
+                "qid": "Q59438",
+                "url": "https://vi.wikipedia.org/wiki/Ba_m%C3%B9a"
+            },
+            {
+                "name": "We Were Soldiers",
+                "qid": "Q623502",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAng_t%C3%B4i_t%E1%BB%ABng_l%C3%A0_l%C3%ADnh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

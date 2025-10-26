@@ -1,0 +1,127 @@
+{
+    "name": "Q3959303",
+    "qid": "Q3959303",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Shea_Whigham",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-01-05T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "American Hustle",
+                "qid": "Q9013673",
+                "url": "https://vi.wikipedia.org/wiki/S%C4%83n_ti%E1%BB%81n_ki%E1%BB%83u_M%E1%BB%B9"
+            },
+            {
+                "name": "Bad Times at the El Royale",
+                "qid": "Q48988117",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%BAt_kinh_ho%C3%A0ng_t%E1%BA%A1i_El_Royale"
+            },
+            {
+                "name": "F1",
+                "qid": "Q114246242",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_th%E1%BB%A9c_1_(phim)"
+            },
+            {
+                "name": "F9",
+                "qid": "Q29466808",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_9:_Huy%E1%BB%81n_tho%E1%BA%A1i_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Fast & Furious",
+                "qid": "Q380996",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_4"
+            },
+            {
+                "name": "Fast & Furious 6",
+                "qid": "Q5516100",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_6"
+            },
+            {
+                "name": "First Man",
+                "qid": "Q42708010",
+                "url": "https://vi.wikipedia.org/wiki/B%C6%B0%E1%BB%9Bc_ch%C3%A2n_%C4%91%E1%BA%A7u_ti%C3%AAn"
+            },
+            {
+                "name": "Joker",
+                "qid": "Q42759035",
+                "url": "https://vi.wikipedia.org/wiki/Joker_(phim)"
+            },
+            {
+                "name": "Kong: Skull Island",
+                "qid": "Q21203766",
+                "url": "https://vi.wikipedia.org/wiki/Kong:_%C4%90%E1%BA%A3o_%C4%90%E1%BA%A7u_l%C3%A2u"
+            },
+            {
+                "name": "Mission: Impossible – Dead Reckoning Part One",
+                "qid": "Q61876370",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5:_B%E1%BA%A5t_kh%E1%BA%A3_thi_%E2%80%93_Nghi%E1%BB%87p_b%C3%A1o_ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "Non-Stop",
+                "qid": "Q2855777",
+                "url": "https://vi.wikipedia.org/wiki/Non-Stop_(phim)"
+            },
+            {
+                "name": "Savages",
+                "qid": "Q1143802",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_man_r%E1%BB%A3"
+            },
+            {
+                "name": "Silver Linings Playbook",
+                "qid": "Q116845",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%ACnh_y%C3%AAu_t%C3%ACm_l%E1%BA%A1i"
+            },
+            {
+                "name": "Star Trek Beyond",
+                "qid": "Q15929448",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek:_Kh%C3%B4ng_gi%E1%BB%9Bi_h%E1%BA%A1n"
+            },
+            {
+                "name": "Take Shelter",
+                "qid": "Q762877",
+                "url": "https://vi.wikipedia.org/wiki/Take_Shelter"
+            },
+            {
+                "name": "The Lincoln Lawyer",
+                "qid": "Q287748",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A2n_danh_c%C3%B4ng_l%C3%BD_(phim)"
+            },
+            {
+                "name": "The Wolf of Wall Street",
+                "qid": "Q1392744",
+                "url": "https://vi.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(phim_2013)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

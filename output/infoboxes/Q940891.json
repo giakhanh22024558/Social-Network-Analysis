@@ -1,0 +1,110 @@
+{
+    "name": "Alex Wolff",
+    "qid": "Q940891",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Alex_Wolff",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Nat Wolff",
+                "qid": "Q1249010"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Michael Wolff",
+                "qid": "Q439955"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Polly Draper",
+                "qid": "Q274812"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "drummer",
+                "qid": "Q386854"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1997-11-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Quiet Place: Day One",
+                "qid": "Q112183404",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_c%C3%A2m_l%E1%BA%B7ng:_Ng%C3%A0y_m%E1%BB%99t"
+            },
+            {
+                "name": "Jumanji: The Next Level",
+                "qid": "Q60501923",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_k%E1%BB%B3_%E1%BA%A3o:_Th%C4%83ng_c%E1%BA%A5p"
+            },
+            {
+                "name": "My Friend Dahmer",
+                "qid": "Q27958188",
+                "url": "https://vi.wikipedia.org/wiki/My_Friend_Dahmer_(phim)"
+            },
+            {
+                "name": "Oppenheimer",
+                "qid": "Q108839994",
+                "url": "https://vi.wikipedia.org/wiki/Oppenheimer_(phim)"
+            },
+            {
+                "name": "Patriots Day",
+                "qid": "Q23767799",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_%C4%91%E1%BB%8Bnh_m%E1%BB%87nh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "name": "Roland Emmerich",
+    "qid": "Q60100",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Roland_Emmerich",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Ute Emmerich",
+                "qid": "Q2390812"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-11-10T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "2012",
+                "qid": "Q184605",
+                "url": "https://vi.wikipedia.org/wiki/2012:_N%C4%83m_%C4%91%E1%BA%A1i_h%E1%BB%8Da"
+            },
+            {
+                "name": "Independence Day",
+                "qid": "Q105387",
+                "url": "https://vi.wikipedia.org/wiki/Independence_Day_(phim_1996)"
+            },
+            {
+                "name": "Independence Day: Resurgence",
+                "qid": "Q19614711",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_%C4%91%E1%BB%99c_l%E1%BA%ADp:_T%C3%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Midway",
+                "qid": "Q56551019",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_chi%E1%BA%BFn_Midway_(phim_2019)"
+            },
+            {
+                "name": "Moonfall",
+                "qid": "Q101440388",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C4%83ng_r%C6%A1i"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "2012",
+                "qid": "Q184605",
+                "url": "https://vi.wikipedia.org/wiki/2012:_N%C4%83m_%C4%91%E1%BA%A1i_h%E1%BB%8Da"
+            },
+            {
+                "name": "Independence Day",
+                "qid": "Q105387",
+                "url": "https://vi.wikipedia.org/wiki/Independence_Day_(phim_1996)"
+            },
+            {
+                "name": "Independence Day: Resurgence",
+                "qid": "Q19614711",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_%C4%91%E1%BB%99c_l%E1%BA%ADp:_T%C3%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Midway",
+                "qid": "Q56551019",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_chi%E1%BA%BFn_Midway_(phim_2019)"
+            },
+            {
+                "name": "Moonfall",
+                "qid": "Q101440388",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C4%83ng_r%C6%A1i"
+            },
+            {
+                "name": "The Patriot",
+                "qid": "Q646633",
+                "url": "https://vi.wikipedia.org/wiki/The_Patriot_(phim_2000)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Germany",
+                "qid": "Q183",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A9c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            },
+            {
+                "name": "West Germany",
+                "qid": "Q713750",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2y_%C4%90%E1%BB%A9c"
+            }
+        ]
+    }
+}

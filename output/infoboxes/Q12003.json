@@ -1,0 +1,109 @@
+{
+    "name": "Cher",
+    "qid": "Q12003",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Cher",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Georganne LaPiere",
+                "qid": "Q5535853"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/d654b47886201a25ce036d4055c1c88e"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "John Sarkisian",
+                "qid": "Q108856869"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Chaz Bono",
+                "qid": "Q979387"
+            },
+            {
+                "name": "Elijah Blue Allman",
+                "qid": "Q1329372"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Georgia Holt",
+                "qid": "Q4348188"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1946-05-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Burlesque",
+                "qid": "Q749102",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_n%E1%BB%AF_(phim)"
+            },
+            {
+                "name": "Mamma Mia! Here We Go Again",
+                "qid": "Q36951175",
+                "url": "https://vi.wikipedia.org/wiki/Mamma_Mia!_Y%C3%AAu_l%E1%BA%A7n_n%E1%BB%AFa"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Gregg Allman",
+                "qid": "Q503264"
+            },
+            {
+                "name": "Sonny Bono",
+                "qid": "Q179150"
+            }
+        ]
+    }
+}

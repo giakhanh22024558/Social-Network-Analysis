@@ -1,0 +1,80 @@
+{
+    "name": "Pete Davidson",
+    "qid": "Q18097962",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Pete_Davidson",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Ariana Grande",
+                "qid": "Q151892",
+                "url": "https://vi.wikipedia.org/wiki/Ariana_Grande"
+            },
+            {
+                "name": "Kate Beckinsale",
+                "qid": "Q179414",
+                "url": "https://vi.wikipedia.org/wiki/Kate_Beckinsale"
+            },
+            {
+                "name": "Kim Kardashian",
+                "qid": "Q186304",
+                "url": "https://vi.wikipedia.org/wiki/Kim_Kardashian"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Scott Matthew Davidson",
+                "qid": "Q112084783"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stand-up comedian",
+                "qid": "Q18545066"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1993-11-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            },
+            {
+                "name": "Set It Up",
+                "qid": "Q38769953",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%A3_l%C3%BD_y%C3%AAu"
+            },
+            {
+                "name": "The Suicide Squad",
+                "qid": "Q57317060",
+                "url": "https://vi.wikipedia.org/wiki/Suicide_Squad:_%C4%90i%E1%BB%87p_v%E1%BB%A5_c%E1%BA%A3m_t%E1%BB%AD"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "name": "Clark Gregg",
+    "qid": "Q113206",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Clark_Gregg",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Stella Gregg",
+                "qid": "Q57983542"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-04-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "(500) Days of Summer",
+                "qid": "Q154935",
+                "url": "https://vi.wikipedia.org/wiki/500_ng%C3%A0y_y%C3%AAu"
+            },
+            {
+                "name": "A.I. Artificial Intelligence",
+                "qid": "Q221113",
+                "url": "https://vi.wikipedia.org/wiki/A.I._%E2%80%93_Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o"
+            },
+            {
+                "name": "Captain Marvel",
+                "qid": "Q23781129",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_u%C3%BD_Marvel_(phim)"
+            },
+            {
+                "name": "Iron Man",
+                "qid": "Q192724",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_(phim_2008)"
+            },
+            {
+                "name": "Iron Man 2",
+                "qid": "Q205028",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_2"
+            },
+            {
+                "name": "One Hour Photo",
+                "qid": "Q990976",
+                "url": "https://vi.wikipedia.org/wiki/One_Hour_Photo"
+            },
+            {
+                "name": "The Avengers",
+                "qid": "Q182218",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "The Usual Suspects",
+                "qid": "Q132351",
+                "url": "https://vi.wikipedia.org/wiki/The_Usual_Suspects"
+            },
+            {
+                "name": "Thor",
+                "qid": "Q217020",
+                "url": "https://vi.wikipedia.org/wiki/Thor_(phim)"
+            },
+            {
+                "name": "We Were Soldiers",
+                "qid": "Q623502",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAng_t%C3%B4i_t%E1%BB%ABng_l%C3%A0_l%C3%ADnh"
+            },
+            {
+                "name": "When a Stranger Calls",
+                "qid": "Q908384",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_g%E1%BB%8Di_l%C3%BAc_n%E1%BB%ADa_%C4%91%C3%AAm"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jennifer Grey",
+                "qid": "Q232927"
+            }
+        ]
+    }
+}

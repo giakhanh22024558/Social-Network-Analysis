@@ -1,0 +1,135 @@
+{
+    "name": "Justin Theroux",
+    "qid": "Q316596",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Justin_Theroux",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Eugène Theroux",
+                "qid": "Q116480404"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Phyllis Grissim",
+                "qid": "Q116480406"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-08-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "American Psycho",
+                "qid": "Q1405126",
+                "url": "https://vi.wikipedia.org/wiki/American_Psycho_(phim)"
+            },
+            {
+                "name": "Beetlejuice Beetlejuice",
+                "qid": "Q112865900",
+                "url": "https://vi.wikipedia.org/wiki/Ma_si%C3%AAu_qu%E1%BA%ADy"
+            },
+            {
+                "name": "Bumblebee",
+                "qid": "Q34220038",
+                "url": "https://vi.wikipedia.org/wiki/Bumblebee_(phim)"
+            },
+            {
+                "name": "Joker",
+                "qid": "Q42759035",
+                "url": "https://vi.wikipedia.org/wiki/Joker_(phim)"
+            },
+            {
+                "name": "Lady and the Tramp",
+                "qid": "Q56596746",
+                "url": "https://vi.wikipedia.org/wiki/Lady_and_the_Tramp_(phim_2019)"
+            },
+            {
+                "name": "Mulholland Drive",
+                "qid": "Q272608",
+                "url": "https://vi.wikipedia.org/wiki/Mulholland_Drive"
+            },
+            {
+                "name": "Star Wars: Episode VIII – The Last Jedi",
+                "qid": "Q18486021",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Jedi_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "The Girl on the Train",
+                "qid": "Q21433535",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tr%C3%AAn_t%C3%A0u_(phim_2016)"
+            },
+            {
+                "name": "The Lego Ninjago Movie",
+                "qid": "Q22131901",
+                "url": "https://vi.wikipedia.org/wiki/Phim_Lego_Ninjago"
+            },
+            {
+                "name": "Tropic Thunder",
+                "qid": "Q380981",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BA%A5m_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi"
+            },
+            {
+                "name": "Zoolander 2",
+                "qid": "Q19842552",
+                "url": "https://vi.wikipedia.org/wiki/Trai_%C4%91%E1%BA%B9p_l%C3%AAn_s%C3%A0n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jennifer Aniston",
+                "qid": "Q32522",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Aniston"
+            }
+        ]
+    }
+}

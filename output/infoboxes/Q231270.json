@@ -1,0 +1,156 @@
+{
+    "name": "Khloé Kardashian",
+    "qid": "Q231270",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Khlo%C3%A9_Kardashian",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Kendall Jenner",
+                "qid": "Q1375057",
+                "url": "https://vi.wikipedia.org/wiki/Kendall_Jenner"
+            },
+            {
+                "name": "Kim Kardashian",
+                "qid": "Q186304",
+                "url": "https://vi.wikipedia.org/wiki/Kim_Kardashian"
+            },
+            {
+                "name": "Kourtney Kardashian",
+                "qid": "Q575689",
+                "url": "https://vi.wikipedia.org/wiki/Kourtney_Kardashian"
+            },
+            {
+                "name": "Kylie Jenner",
+                "qid": "Q1770624",
+                "url": "https://vi.wikipedia.org/wiki/Kylie_Jenner"
+            },
+            {
+                "name": "Rob Kardashian",
+                "qid": "Q26318",
+                "url": "https://vi.wikipedia.org/wiki/Rob_Kardashian"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "French Montana",
+                "qid": "Q1455261",
+                "url": "https://vi.wikipedia.org/wiki/French_Montana"
+            },
+            {
+                "name": "James Harden",
+                "qid": "Q136678"
+            },
+            {
+                "name": "Rashad McCants",
+                "qid": "Q2556438"
+            },
+            {
+                "name": "Tristan Thompson",
+                "qid": "Q973212"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Robert Kardashian",
+                "qid": "Q1816737",
+                "url": "https://vi.wikipedia.org/wiki/Robert_Kardashian"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "True Thompson",
+                "qid": "Q59532454"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Kris Jenner",
+                "qid": "Q1138235",
+                "url": "https://vi.wikipedia.org/wiki/Kris_Jenner"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "celebrity",
+                "qid": "Q211236",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_n%E1%BB%95i_ti%E1%BA%BFng"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "novelist",
+                "qid": "Q6625963",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia"
+            },
+            {
+                "name": "radio personality",
+                "qid": "Q2722764"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1984-06-27T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Lamar Odom",
+                "qid": "Q296403"
+            }
+        ]
+    }
+}

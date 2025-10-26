@@ -1,0 +1,68 @@
+{
+    "name": "Kiko Mizuhara",
+    "qid": "Q1051455",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mizuhara_Kiko",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            },
+            {
+                "name": "fashion model",
+                "qid": "Q3357567"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1990-10-15T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Attack on Titan",
+                "qid": "Q20313191",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_Titan_(phim)"
+            },
+            {
+                "name": "Norwegian Wood",
+                "qid": "Q1066749",
+                "url": "https://vi.wikipedia.org/wiki/R%E1%BB%ABng_Na_Uy_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Japan",
+                "qid": "Q17",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

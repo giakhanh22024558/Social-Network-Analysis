@@ -1,0 +1,88 @@
+{
+    "name": "Jeff Bennett",
+    "qid": "Q311103",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jeff_Bennett",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Collette Sunderman",
+                "qid": "Q17089182"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Glenn Bennett",
+                "qid": "Q87615388"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Brittany Bennett",
+                "qid": "Q84968132"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Genya Benaderet",
+                "qid": "Q87616368"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-10-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Cats & Dogs: The Revenge of Kitty Galore",
+                "qid": "Q959335",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_ch%C3%B3_m%C3%A8o:_Kitty_Galore_b%C3%A1o_th%C3%B9"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Susan Welby",
+                "qid": "Q86927049"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Aubrey Sunderman",
+                "qid": "Q87295227"
+            },
+            {
+                "name": "Blake Sunderman",
+                "qid": "Q87293609"
+            }
+        ]
+    }
+}

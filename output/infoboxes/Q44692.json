@@ -1,0 +1,50 @@
+{
+    "name": "John Layfield",
+    "qid": "Q44692",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Layfield",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "American football player",
+                "qid": "Q19204627"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "radio personality",
+                "qid": "Q2722764"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-11-29T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Meredith Whitney",
+                "qid": "Q6818998"
+            }
+        ]
+    }
+}

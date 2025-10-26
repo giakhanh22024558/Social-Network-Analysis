@@ -1,0 +1,250 @@
+{
+    "name": "Scarlett Johansson",
+    "qid": "Q34436",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Scarlett_Johansson",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Vanessa Johansson",
+                "qid": "Q454516"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Colin Jost",
+                "qid": "Q5145253",
+                "url": "https://vi.wikipedia.org/wiki/Colin_Jost"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Karsten Johansson",
+                "qid": "Q106285413"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Rose Dauriac",
+                "qid": "Q105310271"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Melanie Sloan",
+                "qid": "Q106285640"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1984-11-22T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Fly Me to the Moon",
+                "qid": "Q115057826",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%A5_b%C3%AA_b%E1%BB%91i_%C3%A1nh_tr%C4%83ng"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Asteroid City",
+                "qid": "Q108086029",
+                "url": "https://vi.wikipedia.org/wiki/Asteroid_City"
+            },
+            {
+                "name": "Avengers: Age of Ultron",
+                "qid": "Q14171368",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_%C4%90%E1%BA%BF_ch%E1%BA%BF_Ultron"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Black Widow",
+                "qid": "Q23894626",
+                "url": "https://vi.wikipedia.org/wiki/G%C3%B3a_ph%E1%BB%A5_%C4%91en_(phim)"
+            },
+            {
+                "name": "Captain America: Civil War",
+                "qid": "Q18407657",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_N%E1%BB%99i_chi%E1%BA%BFn_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "Captain America: The Winter Soldier",
+                "qid": "Q1765358",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America_2:_Chi%E1%BA%BFn_binh_m%C3%B9a_%C4%91%C3%B4ng"
+            },
+            {
+                "name": "Captain Marvel",
+                "qid": "Q23781129",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_u%C3%BD_Marvel_(phim)"
+            },
+            {
+                "name": "Chef",
+                "qid": "Q15046490",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%A7u_b%E1%BA%BFp_(phim_2014)"
+            },
+            {
+                "name": "Fly Me to the Moon",
+                "qid": "Q115057826",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%A5_b%C3%AA_b%E1%BB%91i_%C3%A1nh_tr%C4%83ng"
+            },
+            {
+                "name": "Ghost in the Shell",
+                "qid": "Q22575835",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%8F_b%E1%BB%8Dc_ma"
+            },
+            {
+                "name": "He's Just Not That Into You",
+                "qid": "Q155559",
+                "url": "https://vi.wikipedia.org/wiki/He%27s_Just_Not_That_Into_You_(phim)"
+            },
+            {
+                "name": "Her",
+                "qid": "Q788822",
+                "url": "https://vi.wikipedia.org/wiki/Her_(phim)"
+            },
+            {
+                "name": "Home Alone 3",
+                "qid": "Q382320",
+                "url": "https://vi.wikipedia.org/wiki/Home_Alone_3"
+            },
+            {
+                "name": "Iron Man 2",
+                "qid": "Q205028",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_2"
+            },
+            {
+                "name": "Jojo Rabbit",
+                "qid": "Q54862508",
+                "url": "https://vi.wikipedia.org/wiki/Jojo_Rabbit"
+            },
+            {
+                "name": "Jurassic World Rebirth",
+                "qid": "Q124380480",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long:_T%C3%A1i_sinh"
+            },
+            {
+                "name": "Lost in Translation",
+                "qid": "Q107270",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BA%A1c_l%E1%BB%91i_%E1%BB%9F_Tokyo"
+            },
+            {
+                "name": "Lucy",
+                "qid": "Q15624215",
+                "url": "https://vi.wikipedia.org/wiki/Lucy_(phim_2014)"
+            },
+            {
+                "name": "Marriage Story",
+                "qid": "Q48671199",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_h%C3%B4n_nh%C3%A2n"
+            },
+            {
+                "name": "Rough Night",
+                "qid": "Q27701601",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%87c_%C4%91%E1%BB%99c_th%C3%A2n_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "The Avengers",
+                "qid": "Q182218",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "The Jungle Book",
+                "qid": "Q16857406",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_r%E1%BB%ABng_xanh_(phim_2016)"
+            },
+            {
+                "name": "The Man Who Wasn't There",
+                "qid": "Q913440",
+                "url": "https://vi.wikipedia.org/wiki/The_Man_Who_Wasn%27t_There"
+            },
+            {
+                "name": "The Other Boleyn Girl",
+                "qid": "Q470073",
+                "url": "https://vi.wikipedia.org/wiki/The_Other_Boleyn_Girl_(phim_2008)"
+            },
+            {
+                "name": "The Prestige",
+                "qid": "Q46551",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A2o_thu%E1%BA%ADt_gia_%C4%91%E1%BA%A5u_tr%C3%AD"
+            },
+            {
+                "name": "Under the Skin",
+                "qid": "Q4366287",
+                "url": "https://vi.wikipedia.org/wiki/Under_the_Skin_(phim_2013)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Colin Jost",
+                "qid": "Q5145253",
+                "url": "https://vi.wikipedia.org/wiki/Colin_Jost"
+            },
+            {
+                "name": "Romain Dauriac",
+                "qid": "Q22808259"
+            },
+            {
+                "name": "Ryan Reynolds",
+                "qid": "Q192682",
+                "url": "https://vi.wikipedia.org/wiki/Ryan_Reynolds"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Frank Darabont",
+    "qid": "Q295445",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Frank_Darabont",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-01-28T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Green Mile",
+                "qid": "Q208263",
+                "url": "https://vi.wikipedia.org/wiki/The_Green_Mile_(phim)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "King Kong",
+                "qid": "Q160215",
+                "url": "https://vi.wikipedia.org/wiki/King_Kong_(phim_2005)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "The Green Mile",
+                "qid": "Q208263",
+                "url": "https://vi.wikipedia.org/wiki/The_Green_Mile_(phim)"
+            },
+            {
+                "name": "The Shawshank Redemption",
+                "qid": "Q172241",
+                "url": "https://vi.wikipedia.org/wiki/The_Shawshank_Redemption"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

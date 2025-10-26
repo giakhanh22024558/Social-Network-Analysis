@@ -1,0 +1,85 @@
+{
+    "name": "Aubrey Plaza",
+    "qid": "Q210547",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Aubrey_Plaza",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "NBC page",
+                "qid": "Q6952802"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "audiobook narrator",
+                "qid": "Q20856740"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "intern",
+                "qid": "Q315625"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1984-06-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Child's Play",
+                "qid": "Q56697304",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%BAp_b%C3%AA_s%C3%A1t_nh%C3%A2n_(phim_2019)"
+            },
+            {
+                "name": "Dirty Grandpa",
+                "qid": "Q18669866",
+                "url": "https://vi.wikipedia.org/wiki/Tay_ch%C6%A1i_kh%C3%B4ng_tu%E1%BB%95i"
+            },
+            {
+                "name": "Scott Pilgrim vs. the World",
+                "qid": "Q753899",
+                "url": "https://vi.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jeff Baena",
+                "qid": "Q26897001"
+            }
+        ]
+    }
+}

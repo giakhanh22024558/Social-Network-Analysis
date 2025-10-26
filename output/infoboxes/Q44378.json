@@ -1,0 +1,46 @@
+{
+    "name": "Paul Wight",
+    "qid": "Q44378",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Paul_Wight",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "basketball player",
+                "qid": "Q3665646"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "pundit",
+                "qid": "Q1642960"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1972-02-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "MacGruber",
+                "qid": "Q1579371",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%B7c_v%E1%BB%A5_(phim_2010)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

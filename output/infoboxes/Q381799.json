@@ -1,0 +1,95 @@
+{
+    "name": "Cary-Hiroyuki Tagawa",
+    "qid": "Q381799",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Cary-Hiroyuki_Tagawa",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "karateka",
+                "qid": "Q9017214"
+            },
+            {
+                "name": "martial artist",
+                "qid": "Q11124885"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1950-09-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Memoirs of a Geisha",
+                "qid": "Q45839",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93i_%E1%BB%A9c_c%E1%BB%A7a_m%E1%BB%99t_geisha_(phim)"
+            },
+            {
+                "name": "Mortal Kombat",
+                "qid": "Q819196",
+                "url": "https://vi.wikipedia.org/wiki/Mortal_Kombat_(phim_1995)"
+            },
+            {
+                "name": "Pearl Harbor",
+                "qid": "Q194413",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A2n_Ch%C3%A2u_C%E1%BA%A3ng_(phim)"
+            },
+            {
+                "name": "Planet of the Apes",
+                "qid": "Q469624",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_kh%E1%BB%89_(phim_2001)"
+            },
+            {
+                "name": "Tekken",
+                "qid": "Q868706",
+                "url": "https://vi.wikipedia.org/wiki/Tekken_(phim)"
+            },
+            {
+                "name": "The Last Emperor",
+                "qid": "Q212775",
+                "url": "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_%C4%91%E1%BA%BF_cu%E1%BB%91i_c%C3%B9ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Japan",
+                "qid": "Q17",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n"
+            },
+            {
+                "name": "Russia",
+                "qid": "Q159",
+                "url": "https://vi.wikipedia.org/wiki/Nga"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

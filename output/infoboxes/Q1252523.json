@@ -1,0 +1,85 @@
+{
+    "name": "Douglas Smith",
+    "qid": "Q1252523",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Douglas_Smith_(di%E1%BB%85n_vi%C3%AAn)",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Gregory Smith",
+                "qid": "Q18916"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Maurice Smith",
+                "qid": "Q95780824"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1985-06-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Don't Worry Darling",
+                "qid": "Q100801718",
+                "url": "https://vi.wikipedia.org/wiki/Em_y%C3%AAu_%C4%91%E1%BB%ABng_s%E1%BB%A3"
+            },
+            {
+                "name": "Milk",
+                "qid": "Q201687",
+                "url": "https://vi.wikipedia.org/wiki/Milk_(phim)"
+            },
+            {
+                "name": "Ouija",
+                "qid": "Q16253888",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_g%E1%BB%8Di_h%E1%BB%93n"
+            },
+            {
+                "name": "Percy Jackson & The Olympians - The Sea of Monsters",
+                "qid": "Q2984104",
+                "url": "https://vi.wikipedia.org/wiki/Percy_Jackson:_Bi%E1%BB%83n_qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Terminator Genisys",
+                "qid": "Q15140437",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_h%E1%BB%A7y_di%E1%BB%87t:_Th%E1%BB%9Di_%C4%91%E1%BA%A1i_Genisys"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

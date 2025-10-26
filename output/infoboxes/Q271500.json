@@ -1,0 +1,105 @@
+{
+    "name": "Tessa Thompson",
+    "qid": "Q271500",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tessa_Thompson",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Janelle Monáe",
+                "qid": "Q234356",
+                "url": "https://vi.wikipedia.org/wiki/Janelle_Mon%C3%A1e"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Marc Anthony Thompson",
+                "qid": "Q64022130"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-10-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annihilation",
+                "qid": "Q25136228",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_h%E1%BB%A7y_di%E1%BB%87t"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Creed III",
+                "qid": "Q110664384",
+                "url": "https://vi.wikipedia.org/wiki/Creed_III:_Tay_%C4%91%E1%BA%A5m_huy%E1%BB%81n_tho%E1%BA%A1i"
+            },
+            {
+                "name": "Lady and the Tramp",
+                "qid": "Q56596746",
+                "url": "https://vi.wikipedia.org/wiki/Lady_and_the_Tramp_(phim_2019)"
+            },
+            {
+                "name": "Men in Black: International",
+                "qid": "Q55439830",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_v%E1%BB%A5_%C3%A1o_%C4%91en:_S%E1%BB%A9_m%E1%BB%87nh_to%C3%A0n_c%E1%BA%A7u"
+            },
+            {
+                "name": "Thor: Love and Thunder",
+                "qid": "Q65768604",
+                "url": "https://vi.wikipedia.org/wiki/Thor:_T%C3%ACnh_y%C3%AAu_v%C3%A0_s%E1%BA%A5m_s%C3%A9t"
+            },
+            {
+                "name": "Thor: Ragnarok",
+                "qid": "Q22665878",
+                "url": "https://vi.wikipedia.org/wiki/Thor:_T%E1%BA%ADn_th%E1%BA%BF_Ragnarok"
+            },
+            {
+                "name": "When a Stranger Calls",
+                "qid": "Q908384",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_g%E1%BB%8Di_l%C3%BAc_n%E1%BB%ADa_%C4%91%C3%AAm"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

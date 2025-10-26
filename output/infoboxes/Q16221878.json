@@ -1,0 +1,63 @@
+{
+    "name": "Gabriel Luna",
+    "qid": "Q16221878",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Gabriel_Luna",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-12-05T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Terminator: Dark Fate",
+                "qid": "Q39072454",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_h%E1%BB%A7y_di%E1%BB%87t:_V%E1%BA%ADn_m%E1%BB%87nh_%C4%91en_t%E1%BB%91i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Mexico",
+                "qid": "Q96",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%A9xico"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Smaranda Luna",
+                "qid": "Q25786956"
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "name": "Logan Paul",
+    "qid": "Q24451685",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Logan_Paul",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jake Paul",
+                "qid": "Q25714026",
+                "url": "https://vi.wikipedia.org/wiki/Jake_Paul"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Greg Paul",
+                "qid": "Q123029959"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "YouTuber",
+                "qid": "Q17125263",
+                "url": "https://vi.wikipedia.org/wiki/YouTuber"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "boxer",
+                "qid": "Q11338576"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "showman",
+                "qid": "Q355242"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "vlogger",
+                "qid": "Q4110598"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1995-04-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Space Between Us",
+                "qid": "Q21450478",
+                "url": "https://vi.wikipedia.org/wiki/Kho%E1%BA%A3ng_c%C3%A1ch_gi%E1%BB%AFa_ch%C3%BAng_ta"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

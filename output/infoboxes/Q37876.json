@@ -1,0 +1,201 @@
+{
+    "name": "Natalie Portman",
+    "qid": "Q37876",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Natalie_Portman",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Avner Hershlag",
+                "qid": "Q132175541"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Aleph Millepied",
+                "qid": "Q113005440"
+            },
+            {
+                "name": "Amalia Millepied",
+                "qid": "Q113005425"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-06-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annihilation",
+                "qid": "Q25136228",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_h%E1%BB%A7y_di%E1%BB%87t"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Black Swan",
+                "qid": "Q180214",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_nga_%C4%91en_(phim)"
+            },
+            {
+                "name": "Closer",
+                "qid": "Q212098",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%ADch_l%E1%BA%A1i_g%E1%BA%A7n_nhau"
+            },
+            {
+                "name": "Cold Mountain",
+                "qid": "Q390097",
+                "url": "https://vi.wikipedia.org/wiki/N%C3%BAi_l%E1%BA%A1nh_(phim)"
+            },
+            {
+                "name": "Garden State",
+                "qid": "Q59931",
+                "url": "https://vi.wikipedia.org/wiki/Garden_State_(phim)"
+            },
+            {
+                "name": "Heat",
+                "qid": "Q42198",
+                "url": "https://vi.wikipedia.org/wiki/Heat_(phim_1995)"
+            },
+            {
+                "name": "Hotel Chevalier",
+                "qid": "Q474531",
+                "url": "https://vi.wikipedia.org/wiki/Hotel_Chevalier"
+            },
+            {
+                "name": "Léon: The Professional",
+                "qid": "Q484675",
+                "url": "https://vi.wikipedia.org/wiki/L%C3%A9on_(phim)"
+            },
+            {
+                "name": "My Blueberry Nights",
+                "qid": "Q737650",
+                "url": "https://vi.wikipedia.org/wiki/My_Blueberry_Nights"
+            },
+            {
+                "name": "New York, I Love You",
+                "qid": "Q44935",
+                "url": "https://vi.wikipedia.org/wiki/New_York,_I_Love_You"
+            },
+            {
+                "name": "No Strings Attached",
+                "qid": "Q474087",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_kh%C3%B4ng_r%C3%A0ng_bu%E1%BB%99c"
+            },
+            {
+                "name": "Paris, je t'aime",
+                "qid": "Q310617",
+                "url": "https://vi.wikipedia.org/wiki/Paris,_je_t%27aime"
+            },
+            {
+                "name": "Star Wars: Episode I – The Phantom Menace",
+                "qid": "Q165713",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_T%E1%BA%ADp_I_%E2%80%93_Hi%E1%BB%83m_h%E1%BB%8Da_b%C3%B3ng_ma"
+            },
+            {
+                "name": "Star Wars: Episode II – Attack of the Clones",
+                "qid": "Q181069",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_T%E1%BA%ADp_II_%E2%80%93_S%E1%BB%B1_x%C3%A2m_l%C4%83ng_c%E1%BB%A7a_ng%C6%B0%E1%BB%9Di_V%C3%B4_t%C3%ADnh"
+            },
+            {
+                "name": "Star Wars: Episode III – Revenge of the Sith",
+                "qid": "Q42051",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_T%E1%BA%ADp_III_%E2%80%93_S%E1%BB%B1_b%C3%A1o_th%C3%B9_c%E1%BB%A7a_ng%C6%B0%E1%BB%9Di_Sith"
+            },
+            {
+                "name": "The Other Boleyn Girl",
+                "qid": "Q470073",
+                "url": "https://vi.wikipedia.org/wiki/The_Other_Boleyn_Girl_(phim_2008)"
+            },
+            {
+                "name": "Thor",
+                "qid": "Q217020",
+                "url": "https://vi.wikipedia.org/wiki/Thor_(phim)"
+            },
+            {
+                "name": "Thor: Love and Thunder",
+                "qid": "Q65768604",
+                "url": "https://vi.wikipedia.org/wiki/Thor:_T%C3%ACnh_y%C3%AAu_v%C3%A0_s%E1%BA%A5m_s%C3%A9t"
+            },
+            {
+                "name": "Thor: The Dark World",
+                "qid": "Q1201853",
+                "url": "https://vi.wikipedia.org/wiki/Thor_2:_Th%E1%BA%BF_gi%E1%BB%9Bi_B%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "V for Vendetta",
+                "qid": "Q5890",
+                "url": "https://vi.wikipedia.org/wiki/V_for_Vendetta_(phim)"
+            },
+            {
+                "name": "Where the Heart Is",
+                "qid": "Q1500457",
+                "url": "https://vi.wikipedia.org/wiki/Where_the_Heart_Is_(phim_2000)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "New York, I Love You",
+                "qid": "Q44935",
+                "url": "https://vi.wikipedia.org/wiki/New_York,_I_Love_You"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Israel",
+                "qid": "Q801",
+                "url": "https://vi.wikipedia.org/wiki/Israel"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Benjamin Millepied",
+                "qid": "Q583186"
+            }
+        ]
+    }
+}

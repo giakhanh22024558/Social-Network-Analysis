@@ -1,0 +1,89 @@
+{
+    "name": "Austin Butler",
+    "qid": "Q469954",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Austin_Butler",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Kaia Gerber",
+                "qid": "Q22673974"
+            },
+            {
+                "name": "Vanessa Hudgens",
+                "qid": "Q123174",
+                "url": "https://vi.wikipedia.org/wiki/Vanessa_Hudgens"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1991-08-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Aliens in the Attic",
+                "qid": "Q119889",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_v%E1%BA%ADt_tr%C3%AAn_g%C3%A1c_x%C3%A9p"
+            },
+            {
+                "name": "Dune: Part Two",
+                "qid": "Q109228991",
+                "url": "https://vi.wikipedia.org/wiki/Dune:_H%C3%A0nh_tinh_c%C3%A1t_%E2%80%93_Ph%E1%BA%A7n_hai"
+            },
+            {
+                "name": "Elvis",
+                "qid": "Q84362533",
+                "url": "https://vi.wikipedia.org/wiki/Elvis_(phim_2022)"
+            },
+            {
+                "name": "Once Upon a Time in Hollywood",
+                "qid": "Q47300912",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_ng%C3%A0y_x%C6%B0a_%E1%BB%9F..._Hollywood"
+            },
+            {
+                "name": "Sharpay's Fabulous Adventure",
+                "qid": "Q390011",
+                "url": "https://vi.wikipedia.org/wiki/Sharpay%27s_Fabulous_Adventure"
+            },
+            {
+                "name": "Yoga Hosers",
+                "qid": "Q18168157",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_sinh_b%E1%BA%AFt_ma"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

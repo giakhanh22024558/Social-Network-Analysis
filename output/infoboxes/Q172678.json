@@ -1,0 +1,262 @@
+{
+    "name": "Samuel L. Jackson",
+    "qid": "Q172678",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Samuel_L._Jackson",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1948-12-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "1408",
+                "qid": "Q203560",
+                "url": "https://vi.wikipedia.org/wiki/1408_(phim)"
+            },
+            {
+                "name": "Argylle",
+                "qid": "Q107460063",
+                "url": "https://vi.wikipedia.org/wiki/Argylle:_Si%C3%AAu_%C4%91i%E1%BB%87p_vi%C3%AAn"
+            },
+            {
+                "name": "Avengers: Age of Ultron",
+                "qid": "Q14171368",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_%C4%90%E1%BA%BF_ch%E1%BA%BF_Ultron"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Barely Lethal",
+                "qid": "Q15613279",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_v%E1%BB%A5_Ku-te"
+            },
+            {
+                "name": "Captain America: The First Avenger",
+                "qid": "Q275120",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_K%E1%BA%BB_b%C3%A1o_th%C3%B9_%C4%91%E1%BA%A7u_ti%C3%AAn"
+            },
+            {
+                "name": "Captain America: The Winter Soldier",
+                "qid": "Q1765358",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America_2:_Chi%E1%BA%BFn_binh_m%C3%B9a_%C4%91%C3%B4ng"
+            },
+            {
+                "name": "Captain Marvel",
+                "qid": "Q23781129",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_u%C3%BD_Marvel_(phim)"
+            },
+            {
+                "name": "Django Unchained",
+                "qid": "Q571032",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tr%C3%ACnh_Django"
+            },
+            {
+                "name": "Glass",
+                "qid": "Q30939513",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_ba_qu%C3%A1i_nh%C3%A2n"
+            },
+            {
+                "name": "Hitman's Wife's Bodyguard",
+                "qid": "Q61951885",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_s%C4%A9_s%C3%A1t_th%E1%BB%A7_2:_Nh%C3%A0_c%C3%B3_n%C3%B3c"
+            },
+            {
+                "name": "Inglourious Basterds",
+                "qid": "Q153723",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_m%E1%BB%87nh_(phim_2009)"
+            },
+            {
+                "name": "Iron Man",
+                "qid": "Q192724",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_(phim_2008)"
+            },
+            {
+                "name": "Iron Man 2",
+                "qid": "Q205028",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_2"
+            },
+            {
+                "name": "Jumper",
+                "qid": "Q541079",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_th%E1%BB%91ng_tr%E1%BB%8B"
+            },
+            {
+                "name": "Jurassic Park",
+                "qid": "Q167726",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_k%E1%BB%B7_Jura"
+            },
+            {
+                "name": "Kingsman: The Golden Circle",
+                "qid": "Q23780457",
+                "url": "https://vi.wikipedia.org/wiki/Kingsman:_T%E1%BB%95_ch%E1%BB%A9c_Ho%C3%A0ng_Kim"
+            },
+            {
+                "name": "Kingsman: The Secret Service",
+                "qid": "Q15068238",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_v%E1%BB%A5_Kingsman"
+            },
+            {
+                "name": "Kong: Skull Island",
+                "qid": "Q21203766",
+                "url": "https://vi.wikipedia.org/wiki/Kong:_%C4%90%E1%BA%A3o_%C4%90%E1%BA%A7u_l%C3%A2u"
+            },
+            {
+                "name": "Miss Peregrine's Home for Peculiar Children",
+                "qid": "Q19321019",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%A1i_%E1%BA%A5m_l%E1%BA%A1_k%E1%BB%B3_c%E1%BB%A7a_c%C3%B4_Peregrine"
+            },
+            {
+                "name": "Paws of Fury: The Legend of Hank",
+                "qid": "Q21450513",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%B4n_ph%C3%A1i_v%C3%B5_m%C3%A8o:_Huy%E1%BB%81n_tho%E1%BA%A1i_m%E1%BB%99t_ch%C3%BA_ch%C3%B3"
+            },
+            {
+                "name": "Pulp Fiction",
+                "qid": "Q104123",
+                "url": "https://vi.wikipedia.org/wiki/Pulp_Fiction"
+            },
+            {
+                "name": "RoboCop",
+                "qid": "Q864518",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%A3nh_s%C3%A1t_ng%C6%B0%E1%BB%9Di_m%C3%A1y"
+            },
+            {
+                "name": "Snakes on a Plane",
+                "qid": "Q822660",
+                "url": "https://vi.wikipedia.org/wiki/R%E1%BA%AFn_%C4%91%E1%BB%99c_tr%C3%AAn_kh%C3%B4ng"
+            },
+            {
+                "name": "Spider-Man: Far From Home",
+                "qid": "Q27985819",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_xa_nh%C3%A0"
+            },
+            {
+                "name": "Star Wars: Episode I – The Phantom Menace",
+                "qid": "Q165713",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_T%E1%BA%ADp_I_%E2%80%93_Hi%E1%BB%83m_h%E1%BB%8Da_b%C3%B3ng_ma"
+            },
+            {
+                "name": "Star Wars: Episode II – Attack of the Clones",
+                "qid": "Q181069",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_T%E1%BA%ADp_II_%E2%80%93_S%E1%BB%B1_x%C3%A2m_l%C4%83ng_c%E1%BB%A7a_ng%C6%B0%E1%BB%9Di_V%C3%B4_t%C3%ADnh"
+            },
+            {
+                "name": "Star Wars: Episode III – Revenge of the Sith",
+                "qid": "Q42051",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_T%E1%BA%ADp_III_%E2%80%93_S%E1%BB%B1_b%C3%A1o_th%C3%B9_c%E1%BB%A7a_ng%C6%B0%E1%BB%9Di_Sith"
+            },
+            {
+                "name": "The Avengers",
+                "qid": "Q182218",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "The Hateful Eight",
+                "qid": "Q18225084",
+                "url": "https://vi.wikipedia.org/wiki/The_Hateful_Eight"
+            },
+            {
+                "name": "The Hitman's Bodyguard",
+                "qid": "Q23796644",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_s%C4%A9_s%C3%A1t_th%E1%BB%A7"
+            },
+            {
+                "name": "The Legend of Tarzan",
+                "qid": "Q17361809",
+                "url": "https://vi.wikipedia.org/wiki/Huy%E1%BB%81n_tho%E1%BA%A1i_Tarzan_(phim)"
+            },
+            {
+                "name": "The Marvels",
+                "qid": "Q89474225",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_Marvel"
+            },
+            {
+                "name": "The Negotiator",
+                "qid": "Q1428715",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_th%C6%B0%C6%A1ng_thuy%E1%BA%BFt"
+            },
+            {
+                "name": "The Other Guys",
+                "qid": "Q376807",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_c%E1%BB%9Bm_tranh_t%C3%A0i"
+            },
+            {
+                "name": "Thor",
+                "qid": "Q217020",
+                "url": "https://vi.wikipedia.org/wiki/Thor_(phim)"
+            },
+            {
+                "name": "xXx",
+                "qid": "Q283799",
+                "url": "https://vi.wikipedia.org/wiki/XXX_(phim_2002)"
+            },
+            {
+                "name": "xXx Return of Xander Cage",
+                "qid": "Q22075020",
+                "url": "https://vi.wikipedia.org/wiki/XXx:_Ph%E1%BA%A3n_%C4%91%C3%B2n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Gabon",
+                "qid": "Q1000",
+                "url": "https://vi.wikipedia.org/wiki/Gabon"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "LaTanya Richardson",
+                "qid": "Q441634"
+            }
+        ]
+    }
+}

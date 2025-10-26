@@ -1,0 +1,95 @@
+{
+    "name": "Virginia Madsen",
+    "qid": "Q229784",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Virginia_Madsen",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Q220584",
+                "qid": "Q220584"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Antonio Sabàto Jr.",
+                "qid": "Q379461"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Elaine Madsen",
+                "qid": "Q19666286"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-09-11T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Dune",
+                "qid": "Q114819",
+                "url": "https://vi.wikipedia.org/wiki/Dune_(phim_1984)"
+            },
+            {
+                "name": "Joy",
+                "qid": "Q19320969",
+                "url": "https://vi.wikipedia.org/wiki/Joy_%E2%80%93_Ng%C6%B0%E1%BB%9Di_ph%E1%BB%A5_n%E1%BB%AF_mang_t%C3%AAn_%22Ni%E1%BB%81m_vui%22"
+            },
+            {
+                "name": "The Haunting in Connecticut",
+                "qid": "Q45692",
+                "url": "https://vi.wikipedia.org/wiki/The_Haunting_in_Connecticut"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Danny Huston",
+                "qid": "Q357762",
+                "url": "https://vi.wikipedia.org/wiki/Danny_Huston"
+            },
+            {
+                "name": "Nick Holmes",
+                "qid": "Q16221330"
+            }
+        ]
+    }
+}

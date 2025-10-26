@@ -1,0 +1,198 @@
+{
+    "name": "Bill Murray",
+    "qid": "Q29250",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Bill_Murray",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Brian Doyle-Murray",
+                "qid": "Q912103"
+            },
+            {
+                "name": "Joel Murray",
+                "qid": "Q1120939"
+            },
+            {
+                "name": "John Murray",
+                "qid": "Q6249935"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Cooper Murray",
+                "qid": "Q47006020"
+            },
+            {
+                "name": "Homer Murray",
+                "qid": "Q107746489"
+            },
+            {
+                "name": "Luke Murray",
+                "qid": "Q107746527"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1950-09-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ant-Man and the Wasp: Quantumania",
+                "qid": "Q105359456",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_v%C3%A0_Chi%E1%BA%BFn_binh_Ong:_Th%E1%BA%BF_gi%E1%BB%9Bi_L%C6%B0%E1%BB%A3ng_t%E1%BB%AD"
+            },
+            {
+                "name": "City of Ember",
+                "qid": "Q1094125",
+                "url": "https://vi.wikipedia.org/wiki/City_of_Ember"
+            },
+            {
+                "name": "Dumb and Dumber To",
+                "qid": "Q14932750",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_ng%E1%BB%91c_g%E1%BA%B7p_nhau"
+            },
+            {
+                "name": "Get Smart",
+                "qid": "Q570652",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_86:_Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi"
+            },
+            {
+                "name": "Ghostbusters",
+                "qid": "Q108745",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma"
+            },
+            {
+                "name": "Ghostbusters",
+                "qid": "Q20120108",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma_(phim_2016)"
+            },
+            {
+                "name": "Ghostbusters: Afterlife",
+                "qid": "Q61883088",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma:_Chuy%E1%BB%83n_ki%E1%BA%BFp"
+            },
+            {
+                "name": "Ghostbusters: Frozen Empire",
+                "qid": "Q113300586",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma:_K%E1%BB%B7_nguy%C3%AAn_b%C4%83ng_gi%C3%A1"
+            },
+            {
+                "name": "Groundhog Day",
+                "qid": "Q488655",
+                "url": "https://vi.wikipedia.org/wiki/Groundhog_Day"
+            },
+            {
+                "name": "Lost in Translation",
+                "qid": "Q107270",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BA%A1c_l%E1%BB%91i_%E1%BB%9F_Tokyo"
+            },
+            {
+                "name": "Monuments Men",
+                "qid": "Q4407383",
+                "url": "https://vi.wikipedia.org/wiki/Kho_b%C3%A1u_b%E1%BB%8B_%C4%91%C3%A1nh_c%E1%BA%AFp"
+            },
+            {
+                "name": "Moonrise Kingdom",
+                "qid": "Q217112",
+                "url": "https://vi.wikipedia.org/wiki/Moonrise_Kingdom"
+            },
+            {
+                "name": "On the Rocks",
+                "qid": "Q64787973",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%AD_th%C3%A1ch_gia_%C4%91%C3%ACnh"
+            },
+            {
+                "name": "Space Jam: A New Legacy",
+                "qid": "Q56850065",
+                "url": "https://vi.wikipedia.org/wiki/Space_Jam:_K%E1%BB%B7_nguy%C3%AAn_m%E1%BB%9Bi"
+            },
+            {
+                "name": "The Grand Budapest Hotel",
+                "qid": "Q3521099",
+                "url": "https://vi.wikipedia.org/wiki/The_Grand_Budapest_Hotel"
+            },
+            {
+                "name": "The Jungle Book",
+                "qid": "Q16857406",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_r%E1%BB%ABng_xanh_(phim_2016)"
+            },
+            {
+                "name": "Tootsie",
+                "qid": "Q221249",
+                "url": "https://vi.wikipedia.org/wiki/Tootsie"
+            },
+            {
+                "name": "Zombieland",
+                "qid": "Q219810",
+                "url": "https://vi.wikipedia.org/wiki/Zombieland"
+            },
+            {
+                "name": "Zombieland: Double Tap",
+                "qid": "Q58879016",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_th%C3%A2y_ma:_C%C3%BA_b%E1%BA%AFn_%C4%91%C3%BAp"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jennifer Butler",
+                "qid": "Q107746615"
+            },
+            {
+                "name": "Mickey Kelly",
+                "qid": "Q107746272"
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "name": "Sigourney Weaver",
+    "qid": "Q102124",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sigourney_Weaver",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Sylvester Weaver",
+                "qid": "Q3247520"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Elizabeth Inglis",
+                "qid": "Q441889"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1949-10-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Monster Calls",
+                "qid": "Q18200409",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_th%E1%BB%89nh_c%E1%BA%A7u_Qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Abduction",
+                "qid": "Q143716",
+                "url": "https://vi.wikipedia.org/wiki/Truy_k%C3%ADch_(phim_2011)"
+            },
+            {
+                "name": "Alien",
+                "qid": "Q103569",
+                "url": "https://vi.wikipedia.org/wiki/Alien_(phim)"
+            },
+            {
+                "name": "Annie Hall",
+                "qid": "Q233464",
+                "url": "https://vi.wikipedia.org/wiki/Annie_Hall"
+            },
+            {
+                "name": "Avatar",
+                "qid": "Q24871",
+                "url": "https://vi.wikipedia.org/wiki/Avatar_(phim_2009)"
+            },
+            {
+                "name": "Avatar 4",
+                "qid": "Q29580931",
+                "url": "https://vi.wikipedia.org/wiki/Avatar_4"
+            },
+            {
+                "name": "Avatar: Fire and Ash",
+                "qid": "Q29580929",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_L%E1%BB%ADa_v%C3%A0_tro_t%C3%A0n"
+            },
+            {
+                "name": "Avatar: The Way of Water",
+                "qid": "Q3604746",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_D%C3%B2ng_ch%E1%BA%A3y_c%E1%BB%A7a_n%C6%B0%E1%BB%9Bc"
+            },
+            {
+                "name": "Chappie",
+                "qid": "Q15209986",
+                "url": "https://vi.wikipedia.org/wiki/Chappie_(phim)"
+            },
+            {
+                "name": "Exodus: Gods and Kings",
+                "qid": "Q14942871",
+                "url": "https://vi.wikipedia.org/wiki/Exodus:_Cu%E1%BB%99c_chi%E1%BA%BFn_ch%E1%BB%91ng_Pha-ra-%C3%B4ng"
+            },
+            {
+                "name": "Ghostbusters",
+                "qid": "Q108745",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma"
+            },
+            {
+                "name": "Ghostbusters",
+                "qid": "Q20120108",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma_(phim_2016)"
+            },
+            {
+                "name": "Ghostbusters: Afterlife",
+                "qid": "Q61883088",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma:_Chuy%E1%BB%83n_ki%E1%BA%BFp"
+            },
+            {
+                "name": "The Cabin in the Woods",
+                "qid": "Q45394",
+                "url": "https://vi.wikipedia.org/wiki/The_Cabin_in_the_Woods"
+            },
+            {
+                "name": "Vantage Point",
+                "qid": "Q274887",
+                "url": "https://vi.wikipedia.org/wiki/Vantage_Point"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jim Simpson",
+                "qid": "Q6198130"
+            }
+        ]
+    }
+}

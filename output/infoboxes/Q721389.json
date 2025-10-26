@@ -1,0 +1,57 @@
+{
+    "name": "James Foley",
+    "qid": "Q721389",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/James_Foley_(%C4%91%E1%BA%A1o_di%E1%BB%85n)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1953-12-28T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Fifty Shades Darker",
+                "qid": "Q22662385",
+                "url": "https://vi.wikipedia.org/wiki/N%C4%83m_m%C6%B0%C6%A1i_s%E1%BA%AFc_th%C3%A1i_%C4%91en_(phim)"
+            },
+            {
+                "name": "Fifty Shades Freed",
+                "qid": "Q22712210",
+                "url": "https://vi.wikipedia.org/wiki/N%C4%83m_m%C6%B0%C6%A1i_s%E1%BA%AFc_th%C3%A1i_t%E1%BB%B1_do"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

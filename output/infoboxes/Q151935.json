@@ -1,0 +1,53 @@
+{
+    "name": "Kirstie Alley",
+    "qid": "Q151935",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kirstie_Alley",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Robert Deal Alley",
+                "qid": "Q115645454"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Lillian Alley",
+                "qid": "Q115645615"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1951-01-12T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/09363d357b4e75c230dea40e6bb88add"
+            },
+            {
+                "name": "Parker Stevenson",
+                "qid": "Q1319934"
+            }
+        ]
+    }
+}

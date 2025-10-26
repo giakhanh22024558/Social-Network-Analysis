@@ -1,0 +1,60 @@
+{
+    "name": "Vân Sơn",
+    "qid": "Q10833156",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/V%C3%A2n_S%C6%A1n_(ngh%E1%BB%87_s%C4%A9_h%C3%A0i)",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Nguyễn Dương",
+                "qid": "Q117088053",
+                "url": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_D%C6%B0%C6%A1ng"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "stage manager",
+                "qid": "Q19375711"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-10-05T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Chanh Tin Nguyen",
+                "qid": "Q10799001",
+                "url": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ch%C3%A1nh_T%C3%ADn"
+            },
+            {
+                "name": "Charlie Nguyen",
+                "qid": "Q5085300",
+                "url": "https://vi.wikipedia.org/wiki/Charlie_Nguy%E1%BB%85n"
+            },
+            {
+                "name": "Johnny Tri Nguyen",
+                "qid": "Q1396357",
+                "url": "https://vi.wikipedia.org/wiki/Johnny_Tr%C3%AD_Nguy%E1%BB%85n"
+            }
+        ]
+    }
+}

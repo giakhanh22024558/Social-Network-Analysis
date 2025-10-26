@@ -1,0 +1,35 @@
+{
+    "name": "Evander Holyfield",
+    "qid": "Q313451",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Evander_Holyfield",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "boxer",
+                "qid": "Q11338576"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-10-19T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

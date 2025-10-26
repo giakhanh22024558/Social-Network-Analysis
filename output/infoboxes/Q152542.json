@@ -1,0 +1,68 @@
+{
+    "name": "William Sadler",
+    "qid": "Q152542",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/William_Sadler",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1950-04-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Eagle Eye",
+                "qid": "Q158474",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%AFt_%C4%91%E1%BA%A1i_b%C3%A0ng"
+            },
+            {
+                "name": "Iron Man 3",
+                "qid": "Q209538",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_3"
+            },
+            {
+                "name": "Man on a Ledge",
+                "qid": "Q194696",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_tr%C3%AAn_g%E1%BB%9D_t%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "The Green Mile",
+                "qid": "Q208263",
+                "url": "https://vi.wikipedia.org/wiki/The_Green_Mile_(phim)"
+            },
+            {
+                "name": "The Shawshank Redemption",
+                "qid": "Q172241",
+                "url": "https://vi.wikipedia.org/wiki/The_Shawshank_Redemption"
+            },
+            {
+                "name": "The Unholy",
+                "qid": "Q86751110",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A4n_qu%E1%BB%B7"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

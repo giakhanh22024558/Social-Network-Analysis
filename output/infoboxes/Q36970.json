@@ -1,0 +1,339 @@
+{
+    "name": "Jackie Chan",
+    "qid": "Q36970",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_Long",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Charles Chan",
+                "qid": "Q4261937"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Etta Ng",
+                "qid": "Q54317718"
+            },
+            {
+                "name": "Liu Kang",
+                "qid": "Q561310"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Lee-Lee Chan",
+                "qid": "Q21535085"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "choreographer",
+                "qid": "Q2490358"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "judoka",
+                "qid": "Q6665249"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stunt performer",
+                "qid": "Q465501",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91%C3%B3ng_th%E1%BA%BF"
+            },
+            {
+                "name": "taekwondo athlete",
+                "qid": "Q13382533"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1954-04-07T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Chinese Zodiac",
+                "qid": "Q391143",
+                "url": "https://vi.wikipedia.org/wiki/12_con_gi%C3%A1p_(phim)"
+            },
+            {
+                "name": "Dragon Blade",
+                "qid": "Q17002139",
+                "url": "https://vi.wikipedia.org/wiki/Ki%E1%BA%BFm_R%E1%BB%93ng_(phim_2015)"
+            },
+            {
+                "name": "Gen-X Cops",
+                "qid": "Q645387",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_c%E1%BA%A3nh_t%C3%A2n_nh%C3%A2n_lo%E1%BA%A1i"
+            },
+            {
+                "name": "New Police Story",
+                "qid": "Q863762",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2n_c%C3%A2u_chuy%E1%BB%87n_c%E1%BA%A3nh_s%C3%A1t"
+            },
+            {
+                "name": "Rob-B-Hood",
+                "qid": "Q1322844",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BF_ho%E1%BA%A1ch_Baby"
+            },
+            {
+                "name": "Rouge",
+                "qid": "Q834800",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAn_chi_kh%C3%A2u"
+            },
+            {
+                "name": "Shanghai Noon",
+                "qid": "Q849475",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C6%B0a_Th%C6%B0%E1%BB%A3ng_H%E1%BA%A3i"
+            },
+            {
+                "name": "Skiptrace",
+                "qid": "Q18613571",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BA%A9u_tho%C3%A1t_ngo%E1%BA%A1n_m%E1%BB%A5c"
+            },
+            {
+                "name": "Supercop",
+                "qid": "Q1144956",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_c%E1%BA%A3nh_s%C3%A1t_3:_Si%C3%AAu_c%E1%BA%A3nh_s%C3%A1t"
+            },
+            {
+                "name": "The Foreigner",
+                "qid": "Q22252048",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_ngo%E1%BA%A1i_t%E1%BB%99c"
+            },
+            {
+                "name": "The Myth",
+                "qid": "Q1195928",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A7n_tho%E1%BA%A1i_(phim)"
+            },
+            {
+                "name": "Wish Dragon",
+                "qid": "Q61740797",
+                "url": "https://vi.wikipedia.org/wiki/%C6%AF%E1%BB%9Bc_nguy%E1%BB%87n_th%E1%BA%A7n_long"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "1911",
+                "qid": "Q206182",
+                "url": "https://vi.wikipedia.org/wiki/1911_(phim)"
+            },
+            {
+                "name": "Bleeding Steel",
+                "qid": "Q27703164",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3_tim_th%C3%A9p"
+            },
+            {
+                "name": "Chinese Zodiac",
+                "qid": "Q391143",
+                "url": "https://vi.wikipedia.org/wiki/12_con_gi%C3%A1p_(phim)"
+            },
+            {
+                "name": "Dragon Blade",
+                "qid": "Q17002139",
+                "url": "https://vi.wikipedia.org/wiki/Ki%E1%BA%BFm_R%E1%BB%93ng_(phim_2015)"
+            },
+            {
+                "name": "Drunken Master II",
+                "qid": "Q1261372",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%BAy_quy%E1%BB%81n_II"
+            },
+            {
+                "name": "First Strike",
+                "qid": "Q1144962",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_c%E1%BA%A3nh_s%C3%A1t_4:_Nhi%E1%BB%87m_v%E1%BB%A5_%C4%91%C6%A1n_gi%E1%BA%A3n"
+            },
+            {
+                "name": "Gen-X Cops",
+                "qid": "Q645387",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_c%E1%BA%A3nh_t%C3%A2n_nh%C3%A2n_lo%E1%BA%A1i"
+            },
+            {
+                "name": "Island of Fire",
+                "qid": "Q709237",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_l%E1%BB%ADa"
+            },
+            {
+                "name": "New Police Story",
+                "qid": "Q863762",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2n_c%C3%A2u_chuy%E1%BB%87n_c%E1%BA%A3nh_s%C3%A1t"
+            },
+            {
+                "name": "Police Story",
+                "qid": "Q594033",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_c%E1%BA%A3nh_s%C3%A1t"
+            },
+            {
+                "name": "Police Story 2",
+                "qid": "Q378013",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_c%E1%BA%A3nh_s%C3%A1t_2"
+            },
+            {
+                "name": "Police Story 2013",
+                "qid": "Q13550796",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_c%E1%BA%A3nh_s%C3%A1t_2013"
+            },
+            {
+                "name": "Railroad Tigers",
+                "qid": "Q24278862",
+                "url": "https://vi.wikipedia.org/wiki/Thi%E1%BA%BFt_%C4%91%E1%BA%A1o_phi_h%E1%BB%95"
+            },
+            {
+                "name": "Rob-B-Hood",
+                "qid": "Q1322844",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BF_ho%E1%BA%A1ch_Baby"
+            },
+            {
+                "name": "Rush Hour",
+                "qid": "Q255342",
+                "url": "https://vi.wikipedia.org/wiki/Rush_Hour_(phim_1998)"
+            },
+            {
+                "name": "Rush Hour 2",
+                "qid": "Q830208",
+                "url": "https://vi.wikipedia.org/wiki/Rush_Hour_2"
+            },
+            {
+                "name": "Shanghai Noon",
+                "qid": "Q849475",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C6%B0a_Th%C6%B0%E1%BB%A3ng_H%E1%BA%A3i"
+            },
+            {
+                "name": "Shaolin",
+                "qid": "Q24515",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2n_Thi%E1%BA%BFu_L%C3%A2m_t%E1%BB%B1"
+            },
+            {
+                "name": "Skiptrace",
+                "qid": "Q18613571",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BA%A9u_tho%C3%A1t_ngo%E1%BA%A1n_m%E1%BB%A5c"
+            },
+            {
+                "name": "Supercop",
+                "qid": "Q1144956",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_c%E1%BA%A3nh_s%C3%A1t_3:_Si%C3%AAu_c%E1%BA%A3nh_s%C3%A1t"
+            },
+            {
+                "name": "The Forbidden Kingdom",
+                "qid": "Q176568",
+                "url": "https://vi.wikipedia.org/wiki/Vua_Kung_Fu"
+            },
+            {
+                "name": "The Foreigner",
+                "qid": "Q22252048",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_ngo%E1%BA%A1i_t%E1%BB%99c"
+            },
+            {
+                "name": "The Founding of a Republic",
+                "qid": "Q2900799",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_nghi%E1%BB%87p_ki%E1%BA%BFn_qu%E1%BB%91c"
+            },
+            {
+                "name": "The Karate Kid",
+                "qid": "Q327685",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_nh%C3%AD_Karate"
+            },
+            {
+                "name": "The Lego Ninjago Movie",
+                "qid": "Q22131901",
+                "url": "https://vi.wikipedia.org/wiki/Phim_Lego_Ninjago"
+            },
+            {
+                "name": "The Myth",
+                "qid": "Q1195928",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A7n_tho%E1%BA%A1i_(phim)"
+            },
+            {
+                "name": "The Tuxedo",
+                "qid": "Q634493",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_vest_Tuxedo"
+            },
+            {
+                "name": "The Twins Effect",
+                "qid": "Q687068",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_c%C6%A1_bi%E1%BA%BFn"
+            },
+            {
+                "name": "The Twins Effect II",
+                "qid": "Q3234902",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_c%C6%A1_bi%E1%BA%BFn_2:_Hoa_%C4%90%C3%B4_%C4%91%E1%BA%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Who Am I?",
+                "qid": "Q847530",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%B4i_l%C3%A0_ai%3F"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "1911",
+                "qid": "Q206182",
+                "url": "https://vi.wikipedia.org/wiki/1911_(phim)"
+            },
+            {
+                "name": "Chinese Zodiac",
+                "qid": "Q391143",
+                "url": "https://vi.wikipedia.org/wiki/12_con_gi%C3%A1p_(phim)"
+            },
+            {
+                "name": "Police Story",
+                "qid": "Q594033",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_c%E1%BA%A3nh_s%C3%A1t"
+            },
+            {
+                "name": "Police Story 2",
+                "qid": "Q378013",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_c%E1%BA%A3nh_s%C3%A1t_2"
+            },
+            {
+                "name": "Who Am I?",
+                "qid": "Q847530",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%B4i_l%C3%A0_ai%3F"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "British Hong Kong",
+                "qid": "Q1054923",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93ng_K%C3%B4ng_thu%E1%BB%99c_Anh"
+            },
+            {
+                "name": "People's Republic of China",
+                "qid": "Q148",
+                "url": "https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Chinchin Wan",
+                "qid": "Q717669",
+                "url": "https://vi.wikipedia.org/wiki/L%C3%A2m_Ph%E1%BB%A5ng_Ki%E1%BB%81u"
+            }
+        ]
+    }
+}

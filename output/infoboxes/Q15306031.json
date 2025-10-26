@@ -1,0 +1,82 @@
+{
+    "name": "Awkwafina",
+    "qid": "Q15306031",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Awkwafina",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "celebrity",
+                "qid": "Q211236",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_n%E1%BB%95i_ti%E1%BA%BFng"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1988-06-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Crazy Rich Asians",
+                "qid": "Q29588623",
+                "url": "https://vi.wikipedia.org/wiki/Con_nh%C3%A0_si%C3%AAu_gi%C3%A0u_ch%C3%A2u_%C3%81"
+            },
+            {
+                "name": "Jumanji: The Next Level",
+                "qid": "Q60501923",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_k%E1%BB%B3_%E1%BA%A3o:_Th%C4%83ng_c%E1%BA%A5p"
+            },
+            {
+                "name": "Ocean's 8",
+                "qid": "Q25627545",
+                "url": "https://vi.wikipedia.org/wiki/B%C4%83ng_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7:_%C4%90%E1%BA%B3ng_c%E1%BA%A5p_qu%C3%BD_c%C3%B4"
+            },
+            {
+                "name": "Shang-Chi and the Legend of the Ten Rings",
+                "qid": "Q65768589",
+                "url": "https://vi.wikipedia.org/wiki/Shang-Chi_v%C3%A0_huy%E1%BB%81n_tho%E1%BA%A1i_Th%E1%BA%ADp_Lu%C3%A2n"
+            },
+            {
+                "name": "The Farewell",
+                "qid": "Q60611804",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_t%E1%BB%AB_bi%E1%BB%87t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

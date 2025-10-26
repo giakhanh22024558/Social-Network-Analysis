@@ -1,0 +1,73 @@
+{
+    "name": "Maddie Ziegler",
+    "qid": "Q16240603",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Maddie_Ziegler",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Mackenzie Ziegler",
+                "qid": "Q18211858"
+            },
+            {
+                "name": "Michele Gisoni",
+                "qid": "Q90809463"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Kurt Ziegler",
+                "qid": "Q90808133"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2002-09-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Fallout",
+                "qid": "Q103931967",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BA%ADu_qu%E1%BA%A3_(phim)"
+            },
+            {
+                "name": "West Side Story",
+                "qid": "Q63643994",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_ph%C3%ADa_T%C3%A2y_(phim_2021)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

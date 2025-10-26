@@ -1,0 +1,87 @@
+{
+    "name": "Martin Donovan",
+    "qid": "Q726130",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Martin_Donovan",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-08-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Agent Cody Banks",
+                "qid": "Q392677",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_Cody_Banks"
+            },
+            {
+                "name": "Ant-Man",
+                "qid": "Q5901134",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_(phim)"
+            },
+            {
+                "name": "Inherent Vice",
+                "qid": "Q13806537",
+                "url": "https://vi.wikipedia.org/wiki/Inherent_Vice_(phim)"
+            },
+            {
+                "name": "Onegin",
+                "qid": "Q50969",
+                "url": "https://vi.wikipedia.org/wiki/Onegin_(phim)"
+            },
+            {
+                "name": "Sabotage",
+                "qid": "Q797678",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "Tenet",
+                "qid": "Q63985561",
+                "url": "https://vi.wikipedia.org/wiki/Tenet"
+            },
+            {
+                "name": "The Haunting in Connecticut",
+                "qid": "Q45692",
+                "url": "https://vi.wikipedia.org/wiki/The_Haunting_in_Connecticut"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

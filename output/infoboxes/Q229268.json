@@ -1,0 +1,98 @@
+{
+    "name": "Patricia Clarkson",
+    "qid": "Q229268",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Patricia_Clarkson",
+    "gender": "female",
+    "infobox": {
+        "Mẹ (P25)": [
+            {
+                "name": "Jackie Clarkson",
+                "qid": "Q6116293"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-12-29T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annie",
+                "qid": "Q15039835",
+                "url": "https://vi.wikipedia.org/wiki/Annie_(phim_2014)"
+            },
+            {
+                "name": "Jumanji",
+                "qid": "Q222939",
+                "url": "https://vi.wikipedia.org/wiki/Jumanji"
+            },
+            {
+                "name": "Maze Runner: The Death Cure",
+                "qid": "Q23068002",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_m%C3%AA_cung:_L%E1%BB%91i_tho%C3%A1t_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Maze Runner: The Scorch Trials",
+                "qid": "Q18359358",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_m%C3%AA_cung:_Th%E1%BB%AD_nghi%E1%BB%87m_%C4%91%E1%BA%A5t_ch%C3%A1y"
+            },
+            {
+                "name": "No Reservations",
+                "qid": "Q761548",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_ho%C3%A0ng_b%C4%83ng_gi%C3%A1_(phim_2007)"
+            },
+            {
+                "name": "One Day",
+                "qid": "Q232161",
+                "url": "https://vi.wikipedia.org/wiki/One_Day_(phim_2011)"
+            },
+            {
+                "name": "Shutter Island",
+                "qid": "Q210364",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_kinh_ho%C3%A0ng_(phim_2010)"
+            },
+            {
+                "name": "The Dead Pool",
+                "qid": "Q263460",
+                "url": "https://vi.wikipedia.org/wiki/The_Dead_Pool"
+            },
+            {
+                "name": "The Green Mile",
+                "qid": "Q208263",
+                "url": "https://vi.wikipedia.org/wiki/The_Green_Mile_(phim)"
+            },
+            {
+                "name": "The Maze Runner",
+                "qid": "Q13099455",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_m%C3%AA_cung_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "name": "Donald Trump",
+    "qid": "Q22686",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Donald_Trump",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Elizabeth Trump Grau",
+                "qid": "Q42682869"
+            },
+            {
+                "name": "Fred Trump Jr.",
+                "qid": "Q42682724"
+            },
+            {
+                "name": "Maryanne Trump Barry",
+                "qid": "Q736223"
+            },
+            {
+                "name": "Robert Trump",
+                "qid": "Q28748031",
+                "url": "https://vi.wikipedia.org/wiki/Robert_Trump"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Fred Trump",
+                "qid": "Q3752663",
+                "url": "https://vi.wikipedia.org/wiki/Fred_Trump"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Barron Trump",
+                "qid": "Q23000814"
+            },
+            {
+                "name": "Donald Trump Jr.",
+                "qid": "Q3713655",
+                "url": "https://vi.wikipedia.org/wiki/Donald_Trump_Jr."
+            },
+            {
+                "name": "Eric Trump",
+                "qid": "Q3731533",
+                "url": "https://vi.wikipedia.org/wiki/Eric_Trump"
+            },
+            {
+                "name": "Ivanka Trump",
+                "qid": "Q239411",
+                "url": "https://vi.wikipedia.org/wiki/Ivanka_Trump"
+            },
+            {
+                "name": "Tiffany Trump",
+                "qid": "Q12071552",
+                "url": "https://vi.wikipedia.org/wiki/Tiffany_Trump"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Mary Anne MacLeod Trump",
+                "qid": "Q22952511",
+                "url": "https://vi.wikipedia.org/wiki/Mary_Anne_MacLeod_Trump"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "business magnate",
+                "qid": "Q911554",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B9m_t%C6%B0_b%E1%BA%A3n"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "chief executive officer",
+                "qid": "Q484876",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%95ng_gi%C3%A1m_%C4%91%E1%BB%91c_%C4%91i%E1%BB%81u_h%C3%A0nh"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "game show host",
+                "qid": "Q22662561"
+            },
+            {
+                "name": "investor",
+                "qid": "Q557880",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%91%E1%BA%A7u_t%C6%B0"
+            },
+            {
+                "name": "merchant",
+                "qid": "Q215536",
+                "url": "https://vi.wikipedia.org/wiki/Th%C6%B0%C6%A1ng_gia"
+            },
+            {
+                "name": "politician",
+                "qid": "Q82955",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%ADnh_kh%C3%A1ch"
+            },
+            {
+                "name": "real estate entrepreneur",
+                "qid": "Q7301138",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_%C4%91%E1%BA%A7u_t%C6%B0_b%E1%BA%A5t_%C4%91%E1%BB%99ng_s%E1%BA%A3n"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1946-06-14T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "BlacKkKlansman",
+                "qid": "Q43370948",
+                "url": "https://vi.wikipedia.org/wiki/BlacKkKlansman"
+            },
+            {
+                "name": "Bombshell",
+                "qid": "Q58814589",
+                "url": "https://vi.wikipedia.org/wiki/Tin_%E2%80%9Cn%C3%B3ng%E2%80%9D"
+            },
+            {
+                "name": "Home Alone 2: Lost in New York",
+                "qid": "Q221202",
+                "url": "https://vi.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York"
+            },
+            {
+                "name": "Miss Americana",
+                "qid": "Q77833628",
+                "url": "https://vi.wikipedia.org/wiki/Miss_Americana"
+            },
+            {
+                "name": "Snowden",
+                "qid": "Q19315473",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_v%E1%BB%A5_Snowden"
+            },
+            {
+                "name": "Wall Street: Money Never Sleeps",
+                "qid": "Q326526",
+                "url": "https://vi.wikipedia.org/wiki/Ph%E1%BB%91_Wall:_Ma_l%E1%BB%B1c_%C4%91%E1%BB%93ng_ti%E1%BB%81n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Melania Trump",
+                "qid": "Q432473",
+                "url": "https://vi.wikipedia.org/wiki/Melania_Trump"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Donald Trump III",
+                "qid": "Q23000825"
+            },
+            {
+                "name": "Elizabeth Christ Trump",
+                "qid": "Q23600580"
+            },
+            {
+                "name": "Jared Kushner",
+                "qid": "Q13628723",
+                "url": "https://vi.wikipedia.org/wiki/Jared_Kushner"
+            },
+            {
+                "name": "John G. Trump",
+                "qid": "Q1576675"
+            },
+            {
+                "name": "John Whitney Walter",
+                "qid": "Q102257613"
+            },
+            {
+                "name": "Kai Trump",
+                "qid": "Q23000822"
+            },
+            {
+                "name": "Lara Trump",
+                "qid": "Q29033452"
+            },
+            {
+                "name": "Mary L. Trump",
+                "qid": "Q96475328"
+            },
+            {
+                "name": "Vanessa Trump",
+                "qid": "Q4461939"
+            }
+        ]
+    }
+}

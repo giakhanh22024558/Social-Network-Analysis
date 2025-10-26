@@ -1,0 +1,63 @@
+{
+    "name": "Monique Coleman",
+    "qid": "Q230194",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Monique_Coleman",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-11-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "High School Musical",
+                "qid": "Q53110",
+                "url": "https://vi.wikipedia.org/wiki/High_School_Musical"
+            },
+            {
+                "name": "High School Musical 2",
+                "qid": "Q53113",
+                "url": "https://vi.wikipedia.org/wiki/High_School_Musical_2"
+            },
+            {
+                "name": "High School Musical 3: Senior Year",
+                "qid": "Q53115",
+                "url": "https://vi.wikipedia.org/wiki/High_School_Musical_3:_L%E1%BB%85_t%E1%BB%91t_nghi%E1%BB%87p"
+            },
+            {
+                "name": "Naomi and Ely's No Kiss List",
+                "qid": "Q20751333",
+                "url": "https://vi.wikipedia.org/wiki/Naomi_and_Ely%27s_No_Kiss_List"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

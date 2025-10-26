@@ -1,0 +1,68 @@
+{
+    "name": "Steve Wozniak",
+    "qid": "Q483382",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steve_Wozniak",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "computer scientist",
+                "qid": "Q82594",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_khoa_h%E1%BB%8Dc_m%C3%A1y_t%C3%ADnh"
+            },
+            {
+                "name": "inventor",
+                "qid": "Q205375",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_ph%C3%A1t_minh"
+            },
+            {
+                "name": "programmer",
+                "qid": "Q5482740",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BA%ADp_tr%C3%ACnh_vi%C3%AAn"
+            },
+            {
+                "name": "teacher",
+                "qid": "Q37226",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1o_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1950-08-11T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Poland",
+                "qid": "Q36",
+                "url": "https://vi.wikipedia.org/wiki/Ba_Lan"
+            },
+            {
+                "name": "Serbia",
+                "qid": "Q403",
+                "url": "https://vi.wikipedia.org/wiki/Serbia"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Janet Hill",
+                "qid": "Q22442739"
+            }
+        ]
+    }
+}

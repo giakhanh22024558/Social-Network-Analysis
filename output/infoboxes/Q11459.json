@@ -1,0 +1,98 @@
+{
+    "name": "Serena Williams",
+    "qid": "Q11459",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Serena_Williams",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Venus Williams",
+                "qid": "Q11578",
+                "url": "https://vi.wikipedia.org/wiki/Venus_Williams"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Alexis Ohanian",
+                "qid": "Q4721504"
+            },
+            {
+                "name": "Drake",
+                "qid": "Q33240",
+                "url": "https://vi.wikipedia.org/wiki/Drake"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Richard A Williams Jr",
+                "qid": "Q1959913"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Alexis Olympia Ohanian, Jr.",
+                "qid": "Q60664634"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Oracene Price",
+                "qid": "Q7099217"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "designer",
+                "qid": "Q5322166"
+            },
+            {
+                "name": "tennis player",
+                "qid": "Q10833314"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-09-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Pixels",
+                "qid": "Q17182905",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_Pixels"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Alexis Ohanian",
+                "qid": "Q4721504"
+            }
+        ]
+    }
+}

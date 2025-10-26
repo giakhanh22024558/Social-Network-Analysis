@@ -1,0 +1,55 @@
+{
+    "name": "Paula Deen",
+    "qid": "Q3071037",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Paula_Deen",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Bobby Deen",
+                "qid": "Q4934922"
+            },
+            {
+                "name": "Jamie Deen",
+                "qid": "Q6146812"
+            },
+            {
+                "name": "Pauly D",
+                "qid": "Q2180911"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "chef",
+                "qid": "Q3499072",
+                "url": "https://vi.wikipedia.org/wiki/Chef"
+            },
+            {
+                "name": "restaurateur",
+                "qid": "Q3427922"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1947-01-19T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Reid Scott",
+    "qid": "Q2139900",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Reid_Scott_(di%E1%BB%85n_vi%C3%AAn)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-11-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Intern",
+                "qid": "Q18151084",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_gi%C3%A0_h%E1%BB%8Dc_vi%E1%BB%87c"
+            },
+            {
+                "name": "Venom",
+                "qid": "Q23006268",
+                "url": "https://vi.wikipedia.org/wiki/Venom_(phim_2018)"
+            },
+            {
+                "name": "Venom: Let There Be Carnage",
+                "qid": "Q60498064",
+                "url": "https://vi.wikipedia.org/wiki/Venom:_%C4%90%E1%BB%91i_m%E1%BA%B7t_t%E1%BB%AD_th%C3%B9"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

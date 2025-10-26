@@ -1,0 +1,113 @@
+{
+    "name": "Jenny Slate",
+    "qid": "Q744166",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jenny_Slate",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Chris Evans",
+                "qid": "Q178348",
+                "url": "https://vi.wikipedia.org/wiki/Chris_Evans_(di%E1%BB%85n_vi%C3%AAn)"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "children's writer",
+                "qid": "Q4853732"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stand-up comedian",
+                "qid": "Q18545066"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-03-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Alvin and the Chipmunks: Chipwrecked",
+                "qid": "Q303678",
+                "url": "https://vi.wikipedia.org/wiki/Alvin_and_the_Chipmunks_3"
+            },
+            {
+                "name": "Everything Everywhere All at Once",
+                "qid": "Q83808444",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_%C4%91a_v%C5%A9_tr%E1%BB%A5"
+            },
+            {
+                "name": "Hotel Artemis",
+                "qid": "Q30321613",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%A1ch_s%E1%BA%A1n_t%E1%BB%99i_ph%E1%BA%A1m"
+            },
+            {
+                "name": "I Want You Back",
+                "qid": "Q106578104",
+                "url": "https://vi.wikipedia.org/wiki/I_Want_You_Back_(phim)"
+            },
+            {
+                "name": "It Ends With Us",
+                "qid": "Q118641054",
+                "url": "https://vi.wikipedia.org/wiki/N%C6%A1i_t%C3%ACnh_y%C3%AAu_k%E1%BA%BFt_th%C3%BAc"
+            },
+            {
+                "name": "The Secret Life of Pets 2",
+                "qid": "Q28561715",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B3ng_c%E1%BA%A5p_th%C3%BA_c%C6%B0ng_2"
+            },
+            {
+                "name": "This Means War",
+                "qid": "Q1049480",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_t%C3%ACnh_y%C3%AAu"
+            },
+            {
+                "name": "Venom",
+                "qid": "Q23006268",
+                "url": "https://vi.wikipedia.org/wiki/Venom_(phim_2018)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

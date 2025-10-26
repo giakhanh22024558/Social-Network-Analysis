@@ -1,0 +1,97 @@
+{
+    "name": "Will Patton",
+    "qid": "Q361400",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Will_Patton",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "audiobook narrator",
+                "qid": "Q20856740"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1954-06-14T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Mighty Heart",
+                "qid": "Q917355",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A1i_tim_qu%E1%BA%A3_c%E1%BA%A3m"
+            },
+            {
+                "name": "Armageddon",
+                "qid": "Q208344",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_t%E1%BA%ADn_th%E1%BA%BF_(phim_1998)"
+            },
+            {
+                "name": "Brooklyn's Finest",
+                "qid": "Q905385",
+                "url": "https://vi.wikipedia.org/wiki/Brooklyn%27s_Finest"
+            },
+            {
+                "name": "Entrapment",
+                "qid": "Q578873",
+                "url": "https://vi.wikipedia.org/wiki/Entrapment_(phim)"
+            },
+            {
+                "name": "Halloween",
+                "qid": "Q20666646",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_(phim_2018)"
+            },
+            {
+                "name": "Halloween Ends",
+                "qid": "Q85997053",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_Ends"
+            },
+            {
+                "name": "Halloween Kills",
+                "qid": "Q67279679",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_Kills"
+            },
+            {
+                "name": "Minari",
+                "qid": "Q65679599",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%A1t_v%E1%BB%8Dng_%C4%91%E1%BB%95i_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "The Fourth Kind",
+                "qid": "Q475789",
+                "url": "https://vi.wikipedia.org/wiki/The_Fourth_Kind"
+            },
+            {
+                "name": "The Mothman Prophecies",
+                "qid": "Q1214896",
+                "url": "https://vi.wikipedia.org/wiki/The_Mothman_Prophecies_(phim)"
+            },
+            {
+                "name": "The November Man",
+                "qid": "Q14117444",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_th%E1%BB%A7_th%C3%A1ng_m%C6%B0%E1%BB%9Di_m%E1%BB%99t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,351 @@
+{
+    "name": "Brad Pitt",
+    "qid": "Q35332",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Brad_Pitt",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Douglas Pitt",
+                "qid": "Q16196651"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Angelina Jolie",
+                "qid": "Q13909",
+                "url": "https://vi.wikipedia.org/wiki/Angelina_Jolie"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "qid": "Q34460",
+                "url": "https://vi.wikipedia.org/wiki/Gwyneth_Paltrow"
+            },
+            {
+                "name": "Jennifer Aniston",
+                "qid": "Q32522",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Aniston"
+            },
+            {
+                "name": "Juliette Lewis",
+                "qid": "Q230523"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "William Alvin Pitt",
+                "qid": "Q96243494"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Knox Jolie-Pitt",
+                "qid": "Q107151224"
+            },
+            {
+                "name": "Shiloh Jolie",
+                "qid": "Q55430492"
+            },
+            {
+                "name": "Vivienne Jolie-Pitt",
+                "qid": "Q107151227"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Jane Etta Hillhouse",
+                "qid": "Q96243495"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-12-18T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "12 Years a Slave",
+                "qid": "Q3023357",
+                "url": "https://vi.wikipedia.org/wiki/12_n%C4%83m_n%C3%B4_l%E1%BB%87_(phim)"
+            },
+            {
+                "name": "A Mighty Heart",
+                "qid": "Q917355",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A1i_tim_qu%E1%BA%A3_c%E1%BA%A3m"
+            },
+            {
+                "name": "Ad Astra",
+                "qid": "Q38774788",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_b%C3%AD_%E1%BA%A9n_Ng%C3%A2n_H%C3%A0"
+            },
+            {
+                "name": "Beautiful Boy",
+                "qid": "Q29051576",
+                "url": "https://vi.wikipedia.org/wiki/Beautiful_Boy_(phim)"
+            },
+            {
+                "name": "Beetlejuice Beetlejuice",
+                "qid": "Q112865900",
+                "url": "https://vi.wikipedia.org/wiki/Ma_si%C3%AAu_qu%E1%BA%ADy"
+            },
+            {
+                "name": "Blonde",
+                "qid": "Q66823622",
+                "url": "https://vi.wikipedia.org/wiki/Blonde"
+            },
+            {
+                "name": "Bob Marley: One Love",
+                "qid": "Q112341432",
+                "url": "https://vi.wikipedia.org/wiki/Bob_Marley:_M%E1%BB%99t_t%C3%ACnh_y%C3%AAu"
+            },
+            {
+                "name": "F1",
+                "qid": "Q114246242",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_th%E1%BB%A9c_1_(phim)"
+            },
+            {
+                "name": "Kick-Ass",
+                "qid": "Q2201",
+                "url": "https://vi.wikipedia.org/wiki/Kick-Ass_(phim)"
+            },
+            {
+                "name": "The Big Short",
+                "qid": "Q19850715",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Short_(phim)"
+            },
+            {
+                "name": "The Departed",
+                "qid": "Q172975",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_v%E1%BB%A5_Boston"
+            },
+            {
+                "name": "The King",
+                "qid": "Q54801155",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_v%C6%B0%C6%A1ng_(phim_2019)"
+            },
+            {
+                "name": "The Normal Heart",
+                "qid": "Q15039861",
+                "url": "https://vi.wikipedia.org/wiki/The_Normal_Heart_(phim)"
+            },
+            {
+                "name": "The Time Traveler's Wife",
+                "qid": "Q785406",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%93ng_%E1%BA%A3o_(phim)"
+            },
+            {
+                "name": "The Tree of Life",
+                "qid": "Q244257",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2y_%C4%91%E1%BB%9Di_(phim)"
+            },
+            {
+                "name": "World War Z",
+                "qid": "Q28196",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_chi%E1%BA%BFn_Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "12 Years a Slave",
+                "qid": "Q3023357",
+                "url": "https://vi.wikipedia.org/wiki/12_n%C4%83m_n%C3%B4_l%E1%BB%87_(phim)"
+            },
+            {
+                "name": "Ad Astra",
+                "qid": "Q38774788",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_b%C3%AD_%E1%BA%A9n_Ng%C3%A2n_H%C3%A0"
+            },
+            {
+                "name": "Babel",
+                "qid": "Q191074",
+                "url": "https://vi.wikipedia.org/wiki/Babel_(phim)"
+            },
+            {
+                "name": "Babylon",
+                "qid": "Q107119206",
+                "url": "https://vi.wikipedia.org/wiki/Babylon_(phim_2022)"
+            },
+            {
+                "name": "Being John Malkovich",
+                "qid": "Q649165",
+                "url": "https://vi.wikipedia.org/wiki/Being_John_Malkovich"
+            },
+            {
+                "name": "Bullet Train",
+                "qid": "Q99900595",
+                "url": "https://vi.wikipedia.org/wiki/Bullet_Train:_S%C3%A1t_th%E1%BB%A7_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "Deadpool 2",
+                "qid": "Q25431158",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_2"
+            },
+            {
+                "name": "F1",
+                "qid": "Q114246242",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_th%E1%BB%A9c_1_(phim)"
+            },
+            {
+                "name": "Fight Club",
+                "qid": "Q190050",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A0n_%C4%91%E1%BA%A5u_sinh_t%E1%BB%AD"
+            },
+            {
+                "name": "Fury",
+                "qid": "Q14786561",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%93ng_n%E1%BB%99_(phim_2014)"
+            },
+            {
+                "name": "Inglourious Basterds",
+                "qid": "Q153723",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_m%E1%BB%87nh_(phim_2009)"
+            },
+            {
+                "name": "Legends of the Fall",
+                "qid": "Q913324",
+                "url": "https://vi.wikipedia.org/wiki/Huy%E1%BB%81n_tho%E1%BA%A1i_m%C3%B9a_thu"
+            },
+            {
+                "name": "Mr. & Mrs. Smith",
+                "qid": "Q191040",
+                "url": "https://vi.wikipedia.org/wiki/%C3%94ng_b%C3%A0_Smith_(phim_2005)"
+            },
+            {
+                "name": "Ocean's Eleven",
+                "qid": "Q205447",
+                "url": "https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Di_m%E1%BB%99t_t%C3%AAn_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7"
+            },
+            {
+                "name": "Once Upon a Time in Hollywood",
+                "qid": "Q47300912",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_ng%C3%A0y_x%C6%B0a_%E1%BB%9F..._Hollywood"
+            },
+            {
+                "name": "Seven",
+                "qid": "Q190908",
+                "url": "https://vi.wikipedia.org/wiki/Seven_(phim_1995)"
+            },
+            {
+                "name": "The Big Short",
+                "qid": "Q19850715",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Short_(phim)"
+            },
+            {
+                "name": "The Counselor",
+                "qid": "Q3061599",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0i_lu%E1%BA%ADt_s%C6%B0"
+            },
+            {
+                "name": "The Curious Case of Benjamin Button",
+                "qid": "Q183239",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BB%8B_nh%C3%A2n_Benjamin"
+            },
+            {
+                "name": "The Tree of Life",
+                "qid": "Q244257",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2y_%C4%91%E1%BB%9Di_(phim)"
+            },
+            {
+                "name": "Thelma & Louise",
+                "qid": "Q658041",
+                "url": "https://vi.wikipedia.org/wiki/Thelma_%26_Louise"
+            },
+            {
+                "name": "Troy",
+                "qid": "Q186587",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_h%C3%B9ng_th%C3%A0nh_Troy"
+            },
+            {
+                "name": "World War Z",
+                "qid": "Q28196",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_chi%E1%BA%BFn_Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Angelina Jolie",
+                "qid": "Q13909",
+                "url": "https://vi.wikipedia.org/wiki/Angelina_Jolie"
+            },
+            {
+                "name": "Jennifer Aniston",
+                "qid": "Q32522",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Aniston"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Maddox Jolie-Pitt.",
+                "qid": "Q13147738"
+            },
+            {
+                "name": "Pax Jolie-Pitt",
+                "qid": "Q107151215"
+            },
+            {
+                "name": "Zahara Jolie-Pitt",
+                "qid": "Q107151200"
+            }
+        ]
+    }
+}

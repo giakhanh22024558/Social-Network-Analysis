@@ -1,0 +1,39 @@
+{
+    "name": "Julie Restifo",
+    "qid": "Q2918125",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Julie_Restifo",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Josette Vidal",
+                "qid": "Q6453890",
+                "url": "https://vi.wikipedia.org/wiki/Josette_Vidal"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-07-31T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            },
+            {
+                "name": "Venezuela",
+                "qid": "Q717",
+                "url": "https://vi.wikipedia.org/wiki/Venezuela"
+            }
+        ]
+    }
+}

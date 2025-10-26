@@ -1,0 +1,4261 @@
+[
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2071"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-01-20T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "David Lynch"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/David_Lynch"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2071"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-01-20T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "David Lynch"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/David_Lynch"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q392"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1941-05-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bob Dylan"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Bob_Dylan"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q392"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1941-05-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bob Dylan"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Bob_Dylan"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2673"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-03-10T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Chuck Norris"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Chuck_Norris"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q607"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-02-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Michael Bloomberg"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Michael_Bloomberg"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q633"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1945-11-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Neil Young"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Neil_Young"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q633"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1945-11-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Neil Young"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Neil_Young"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2685"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-07-30T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Arnold Schwarzenegger"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Arnold_Schwarzenegger"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2685"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-07-30T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Arnold Schwarzenegger"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Arnold_Schwarzenegger"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q25078"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-11-22T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Terry Gilliam"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Terry_Gilliam"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q25078"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-11-22T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Terry Gilliam"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Terry_Gilliam"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q4028"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1941-10-13T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Paul Simon"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Paul_Simon"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q22686"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-06-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Donald Trump"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Donald_Trump"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q36949"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1943-08-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Robert De Niro"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Robert_De_Niro"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q36949"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1943-08-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Robert De Niro"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Robert_De_Niro"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q39829"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-09-21T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Stephen King"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Stephen_King"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q39829"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-09-21T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Stephen King"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Stephen_King"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q41148"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-11-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Martin Scorsese"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Martin_Scorsese"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q41148"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-11-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Martin Scorsese"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Martin_Scorsese"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q41163"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-04-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Al Pacino"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Al_Pacino"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q41163"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-04-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Al Pacino"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Al_Pacino"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q48987"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-02-22T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jonathan Demme"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jonathan_Demme"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q48987"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-02-22T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jonathan Demme"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jonathan_Demme"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q26806"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-11-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Danny DeVito"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Danny_DeVito"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q26806"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-11-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Danny DeVito"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Danny_DeVito"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q8877"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-12-18T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Steven Spielberg"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Steven_Spielberg"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q8877"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-12-18T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Steven Spielberg"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Steven_Spielberg"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16397"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-11-27T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bruce Lee"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/L%C3%BD_Ti%E1%BB%83u_Long"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16397"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-11-27T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bruce Lee"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/L%C3%BD_Ti%E1%BB%83u_Long"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16473"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1945-08-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Steve Martin"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Steve_Martin"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q44301"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1943-12-08T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jim Morrison"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jim_Morrison"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1225"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-09-23T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bruce Springsteen"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Bruce_Springsteen"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q38222"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-05-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "George Lucas"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/George_Lucas"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q38222"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-05-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "George Lucas"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/George_Lucas"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q40026"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-07-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Sylvester Stallone"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sylvester_Stallone"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q4039"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1941-11-05T00:00:00Z"
+        },
+        "personLabel": {
+            "type": "literal",
+            "value": "Q4039"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Art_Garfunkel"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q44306"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-06-19T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Salman Rushdie"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Salman_Rushdie"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q44473"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-07-09T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "O. J. Simpson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/O._J._Simpson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q81328"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-07-13T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Harrison Ford"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Harrison_Ford"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q92759"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-08-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Larry Ellison"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Larry_Ellison"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q93161"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1945-03-31T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Edwin Catmull"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Edwin_Catmull"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q95008"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-01-16T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John Carpenter"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/John_Carpenter"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q95008"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-01-16T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John Carpenter"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/John_Carpenter"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q102301"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-01-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Joe Frazier"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Joe_Frazier"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q119798"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-09-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Michael Douglas"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Michael_Douglas"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q105460"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1943-12-31T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John Denver"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/John_Denver"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q105817"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-10-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kevin Kline"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kevin_Kline"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q105875"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-04-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Herbie Hancock"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Herbie_Hancock"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q114179"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1941-01-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Scott Glenn"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Scott_Glenn"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q170587"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-09-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Tommy Lee Jones"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tommy_Lee_Jones"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q172140"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-10-23T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Michael Crichton"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Michael_Crichton"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q186485"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-03-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Billy Crystal"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Billy_Crystal"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q186485"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-03-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Billy Crystal"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Billy_Crystal"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q189080"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-03-02T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Lou Reed"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Lou_Reed"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q189080"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-03-02T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Lou Reed"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Lou_Reed"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q172678"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-12-21T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Samuel L. Jackson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Samuel_L._Jackson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q174843"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-12-04T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jeff Bridges"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jeff_Bridges"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q179051"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-04-16T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Kareem Abdul-Jabbar"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Kareem_Abdul-Jabbar"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q127330"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-12-21T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Frank Zappa"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Frank_Zappa"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q127330"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-12-21T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Frank Zappa"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Frank_Zappa"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q152929"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-09-27T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Meat Loaf"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Meat_Loaf"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q48410"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-08-31T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Richard Gere"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Richard_Gere"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q48410"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-08-31T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Richard Gere"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Richard_Gere"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q179497"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-09-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Oliver Stone"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Oliver_Stone"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q179497"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-09-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Oliver Stone"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Oliver_Stone"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q206439"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-08-20T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Isaac Hayes"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Isaac_Hayes"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q210148"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-02-23T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Peter Fonda"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Peter_Fonda"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q210148"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-02-23T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Peter Fonda"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Peter_Fonda"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q211415"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-02-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Edward James Olmos"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Edward_James_Olmos"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q211415"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-02-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Edward James Olmos"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Edward_James_Olmos"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q213706"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1945-01-29T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Tom Selleck"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tom_Selleck"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q214642"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-02-03T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Paul Auster"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Paul_Auster"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q215478"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1943-11-30T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Terrence Malick"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Terrence_Malick"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q216563"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1941-07-30T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Paul Anka"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Paul_Anka"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q217298"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-04-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "David Letterman"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/David_Letterman"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q194045"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-03-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Steven Tyler"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Steven_Tyler"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q202449"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-10-31T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "David Ogden Stiers"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/David_Ogden_Stiers"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q287607"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-03-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Rob Reiner"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Rob_Reiner"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q287607"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-03-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Rob Reiner"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Rob_Reiner"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q294531"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1941-01-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Neil Diamond"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Neil_Diamond"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q295420"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-01-27T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Mikhail Baryshnikov"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Mikhail_Baryshnikov"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q299317"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-05-31T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Tom Berenger"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tom_Berenger"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q299483"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-01-27T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "James Cromwell"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/James_Cromwell"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q312688"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-08-08T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John Holmes"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/John_Holmes"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q276181"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-06-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jim Varney"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jim_Varney"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q303207"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-05-08T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Ricky Nelson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Ricky_Nelson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q269692"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-04-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Barry Levinson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Barry_Levinson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q269692"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-04-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Barry Levinson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Barry_Levinson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q313013"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-06-20T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Brian Wilson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Brian_Wilson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q311068"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1943-11-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Wallace Shawn"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Wallace_Shawn"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q311271"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1945-10-19T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John Lithgow"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/John_Lithgow"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q311450"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-09-02T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Billy Preston"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Billy_Preston"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q311319"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-05-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Frank Oz"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Frank_Oz"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q311319"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-05-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Frank Oz"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Frank_Oz"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q311671"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-03-22T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "James Patterson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/James_Patterson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q314945"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-07-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Michael Richards"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Michael_Richards"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q318110"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1943-09-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Randall Duk Kim"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Randall_Duk_Kim"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q318953"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1945-07-28T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jim Davis"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jim_Davis_(h%E1%BB%8Da_s%C4%A9_truy%E1%BB%87n_tranh)"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q320211"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-04-07T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Stan Winston"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Stan_Winston"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q345019"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-11-29T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jerry Lawler"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jerry_Lawler"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q329807"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-04-04T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Craig T. Nelson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Craig_T._Nelson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q332032"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-02-04T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Alice Cooper"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Alice_Cooper"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q337206"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-06-02T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Marvin Hamlisch"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Marvin_Hamlisch"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q352935"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-02-29T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Dennis Farina"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Dennis_Farina"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q353978"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-03-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "R. Lee Ermey"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/R._Lee_Ermey"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q313043"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-05-04T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Richard Jenkins"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Richard_Jenkins"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q374093"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-04-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John Ratzenberger"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/John_Ratzenberger"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q356986"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-05-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Levon Helm"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Levon_Helm"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q367155"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1941-07-13T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Robert Forster"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Robert_Forster"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q367155"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1941-07-13T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Robert Forster"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Robert_Forster"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q367653"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-02-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Gregory Hines"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Gregory_Hines"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q367653"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-02-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Gregory Hines"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Gregory_Hines"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q370560"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1941-08-14T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "David Crosby"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/David_Crosby"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q443343"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-04-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Jeffrey DeMunn"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Jeffrey_DeMunn"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q459007"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-10-18T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Joe Morton"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Joe_Morton"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q459007"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-10-18T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Joe Morton"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Joe_Morton"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q498019"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-07-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Richard Simmons"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Richard_Simmons"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q503027"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-06-01T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Powers Boothe"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Powers_Boothe"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q503966"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-03-12T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Rob Cohen"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Rob_Cohen"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q560552"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-05-19T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Peter Mayhew"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Peter_Mayhew"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q550778"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-03-20T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John de Lancie"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/John_de_Lancie"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q550778"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-03-20T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "John de Lancie"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/John_de_Lancie"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q705958"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-02-18T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Charles Robert Jenkins"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Charles_Robert_Jenkins"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q712934"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-03-07T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Joe Lewis"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Joe_Lewis_(v%C3%B5_s%C4%A9)"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q726057"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1944-04-03T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Tony Orlando"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tony_Orlando"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q718135"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-03-29T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Scott Wilson"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Scott_Wilson"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q933569"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1943-01-20T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Chiu Chi-ling"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_Tr%C3%AD_Linh"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q961876"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1945-04-20T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Michael Brandon"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Michael_Brandon"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q961961"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1943-05-06T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Milton William Cooper"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Milton_William_Cooper"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q991765"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1943-11-26T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Bruce Paltrow"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Bruce_Paltrow"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1374481"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-11-29T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Garry Shandling"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Garry_Shandling"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1374481"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-11-29T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Garry Shandling"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Garry_Shandling"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1389359"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-01-08T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Sid Ganis"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Sid_Ganis"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1775143"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-02-15T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Tino Insana"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tino_Insana"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2254520"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-02-18T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Pat Fraley"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Pat_Fraley"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q3442740"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-10-25T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Ross Bagdasarian Jr."
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Ross_Bagdasarian,_Jr."
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5518822"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-07-24T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Gallagher"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Gallagher"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5537509"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1949-01-07T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "George Buza"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/George_Buza"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q7614399"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1947-01-01T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Steve Zuckerman"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Steve_Zuckerman"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q7807376"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-07-17T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Timothy M. Rose"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tim_Rose_(di%E1%BB%85n_vi%C3%AAn)"
+        }
+    },
+    {
+        "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q113495410"
+        },
+        "dob": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1942-07-11T00:00:00Z"
+        },
+        "personLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "Trần Quang"
+        },
+        "genderLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "male"
+        },
+        "countryLabel": {
+            "xml:lang": "en",
+            "type": "literal",
+            "value": "United States"
+        },
+        "viwikiURL": {
+            "type": "literal",
+            "value": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Quang"
+        }
+    }
+]

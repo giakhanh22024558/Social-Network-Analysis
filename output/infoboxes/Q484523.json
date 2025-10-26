@@ -1,0 +1,197 @@
+{
+    "name": "Jared Leto",
+    "qid": "Q484523",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jared_Leto",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Shannon Leto",
+                "qid": "Q332525"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "guitarist",
+                "qid": "Q855091",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_guitar"
+            },
+            {
+                "name": "keyboardist",
+                "qid": "Q1075651"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "painter",
+                "qid": "Q1028181",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9"
+            },
+            {
+                "name": "photographer",
+                "qid": "Q33231",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BA%BFp_%E1%BA%A3nh_gia"
+            },
+            {
+                "name": "pianist",
+                "qid": "Q486748",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_d%C6%B0%C6%A1ng_c%E1%BA%A7m"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-12-26T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Tron: Ares",
+                "qid": "Q120237363",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_%E1%BA%A3o_gi%C3%A1c:_Ares"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "2036: Nexus Dawn",
+                "qid": "Q39755652",
+                "url": "https://vi.wikipedia.org/wiki/2036:_Nexus_Dawn"
+            },
+            {
+                "name": "American Psycho",
+                "qid": "Q1405126",
+                "url": "https://vi.wikipedia.org/wiki/American_Psycho_(phim)"
+            },
+            {
+                "name": "Blade Runner 2049",
+                "qid": "Q21500755",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%99i_ph%E1%BA%A1m_nh%C3%A2n_b%E1%BA%A3n_2049"
+            },
+            {
+                "name": "Dallas Buyers Club",
+                "qid": "Q3520498",
+                "url": "https://vi.wikipedia.org/wiki/Dallas_Buyers_Club"
+            },
+            {
+                "name": "Fight Club",
+                "qid": "Q190050",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A0n_%C4%91%E1%BA%A5u_sinh_t%E1%BB%AD"
+            },
+            {
+                "name": "Girl, Interrupted",
+                "qid": "Q463101",
+                "url": "https://vi.wikipedia.org/wiki/Girl,_Interrupted_(phim)"
+            },
+            {
+                "name": "House of Gucci",
+                "qid": "Q105549749",
+                "url": "https://vi.wikipedia.org/wiki/Gia_t%E1%BB%99c_Gucci"
+            },
+            {
+                "name": "Lord of War",
+                "qid": "Q308681",
+                "url": "https://vi.wikipedia.org/wiki/Lord_of_War_(phim)"
+            },
+            {
+                "name": "Morbius",
+                "qid": "Q55405369",
+                "url": "https://vi.wikipedia.org/wiki/Morbius_(phim)"
+            },
+            {
+                "name": "Panic Room",
+                "qid": "Q741042",
+                "url": "https://vi.wikipedia.org/wiki/Panic_Room"
+            },
+            {
+                "name": "Requiem for a Dream",
+                "qid": "Q487181",
+                "url": "https://vi.wikipedia.org/wiki/Requiem_for_a_Dream"
+            },
+            {
+                "name": "Suicide Squad",
+                "qid": "Q18604504",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_c%E1%BA%A3m_t%E1%BB%AD_(phim)"
+            },
+            {
+                "name": "Tron: Ares",
+                "qid": "Q120237363",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_%E1%BA%A3o_gi%C3%A1c:_Ares"
+            },
+            {
+                "name": "Zack Snyder's Justice League",
+                "qid": "Q94998134",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_C%C3%B4ng_l%C3%BD_phi%C3%AAn_b%E1%BA%A3n_c%E1%BB%A7a_Zack_Snyder"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

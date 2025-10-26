@@ -1,0 +1,133 @@
+{
+    "name": "Steve Carell",
+    "qid": "Q216221",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steve_Carell",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-08-16T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Incredible Burt Wonderstone",
+                "qid": "Q1444108",
+                "url": "https://vi.wikipedia.org/wiki/The_Incredible_Burt_Wonderstone"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+                "qid": "Q15104217",
+                "url": "https://vi.wikipedia.org/wiki/Alexander_v%C3%A0_m%E1%BB%99t_ng%C3%A0y_t%E1%BB%93i_t%E1%BB%87,_kinh_kh%E1%BB%A7ng,_ch%C3%A1n_n%E1%BA%A3n,_b%E1%BB%B1c_b%E1%BB%99i"
+            },
+            {
+                "name": "Asteroid City",
+                "qid": "Q108086029",
+                "url": "https://vi.wikipedia.org/wiki/Asteroid_City"
+            },
+            {
+                "name": "Beautiful Boy",
+                "qid": "Q29051576",
+                "url": "https://vi.wikipedia.org/wiki/Beautiful_Boy_(phim)"
+            },
+            {
+                "name": "Café Society",
+                "qid": "Q20950014",
+                "url": "https://vi.wikipedia.org/wiki/Caf%C3%A9_Society_(phim)"
+            },
+            {
+                "name": "Date Night",
+                "qid": "Q1139801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_h%E1%BA%B9n_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Get Smart",
+                "qid": "Q570652",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_86:_Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi"
+            },
+            {
+                "name": "Little Miss Sunshine",
+                "qid": "Q192073",
+                "url": "https://vi.wikipedia.org/wiki/Little_Miss_Sunshine"
+            },
+            {
+                "name": "Seeking a Friend for the End of the World",
+                "qid": "Q759448",
+                "url": "https://vi.wikipedia.org/wiki/Tri_k%E1%BB%B7_ng%C3%A0y_t%E1%BA%ADn_th%E1%BA%BF"
+            },
+            {
+                "name": "The Big Short",
+                "qid": "Q19850715",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Short_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Nancy Carell",
+                "qid": "Q2160982"
+            }
+        ]
+    }
+}

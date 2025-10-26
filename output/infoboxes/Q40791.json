@@ -1,0 +1,167 @@
+{
+    "name": "Sandra Bullock",
+    "qid": "Q40791",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sandra_Bullock",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Gesine Bullock-Prado",
+                "qid": "Q5553615"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Matthew McConaughey",
+                "qid": "Q188955",
+                "url": "https://vi.wikipedia.org/wiki/Matthew_McConaughey"
+            },
+            {
+                "name": "Ryan Gosling",
+                "qid": "Q193815",
+                "url": "https://vi.wikipedia.org/wiki/Ryan_Gosling"
+            },
+            {
+                "name": "Tate Donovan",
+                "qid": "Q302650"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Helga Meyer",
+                "qid": "Q5704361"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "restaurateur",
+                "qid": "Q3427922"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1964-07-26T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "All About Steve",
+                "qid": "Q590813",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_n%C3%A0ng_d%E1%BA%A1i_trai"
+            },
+            {
+                "name": "The Proposal",
+                "qid": "Q108586",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_c%E1%BA%A7u_h%C3%B4n"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "All About Steve",
+                "qid": "Q590813",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_n%C3%A0ng_d%E1%BA%A1i_trai"
+            },
+            {
+                "name": "Bird Box",
+                "qid": "Q43370937",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%93ng_chim_(phim)"
+            },
+            {
+                "name": "Bullet Train",
+                "qid": "Q99900595",
+                "url": "https://vi.wikipedia.org/wiki/Bullet_Train:_S%C3%A1t_th%E1%BB%A7_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "Extremely Loud and Incredibly Close",
+                "qid": "Q918769",
+                "url": "https://vi.wikipedia.org/wiki/Extremely_Loud_and_Incredibly_Close_(phim)"
+            },
+            {
+                "name": "Gravity",
+                "qid": "Q2579784",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_kh%C3%B4ng_tr%E1%BB%8Dng_l%E1%BB%B1c"
+            },
+            {
+                "name": "Ocean's 8",
+                "qid": "Q25627545",
+                "url": "https://vi.wikipedia.org/wiki/B%C4%83ng_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7:_%C4%90%E1%BA%B3ng_c%E1%BA%A5p_qu%C3%BD_c%C3%B4"
+            },
+            {
+                "name": "The Heat",
+                "qid": "Q135156",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_n%E1%BA%A3y_l%E1%BB%ADa"
+            },
+            {
+                "name": "The Proposal",
+                "qid": "Q108586",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_c%E1%BA%A7u_h%C3%B4n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Germany",
+                "qid": "Q183",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A9c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            },
+            {
+                "name": "West Germany",
+                "qid": "Q713750",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2y_%C4%90%E1%BB%A9c"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jesse James",
+                "qid": "Q530550"
+            }
+        ]
+    }
+}

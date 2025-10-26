@@ -1,0 +1,50 @@
+{
+    "name": "Dan Castellaneta",
+    "qid": "Q44442",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dan_Castellaneta",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-10-29T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Fantastic Four",
+                "qid": "Q16795448",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_t%E1%BB%A9_si%C3%AAu_%C4%91%E1%BA%B3ng_(phim_2015)"
+            },
+            {
+                "name": "Super 8",
+                "qid": "Q379877",
+                "url": "https://vi.wikipedia.org/wiki/Super_8_(phim)"
+            },
+            {
+                "name": "The Pursuit of Happyness",
+                "qid": "Q220515",
+                "url": "https://vi.wikipedia.org/wiki/M%C6%B0u_c%E1%BA%A7u_h%E1%BA%A1nh_ph%C3%BAc"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Deb Lacusta",
+                "qid": "Q2018704"
+            }
+        ]
+    }
+}

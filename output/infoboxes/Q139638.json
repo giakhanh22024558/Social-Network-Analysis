@@ -1,0 +1,92 @@
+{
+    "name": "Zachary Levi",
+    "qid": "Q139638",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Zachary_Levi",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-09-29T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Alvin and the Chipmunks: The Squeakquel",
+                "qid": "Q378311",
+                "url": "https://vi.wikipedia.org/wiki/Alvin_and_the_Chipmunks_2"
+            },
+            {
+                "name": "Harold and the Purple Crayon",
+                "qid": "Q111883640",
+                "url": "https://vi.wikipedia.org/wiki/Harold_v%C3%A0_c%C3%A2y_b%C3%BAt_ph%C3%A9p_thu%E1%BA%ADt_(phim)"
+            },
+            {
+                "name": "Shazam!",
+                "qid": "Q23685878",
+                "url": "https://vi.wikipedia.org/wiki/Shazam!_(phim)"
+            },
+            {
+                "name": "Shazam! Fury of the Gods",
+                "qid": "Q84712809",
+                "url": "https://vi.wikipedia.org/wiki/Shazam!_C%C6%A1n_th%E1%BB%8Bnh_n%E1%BB%99_c%E1%BB%A7a_c%C3%A1c_v%E1%BB%8B_th%E1%BA%A7n"
+            },
+            {
+                "name": "Thor: Ragnarok",
+                "qid": "Q22665878",
+                "url": "https://vi.wikipedia.org/wiki/Thor:_T%E1%BA%ADn_th%E1%BA%BF_Ragnarok"
+            },
+            {
+                "name": "Thor: The Dark World",
+                "qid": "Q1201853",
+                "url": "https://vi.wikipedia.org/wiki/Thor_2:_Th%E1%BA%BF_gi%E1%BB%9Bi_B%C3%B3ng_t%E1%BB%91i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Missy Peregrym",
+                "qid": "Q236582"
+            }
+        ]
+    }
+}

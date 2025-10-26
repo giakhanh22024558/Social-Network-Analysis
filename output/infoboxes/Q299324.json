@@ -1,0 +1,74 @@
+{
+    "name": "Brandon Routh",
+    "qid": "Q299324",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Brandon_Routh",
+    "gender": "male",
+    "infobox": {
+        "Mẹ (P25)": [
+            {
+                "name": "Catherine LaVaughn Lear",
+                "qid": "Q115626326"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "association football player",
+                "qid": "Q937857"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-10-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Scott Pilgrim vs. the World",
+                "qid": "Q753899",
+                "url": "https://vi.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World"
+            },
+            {
+                "name": "Superman Returns",
+                "qid": "Q328695",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_nh%C3%A2n_tr%E1%BB%9F_l%E1%BA%A1i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Courtney Ford",
+                "qid": "Q1189095"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Randy Orton",
+    "qid": "Q44449",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Randy_Orton",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Bob Orton Jr.",
+                "qid": "Q529384",
+                "url": "https://vi.wikipedia.org/wiki/Bob_Orton,_Jr."
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "amateur wrestler",
+                "qid": "Q12369333"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-04-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Paws of Fury: The Legend of Hank",
+                "qid": "Q21450513",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%B4n_ph%C3%A1i_v%C3%B5_m%C3%A8o:_Huy%E1%BB%81n_tho%E1%BA%A1i_m%E1%BB%99t_ch%C3%BA_ch%C3%B3"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

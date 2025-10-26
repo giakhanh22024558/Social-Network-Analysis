@@ -1,0 +1,195 @@
+{
+    "name": "Robert Zemeckis",
+    "qid": "Q187364",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Robert_Zemeckis",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Alexander Zemeckis",
+                "qid": "Q26857995"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "science fiction writer",
+                "qid": "Q18844224"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1952-05-14T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "A Christmas Carol",
+                "qid": "Q86791",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1ng_Sinh_y%C3%AAu_th%C6%B0%C6%A1ng"
+            },
+            {
+                "name": "Cast Away",
+                "qid": "Q213411",
+                "url": "https://vi.wikipedia.org/wiki/Cast_Away"
+            },
+            {
+                "name": "Chaos Walking",
+                "qid": "Q37447097",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_h%E1%BB%97n_lo%E1%BA%A1n"
+            },
+            {
+                "name": "Death Becomes Her",
+                "qid": "Q1160186",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A1i_ch%E1%BA%BFt_%C4%91%C6%B0%E1%BB%A3c_b%C3%A1o_tr%C6%B0%E1%BB%9Bc"
+            },
+            {
+                "name": "House of Wax",
+                "qid": "Q679679",
+                "url": "https://vi.wikipedia.org/wiki/House_of_Wax_(phim_2005)"
+            },
+            {
+                "name": "Last Holiday",
+                "qid": "Q1634476",
+                "url": "https://vi.wikipedia.org/wiki/Last_Holiday_(phim_2006)"
+            },
+            {
+                "name": "Monster House",
+                "qid": "Q725842",
+                "url": "https://vi.wikipedia.org/wiki/Monster_House"
+            },
+            {
+                "name": "Return to House on Haunted Hill",
+                "qid": "Q1316883",
+                "url": "https://vi.wikipedia.org/wiki/Return_to_House_on_Haunted_Hill"
+            },
+            {
+                "name": "The Polar Express",
+                "qid": "Q862197",
+                "url": "https://vi.wikipedia.org/wiki/The_Polar_Express_(phim)"
+            },
+            {
+                "name": "The Walk",
+                "qid": "Q17183895",
+                "url": "https://vi.wikipedia.org/wiki/B%C6%B0%E1%BB%9Bc_%C4%91i_th%E1%BA%BF_k%E1%BB%B7"
+            },
+            {
+                "name": "The Witches",
+                "qid": "Q63630439",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%B9_th%E1%BB%A7y,_ph%C3%B9_th%E1%BB%A7y"
+            },
+            {
+                "name": "Thirteen Ghosts",
+                "qid": "Q186864",
+                "url": "https://vi.wikipedia.org/wiki/Thirteen_Ghosts"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "A Christmas Carol",
+                "qid": "Q86791",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1ng_Sinh_y%C3%AAu_th%C6%B0%C6%A1ng"
+            },
+            {
+                "name": "Back to the Future",
+                "qid": "Q91540",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%9F_l%E1%BA%A1i_t%C6%B0%C6%A1ng_lai"
+            },
+            {
+                "name": "Back to the Future Part II",
+                "qid": "Q109331",
+                "url": "https://vi.wikipedia.org/wiki/Back_to_the_Future_ph%E1%BA%A7n_II"
+            },
+            {
+                "name": "Back to the Future Part III",
+                "qid": "Q230552",
+                "url": "https://vi.wikipedia.org/wiki/Back_to_the_Future_ph%E1%BA%A7n_III"
+            },
+            {
+                "name": "Cast Away",
+                "qid": "Q213411",
+                "url": "https://vi.wikipedia.org/wiki/Cast_Away"
+            },
+            {
+                "name": "Contact",
+                "qid": "Q270215",
+                "url": "https://vi.wikipedia.org/wiki/Contact_(phim)"
+            },
+            {
+                "name": "Death Becomes Her",
+                "qid": "Q1160186",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A1i_ch%E1%BA%BFt_%C4%91%C6%B0%E1%BB%A3c_b%C3%A1o_tr%C6%B0%E1%BB%9Bc"
+            },
+            {
+                "name": "Forrest Gump",
+                "qid": "Q134773",
+                "url": "https://vi.wikipedia.org/wiki/Forrest_Gump"
+            },
+            {
+                "name": "The Polar Express",
+                "qid": "Q862197",
+                "url": "https://vi.wikipedia.org/wiki/The_Polar_Express_(phim)"
+            },
+            {
+                "name": "The Walk",
+                "qid": "Q17183895",
+                "url": "https://vi.wikipedia.org/wiki/B%C6%B0%E1%BB%9Bc_%C4%91i_th%E1%BA%BF_k%E1%BB%B7"
+            },
+            {
+                "name": "The Witches",
+                "qid": "Q63630439",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%B9_th%E1%BB%A7y,_ph%C3%B9_th%E1%BB%A7y"
+            },
+            {
+                "name": "Who Framed Roger Rabbit",
+                "qid": "Q379873",
+                "url": "https://vi.wikipedia.org/wiki/Who_Framed_Roger_Rabbit"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Leslie Zemeckis",
+                "qid": "Q23767052"
+            }
+        ]
+    }
+}

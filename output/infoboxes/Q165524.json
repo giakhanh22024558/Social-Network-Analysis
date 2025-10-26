@@ -1,0 +1,126 @@
+{
+    "name": "Tobey Maguire",
+    "qid": "Q165524",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tobey_Maguire",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jopaul Van Epp",
+                "qid": "Q109331841"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Otis Maguire",
+                "qid": "Q125943942"
+            },
+            {
+                "name": "Ruby Sweetheart Maguire",
+                "qid": "Q112331043"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "poker player",
+                "qid": "Q15295720"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1975-06-27T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Rock of Ages",
+                "qid": "Q651060",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B7_nguy%C3%AAn_rock_(phim_2012)"
+            },
+            {
+                "name": "The 5th Wave",
+                "qid": "Q17436508",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A3t_t%E1%BA%A5n_c%C3%B4ng_th%E1%BB%A9_5"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Babylon",
+                "qid": "Q107119206",
+                "url": "https://vi.wikipedia.org/wiki/Babylon_(phim_2022)"
+            },
+            {
+                "name": "Ride with the Devil",
+                "qid": "Q669578",
+                "url": "https://vi.wikipedia.org/wiki/Ride_with_the_Devil"
+            },
+            {
+                "name": "Spider-Man",
+                "qid": "Q484442",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_(phim_2002)"
+            },
+            {
+                "name": "Spider-Man 2",
+                "qid": "Q190145",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_2"
+            },
+            {
+                "name": "Spider-Man 3",
+                "qid": "Q182212",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_3"
+            },
+            {
+                "name": "Spider-Man: No Way Home",
+                "qid": "Q68934496",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Kh%C3%B4ng_c%C3%B2n_nh%C3%A0"
+            },
+            {
+                "name": "The Great Gatsby",
+                "qid": "Q892735",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_gia_Gatsby_(phim_2013)"
+            },
+            {
+                "name": "Tropic Thunder",
+                "qid": "Q380981",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BA%A5m_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jennifer Meyer",
+                "qid": "Q3735082",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Meyer"
+            }
+        ]
+    }
+}

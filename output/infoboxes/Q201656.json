@@ -1,0 +1,134 @@
+{
+    "name": "Nick Jonas",
+    "qid": "Q201656",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nick_Jonas",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Franklin Jonas",
+                "qid": "Q648359"
+            },
+            {
+                "name": "Joe Jonas",
+                "qid": "Q191088",
+                "url": "https://vi.wikipedia.org/wiki/Joe_Jonas"
+            },
+            {
+                "name": "Kevin Jonas",
+                "qid": "Q210172",
+                "url": "https://vi.wikipedia.org/wiki/Kevin_Jonas"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Delta Goodrem",
+                "qid": "Q228818"
+            },
+            {
+                "name": "Miley Cyrus",
+                "qid": "Q4235",
+                "url": "https://vi.wikipedia.org/wiki/Miley_Cyrus"
+            },
+            {
+                "name": "Olivia Culpo",
+                "qid": "Q291102",
+                "url": "https://vi.wikipedia.org/wiki/Olivia_Culpo"
+            },
+            {
+                "name": "Selena Gomez",
+                "qid": "Q83287",
+                "url": "https://vi.wikipedia.org/wiki/Selena_Gomez"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Kevin Jonas Sr.",
+                "qid": "Q24849224"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-09-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Camp Rock",
+                "qid": "Q217250",
+                "url": "https://vi.wikipedia.org/wiki/Camp_Rock"
+            },
+            {
+                "name": "Camp Rock 2: The Final Jam",
+                "qid": "Q276279",
+                "url": "https://vi.wikipedia.org/wiki/Camp_Rock_2:_The_Final_Jam"
+            },
+            {
+                "name": "Chaos Walking",
+                "qid": "Q37447097",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_h%E1%BB%97n_lo%E1%BA%A1n"
+            },
+            {
+                "name": "Jonas Brothers: The 3D Concert Experience",
+                "qid": "Q1028548",
+                "url": "https://vi.wikipedia.org/wiki/Jonas_Brothers:_The_3D_Concert_Experience"
+            },
+            {
+                "name": "Jumanji: The Next Level",
+                "qid": "Q60501923",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_k%E1%BB%B3_%E1%BA%A3o:_Th%C4%83ng_c%E1%BA%A5p"
+            },
+            {
+                "name": "Jumanji: Welcome to the Jungle",
+                "qid": "Q20762680",
+                "url": "https://vi.wikipedia.org/wiki/Jumanji:_Tr%C3%B2_ch%C6%A1i_k%E1%BB%B3_%E1%BA%A3o"
+            },
+            {
+                "name": "Love Again",
+                "qid": "Q104872036",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_nh%C6%B0_l%E1%BA%A7n_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "Midway",
+                "qid": "Q56551019",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_chi%E1%BA%BFn_Midway_(phim_2019)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Priyanka Chopra",
+                "qid": "Q158957",
+                "url": "https://vi.wikipedia.org/wiki/Priyanka_Chopra"
+            }
+        ]
+    }
+}

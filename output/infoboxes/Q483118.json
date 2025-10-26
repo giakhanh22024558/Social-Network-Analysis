@@ -1,0 +1,259 @@
+{
+    "name": "Ben Affleck",
+    "qid": "Q483118",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ben_Affleck",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Casey Affleck",
+                "qid": "Q270730",
+                "url": "https://vi.wikipedia.org/wiki/Casey_Affleck"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Ana de Armas",
+                "qid": "Q698173"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "qid": "Q34460",
+                "url": "https://vi.wikipedia.org/wiki/Gwyneth_Paltrow"
+            },
+            {
+                "name": "Lindsay Shookus",
+                "qid": "Q32796369"
+            },
+            {
+                "name": "Shauna Sexton",
+                "qid": "Q104531616"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Timothy Byers Affleck",
+                "qid": "Q97071433"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Sam Affleck",
+                "qid": "Q29108688"
+            },
+            {
+                "name": "Seraphina Affleck",
+                "qid": "Q29108594"
+            },
+            {
+                "name": "Violet Affleck",
+                "qid": "Q29075518"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Christine Anne Boldt",
+                "qid": "Q97071469"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "poker player",
+                "qid": "Q15295720"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1972-08-15T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Argo",
+                "qid": "Q59653",
+                "url": "https://vi.wikipedia.org/wiki/Argo_(phim)"
+            },
+            {
+                "name": "Live by Night",
+                "qid": "Q21293827",
+                "url": "https://vi.wikipedia.org/wiki/Lu%E1%BA%ADt_ng%E1%BA%A7m_(phim)"
+            },
+            {
+                "name": "The Last Duel",
+                "qid": "Q85000980",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%91%E1%BA%A5u_cu%E1%BB%91i_c%C3%B9ng"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Argo",
+                "qid": "Q59653",
+                "url": "https://vi.wikipedia.org/wiki/Argo_(phim)"
+            },
+            {
+                "name": "Armageddon",
+                "qid": "Q208344",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_t%E1%BA%ADn_th%E1%BA%BF_(phim_1998)"
+            },
+            {
+                "name": "Batman v Superman: Dawn of Justice",
+                "qid": "Q14772351",
+                "url": "https://vi.wikipedia.org/wiki/Batman_%C4%91%E1%BA%A1i_chi%E1%BA%BFn_Superman:_%C3%81nh_s%C3%A1ng_c%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Boiler Room",
+                "qid": "Q1336293",
+                "url": "https://vi.wikipedia.org/wiki/Boiler_Room_(phim)"
+            },
+            {
+                "name": "Field of Dreams",
+                "qid": "Q517958",
+                "url": "https://vi.wikipedia.org/wiki/Field_of_Dreams"
+            },
+            {
+                "name": "Gone Girl",
+                "qid": "Q14920425",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_m%E1%BA%A5t_t%C3%ADch_(phim)"
+            },
+            {
+                "name": "He's Just Not That Into You",
+                "qid": "Q155559",
+                "url": "https://vi.wikipedia.org/wiki/He%27s_Just_Not_That_Into_You_(phim)"
+            },
+            {
+                "name": "Justice League",
+                "qid": "Q20501835",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_C%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Live by Night",
+                "qid": "Q21293827",
+                "url": "https://vi.wikipedia.org/wiki/Lu%E1%BA%ADt_ng%E1%BA%A7m_(phim)"
+            },
+            {
+                "name": "Pearl Harbor",
+                "qid": "Q194413",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A2n_Ch%C3%A2u_C%E1%BA%A3ng_(phim)"
+            },
+            {
+                "name": "School Ties",
+                "qid": "Q40074",
+                "url": "https://vi.wikipedia.org/wiki/School_Ties"
+            },
+            {
+                "name": "Shakespeare in Love",
+                "qid": "Q182944",
+                "url": "https://vi.wikipedia.org/wiki/Shakespeare_in_Love"
+            },
+            {
+                "name": "Suicide Squad",
+                "qid": "Q18604504",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_c%E1%BA%A3m_t%E1%BB%AD_(phim)"
+            },
+            {
+                "name": "The Accountant",
+                "qid": "Q18883455",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_danh:_K%E1%BA%BF_to%C3%A1n"
+            },
+            {
+                "name": "The Flash",
+                "qid": "Q23562553",
+                "url": "https://vi.wikipedia.org/wiki/Flash_(phim)"
+            },
+            {
+                "name": "The Last Duel",
+                "qid": "Q85000980",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%91%E1%BA%A5u_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "Zack Snyder's Justice League",
+                "qid": "Q94998134",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_C%C3%B4ng_l%C3%BD_phi%C3%AAn_b%E1%BA%A3n_c%E1%BB%A7a_Zack_Snyder"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Argo",
+                "qid": "Q59653",
+                "url": "https://vi.wikipedia.org/wiki/Argo_(phim)"
+            },
+            {
+                "name": "Live by Night",
+                "qid": "Q21293827",
+                "url": "https://vi.wikipedia.org/wiki/Lu%E1%BA%ADt_ng%E1%BA%A7m_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jennifer Garner",
+                "qid": "Q172044",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Garner"
+            },
+            {
+                "name": "Jennifer Lopez",
+                "qid": "Q40715",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Lopez"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Summer Phoenix",
+                "qid": "Q258854"
+            }
+        ]
+    }
+}

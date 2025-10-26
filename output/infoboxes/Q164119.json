@@ -1,0 +1,254 @@
+{
+    "name": "Mark Wahlberg",
+    "qid": "Q164119",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mark_Wahlberg",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Donnie Wahlberg",
+                "qid": "Q313470"
+            },
+            {
+                "name": "Jim Wahlberg",
+                "qid": "Q53060299"
+            },
+            {
+                "name": "Paul Wahlberg",
+                "qid": "Q55767375"
+            },
+            {
+                "name": "Robert Wahlberg",
+                "qid": "Q2276547"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Donald Edward Wahlberg",
+                "qid": "Q108841394"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Brendan Wahlberg",
+                "qid": "Q42390390"
+            },
+            {
+                "name": "Ella Wahlberg",
+                "qid": "Q42390573"
+            },
+            {
+                "name": "Michael Wahlberg",
+                "qid": "Q42390681"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Alma Elaine Donnelly",
+                "qid": "Q108841424"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-06-05T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Contraband",
+                "qid": "Q1129080",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_ng%E1%BA%A7m"
+            },
+            {
+                "name": "Deepwater Horizon",
+                "qid": "Q19877874",
+                "url": "https://vi.wikipedia.org/wiki/Deepwater_Horizon:_Th%E1%BA%A3m_h%E1%BB%8Da_gi%C3%A0n_khoan"
+            },
+            {
+                "name": "Lone Survivor",
+                "qid": "Q3258993",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_s%C3%B3t_(phim)"
+            },
+            {
+                "name": "The Fighter",
+                "qid": "Q323472",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B5_s%C4%A9_(phim_2010)"
+            },
+            {
+                "name": "The Gambler",
+                "qid": "Q15706898",
+                "url": "https://vi.wikipedia.org/wiki/The_Gambler_(phim_2014)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "All the Money in the World",
+                "qid": "Q30321629",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%A5_b%E1%BA%AFt_c%C3%B3c_tri%E1%BB%87u_%C4%91%C3%B4"
+            },
+            {
+                "name": "Contraband",
+                "qid": "Q1129080",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_ng%E1%BA%A7m"
+            },
+            {
+                "name": "Daddy's Home",
+                "qid": "Q18619590",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_ngoan,_b%E1%BB%91_h%C6%B0"
+            },
+            {
+                "name": "Date Night",
+                "qid": "Q1139801",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_h%E1%BA%B9n_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Deepwater Horizon",
+                "qid": "Q19877874",
+                "url": "https://vi.wikipedia.org/wiki/Deepwater_Horizon:_Th%E1%BA%A3m_h%E1%BB%8Da_gi%C3%A0n_khoan"
+            },
+            {
+                "name": "Lone Survivor",
+                "qid": "Q3258993",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_s%C3%B3t_(phim)"
+            },
+            {
+                "name": "Patriots Day",
+                "qid": "Q23767799",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_%C4%91%E1%BB%8Bnh_m%E1%BB%87nh"
+            },
+            {
+                "name": "Planet of the Apes",
+                "qid": "Q469624",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_kh%E1%BB%89_(phim_2001)"
+            },
+            {
+                "name": "Shooter",
+                "qid": "Q309014",
+                "url": "https://vi.wikipedia.org/wiki/Shooter"
+            },
+            {
+                "name": "Ted",
+                "qid": "Q641760",
+                "url": "https://vi.wikipedia.org/wiki/Ted_(phim)"
+            },
+            {
+                "name": "Ted 2",
+                "qid": "Q17713411",
+                "url": "https://vi.wikipedia.org/wiki/Ted_2"
+            },
+            {
+                "name": "The Departed",
+                "qid": "Q172975",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_v%E1%BB%A5_Boston"
+            },
+            {
+                "name": "The Fighter",
+                "qid": "Q323472",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B5_s%C4%A9_(phim_2010)"
+            },
+            {
+                "name": "The Gambler",
+                "qid": "Q15706898",
+                "url": "https://vi.wikipedia.org/wiki/The_Gambler_(phim_2014)"
+            },
+            {
+                "name": "The Happening",
+                "qid": "Q681092",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A3m_h%E1%BB%8Da_to%C3%A0n_c%E1%BA%A7u"
+            },
+            {
+                "name": "The Italian Job",
+                "qid": "Q648312",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_Italia"
+            },
+            {
+                "name": "The Lovely Bones",
+                "qid": "Q839123",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%ACnh_h%C3%A0i_d%E1%BA%A5u_y%C3%AAu"
+            },
+            {
+                "name": "The Other Guys",
+                "qid": "Q376807",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_c%E1%BB%9Bm_tranh_t%C3%A0i"
+            },
+            {
+                "name": "The Perfect Storm",
+                "qid": "Q508349",
+                "url": "https://vi.wikipedia.org/wiki/The_Perfect_Storm_(phim)"
+            },
+            {
+                "name": "Transformers: Age of Extinction",
+                "qid": "Q6151665",
+                "url": "https://vi.wikipedia.org/wiki/Transformers_4:_K%E1%BB%B7_nguy%C3%AAn_h%E1%BB%A7y_di%E1%BB%87t"
+            },
+            {
+                "name": "Transformers: The Last Knight",
+                "qid": "Q24251026",
+                "url": "https://vi.wikipedia.org/wiki/Transformers:_Chi%E1%BA%BFn_binh_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "Uncharted",
+                "qid": "Q67171881",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A3_s%C4%83n_c%E1%BB%95_v%E1%BA%ADt"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Rhea Durham",
+                "qid": "Q435055"
+            }
+        ]
+    }
+}

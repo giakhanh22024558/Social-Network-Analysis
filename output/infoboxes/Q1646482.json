@@ -1,0 +1,157 @@
+{
+    "name": "Lin-Manuel Miranda",
+    "qid": "Q1646482",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lin-Manuel_Miranda",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "librettist",
+                "qid": "Q8178443"
+            },
+            {
+                "name": "lyricist",
+                "qid": "Q822146",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_vi%E1%BA%BFt_l%E1%BB%9Di_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "playwright",
+                "qid": "Q214917",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_vi%E1%BA%BFt_k%E1%BB%8Bch"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "theatrical director",
+                "qid": "Q3387717"
+            },
+            {
+                "name": "translator",
+                "qid": "Q333634"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-01-16T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "In the Heights",
+                "qid": "Q63698573",
+                "url": "https://vi.wikipedia.org/wiki/In_the_Heights:_Gi%E1%BA%A5c_m%C6%A1_New_York"
+            },
+            {
+                "name": "The Little Mermaid",
+                "qid": "Q24357415",
+                "url": "https://vi.wikipedia.org/wiki/N%C3%A0ng_ti%C3%AAn_c%C3%A1_(phim_2023)"
+            },
+            {
+                "name": "Tick, Tick... Boom!",
+                "qid": "Q85323361",
+                "url": "https://vi.wikipedia.org/wiki/Tick,_Tick..._Boom!"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "In the Heights",
+                "qid": "Q63698573",
+                "url": "https://vi.wikipedia.org/wiki/In_the_Heights:_Gi%E1%BA%A5c_m%C6%A1_New_York"
+            },
+            {
+                "name": "Mary Poppins Returns",
+                "qid": "Q24272881",
+                "url": "https://vi.wikipedia.org/wiki/Mary_Poppins_tr%E1%BB%9F_l%E1%BA%A1i"
+            },
+            {
+                "name": "The Little Mermaid",
+                "qid": "Q24357415",
+                "url": "https://vi.wikipedia.org/wiki/N%C3%A0ng_ti%C3%AAn_c%C3%A1_(phim_2023)"
+            },
+            {
+                "name": "The Odd Life of Timothy Green",
+                "qid": "Q193963",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%A3nh_%C4%91%E1%BB%9Di_k%C3%AC_l%E1%BA%A1_c%E1%BB%A7a_Timothy_Green"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Tick, Tick... Boom!",
+                "qid": "Q85323361",
+                "url": "https://vi.wikipedia.org/wiki/Tick,_Tick..._Boom!"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Vanessa Nadal",
+                "qid": "Q45163640"
+            }
+        ]
+    }
+}

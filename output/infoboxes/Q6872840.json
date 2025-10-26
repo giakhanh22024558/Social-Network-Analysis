@@ -1,0 +1,49 @@
+{
+    "name": "Miranda Sings",
+    "qid": "Q6872840",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Miranda_Sings",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Emily",
+                "qid": "Q43385285"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Bethany",
+                "qid": "Q43385235"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "YouTuber",
+                "qid": "Q17125263",
+                "url": "https://vi.wikipedia.org/wiki/YouTuber"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-11-21T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "name": "Bob Dylan",
+    "qid": "Q392",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Bob_Dylan",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Echo Helstrom",
+                "qid": "Q109180618"
+            },
+            {
+                "name": "Joan Baez",
+                "qid": "Q131725",
+                "url": "https://vi.wikipedia.org/wiki/Joan_Baez"
+            },
+            {
+                "name": "Suze Rotolo",
+                "qid": "Q439920"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Abram Zimmerman",
+                "qid": "Q62519423"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/21a86ea9e4bfc8ed0f7a66e17081e3af"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/61be6c06f40fc6ab9446e1940ebc2d71"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/df81f603fc7a17f7a56c3a59d509bc57"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/e08fcd5712b8545f4a94805c07f57e7d"
+            },
+            {
+                "name": "Jakob Dylan",
+                "qid": "Q555426"
+            },
+            {
+                "name": "Jesse Dylan",
+                "qid": "Q766818"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Beatrice Stone",
+                "qid": "Q62519478"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "designer",
+                "qid": "Q5322166"
+            },
+            {
+                "name": "disc jockey",
+                "qid": "Q130857",
+                "url": "https://vi.wikipedia.org/wiki/DJ"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "guitarist",
+                "qid": "Q855091",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_guitar"
+            },
+            {
+                "name": "lyricist",
+                "qid": "Q822146",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_vi%E1%BA%BFt_l%E1%BB%9Di_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "painter",
+                "qid": "Q1028181",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9"
+            },
+            {
+                "name": "poet",
+                "qid": "Q49757",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%C6%A1"
+            },
+            {
+                "name": "radio personality",
+                "qid": "Q2722764"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1941-05-24T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Steve Jobs",
+                "qid": "Q18754959",
+                "url": "https://vi.wikipedia.org/wiki/Steve_Jobs_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Carolyn Dennis",
+                "qid": "Q5045345"
+            },
+            {
+                "name": "Sara Dylan",
+                "qid": "Q457433"
+            }
+        ]
+    }
+}

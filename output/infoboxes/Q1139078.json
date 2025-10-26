@@ -1,0 +1,81 @@
+{
+    "name": "Jack Quaid",
+    "qid": "Q1139078",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jack_Quaid",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Dennis Quaid",
+                "qid": "Q200768",
+                "url": "https://vi.wikipedia.org/wiki/Dennis_Quaid"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Meg Ryan",
+                "qid": "Q167498",
+                "url": "https://vi.wikipedia.org/wiki/Meg_Ryan"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-04-24T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Companion",
+                "qid": "Q125933907",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_%C4%91%E1%BB%93ng_h%C3%A0nh"
+            },
+            {
+                "name": "Oppenheimer",
+                "qid": "Q108839994",
+                "url": "https://vi.wikipedia.org/wiki/Oppenheimer_(phim)"
+            },
+            {
+                "name": "Rampage",
+                "qid": "Q29470162",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_th%C3%BA_cu%E1%BB%93ng_n%E1%BB%99"
+            },
+            {
+                "name": "Scream",
+                "qid": "Q88563268",
+                "url": "https://vi.wikipedia.org/wiki/Scream_5"
+            },
+            {
+                "name": "The Hunger Games",
+                "qid": "Q212965",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A5u_tr%C6%B0%E1%BB%9Dng_sinh_t%E1%BB%AD_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

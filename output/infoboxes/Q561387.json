@@ -1,0 +1,83 @@
+{
+    "name": "Francis Lawrence",
+    "qid": "Q561387",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Francis_Lawrence",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "music video director",
+                "qid": "Q2340668"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-03-26T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Constantine",
+                "qid": "Q219150",
+                "url": "https://vi.wikipedia.org/wiki/Constantine_(phim)"
+            },
+            {
+                "name": "Feelin' So Good",
+                "qid": "Q1065013",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Lopez:_Feelin%27_So_Good"
+            },
+            {
+                "name": "I Am Legend",
+                "qid": "Q212689",
+                "url": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_ph%E1%BB%91_ch%E1%BA%BFt_(phim)"
+            },
+            {
+                "name": "Red Sparrow",
+                "qid": "Q28173075",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_v%E1%BB%A5_Chim_s%E1%BA%BB_%C4%91%E1%BB%8F"
+            },
+            {
+                "name": "The Hunger Games: Catching Fire",
+                "qid": "Q574583",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_B%E1%BA%AFt_l%E1%BB%ADa"
+            },
+            {
+                "name": "The Hunger Games: Mockingjay – Part 1",
+                "qid": "Q4142083",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_H%C3%BAng_nh%E1%BA%A1i_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "The Hunger Games: Mockingjay – Part 2",
+                "qid": "Q10307713",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_H%C3%BAng_nh%E1%BA%A1i_%E2%80%93_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "The Hunger Games: The Ballad of Songbirds and Snakes",
+                "qid": "Q96377121",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A5u_tr%C6%B0%E1%BB%9Dng_sinh_t%E1%BB%AD:_Kh%C3%BAc_h%C3%A1t_c%E1%BB%A7a_chim_ca_v%C3%A0_r%E1%BA%AFn_%C4%91%E1%BB%99c"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Austria",
+                "qid": "Q40",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81o"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

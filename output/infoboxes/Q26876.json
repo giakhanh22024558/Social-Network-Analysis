@@ -1,0 +1,207 @@
+{
+    "name": "Taylor Swift",
+    "qid": "Q26876",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Taylor_Swift",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Austin Swift",
+                "qid": "Q17319209",
+                "url": "https://vi.wikipedia.org/wiki/Austin_Swift"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Calvin Harris",
+                "qid": "Q81637",
+                "url": "https://vi.wikipedia.org/wiki/Calvin_Harris"
+            },
+            {
+                "name": "Conor Kennedy",
+                "qid": "Q24550652"
+            },
+            {
+                "name": "Harry Styles",
+                "qid": "Q3626966",
+                "url": "https://vi.wikipedia.org/wiki/Harry_Styles"
+            },
+            {
+                "name": "Jake Gyllenhaal",
+                "qid": "Q133313",
+                "url": "https://vi.wikipedia.org/wiki/Jake_Gyllenhaal"
+            },
+            {
+                "name": "Joe Alwyn",
+                "qid": "Q27440303",
+                "url": "https://vi.wikipedia.org/wiki/Joe_Alwyn"
+            },
+            {
+                "name": "Joe Jonas",
+                "qid": "Q191088",
+                "url": "https://vi.wikipedia.org/wiki/Joe_Jonas"
+            },
+            {
+                "name": "John Mayer",
+                "qid": "Q215215",
+                "url": "https://vi.wikipedia.org/wiki/John_Mayer"
+            },
+            {
+                "name": "Lucas Till",
+                "qid": "Q316541",
+                "url": "https://vi.wikipedia.org/wiki/Lucas_Till"
+            },
+            {
+                "name": "Taylor Lautner",
+                "qid": "Q23359",
+                "url": "https://vi.wikipedia.org/wiki/Taylor_Lautner"
+            },
+            {
+                "name": "Tom Hiddleston",
+                "qid": "Q295803",
+                "url": "https://vi.wikipedia.org/wiki/Tom_Hiddleston"
+            },
+            {
+                "name": "Travis Kelce",
+                "qid": "Q7836292",
+                "url": "https://vi.wikipedia.org/wiki/Travis_Kelce"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Scott Swift",
+                "qid": "Q17319204"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Andrea Finlay",
+                "qid": "Q17319206"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "lyricist",
+                "qid": "Q822146",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_vi%E1%BA%BFt_l%E1%BB%9Di_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "music video director",
+                "qid": "Q2340668"
+            },
+            {
+                "name": "philanthropist",
+                "qid": "Q12362622"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1989-12-13T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Taylor Swift: The Eras Tour",
+                "qid": "Q122160859",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BB%B7_nguy%C3%AAn_c%E1%BB%A7a_Taylor_Swift"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "All Too Well: The Short Film",
+                "qid": "Q109416103",
+                "url": "https://vi.wikipedia.org/wiki/All_Too_Well:_The_Short_Film"
+            },
+            {
+                "name": "Amsterdam",
+                "qid": "Q104830968",
+                "url": "https://vi.wikipedia.org/wiki/Amsterdam_%E2%80%93_V%E1%BB%A5_%C3%A1n_m%E1%BA%A1ng_k%E1%BB%B3_b%C3%AD"
+            },
+            {
+                "name": "Cats",
+                "qid": "Q58701890",
+                "url": "https://vi.wikipedia.org/wiki/Cats:_Nh%E1%BB%AFng_ch%C3%BA_m%C3%A8o"
+            },
+            {
+                "name": "Hannah Montana: The Movie",
+                "qid": "Q220591",
+                "url": "https://vi.wikipedia.org/wiki/Hannah_Montana:_The_Movie"
+            },
+            {
+                "name": "Jonas Brothers: The 3D Concert Experience",
+                "qid": "Q1028548",
+                "url": "https://vi.wikipedia.org/wiki/Jonas_Brothers:_The_3D_Concert_Experience"
+            },
+            {
+                "name": "Miss Americana",
+                "qid": "Q77833628",
+                "url": "https://vi.wikipedia.org/wiki/Miss_Americana"
+            },
+            {
+                "name": "Taylor Swift: The Eras Tour",
+                "qid": "Q122160859",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BB%B7_nguy%C3%AAn_c%E1%BB%A7a_Taylor_Swift"
+            },
+            {
+                "name": "The Giver",
+                "qid": "Q15079344",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_truy%E1%BB%81n_k%C3%BD_%E1%BB%A9c"
+            },
+            {
+                "name": "Valentine's Day",
+                "qid": "Q244975",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A8n_s%E1%BB%91_t%C3%ACnh_y%C3%AAu"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "All Too Well: The Short Film",
+                "qid": "Q109416103",
+                "url": "https://vi.wikipedia.org/wiki/All_Too_Well:_The_Short_Film"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Marjorie Finlay",
+                "qid": "Q104126119"
+            }
+        ]
+    }
+}

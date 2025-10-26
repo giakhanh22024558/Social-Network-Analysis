@@ -1,0 +1,88 @@
+{
+    "name": "Rich Moore",
+    "qid": "Q2499079",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rich_Moore",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "animation director",
+                "qid": "Q779815",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-05-10T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Vivo",
+                "qid": "Q96506972",
+                "url": "https://vi.wikipedia.org/wiki/Vivo_(phim)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Ralph Breaks the Internet",
+                "qid": "Q25167044",
+                "url": "https://vi.wikipedia.org/wiki/Wreck-It_Ralph_2:_Ph%C3%A1_%C4%91%E1%BA%A3o_th%E1%BA%BF_gi%E1%BB%9Bi_%E1%BA%A3o"
+            },
+            {
+                "name": "Wreck-It Ralph",
+                "qid": "Q28891",
+                "url": "https://vi.wikipedia.org/wiki/R%C3%A1p-ph%E1%BB%9D_%C4%91%E1%BA%ADp_ph%C3%A1"
+            },
+            {
+                "name": "Zootopia",
+                "qid": "Q15270647",
+                "url": "https://vi.wikipedia.org/wiki/Zootopia:_Phi_v%E1%BB%A5_%C4%91%E1%BB%99ng_tr%E1%BB%9Di"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "name": "Chris Columbus",
+    "qid": "Q75079",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Chris_Columbus",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Eleanor Columbus",
+                "qid": "Q956349"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-09-10T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Bicentennial Man",
+                "qid": "Q170250",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_M%C3%A1y_200_Tu%E1%BB%95i"
+            },
+            {
+                "name": "Harry Potter and the Prisoner of Azkaban",
+                "qid": "Q102448",
+                "url": "https://vi.wikipedia.org/wiki/Harry_Potter_v%C3%A0_T%C3%B9_nh%C3%A2n_Azkaban"
+            },
+            {
+                "name": "Night at the Museum",
+                "qid": "Q387601",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_kinh_ho%C3%A0ng"
+            },
+            {
+                "name": "Night at the Museum: Battle of the Smithsonian",
+                "qid": "Q476726",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_kinh_ho%C3%A0ng_2"
+            },
+            {
+                "name": "Night at the Museum: Secret of the Tomb",
+                "qid": "Q15916752",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_%E1%BB%9F_vi%E1%BB%87n_b%E1%BA%A3o_t%C3%A0ng:_B%C3%AD_m%E1%BA%ADt_h%E1%BA%A7m_m%E1%BB%99"
+            },
+            {
+                "name": "Nosferatu",
+                "qid": "Q116361132",
+                "url": "https://vi.wikipedia.org/wiki/Ma_c%C3%A0_r%E1%BB%93ng_Nosferatu"
+            },
+            {
+                "name": "Percy Jackson & The Olympians - The Sea of Monsters",
+                "qid": "Q2984104",
+                "url": "https://vi.wikipedia.org/wiki/Percy_Jackson:_Bi%E1%BB%83n_qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Percy Jackson & the Olympians: The Lightning Thief",
+                "qid": "Q244333",
+                "url": "https://vi.wikipedia.org/wiki/Percy_Jackson_%26_k%E1%BA%BB_c%E1%BA%AFp_tia_ch%E1%BB%9Bp"
+            },
+            {
+                "name": "Pixels",
+                "qid": "Q17182905",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_Pixels"
+            },
+            {
+                "name": "Scoob!",
+                "qid": "Q23999279",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_phi%C3%AAu_l%C6%B0u_c%E1%BB%A7a_Scooby-Doo!"
+            },
+            {
+                "name": "The Help",
+                "qid": "Q204374",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_gi%C3%BAp_vi%E1%BB%87c_(phim)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Harry Potter 20th Anniversary: Return to Hogwarts",
+                "qid": "Q110207138",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B7_ni%E1%BB%87m_20_n%C4%83m_Harry_Potter:_T%E1%BB%B1u_tr%C6%B0%E1%BB%9Dng_Hogwarts"
+            },
+            {
+                "name": "Home Alone 2: Lost in New York",
+                "qid": "Q221202",
+                "url": "https://vi.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Bicentennial Man",
+                "qid": "Q170250",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_M%C3%A1y_200_Tu%E1%BB%95i"
+            },
+            {
+                "name": "Harry Potter and the Chamber of Secrets",
+                "qid": "Q102244",
+                "url": "https://vi.wikipedia.org/wiki/Harry_Potter_v%C3%A0_C%C4%83n_ph%C3%B2ng_B%C3%AD_m%E1%BA%ADt"
+            },
+            {
+                "name": "Harry Potter and the Philosopher's Stone",
+                "qid": "Q102438",
+                "url": "https://vi.wikipedia.org/wiki/Harry_Potter_v%C3%A0_H%C3%B2n_%C4%91%C3%A1_Ph%C3%B9_th%E1%BB%A7y_(phim)"
+            },
+            {
+                "name": "Home Alone",
+                "qid": "Q105031",
+                "url": "https://vi.wikipedia.org/wiki/Home_Alone"
+            },
+            {
+                "name": "Home Alone 2: Lost in New York",
+                "qid": "Q221202",
+                "url": "https://vi.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York"
+            },
+            {
+                "name": "Mrs. Doubtfire",
+                "qid": "Q483852",
+                "url": "https://vi.wikipedia.org/wiki/Mrs._Doubtfire"
+            },
+            {
+                "name": "Percy Jackson & the Olympians: The Lightning Thief",
+                "qid": "Q244333",
+                "url": "https://vi.wikipedia.org/wiki/Percy_Jackson_%26_k%E1%BA%BB_c%E1%BA%AFp_tia_ch%E1%BB%9Bp"
+            },
+            {
+                "name": "Pixels",
+                "qid": "Q17182905",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_Pixels"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

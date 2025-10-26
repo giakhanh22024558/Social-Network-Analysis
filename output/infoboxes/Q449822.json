@@ -1,0 +1,103 @@
+{
+    "name": "Lin Shaye",
+    "qid": "Q449822",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lin_Shaye",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1943-10-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Cinderella Story",
+                "qid": "Q276415",
+                "url": "https://vi.wikipedia.org/wiki/A_Cinderella_Story"
+            },
+            {
+                "name": "Dumb and Dumber",
+                "qid": "Q462418",
+                "url": "https://vi.wikipedia.org/wiki/Dumb_and_Dumber"
+            },
+            {
+                "name": "Hate Crime",
+                "qid": "Q4377503",
+                "url": "https://vi.wikipedia.org/wiki/Hate_Crime_(phim_2005)"
+            },
+            {
+                "name": "Insidious",
+                "qid": "Q122713",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%B7_quy%E1%BB%87t_(phim)"
+            },
+            {
+                "name": "Insidious: Chapter 2",
+                "qid": "Q13423790",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%B7_quy%E1%BB%87t_2"
+            },
+            {
+                "name": "Insidious: Chapter 3",
+                "qid": "Q17452082",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%B7_quy%E1%BB%87t_3"
+            },
+            {
+                "name": "Insidious: The Last Key",
+                "qid": "Q27590064",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%B7_quy%E1%BB%87t:_Ch%C3%ACa_kh%C3%B3a_qu%E1%BB%B7_d%E1%BB%AF"
+            },
+            {
+                "name": "Insidious: The Red Door",
+                "qid": "Q113467000",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%B7_quy%E1%BB%87t:_C%E1%BB%ADa_%C4%91%E1%BB%8F_v%C3%B4_%C4%91%E1%BB%8Bnh"
+            },
+            {
+                "name": "Ouija",
+                "qid": "Q16253888",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_g%E1%BB%8Di_h%E1%BB%93n"
+            },
+            {
+                "name": "Snakes on a Plane",
+                "qid": "Q822660",
+                "url": "https://vi.wikipedia.org/wiki/R%E1%BA%AFn_%C4%91%E1%BB%99c_tr%C3%AAn_kh%C3%B4ng"
+            },
+            {
+                "name": "There's Something About Mary",
+                "qid": "Q177374",
+                "url": "https://vi.wikipedia.org/wiki/There%27s_Something_About_Mary"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Clayton Landey",
+                "qid": "Q5130280"
+            }
+        ]
+    }
+}

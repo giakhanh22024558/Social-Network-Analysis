@@ -1,0 +1,44 @@
+{
+    "name": "Phương Hồng Ngọc",
+    "qid": "Q115622280",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ph%C6%B0%C6%A1ng_H%E1%BB%93ng_Ng%E1%BB%8Dc",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1954-01-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Near and Far",
+                "qid": "Q117794004",
+                "url": "https://vi.wikipedia.org/wiki/Xa_v%C3%A0_g%E1%BA%A7n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "France",
+                "qid": "Q142",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%A1p"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Nia Long",
+    "qid": "Q272956",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nia_Long",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Ime Udoka",
+                "qid": "Q1374718"
+            },
+            {
+                "name": "Mick Jagger",
+                "qid": "Q128121",
+                "url": "https://vi.wikipedia.org/wiki/Mick_Jagger"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Talita Long",
+                "qid": "Q116753500"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "motivational speaker",
+                "qid": "Q15982858",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_gi%E1%BA%A3_truy%E1%BB%81n_c%E1%BA%A3m_h%E1%BB%A9ng"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-10-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Boiler Room",
+                "qid": "Q1336293",
+                "url": "https://vi.wikipedia.org/wiki/Boiler_Room_(phim)"
+            },
+            {
+                "name": "Boyz n the Hood",
+                "qid": "Q896103",
+                "url": "https://vi.wikipedia.org/wiki/Boyz_n_the_Hood"
+            },
+            {
+                "name": "Keanu",
+                "qid": "Q20026853",
+                "url": "https://vi.wikipedia.org/wiki/Keanu"
+            },
+            {
+                "name": "Spy",
+                "qid": "Q16389838",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%BD_b%C3%A0_%C4%91i%E1%BB%87p_vi%C3%AAn_(phim_2015)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Sommore",
+                "qid": "Q7560476"
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "name": "Alexandra Daddario",
+    "qid": "Q231556",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Alexandra_Daddario",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Catharine Daddario",
+                "qid": "Q110805105"
+            },
+            {
+                "name": "Matthew Daddario",
+                "qid": "Q20027497"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Richard Daddario",
+                "qid": "Q84969720"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-03-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Baywatch",
+                "qid": "Q23016495",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_c%E1%BB%A9u_h%E1%BB%99_b%C3%A3i_bi%E1%BB%83n"
+            },
+            {
+                "name": "Jonas Brothers: The 3D Concert Experience",
+                "qid": "Q1028548",
+                "url": "https://vi.wikipedia.org/wiki/Jonas_Brothers:_The_3D_Concert_Experience"
+            },
+            {
+                "name": "Percy Jackson & The Olympians - The Sea of Monsters",
+                "qid": "Q2984104",
+                "url": "https://vi.wikipedia.org/wiki/Percy_Jackson:_Bi%E1%BB%83n_qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Percy Jackson & the Olympians: The Lightning Thief",
+                "qid": "Q244333",
+                "url": "https://vi.wikipedia.org/wiki/Percy_Jackson_%26_k%E1%BA%BB_c%E1%BA%AFp_tia_ch%E1%BB%9Bp"
+            },
+            {
+                "name": "San Andreas",
+                "qid": "Q15973073",
+                "url": "https://vi.wikipedia.org/wiki/Khe_n%E1%BB%A9t_San_Andreas"
+            },
+            {
+                "name": "Texas Chainsaw 3D",
+                "qid": "Q1832350",
+                "url": "https://vi.wikipedia.org/wiki/Texas_Chainsaw_3D"
+            },
+            {
+                "name": "The Choice",
+                "qid": "Q18389443",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%B1a_ch%E1%BB%8Dn_c%E1%BB%A7a_tr%C3%A1i_tim"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Andrew Form",
+                "qid": "Q21004830"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Emilio Daddario",
+                "qid": "Q562908"
+            }
+        ]
+    }
+}

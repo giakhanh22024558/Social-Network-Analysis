@@ -1,0 +1,88 @@
+{
+    "name": "Hong Chau",
+    "qid": "Q38195662",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/H%E1%BB%93ng_Ch%C3%A2u_(di%E1%BB%85n_vi%C3%AAn)",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-06-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "American Woman",
+                "qid": "Q64682327",
+                "url": "https://vi.wikipedia.org/wiki/American_Woman_(phim_2019)"
+            },
+            {
+                "name": "Artemis Fowl",
+                "qid": "Q12302227",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BA%ADu_b%C3%A9_Artemis_Fowl"
+            },
+            {
+                "name": "Asteroid City",
+                "qid": "Q108086029",
+                "url": "https://vi.wikipedia.org/wiki/Asteroid_City"
+            },
+            {
+                "name": "Downsizing",
+                "qid": "Q22075017",
+                "url": "https://vi.wikipedia.org/wiki/Downsizing_(phim)"
+            },
+            {
+                "name": "Driveways",
+                "qid": "Q62082683",
+                "url": "https://vi.wikipedia.org/wiki/Driveways_(phim)"
+            },
+            {
+                "name": "Duck Butter",
+                "qid": "Q30101331",
+                "url": "https://vi.wikipedia.org/wiki/Duck_Butter"
+            },
+            {
+                "name": "Inherent Vice",
+                "qid": "Q13806537",
+                "url": "https://vi.wikipedia.org/wiki/Inherent_Vice_(phim)"
+            },
+            {
+                "name": "Showing Up",
+                "qid": "Q107610545",
+                "url": "https://vi.wikipedia.org/wiki/Showing_Up_(phim)"
+            },
+            {
+                "name": "The Menu",
+                "qid": "Q108444804",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%B1c_%C4%91%C6%A1n_b%C3%AD_%E1%BA%A9n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            },
+            {
+                "name": "Vietnam",
+                "qid": "Q881",
+                "url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam"
+            }
+        ]
+    }
+}

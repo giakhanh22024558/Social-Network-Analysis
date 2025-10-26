@@ -1,0 +1,78 @@
+{
+    "name": "Jeremy Strong",
+    "qid": "Q15854232",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jeremy_Strong_(di%E1%BB%85n_vi%C3%AAn)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-12-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Lincoln",
+                "qid": "Q32433",
+                "url": "https://vi.wikipedia.org/wiki/Lincoln_(phim)"
+            },
+            {
+                "name": "The Big Short",
+                "qid": "Q19850715",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Short_(phim)"
+            },
+            {
+                "name": "The Gentlemen",
+                "qid": "Q60614686",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%BD_%C3%B4ng_th%E1%BA%BF_gi%E1%BB%9Bi_ng%E1%BA%A7m"
+            },
+            {
+                "name": "The Happening",
+                "qid": "Q681092",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A3m_h%E1%BB%8Da_to%C3%A0n_c%E1%BA%A7u"
+            },
+            {
+                "name": "Zero Dark Thirty",
+                "qid": "Q152531",
+                "url": "https://vi.wikipedia.org/wiki/30%27_sau_n%E1%BB%ADa_%C4%91%C3%AAm"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Emma Wall",
+                "qid": "Q117560729"
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Michael Shannon",
+    "qid": "Q41449",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Shannon",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Donald S. Shannon",
+                "qid": "Q115925467"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-08-07T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Amsterdam",
+                "qid": "Q104830968",
+                "url": "https://vi.wikipedia.org/wiki/Amsterdam_%E2%80%93_V%E1%BB%A5_%C3%A1n_m%E1%BA%A1ng_k%E1%BB%B3_b%C3%AD"
+            },
+            {
+                "name": "Batman v Superman: Dawn of Justice",
+                "qid": "Q14772351",
+                "url": "https://vi.wikipedia.org/wiki/Batman_%C4%91%E1%BA%A1i_chi%E1%BA%BFn_Superman:_%C3%81nh_s%C3%A1ng_c%C3%B4ng_l%C3%BD"
+            },
+            {
+                "name": "Bullet Train",
+                "qid": "Q99900595",
+                "url": "https://vi.wikipedia.org/wiki/Bullet_Train:_S%C3%A1t_th%E1%BB%A7_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "Groundhog Day",
+                "qid": "Q488655",
+                "url": "https://vi.wikipedia.org/wiki/Groundhog_Day"
+            },
+            {
+                "name": "Knives Out",
+                "qid": "Q57982486",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_%C4%91%C3%A2m_l%C3%A9n"
+            },
+            {
+                "name": "Loving",
+                "qid": "Q21527828",
+                "url": "https://vi.wikipedia.org/wiki/Loving_(phim_2016)"
+            },
+            {
+                "name": "Man of Steel",
+                "qid": "Q622769",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_th%C3%A9p"
+            },
+            {
+                "name": "Midnight Special",
+                "qid": "Q17025594",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A3n_l%E1%BB%B1c_si%C3%AAu_nhi%C3%AAn_(phim)"
+            },
+            {
+                "name": "Pearl Harbor",
+                "qid": "Q194413",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A2n_Ch%C3%A2u_C%E1%BA%A3ng_(phim)"
+            },
+            {
+                "name": "Premium Rush",
+                "qid": "Q1320875",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%91c_%C4%91%E1%BB%99_kinh_ho%C3%A0ng"
+            },
+            {
+                "name": "Take Shelter",
+                "qid": "Q762877",
+                "url": "https://vi.wikipedia.org/wiki/Take_Shelter"
+            },
+            {
+                "name": "The Flash",
+                "qid": "Q23562553",
+                "url": "https://vi.wikipedia.org/wiki/Flash_(phim)"
+            },
+            {
+                "name": "The Runaways",
+                "qid": "Q206336",
+                "url": "https://vi.wikipedia.org/wiki/Thi%E1%BA%BFu_n%E1%BB%AF_n%E1%BB%95i_lo%E1%BA%A1n"
+            },
+            {
+                "name": "The Shape of Water",
+                "qid": "Q26698156",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%E1%BA%B9p_v%C3%A0_th%E1%BB%A7y_qu%C3%A1i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

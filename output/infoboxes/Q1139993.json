@@ -1,0 +1,84 @@
+{
+    "name": "Bray Wyatt",
+    "qid": "Q1139993",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Bray_Wyatt",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Bo Dallas",
+                "qid": "Q1867265",
+                "url": "https://vi.wikipedia.org/wiki/Bo_Dallas"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "JoJo Offerman",
+                "qid": "Q14512449"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Mike Rotunda",
+                "qid": "Q1933507"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/6ad753aede9842e01c34596e67d6f18f"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/b65987a1215c2801d9b943bd393dd546"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/baec7c7af01f50a35d0c3257d5909507"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/c4b8b6766cd0441a64945b7c4cfe6519"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1987-05-23T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "JoJo Offerman",
+                "qid": "Q14512449"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Barry Windham",
+                "qid": "Q734682"
+            },
+            {
+                "name": "Blackjack Mulligan",
+                "qid": "Q586503"
+            },
+            {
+                "name": "Kendall Windham",
+                "qid": "Q6388952"
+            }
+        ]
+    }
+}

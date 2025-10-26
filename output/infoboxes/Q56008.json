@@ -1,0 +1,220 @@
+{
+    "name": "Tim Burton",
+    "qid": "Q56008",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tim_Burton",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Helena Bonham Carter",
+                "qid": "Q170428",
+                "url": "https://vi.wikipedia.org/wiki/Helena_Bonham_Carter"
+            },
+            {
+                "name": "Lisa Marie",
+                "qid": "Q242015"
+            },
+            {
+                "name": "Monica Bellucci",
+                "qid": "Q81819",
+                "url": "https://vi.wikipedia.org/wiki/Monica_Bellucci"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Bill Burton",
+                "qid": "Q108844353"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Billy Burton",
+                "qid": "Q29168703"
+            },
+            {
+                "name": "Nell Burton",
+                "qid": "Q75972052"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Jean Rae Erickson",
+                "qid": "Q108844355"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "designer",
+                "qid": "Q5322166"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "poet",
+                "qid": "Q49757",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%C6%A1"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-08-25T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Abraham Lincoln: Vampire Hunter",
+                "qid": "Q587707",
+                "url": "https://vi.wikipedia.org/wiki/Abraham_Lincoln:_Th%E1%BB%A3_s%C4%83n_ma_c%C3%A0_r%E1%BB%93ng"
+            },
+            {
+                "name": "Alice Through the Looking Glass",
+                "qid": "Q17485699",
+                "url": "https://vi.wikipedia.org/wiki/Alice_%E1%BB%9F_x%E1%BB%A9_s%E1%BB%9F_trong_g%C6%B0%C6%A1ng"
+            },
+            {
+                "name": "Beetlejuice Beetlejuice",
+                "qid": "Q112865900",
+                "url": "https://vi.wikipedia.org/wiki/Ma_si%C3%AAu_qu%E1%BA%ADy"
+            },
+            {
+                "name": "Corpse Bride",
+                "qid": "Q164417",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_d%C3%A2u_x%C3%A1c_ch%E1%BA%BFt"
+            },
+            {
+                "name": "Edward Scissorhands",
+                "qid": "Q217182",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_k%C3%A9o_h%E1%BB%8Dc_y%C3%AAu"
+            },
+            {
+                "name": "Frankenweenie",
+                "qid": "Q1051023",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%B3_ma_Frankenweenie"
+            },
+            {
+                "name": "The Nightmare Before Christmas",
+                "qid": "Q322328",
+                "url": "https://vi.wikipedia.org/wiki/The_Nightmare_Before_Christmas"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Men in Black 3",
+                "qid": "Q327713",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_%C3%A1o_%C4%91en_3"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Alice in Wonderland",
+                "qid": "Q174385",
+                "url": "https://vi.wikipedia.org/wiki/Alice_%E1%BB%9F_x%E1%BB%A9_s%E1%BB%9F_th%E1%BA%A7n_ti%C3%AAn_(phim_2010)"
+            },
+            {
+                "name": "Batman",
+                "qid": "Q116852",
+                "url": "https://vi.wikipedia.org/wiki/Batman_(phim_1989)"
+            },
+            {
+                "name": "Beetlejuice Beetlejuice",
+                "qid": "Q112865900",
+                "url": "https://vi.wikipedia.org/wiki/Ma_si%C3%AAu_qu%E1%BA%ADy"
+            },
+            {
+                "name": "Big Fish",
+                "qid": "Q278997",
+                "url": "https://vi.wikipedia.org/wiki/Big_Fish"
+            },
+            {
+                "name": "Charlie and the Chocolate Factory",
+                "qid": "Q218235",
+                "url": "https://vi.wikipedia.org/wiki/Charlie_v%C3%A0_nh%C3%A0_m%C3%A1y_s%C3%B4c%C3%B4la_(phim)"
+            },
+            {
+                "name": "Corpse Bride",
+                "qid": "Q164417",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_d%C3%A2u_x%C3%A1c_ch%E1%BA%BFt"
+            },
+            {
+                "name": "Dark Shadows",
+                "qid": "Q323318",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_nguy%E1%BB%81n_b%C3%B3ng_%C4%91%C3%AAm_(phim)"
+            },
+            {
+                "name": "Dumbo",
+                "qid": "Q24284798",
+                "url": "https://vi.wikipedia.org/wiki/Dumbo:_Ch%C3%BA_voi_bi%E1%BA%BFt_bay"
+            },
+            {
+                "name": "Edward Scissorhands",
+                "qid": "Q217182",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_k%C3%A9o_h%E1%BB%8Dc_y%C3%AAu"
+            },
+            {
+                "name": "Frankenweenie",
+                "qid": "Q1051023",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%B3_ma_Frankenweenie"
+            },
+            {
+                "name": "Miss Peregrine's Home for Peculiar Children",
+                "qid": "Q19321019",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%A1i_%E1%BA%A5m_l%E1%BA%A1_k%E1%BB%B3_c%E1%BB%A7a_c%C3%B4_Peregrine"
+            },
+            {
+                "name": "Planet of the Apes",
+                "qid": "Q469624",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_kh%E1%BB%89_(phim_2001)"
+            },
+            {
+                "name": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "qid": "Q212041",
+                "url": "https://vi.wikipedia.org/wiki/Sweeney_Todd:_G%C3%A3_th%E1%BB%A3_c%E1%BA%A1o_ma_qu%E1%BB%B7_tr%C3%AAn_ph%E1%BB%91_Fleet_(phim_2007)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Lena Gieseke",
+                "qid": "Q56256181"
+            }
+        ]
+    }
+}

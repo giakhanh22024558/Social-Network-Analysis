@@ -1,0 +1,60 @@
+{
+    "name": "Alessandra Ambrosio",
+    "qid": "Q151859",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Alessandra_Ambrosio",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Anja Louise Ambrosio Mazur",
+                "qid": "Q133461714"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-04-11T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Casino Royale",
+                "qid": "Q151904",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%B2ng_b%E1%BA%A1c_ho%C3%A0ng_gia"
+            },
+            {
+                "name": "Daddy's Home",
+                "qid": "Q18619590",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_ngoan,_b%E1%BB%91_h%C6%B0"
+            },
+            {
+                "name": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+                "qid": "Q19842746",
+                "url": "https://vi.wikipedia.org/wiki/Ninja_R%C3%B9a:_%C4%90%E1%BA%ADp_tan_b%C3%B3ng_t%E1%BB%91i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Brazil",
+                "qid": "Q155",
+                "url": "https://vi.wikipedia.org/wiki/Brasil"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

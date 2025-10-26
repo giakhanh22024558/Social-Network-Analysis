@@ -1,0 +1,56 @@
+{
+    "name": "Arthur Chen",
+    "qid": "Q57292172",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Phi_V%C5%A9",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Chen Kaige",
+                "qid": "Q202597",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Kh%E1%BA%A3i_Ca"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Chen Hong",
+                "qid": "Q545651"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "2000-04-09T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "People's Republic of China",
+                "qid": "Q148",
+                "url": "https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Chen He",
+                "qid": "Q9370539",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_H%C3%A1ch"
+            }
+        ]
+    }
+}

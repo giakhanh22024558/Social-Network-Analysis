@@ -1,0 +1,45 @@
+{
+    "name": "Andrew Burnap",
+    "qid": "Q61443923",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Andrew_Burnap",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1990-03-05T00:00:00Z"
+            },
+            {
+                "name": "1991-01-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Snow White",
+                "qid": "Q27660145",
+                "url": "https://vi.wikipedia.org/wiki/N%C3%A0ng_B%E1%BA%A1ch_Tuy%E1%BA%BFt_(phim_2025)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Navia Nguyen",
+    "qid": "Q3873438",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Navia_Nguy%E1%BB%85n",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-01-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Memoirs of a Geisha",
+                "qid": "Q45839",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93i_%E1%BB%A9c_c%E1%BB%A7a_m%E1%BB%99t_geisha_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

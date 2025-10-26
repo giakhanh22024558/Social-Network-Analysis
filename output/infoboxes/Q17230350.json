@@ -1,0 +1,66 @@
+{
+    "name": "Mackenyu",
+    "qid": "Q17230350",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Arata_Mackenyu",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Gordon Maeda",
+                "qid": "Q66364971"
+            },
+            {
+                "name": "Juri Manase",
+                "qid": "Q3811114"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Natsuki Okamoto",
+                "qid": "Q11473102"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Sonny Chiba",
+                "qid": "Q351732",
+                "url": "https://vi.wikipedia.org/wiki/Sonny_Chiba"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1996-11-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Let's Go Jets",
+                "qid": "Q28689198",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BA%BFn_l%C3%AAn,_Jets!"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Japan",
+                "qid": "Q17",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

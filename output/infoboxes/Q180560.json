@@ -1,0 +1,139 @@
+{
+    "name": "Philip Seymour Hoffman",
+    "qid": "Q180560",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Philip_Seymour_Hoffman",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Gordy Hoffman",
+                "qid": "Q1538140"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Mimi O'Donnell",
+                "qid": "Q109321200"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Gordon Hoffman",
+                "qid": "Q15725871"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Cooper Hoffman",
+                "qid": "Q108734363"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Marilyn O'Connor",
+                "qid": "Q15725872"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "theatrical director",
+                "qid": "Q3387717"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-07-23T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Almost Famous",
+                "qid": "Q726294",
+                "url": "https://vi.wikipedia.org/wiki/Almost_Famous"
+            },
+            {
+                "name": "Capote",
+                "qid": "Q463615",
+                "url": "https://vi.wikipedia.org/wiki/Capote_(phim)"
+            },
+            {
+                "name": "Cold Mountain",
+                "qid": "Q390097",
+                "url": "https://vi.wikipedia.org/wiki/N%C3%BAi_l%E1%BA%A1nh_(phim)"
+            },
+            {
+                "name": "Scent of a Woman",
+                "qid": "Q321561",
+                "url": "https://vi.wikipedia.org/wiki/Scent_of_a_Woman_(phim_1992)"
+            },
+            {
+                "name": "The Big Lebowski",
+                "qid": "Q337078",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Lebowski"
+            },
+            {
+                "name": "The Hunger Games: Catching Fire",
+                "qid": "Q574583",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_B%E1%BA%AFt_l%E1%BB%ADa"
+            },
+            {
+                "name": "The Hunger Games: Mockingjay – Part 1",
+                "qid": "Q4142083",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_H%C3%BAng_nh%E1%BA%A1i_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "The Hunger Games: Mockingjay – Part 2",
+                "qid": "Q10307713",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_H%C3%BAng_nh%E1%BA%A1i_%E2%80%93_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "The Talented Mr. Ripley",
+                "qid": "Q390052",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0i_Ripley_t%C3%A0i_ba_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

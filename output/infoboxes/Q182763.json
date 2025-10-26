@@ -1,0 +1,154 @@
+{
+    "name": "Forest Whitaker",
+    "qid": "Q182763",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Forest_Whitaker",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Osian Whitaker",
+                "qid": "Q123700572"
+            },
+            {
+                "name": "Sonnet Noel Whitaker",
+                "qid": "Q123700668"
+            },
+            {
+                "name": "True Whitaker",
+                "qid": "Q77607746"
+            },
+            {
+                "name": "otom whitaker",
+                "qid": "Q123700658"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "karateka",
+                "qid": "Q9017214"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-07-15T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Arrival",
+                "qid": "Q20382729",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91%E1%BB%95_b%E1%BB%99_b%C3%AD_%E1%BA%A9n"
+            },
+            {
+                "name": "Black Panther",
+                "qid": "Q23780734",
+                "url": "https://vi.wikipedia.org/wiki/Black_Panther:_Chi%E1%BA%BFn_binh_B%C3%A1o_%C4%90en"
+            },
+            {
+                "name": "Good Morning, Vietnam",
+                "qid": "Q741878",
+                "url": "https://vi.wikipedia.org/wiki/Good_Morning,_Vietnam"
+            },
+            {
+                "name": "Green Dragon",
+                "qid": "Q2385586",
+                "url": "https://vi.wikipedia.org/wiki/R%E1%BB%93ng_xanh"
+            },
+            {
+                "name": "Panic Room",
+                "qid": "Q741042",
+                "url": "https://vi.wikipedia.org/wiki/Panic_Room"
+            },
+            {
+                "name": "Platoon",
+                "qid": "Q190643",
+                "url": "https://vi.wikipedia.org/wiki/Platoon_(phim)"
+            },
+            {
+                "name": "Repo Men",
+                "qid": "Q1460779",
+                "url": "https://vi.wikipedia.org/wiki/Repo_Men"
+            },
+            {
+                "name": "Respect",
+                "qid": "Q79327081",
+                "url": "https://vi.wikipedia.org/wiki/Respect_m%E1%BB%99t_huy%E1%BB%81n_tho%E1%BA%A1i"
+            },
+            {
+                "name": "Rogue One: A Star Wars Story",
+                "qid": "Q19590955",
+                "url": "https://vi.wikipedia.org/wiki/Rogue_One:_Star_Wars_ngo%E1%BA%A1i_truy%E1%BB%87n"
+            },
+            {
+                "name": "Street Kings",
+                "qid": "Q785712",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1_v%C6%B0%C6%A1ng_%C4%91%C6%B0%E1%BB%9Dng_ph%E1%BB%91"
+            },
+            {
+                "name": "Taken 3",
+                "qid": "Q16781911",
+                "url": "https://vi.wikipedia.org/wiki/Taken_3:_D%E1%BB%A9t_%C4%91i%E1%BB%83m"
+            },
+            {
+                "name": "The Last King of Scotland",
+                "qid": "Q176826",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%8B_vua_cu%E1%BB%91i_c%C3%B9ng_c%E1%BB%A7a_Scotland_(phim)"
+            },
+            {
+                "name": "The Last Stand",
+                "qid": "Q45672",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%91t_ch%E1%BA%B7n_cu%E1%BB%91i_c%C3%B9ng_(phim_2013)"
+            },
+            {
+                "name": "Vantage Point",
+                "qid": "Q274887",
+                "url": "https://vi.wikipedia.org/wiki/Vantage_Point"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Keisha Nash",
+                "qid": "Q123700251"
+            }
+        ]
+    }
+}

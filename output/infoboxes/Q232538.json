@@ -1,0 +1,78 @@
+{
+    "name": "Patty Duke",
+    "qid": "Q232538",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Patty_Duke",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Mackenzie Astin",
+                "qid": "Q2575752"
+            },
+            {
+                "name": "Sean Astin",
+                "qid": "Q189351"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "health activist",
+                "qid": "Q96036530"
+            },
+            {
+                "name": "politician",
+                "qid": "Q82955",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%ADnh_kh%C3%A1ch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "trade unionist",
+                "qid": "Q15627169"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1946-12-14T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Harry Falk",
+                "qid": "Q106674887"
+            },
+            {
+                "name": "John Astin",
+                "qid": "Q458464"
+            }
+        ]
+    }
+}

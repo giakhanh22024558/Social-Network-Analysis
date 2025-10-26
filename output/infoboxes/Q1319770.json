@@ -1,0 +1,79 @@
+{
+    "name": "Jon Gries",
+    "qid": "Q1319770",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jon_Gries",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Tom Gries",
+                "qid": "Q587601"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-06-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Men in Black",
+                "qid": "Q51416",
+                "url": "https://vi.wikipedia.org/wiki/Men_in_Black_(phim_1997)"
+            },
+            {
+                "name": "Taken",
+                "qid": "Q277080",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%A1ng_%C4%91o%E1%BA%A1t"
+            },
+            {
+                "name": "Taken 2",
+                "qid": "Q1057015",
+                "url": "https://vi.wikipedia.org/wiki/Taken_2"
+            },
+            {
+                "name": "Taken 3",
+                "qid": "Q16781911",
+                "url": "https://vi.wikipedia.org/wiki/Taken_3:_D%E1%BB%A9t_%C4%91i%E1%BB%83m"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

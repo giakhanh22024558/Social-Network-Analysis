@@ -1,0 +1,50 @@
+{
+    "name": "Roger Montoya",
+    "qid": "Q100318549",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Roger_Montoya",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "artist",
+                "qid": "Q483501",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9"
+            },
+            {
+                "name": "artistic gymnast",
+                "qid": "Q13381572"
+            },
+            {
+                "name": "gymnast",
+                "qid": "Q16947675"
+            },
+            {
+                "name": "politician",
+                "qid": "Q82955",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%ADnh_kh%C3%A1ch"
+            },
+            {
+                "name": "pornographic actor",
+                "qid": "Q488111",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_phim_khi%C3%AAu_d%C3%A2m"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-02-03T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "name": "Zoey Deutch",
+    "qid": "Q218279",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Zoey_Deutch",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Madelyn Deutch",
+                "qid": "Q29452239"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Howard Deutch",
+                "qid": "Q1138881"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Lea Thompson",
+                "qid": "Q230605",
+                "url": "https://vi.wikipedia.org/wiki/Lea_Thompson"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1994-11-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Beautiful Creatures",
+                "qid": "Q738704",
+                "url": "https://vi.wikipedia.org/wiki/Gia_t%E1%BB%99c_huy%E1%BB%81n_b%C3%AD"
+            },
+            {
+                "name": "Before I Fall",
+                "qid": "Q22350712",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_c%C3%B3_ng%C3%A0y_mai_(phim)"
+            },
+            {
+                "name": "Dirty Grandpa",
+                "qid": "Q18669866",
+                "url": "https://vi.wikipedia.org/wiki/Tay_ch%C6%A1i_kh%C3%B4ng_tu%E1%BB%95i"
+            },
+            {
+                "name": "Everybody Wants Some!!",
+                "qid": "Q18324869",
+                "url": "https://vi.wikipedia.org/wiki/Sinh_vi%C3%AAn_si%C3%AAu_qu%E1%BA%ADy!!"
+            },
+            {
+                "name": "Flower",
+                "qid": "Q28970972",
+                "url": "https://vi.wikipedia.org/wiki/Flower_(phim)"
+            },
+            {
+                "name": "Set It Up",
+                "qid": "Q38769953",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%A3_l%C3%BD_y%C3%AAu"
+            },
+            {
+                "name": "Vampire Academy: Blood Sisters",
+                "qid": "Q13217284",
+                "url": "https://vi.wikipedia.org/wiki/Vampire_Academy_(phim)"
+            },
+            {
+                "name": "Why Him?",
+                "qid": "Q23058779",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_v%E1%BB%A3_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u_ch%C3%A0ng_r%E1%BB%83"
+            },
+            {
+                "name": "Zombieland: Double Tap",
+                "qid": "Q58879016",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_th%C3%A2y_ma:_C%C3%BA_b%E1%BA%AFn_%C4%91%C3%BAp"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Avan Jogia",
+                "qid": "Q368424"
+            }
+        ]
+    }
+}

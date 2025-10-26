@@ -1,0 +1,144 @@
+{
+    "name": "Nora Ephron",
+    "qid": "Q214677",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nora_Ephron",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Amy Ephron",
+                "qid": "Q4749175"
+            },
+            {
+                "name": "Delia Ephron",
+                "qid": "Q4946872"
+            },
+            {
+                "name": "Hallie Ephron",
+                "qid": "Q5642969"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Henry Ephron",
+                "qid": "Q2161781"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Jacob Bernstein",
+                "qid": "Q27921736"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Phoebe Ephron",
+                "qid": "Q386488"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "blogger",
+                "qid": "Q8246794",
+                "url": "https://vi.wikipedia.org/wiki/Blogger"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "essayist",
+                "qid": "Q11774202"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "humorist",
+                "qid": "Q12406482"
+            },
+            {
+                "name": "journalist",
+                "qid": "Q1930187",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_b%C3%A1o"
+            },
+            {
+                "name": "novelist",
+                "qid": "Q6625963",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia"
+            },
+            {
+                "name": "playwright",
+                "qid": "Q214917",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_vi%E1%BA%BFt_k%E1%BB%8Bch"
+            },
+            {
+                "name": "reporter",
+                "qid": "Q42909",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%B3ng_vi%C3%AAn"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "short story writer",
+                "qid": "Q15949613"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1941-05-19T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "When Harry Met Sally",
+                "qid": "Q471169",
+                "url": "https://vi.wikipedia.org/wiki/When_Harry_Met_Sally..."
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Sleepless in Seattle",
+                "qid": "Q107167",
+                "url": "https://vi.wikipedia.org/wiki/Sleepless_in_Seattle"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Carl Bernstein",
+                "qid": "Q319967",
+                "url": "https://vi.wikipedia.org/wiki/Carl_Bernstein"
+            },
+            {
+                "name": "Dan Greenburg",
+                "qid": "Q5213609"
+            },
+            {
+                "name": "Nicholas Pileggi",
+                "qid": "Q450279"
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Jon Turteltaub",
+    "qid": "Q470251",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jon_Turteltaub",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Saul Turteltaub",
+                "qid": "Q60792978"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-08-08T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "The Meg",
+                "qid": "Q27957869",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A1_m%E1%BA%ADp_si%C3%AAu_b%E1%BA%A1o_ch%C3%BAa"
+            },
+            {
+                "name": "The Sorcerer's Apprentice",
+                "qid": "Q477865",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%B9_th%E1%BB%A7y_t%E1%BA%ADp_s%E1%BB%B1"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

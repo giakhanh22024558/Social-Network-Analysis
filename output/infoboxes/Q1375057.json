@@ -1,0 +1,112 @@
+{
+    "name": "Kendall Jenner",
+    "qid": "Q1375057",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kendall_Jenner",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Brandon Jenner",
+                "qid": "Q16209581"
+            },
+            {
+                "name": "Brody Jenner",
+                "qid": "Q554091",
+                "url": "https://vi.wikipedia.org/wiki/Brody_Jenner"
+            },
+            {
+                "name": "Khloé Kardashian",
+                "qid": "Q231270",
+                "url": "https://vi.wikipedia.org/wiki/Khlo%C3%A9_Kardashian"
+            },
+            {
+                "name": "Kim Kardashian",
+                "qid": "Q186304",
+                "url": "https://vi.wikipedia.org/wiki/Kim_Kardashian"
+            },
+            {
+                "name": "Kourtney Kardashian",
+                "qid": "Q575689",
+                "url": "https://vi.wikipedia.org/wiki/Kourtney_Kardashian"
+            },
+            {
+                "name": "Kylie Jenner",
+                "qid": "Q1770624",
+                "url": "https://vi.wikipedia.org/wiki/Kylie_Jenner"
+            },
+            {
+                "name": "Rob Kardashian",
+                "qid": "Q26318",
+                "url": "https://vi.wikipedia.org/wiki/Rob_Kardashian"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "A$AP Rocky",
+                "qid": "Q129910",
+                "url": "https://vi.wikipedia.org/wiki/ASAP_Rocky"
+            },
+            {
+                "name": "Bad Bunny",
+                "qid": "Q44333953",
+                "url": "https://vi.wikipedia.org/wiki/Bad_Bunny"
+            },
+            {
+                "name": "Ben Simmons",
+                "qid": "Q18638003"
+            },
+            {
+                "name": "Blake Griffin",
+                "qid": "Q309783"
+            },
+            {
+                "name": "Devin Booker",
+                "qid": "Q20031362",
+                "url": "https://vi.wikipedia.org/wiki/Devin_Booker"
+            },
+            {
+                "name": "Harry Styles",
+                "qid": "Q3626966",
+                "url": "https://vi.wikipedia.org/wiki/Harry_Styles"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Caitlyn Jenner",
+                "qid": "Q365144",
+                "url": "https://vi.wikipedia.org/wiki/Caitlyn_Jenner"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Kris Jenner",
+                "qid": "Q1138235",
+                "url": "https://vi.wikipedia.org/wiki/Kris_Jenner"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1995-11-03T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

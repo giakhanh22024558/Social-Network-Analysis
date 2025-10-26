@@ -1,0 +1,108 @@
+{
+    "name": "Nicole Richie",
+    "qid": "Q232495",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nicole_Richie",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Miles Richie",
+                "qid": "Q28599808"
+            },
+            {
+                "name": "Sofia Richie",
+                "qid": "Q25713929"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Peter Michael Escovedo",
+                "qid": "Q7175870"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Sparrow Madden",
+                "qid": "Q28599786"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Karen Moss",
+                "qid": "Q43093019"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-09-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Us",
+                "qid": "Q56000996",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAng_ta_(phim_2019)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Joel Madden",
+                "qid": "Q756563"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Brenda Harvey-Richie",
+                "qid": "Q43093007"
+            },
+            {
+                "name": "Lionel Richie",
+                "qid": "Q26695",
+                "url": "https://vi.wikipedia.org/wiki/Lionel_Richie"
+            }
+        ]
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "name": "David Lynch",
+    "qid": "Q2071",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/David_Lynch",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "John Lynch",
+                "qid": "Q104373781"
+            },
+            {
+                "name": "Martha Lynch Levacy",
+                "qid": "Q104373794"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Isabella Rossellini",
+                "qid": "Q203840",
+                "url": "https://vi.wikipedia.org/wiki/Isabella_Rossellini"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Donald Lynch",
+                "qid": "Q42430742"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Austin Jack Lynch",
+                "qid": "Q104373223"
+            },
+            {
+                "name": "Jennifer Lynch",
+                "qid": "Q271162"
+            },
+            {
+                "name": "Lula Boginia Lynch",
+                "qid": "Q104373357"
+            },
+            {
+                "name": "Riley Sweeney Lynch",
+                "qid": "Q104373360"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Sunny Lynch",
+                "qid": "Q104373665"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "cinematographer",
+                "qid": "Q222344",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_h%C3%ACnh_%E1%BA%A3nh"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "lyricist",
+                "qid": "Q822146",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_vi%E1%BA%BFt_l%E1%BB%9Di_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "painter",
+                "qid": "Q1028181",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9"
+            },
+            {
+                "name": "photographer",
+                "qid": "Q33231",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BA%BFp_%E1%BA%A3nh_gia"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "visual artist",
+                "qid": "Q3391743"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1946-01-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Dune",
+                "qid": "Q114819",
+                "url": "https://vi.wikipedia.org/wiki/Dune_(phim_1984)"
+            },
+            {
+                "name": "The Fabelmans",
+                "qid": "Q107710009",
+                "url": "https://vi.wikipedia.org/wiki/The_Fabelmans:_Tu%E1%BB%95i_tr%E1%BA%BB_huy_ho%C3%A0ng"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Dune",
+                "qid": "Q114819",
+                "url": "https://vi.wikipedia.org/wiki/Dune_(phim_1984)"
+            },
+            {
+                "name": "Mulholland Drive",
+                "qid": "Q272608",
+                "url": "https://vi.wikipedia.org/wiki/Mulholland_Drive"
+            },
+            {
+                "name": "The Elephant Man",
+                "qid": "Q272860",
+                "url": "https://vi.wikipedia.org/wiki/The_Elephant_Man_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Emily Stofle",
+                "qid": "Q104373310"
+            },
+            {
+                "name": "Mary Fisk",
+                "qid": "Q104373220"
+            },
+            {
+                "name": "Mary Sweeney",
+                "qid": "Q508871"
+            },
+            {
+                "name": "Peggy Reavey",
+                "qid": "Q62929023"
+            }
+        ]
+    }
+}

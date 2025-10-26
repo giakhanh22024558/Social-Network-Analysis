@@ -1,0 +1,77 @@
+{
+    "name": "Wes Bentley",
+    "qid": "Q368037",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Wes_Bentley",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-09-04T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "American Beauty",
+                "qid": "Q25139",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%BB_%C4%91%E1%BA%B9p_M%E1%BB%B9_(phim_1999)"
+            },
+            {
+                "name": "Ghost Rider",
+                "qid": "Q41754",
+                "url": "https://vi.wikipedia.org/wiki/Ma_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Interstellar",
+                "qid": "Q13417189",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%91_%C4%91en_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Mission: Impossible – Fallout",
+                "qid": "Q29261993",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi:_S%E1%BB%A5p_%C4%91%E1%BB%95"
+            },
+            {
+                "name": "Pete's Dragon",
+                "qid": "Q18786473",
+                "url": "https://vi.wikipedia.org/wiki/Pete_v%C3%A0_ng%C6%B0%E1%BB%9Di_b%E1%BA%A1n_r%E1%BB%93ng"
+            },
+            {
+                "name": "The Hunger Games",
+                "qid": "Q212965",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A5u_tr%C6%B0%E1%BB%9Dng_sinh_t%E1%BB%AD_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

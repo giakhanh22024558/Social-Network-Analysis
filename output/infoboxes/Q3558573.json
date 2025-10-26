@@ -1,0 +1,86 @@
+{
+    "name": "Kenneth Choi",
+    "qid": "Q3558573",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kenneth_Choi",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dub actor",
+                "qid": "Q11481802"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-10-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Bumblebee",
+                "qid": "Q34220038",
+                "url": "https://vi.wikipedia.org/wiki/Bumblebee_(phim)"
+            },
+            {
+                "name": "Captain America: The First Avenger",
+                "qid": "Q275120",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_K%E1%BA%BB_b%C3%A1o_th%C3%B9_%C4%91%E1%BA%A7u_ti%C3%AAn"
+            },
+            {
+                "name": "Gringo",
+                "qid": "Q28369717",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%8D_g%E1%BA%B7p_h%C3%AAn"
+            },
+            {
+                "name": "Red Dawn",
+                "qid": "Q553920",
+                "url": "https://vi.wikipedia.org/wiki/Red_Dawn_(phim_2012)"
+            },
+            {
+                "name": "Spider-Man: Homecoming",
+                "qid": "Q23010088",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n:_Tr%E1%BB%9F_v%E1%BB%81_nh%C3%A0"
+            },
+            {
+                "name": "Street Kings",
+                "qid": "Q785712",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1_v%C6%B0%C6%A1ng_%C4%91%C6%B0%E1%BB%9Dng_ph%E1%BB%91"
+            },
+            {
+                "name": "The Terminal",
+                "qid": "Q318766",
+                "url": "https://vi.wikipedia.org/wiki/The_Terminal"
+            },
+            {
+                "name": "The Wolf of Wall Street",
+                "qid": "Q1392744",
+                "url": "https://vi.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(phim_2013)"
+            },
+            {
+                "name": "War",
+                "qid": "Q375512",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_kh%E1%BB%91c_li%E1%BB%87t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

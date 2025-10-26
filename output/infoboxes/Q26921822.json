@@ -1,0 +1,67 @@
+{
+    "name": "Paul Walter Hauser",
+    "qid": "Q26921822",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Paul_Walter_Hauser",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-10-15T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "BlacKkKlansman",
+                "qid": "Q43370948",
+                "url": "https://vi.wikipedia.org/wiki/BlacKkKlansman"
+            },
+            {
+                "name": "Cruella",
+                "qid": "Q24284363",
+                "url": "https://vi.wikipedia.org/wiki/Cruella_(phim)"
+            },
+            {
+                "name": "Da 5 Bloods",
+                "qid": "Q62277203",
+                "url": "https://vi.wikipedia.org/wiki/N%C4%83m_chi%E1%BA%BFn_h%E1%BB%AFu"
+            },
+            {
+                "name": "I, Tonya",
+                "qid": "Q28369564",
+                "url": "https://vi.wikipedia.org/wiki/I,_Tonya"
+            },
+            {
+                "name": "The Fantastic Four: First Steps",
+                "qid": "Q105105219",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_t%E1%BB%A9_si%C3%AAu_%C4%91%E1%BA%B3ng:_B%C6%B0%E1%BB%9Bc_%C4%91i_%C4%91%E1%BA%A7u_ti%C3%AAn"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

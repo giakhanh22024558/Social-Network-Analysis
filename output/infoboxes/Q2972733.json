@@ -1,0 +1,60 @@
+{
+    "name": "Cindy Burbridge",
+    "qid": "Q2972733",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Cindy_Bishop",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "TikToker",
+                "qid": "Q94791573"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "beauty pageant contestant",
+                "qid": "Q18581305"
+            },
+            {
+                "name": "master of ceremonies",
+                "qid": "Q497240",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "supermodel",
+                "qid": "Q865851",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_m%E1%BA%ABu"
+            },
+            {
+                "name": "video jockey",
+                "qid": "Q6399436",
+                "url": "https://vi.wikipedia.org/wiki/VJ"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-05-08T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Thailand",
+                "qid": "Q869",
+                "url": "https://vi.wikipedia.org/wiki/Th%C3%A1i_Lan"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

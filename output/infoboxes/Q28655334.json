@@ -1,0 +1,83 @@
+{
+    "name": "Yahya Abdul-Mateen II",
+    "qid": "Q28655334",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Yahya_Abdul-Mateen_II",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "architect",
+                "qid": "Q42973",
+                "url": "https://vi.wikipedia.org/wiki/Ki%E1%BA%BFn_tr%C3%BAc_s%C6%B0"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-07-15T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ambulance",
+                "qid": "Q105095144",
+                "url": "https://vi.wikipedia.org/wiki/Xe_c%E1%BA%A5p_c%E1%BB%A9u_(phim)"
+            },
+            {
+                "name": "Aquaman",
+                "qid": "Q22998395",
+                "url": "https://vi.wikipedia.org/wiki/Aquaman:_%C4%90%E1%BA%BF_v%C6%B0%C6%A1ng_Atlantis"
+            },
+            {
+                "name": "Aquaman and the Lost Kingdom",
+                "qid": "Q91226161",
+                "url": "https://vi.wikipedia.org/wiki/Aquaman_v%C3%A0_v%C6%B0%C6%A1ng_qu%E1%BB%91c_th%E1%BA%A5t_l%E1%BA%A1c"
+            },
+            {
+                "name": "Baywatch",
+                "qid": "Q23016495",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_c%E1%BB%A9u_h%E1%BB%99_b%C3%A3i_bi%E1%BB%83n"
+            },
+            {
+                "name": "The Greatest Showman",
+                "qid": "Q27942936",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BA%ADc_th%E1%BA%A7y_c%E1%BB%A7a_nh%E1%BB%AFng_%C6%B0%E1%BB%9Bc_m%C6%A1"
+            },
+            {
+                "name": "The Matrix Resurrections",
+                "qid": "Q80322391",
+                "url": "https://vi.wikipedia.org/wiki/Ma_tr%E1%BA%ADn:_H%E1%BB%93i_sinh"
+            },
+            {
+                "name": "Us",
+                "qid": "Q56000996",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%BAng_ta_(phim_2019)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

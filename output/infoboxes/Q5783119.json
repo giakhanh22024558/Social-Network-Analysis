@@ -1,0 +1,40 @@
+{
+    "name": "Linda Moulton Howe",
+    "qid": "Q5783119",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Linda_Moulton_Howe",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "beauty pageant contestant",
+                "qid": "Q18581305"
+            },
+            {
+                "name": "essayist",
+                "qid": "Q11774202"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "journalist",
+                "qid": "Q1930187",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_b%C3%A1o"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1942-01-20T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

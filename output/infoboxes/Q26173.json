@@ -1,0 +1,95 @@
+{
+    "name": "Pablo Schreiber",
+    "qid": "Q26173",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Pablo_Schreiber",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Liev Schreiber",
+                "qid": "Q298368",
+                "url": "https://vi.wikipedia.org/wiki/Liev_Schreiber"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Tell Schreiber",
+                "qid": "Q108798350"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-04-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "13 Hours: The Secret Soldiers of Benghazi",
+                "qid": "Q19865453",
+                "url": "https://vi.wikipedia.org/wiki/13_gi%E1%BB%9D:_L%C3%ADnh_ng%E1%BA%A7m_Benghazi"
+            },
+            {
+                "name": "A Painted House",
+                "qid": "Q42063712",
+                "url": "https://vi.wikipedia.org/wiki/A_Painted_House"
+            },
+            {
+                "name": "Den of Thieves",
+                "qid": "Q28860130",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_b%E1%BA%A5t_b%E1%BA%A1i"
+            },
+            {
+                "name": "First Man",
+                "qid": "Q42708010",
+                "url": "https://vi.wikipedia.org/wiki/B%C6%B0%E1%BB%9Bc_ch%C3%A2n_%C4%91%E1%BA%A7u_ti%C3%AAn"
+            },
+            {
+                "name": "Skyscraper",
+                "qid": "Q37447062",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%B2a_th%C3%A1p_ch%E1%BB%8Dc_tr%E1%BB%9Di"
+            },
+            {
+                "name": "The King's Daughter",
+                "qid": "Q17379618",
+                "url": "https://vi.wikipedia.org/wiki/The_King%27s_Daughter_(phim_2022)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

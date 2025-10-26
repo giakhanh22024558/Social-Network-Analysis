@@ -1,0 +1,81 @@
+{
+    "name": "Tommy Wiseau",
+    "qid": "Q860114",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tommy_Wiseau",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "filmmaker",
+                "qid": "Q1414443"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-10-03T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Room",
+                "qid": "Q533383",
+                "url": "https://vi.wikipedia.org/wiki/The_Room"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Disaster Artist",
+                "qid": "Q22078002",
+                "url": "https://vi.wikipedia.org/wiki/The_Disaster_Artist_(phim)"
+            },
+            {
+                "name": "The Room",
+                "qid": "Q533383",
+                "url": "https://vi.wikipedia.org/wiki/The_Room"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "The Room",
+                "qid": "Q533383",
+                "url": "https://vi.wikipedia.org/wiki/The_Room"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Polish People's Republic",
+                "qid": "Q211274",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Nh%C3%A2n_d%C3%A2n_Ba_Lan"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

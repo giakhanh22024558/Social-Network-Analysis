@@ -1,0 +1,105 @@
+{
+    "name": "Ma Dong-seok",
+    "qid": "Q498374",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ma_Dong-seok",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-03-01T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Roundup: Punishment",
+                "qid": "Q115283311",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%A2y_h%C3%A3m:_K%E1%BA%BB_tr%E1%BB%ABng_ph%E1%BA%A1t"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Along with the Gods: The Two Worlds",
+                "qid": "Q26252639",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%AD_th%C3%A1ch_th%E1%BA%A7n_ch%E1%BA%BFt:_Gi%E1%BB%AFa_hai_th%E1%BA%BF_gi%E1%BB%9Bi"
+            },
+            {
+                "name": "Ashfall",
+                "qid": "Q73993691",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_th%E1%BA%A3m_h%E1%BB%8Da_n%C3%BAi_Baekdu"
+            },
+            {
+                "name": "Badland Hunters",
+                "qid": "Q123469290",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A3_s%C4%83n_hoang_m%E1%BA%A1c"
+            },
+            {
+                "name": "Eternals",
+                "qid": "Q23894629",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7ng_t%E1%BB%99c_b%E1%BA%A5t_t%E1%BB%AD"
+            },
+            {
+                "name": "Norigae",
+                "qid": "Q15981430",
+                "url": "https://vi.wikipedia.org/wiki/Norigae_(phim)"
+            },
+            {
+                "name": "Rough Play",
+                "qid": "Q7370842",
+                "url": "https://vi.wikipedia.org/wiki/Rough_Play"
+            },
+            {
+                "name": "Start-Up",
+                "qid": "Q65267829",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%BB_tr%C3%A2u_kh%E1%BB%9Fi_nghi%E1%BB%87p"
+            },
+            {
+                "name": "The Flu",
+                "qid": "Q8564063",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_d%E1%BB%8Bch_c%C3%BAm_(phim)"
+            },
+            {
+                "name": "The Roundup",
+                "qid": "Q109355923",
+                "url": "https://vi.wikipedia.org/wiki/Ngo%C3%A0i_v%C3%B2ng_ph%C3%A1p_lu%E1%BA%ADt_2"
+            },
+            {
+                "name": "The Roundup: Punishment",
+                "qid": "Q115283311",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%A2y_h%C3%A3m:_K%E1%BA%BB_tr%E1%BB%ABng_ph%E1%BA%A1t"
+            },
+            {
+                "name": "Train to Busan",
+                "qid": "Q20948236",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BA%BFn_t%C3%A0u_sinh_t%E1%BB%AD"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "South Korea",
+                "qid": "Q884",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0n_Qu%E1%BB%91c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

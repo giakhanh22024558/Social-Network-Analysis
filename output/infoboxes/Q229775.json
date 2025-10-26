@@ -1,0 +1,155 @@
+{
+    "name": "Bryce Dallas Howard",
+    "qid": "Q229775",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Bryce_Dallas_Howard",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jocelyn Howard",
+                "qid": "Q113706850"
+            },
+            {
+                "name": "Paige Howard",
+                "qid": "Q11836555"
+            },
+            {
+                "name": "Reed Howard",
+                "qid": "Q113706630"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Ron Howard",
+                "qid": "Q103646",
+                "url": "https://vi.wikipedia.org/wiki/Ron_Howard"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Beatrice Jean Howard-Gabel",
+                "qid": "Q113707063"
+            },
+            {
+                "name": "Theodore Howard-Gabel",
+                "qid": "Q84640026"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Cheryl Howard",
+                "qid": "Q113706746"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-03-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Beautiful Mind",
+                "qid": "Q164103",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BB%99t_t%C3%A2m_h%E1%BB%93n_%C4%91%E1%BA%B9p"
+            },
+            {
+                "name": "A Dog's Way Home",
+                "qid": "Q57314401",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_v%E1%BB%81_nh%C3%A0_c%E1%BB%A7a_c%C3%BAn_con"
+            },
+            {
+                "name": "Argylle",
+                "qid": "Q107460063",
+                "url": "https://vi.wikipedia.org/wiki/Argylle:_Si%C3%AAu_%C4%91i%E1%BB%87p_vi%C3%AAn"
+            },
+            {
+                "name": "Jurassic World",
+                "qid": "Q3512046",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long"
+            },
+            {
+                "name": "Jurassic World Dominion",
+                "qid": "Q55178974",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long:_L%C3%A3nh_%C4%91%E1%BB%8Ba"
+            },
+            {
+                "name": "Jurassic World: Fallen Kingdom",
+                "qid": "Q21877685",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long:_V%C6%B0%C6%A1ng_qu%E1%BB%91c_s%E1%BB%A5p_%C4%91%E1%BB%95"
+            },
+            {
+                "name": "Pete's Dragon",
+                "qid": "Q18786473",
+                "url": "https://vi.wikipedia.org/wiki/Pete_v%C3%A0_ng%C6%B0%E1%BB%9Di_b%E1%BA%A1n_r%E1%BB%93ng"
+            },
+            {
+                "name": "Spider-Man 3",
+                "qid": "Q182212",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_3"
+            },
+            {
+                "name": "Terminator Salvation",
+                "qid": "Q191543",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_h%E1%BB%A7y_di%E1%BB%87t_4"
+            },
+            {
+                "name": "The Help",
+                "qid": "Q204374",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_gi%C3%BAp_vi%E1%BB%87c_(phim)"
+            },
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 2",
+                "qid": "Q60487",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_2"
+            },
+            {
+                "name": "The Twilight Saga: Eclipse",
+                "qid": "Q217010",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_Nh%E1%BA%ADt_th%E1%BB%B1c"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Seth Gabel",
+                "qid": "Q958227"
+            }
+        ]
+    }
+}

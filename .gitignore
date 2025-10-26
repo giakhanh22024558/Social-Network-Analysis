@@ -1,4 +1,4 @@
-extracted/
-myenv/
-t.json
-viwiki-20250720-pages-articles-multistream.xml/
+viwiki-latest-pages-articles.xml.bz2
+.venv/
+__pycache__/
+data/

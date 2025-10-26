@@ -1,0 +1,68 @@
+{
+    "name": "\"Weird Al\" Yankovic",
+    "qid": "Q8349",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/%22Weird_Al%22_Yankovic",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Nick Yankovic",
+                "qid": "Q17378022"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Nina Yankovic",
+                "qid": "Q17378040"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Mary Yankovic",
+                "qid": "Q17378023"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-10-23T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Halloween II",
+                "qid": "Q908690",
+                "url": "https://vi.wikipedia.org/wiki/Halloween_II_(phim_2009)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Suzanne Yankovic",
+                "qid": "Q17378036"
+            }
+        ]
+    }
+}

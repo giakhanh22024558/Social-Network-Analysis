@@ -1,0 +1,207 @@
+{
+    "name": "Elizabeth Banks",
+    "qid": "Q219373",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Elizabeth_Banks",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Mark P. Mitchell",
+                "qid": "Q110647074"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "game show host",
+                "qid": "Q22662561"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-02-10T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Charlie's Angels",
+                "qid": "Q55815650",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_thi%C3%AAn_th%E1%BA%A7n_c%E1%BB%A7a_Charlie_(phim_2019)"
+            },
+            {
+                "name": "Pitch Perfect",
+                "qid": "Q137584",
+                "url": "https://vi.wikipedia.org/wiki/Pitch_Perfect"
+            },
+            {
+                "name": "Pitch Perfect 2",
+                "qid": "Q16619265",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_n%E1%BB%95i_lo%E1%BA%A1n_ho%C3%A0n_h%E1%BA%A3o"
+            },
+            {
+                "name": "Pitch Perfect 3",
+                "qid": "Q22100117",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_n%E1%BB%95i_lo%E1%BA%A1n_ho%C3%A0n_h%E1%BA%A3o_3"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Catch Me If You Can",
+                "qid": "Q208108",
+                "url": "https://vi.wikipedia.org/wiki/Catch_Me_If_You_Can"
+            },
+            {
+                "name": "Charlie's Angels",
+                "qid": "Q55815650",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_thi%C3%AAn_th%E1%BA%A7n_c%E1%BB%A7a_Charlie_(phim_2019)"
+            },
+            {
+                "name": "Definitely, Maybe",
+                "qid": "Q1121878",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%A3nh_gh%C3%A9p_t%C3%ACnh_y%C3%AAu"
+            },
+            {
+                "name": "Love and Mercy",
+                "qid": "Q14878580",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_th%C6%B0%C6%A1ng_quay_v%E1%BB%81"
+            },
+            {
+                "name": "Man on a Ledge",
+                "qid": "Q194696",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%C3%A0n_%C3%B4ng_tr%C3%AAn_g%E1%BB%9D_t%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "Pitch Perfect",
+                "qid": "Q137584",
+                "url": "https://vi.wikipedia.org/wiki/Pitch_Perfect"
+            },
+            {
+                "name": "Pitch Perfect 2",
+                "qid": "Q16619265",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_n%E1%BB%95i_lo%E1%BA%A1n_ho%C3%A0n_h%E1%BA%A3o"
+            },
+            {
+                "name": "Pitch Perfect 3",
+                "qid": "Q22100117",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_n%E1%BB%95i_lo%E1%BA%A1n_ho%C3%A0n_h%E1%BA%A3o_3"
+            },
+            {
+                "name": "Power Rangers",
+                "qid": "Q21648810",
+                "url": "https://vi.wikipedia.org/wiki/N%C4%83m_anh_em_si%C3%AAu_nh%C3%A2n_(phim)"
+            },
+            {
+                "name": "Spider-Man",
+                "qid": "Q484442",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_(phim_2002)"
+            },
+            {
+                "name": "Spider-Man 2",
+                "qid": "Q190145",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_2"
+            },
+            {
+                "name": "Spider-Man 3",
+                "qid": "Q182212",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_3"
+            },
+            {
+                "name": "The Hunger Games",
+                "qid": "Q212965",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A5u_tr%C6%B0%E1%BB%9Dng_sinh_t%E1%BB%AD_(phim)"
+            },
+            {
+                "name": "The Hunger Games: Catching Fire",
+                "qid": "Q574583",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_B%E1%BA%AFt_l%E1%BB%ADa"
+            },
+            {
+                "name": "The Hunger Games: Mockingjay – Part 1",
+                "qid": "Q4142083",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_H%C3%BAng_nh%E1%BA%A1i_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "The Hunger Games: Mockingjay – Part 2",
+                "qid": "Q10307713",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_H%C3%BAng_nh%E1%BA%A1i_%E2%80%93_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "The Next Three Days",
+                "qid": "Q263930",
+                "url": "https://vi.wikipedia.org/wiki/The_Next_Three_Days"
+            },
+            {
+                "name": "Walk of Shame",
+                "qid": "Q15647962",
+                "url": "https://vi.wikipedia.org/wiki/8_ti%E1%BA%BFng_%C4%91i%C3%AAn_cu%E1%BB%93ng"
+            },
+            {
+                "name": "What to Expect When You're Expecting",
+                "qid": "Q616649",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2m_s%E1%BB%B1_b%C3%A0_b%E1%BA%A7u"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Charlie's Angels",
+                "qid": "Q55815650",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_thi%C3%AAn_th%E1%BA%A7n_c%E1%BB%A7a_Charlie_(phim_2019)"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "Pitch Perfect 2",
+                "qid": "Q16619265",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_n%E1%BB%95i_lo%E1%BA%A1n_ho%C3%A0n_h%E1%BA%A3o"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Max Handelman",
+                "qid": "Q3302144"
+            }
+        ]
+    }
+}

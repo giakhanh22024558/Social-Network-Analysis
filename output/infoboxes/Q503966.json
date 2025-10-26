@@ -1,0 +1,89 @@
+{
+    "name": "Rob Cohen",
+    "qid": "Q503966",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rob_Cohen",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1949-03-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Fast and the Furious",
+                "qid": "Q155476",
+                "url": "https://vi.wikipedia.org/wiki/The_Fast_and_the_Furious_(phim_2001)"
+            },
+            {
+                "name": "The Skulls",
+                "qid": "Q83612",
+                "url": "https://vi.wikipedia.org/wiki/The_Skulls_(phim_2000)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "The Boy Next Door",
+                "qid": "Q15624045",
+                "url": "https://vi.wikipedia.org/wiki/Anh_ch%C3%A0ng_h%C3%A0ng_x%C3%B3m_(phim)"
+            },
+            {
+                "name": "The Fast and the Furious",
+                "qid": "Q155476",
+                "url": "https://vi.wikipedia.org/wiki/The_Fast_and_the_Furious_(phim_2001)"
+            },
+            {
+                "name": "The Hurricane Heist",
+                "qid": "Q33125733",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%A5_c%C6%B0%E1%BB%9Bp_trong_t%C3%A2m_b%C3%A3o"
+            },
+            {
+                "name": "The Mummy: Tomb of the Dragon Emperor",
+                "qid": "Q240713",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%A1c_%C6%B0%E1%BB%9Bp_3:_L%C4%83ng_m%E1%BB%99_T%E1%BA%A7n_V%C6%B0%C6%A1ng"
+            },
+            {
+                "name": "The Skulls",
+                "qid": "Q83612",
+                "url": "https://vi.wikipedia.org/wiki/The_Skulls_(phim_2000)"
+            },
+            {
+                "name": "xXx",
+                "qid": "Q283799",
+                "url": "https://vi.wikipedia.org/wiki/XXX_(phim_2002)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

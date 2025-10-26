@@ -1,0 +1,151 @@
+{
+    "name": "Michael J. Fox",
+    "qid": "Q395274",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_J._Fox",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jacki Fox",
+                "qid": "Q17490465"
+            },
+            {
+                "name": "Karen Fox",
+                "qid": "Q17490459"
+            },
+            {
+                "name": "Kelli Fox",
+                "qid": "Q17490445"
+            },
+            {
+                "name": "Steven Fox",
+                "qid": "Q17490449"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Kari Michaelsen",
+                "qid": "Q3193150"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "William Fox",
+                "qid": "Q17490442"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Aquinnah Fox",
+                "qid": "Q17490472"
+            },
+            {
+                "name": "Esmé Fox",
+                "qid": "Q17490477"
+            },
+            {
+                "name": "Sam Fox",
+                "qid": "Q17490468"
+            },
+            {
+                "name": "Schuyler Fox",
+                "qid": "Q17490475"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Phyllis Piper",
+                "qid": "Q17490443"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "blogger",
+                "qid": "Q8246794",
+                "url": "https://vi.wikipedia.org/wiki/Blogger"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1961-06-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annie",
+                "qid": "Q15039835",
+                "url": "https://vi.wikipedia.org/wiki/Annie_(phim_2014)"
+            },
+            {
+                "name": "Back to the Future",
+                "qid": "Q91540",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%9F_l%E1%BA%A1i_t%C6%B0%C6%A1ng_lai"
+            },
+            {
+                "name": "Back to the Future Part II",
+                "qid": "Q109331",
+                "url": "https://vi.wikipedia.org/wiki/Back_to_the_Future_ph%E1%BA%A7n_II"
+            },
+            {
+                "name": "Back to the Future Part III",
+                "qid": "Q230552",
+                "url": "https://vi.wikipedia.org/wiki/Back_to_the_Future_ph%E1%BA%A7n_III"
+            },
+            {
+                "name": "Casualties of War",
+                "qid": "Q1126637",
+                "url": "https://vi.wikipedia.org/wiki/Casualties_of_War"
+            },
+            {
+                "name": "Stuart Little",
+                "qid": "Q1048958",
+                "url": "https://vi.wikipedia.org/wiki/Stuart_Little_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Tracy Pollan",
+                "qid": "Q275958"
+            }
+        ]
+    }
+}

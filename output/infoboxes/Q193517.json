@@ -1,0 +1,174 @@
+{
+    "name": "Emily Blunt",
+    "qid": "Q193517",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Emily_Blunt",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Felicity Blunt",
+                "qid": "Q105817805"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Q153694",
+                "qid": "Q153694",
+                "url": "https://vi.wikipedia.org/wiki/Michael_Bubl%C3%A9"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Oliver Blunt",
+                "qid": "Q107369718"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-02-23T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Quiet Place",
+                "qid": "Q39070473",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_c%C3%A2m_l%E1%BA%B7ng"
+            },
+            {
+                "name": "A Quiet Place: Part II",
+                "qid": "Q53911403",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%E1%BA%A5t_c%C3%A2m_l%E1%BA%B7ng:_Ph%E1%BA%A7n_II"
+            },
+            {
+                "name": "Edge of Tomorrow",
+                "qid": "Q1187607",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_lu%C3%A2n_h%E1%BB%93i"
+            },
+            {
+                "name": "Gulliver's Travels",
+                "qid": "Q1320997",
+                "url": "https://vi.wikipedia.org/wiki/Gulliver_du_k%C3%BD_(phim_2010)"
+            },
+            {
+                "name": "Into the Woods",
+                "qid": "Q14847067",
+                "url": "https://vi.wikipedia.org/wiki/Khu_r%E1%BB%ABng_c%E1%BB%95_t%C3%ADch"
+            },
+            {
+                "name": "Jungle Cruise",
+                "qid": "Q24285605",
+                "url": "https://vi.wikipedia.org/wiki/Jungle_Cruise:_Th%C3%A1m_hi%E1%BB%83m_r%E1%BB%ABng_xanh"
+            },
+            {
+                "name": "Looper",
+                "qid": "Q53719",
+                "url": "https://vi.wikipedia.org/wiki/Looper"
+            },
+            {
+                "name": "Mary Poppins Returns",
+                "qid": "Q24272881",
+                "url": "https://vi.wikipedia.org/wiki/Mary_Poppins_tr%E1%BB%9F_l%E1%BA%A1i"
+            },
+            {
+                "name": "Oppenheimer",
+                "qid": "Q108839994",
+                "url": "https://vi.wikipedia.org/wiki/Oppenheimer_(phim)"
+            },
+            {
+                "name": "Sicario",
+                "qid": "Q17337292",
+                "url": "https://vi.wikipedia.org/wiki/Ranh_gi%E1%BB%9Bi_(phim_2015)"
+            },
+            {
+                "name": "The Adjustment Bureau",
+                "qid": "Q492089",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BA%A3n_%C4%91%E1%BB%93_%C4%91%E1%BB%8Bnh_m%E1%BB%87nh"
+            },
+            {
+                "name": "The Devil Wears Prada",
+                "qid": "Q223316",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_n%E1%BB%AF_th%C3%ADch_h%C3%A0ng_hi%E1%BB%87u_(phim)"
+            },
+            {
+                "name": "The Fall Guy",
+                "qid": "Q113671585",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_th%E1%BA%BF_th%C3%A2n"
+            },
+            {
+                "name": "The Girl on the Train",
+                "qid": "Q21433535",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tr%C3%AAn_t%C3%A0u_(phim_2016)"
+            },
+            {
+                "name": "The Huntsman: Winter's War",
+                "qid": "Q18485021",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A3_s%C4%83n:_Cu%E1%BB%99c_chi%E1%BA%BFn_m%C3%B9a_%C4%91%C3%B4ng"
+            },
+            {
+                "name": "The Muppets",
+                "qid": "Q550558",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_nh%E1%BA%A1c_h%E1%BB%99i_r%E1%BB%91i"
+            },
+            {
+                "name": "The Wolfman",
+                "qid": "Q205532",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_s%C3%B3i_(phim_2010)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "John Krasinski",
+                "qid": "Q313039",
+                "url": "https://vi.wikipedia.org/wiki/John_Krasinski"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Crispin Blunt",
+                "qid": "Q264305"
+            },
+            {
+                "name": "Stanley Tucci",
+                "qid": "Q223117",
+                "url": "https://vi.wikipedia.org/wiki/Stanley_Tucci"
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "name": "Edie Sedgwick",
+    "qid": "Q232340",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Edie_Sedgwick",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Francis Minturn Sedgwick",
+                "qid": "Q96089576"
+            },
+            {
+                "name": "Robert Minturn Sedgwick",
+                "qid": "Q96089575"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Francis Minturn Sedgwick",
+                "qid": "Q52148695"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Alice Delano DeForest",
+                "qid": "Q92536274"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "fashion model",
+                "qid": "Q3357567"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1943-04-20T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Michael Brett Post",
+                "qid": "Q96089577"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Eric Saarinen",
+                "qid": "Q1351601"
+            },
+            {
+                "name": "Kyra Sedgwick",
+                "qid": "Q229572"
+            },
+            {
+                "name": "Lilian Swann Saarinen",
+                "qid": "Q6547710"
+            }
+        ]
+    }
+}

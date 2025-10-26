@@ -1,0 +1,144 @@
+{
+    "name": "Glenn Close",
+    "qid": "Q372311",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Glenn_Close",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "William Close",
+                "qid": "Q8006910"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Annie Starke",
+                "qid": "Q57242121"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Bettine Moore Close",
+                "qid": "Q17541135"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1947-03-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "101 Dalmatians",
+                "qid": "Q8594",
+                "url": "https://vi.wikipedia.org/wiki/101_ch%C3%BA_ch%C3%B3_%C4%91%E1%BB%91m_(phim_1996)"
+            },
+            {
+                "name": "Air Force One",
+                "qid": "Q407184",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_l%E1%BB%B1c_M%E1%BB%99t_(phim)"
+            },
+            {
+                "name": "Fatal Attraction",
+                "qid": "Q504157",
+                "url": "https://vi.wikipedia.org/wiki/Fatal_Attraction"
+            },
+            {
+                "name": "Guardians of the Galaxy",
+                "qid": "Q5887360",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_(phim)"
+            },
+            {
+                "name": "Home",
+                "qid": "Q637087",
+                "url": "https://vi.wikipedia.org/wiki/Home_(phim_2009)"
+            },
+            {
+                "name": "Things You Can Tell Just by Looking at Her",
+                "qid": "Q536767",
+                "url": "https://vi.wikipedia.org/wiki/Things_You_Can_Tell_Just_by_Looking_at_Her"
+            },
+            {
+                "name": "Warcraft",
+                "qid": "Q14513321",
+                "url": "https://vi.wikipedia.org/wiki/Warcraft:_%C4%90%E1%BA%A1i_chi%E1%BA%BFn_hai_th%E1%BA%BF_gi%E1%BB%9Bi"
+            },
+            {
+                "name": "What Happened to Monday",
+                "qid": "Q20814900",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_g%C3%AC_x%E1%BA%A3y_ra_v%E1%BB%9Bi_Th%E1%BB%A9_Hai"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "David Evans Shaw",
+                "qid": "Q5233470"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Alessandro Lecquio",
+                "qid": "Q5665920"
+            },
+            {
+                "name": "Alessandro Torlonia, 5th Prince of Civitella-Cesi",
+                "qid": "Q4716439"
+            },
+            {
+                "name": "Brooke Shields",
+                "qid": "Q189400",
+                "url": "https://vi.wikipedia.org/wiki/Brooke_Shields"
+            },
+            {
+                "name": "Tambu Kisoki",
+                "qid": "Q76018217"
+            }
+        ]
+    }
+}

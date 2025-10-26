@@ -1,0 +1,61 @@
+{
+    "name": "The Great Khali",
+    "qid": "Q44482",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/The_Great_Khali",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "boxer",
+                "qid": "Q11338576"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "powerlifter",
+                "qid": "Q23845879"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1972-08-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Get Smart",
+                "qid": "Q570652",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_86:_Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi"
+            },
+            {
+                "name": "MacGruber",
+                "qid": "Q1579371",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%B7c_v%E1%BB%A5_(phim_2010)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "India",
+                "qid": "Q668",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A4n_%C4%90%E1%BB%99"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

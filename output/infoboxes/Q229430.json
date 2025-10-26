@@ -1,0 +1,84 @@
+{
+    "name": "Reba McEntire",
+    "qid": "Q229430",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Reba_McEntire",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Pake McEntire",
+                "qid": "Q7125446"
+            },
+            {
+                "name": "Susie McEntire",
+                "qid": "Q15485483"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Shelby Blackstock",
+                "qid": "Q18684838"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "country singer",
+                "qid": "Q66763708"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-03-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Charlotte's Web",
+                "qid": "Q213773",
+                "url": "https://vi.wikipedia.org/wiki/Charlotte%27s_Web_(phim_2006)"
+            },
+            {
+                "name": "Maverick",
+                "qid": "Q675520",
+                "url": "https://vi.wikipedia.org/wiki/Maverick_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Narvel Blackstock",
+                "qid": "Q21013493"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Brandon Blackstock",
+                "qid": "Q101445026"
+            }
+        ]
+    }
+}

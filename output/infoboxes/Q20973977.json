@@ -1,0 +1,69 @@
+{
+    "name": "Daveed Diggs",
+    "qid": "Q20973977",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Daveed_Diggs",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Emmy Raver-Lampman",
+                "qid": "Q61900541",
+                "url": "https://vi.wikipedia.org/wiki/Emmy_Raver-Lampman"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Q126360869",
+                "qid": "Q126360869"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-01-24T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Velvet Buzzsaw",
+                "qid": "Q50649572",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%A9c_h%E1%BB%8Da_ma_qu%C3%A1i"
+            },
+            {
+                "name": "Wonder",
+                "qid": "Q27958394",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%81u_k%E1%BB%B3_di%E1%BB%87u_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Dionne Warwick",
+    "qid": "Q234695",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dionne_Warwick",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Dee Dee Warwick",
+                "qid": "Q267597"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Damon Elliott",
+                "qid": "Q4282702"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1940-12-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Men in Black",
+                "qid": "Q51416",
+                "url": "https://vi.wikipedia.org/wiki/Men_in_Black_(phim_1997)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "William Elliott",
+                "qid": "Q22325140"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Cissy Houston",
+                "qid": "Q465702"
+            },
+            {
+                "name": "Whitney Houston",
+                "qid": "Q34389",
+                "url": "https://vi.wikipedia.org/wiki/Whitney_Houston"
+            }
+        ]
+    }
+}

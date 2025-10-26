@@ -1,0 +1,230 @@
+{
+    "name": "Liam Neeson",
+    "qid": "Q58444",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Liam_Neeson",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Bernard Neeson",
+                "qid": "Q75501368"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Daniel Jack Neeson",
+                "qid": "Q75501373"
+            },
+            {
+                "name": "Micheál Richardson",
+                "qid": "Q75501371"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Catherine Brown",
+                "qid": "Q75501370"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1952-06-07T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Million Ways to Die in the West",
+                "qid": "Q13582568",
+                "url": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_ki%E1%BB%83u_ch%E1%BA%BFt_mi%E1%BB%81n_vi%E1%BB%85n_T%C3%A2y"
+            },
+            {
+                "name": "A Monster Calls",
+                "qid": "Q18200409",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%9Di_th%E1%BB%89nh_c%E1%BA%A7u_Qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "A Walk Among the Tombstones",
+                "qid": "Q11060926",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%91i_%C4%91i_gi%E1%BB%AFa_r%E1%BB%ABng_bia_m%E1%BB%99"
+            },
+            {
+                "name": "Batman Begins",
+                "qid": "Q166262",
+                "url": "https://vi.wikipedia.org/wiki/Huy%E1%BB%81n_tho%E1%BA%A1i_Ng%C6%B0%E1%BB%9Di_D%C6%A1i"
+            },
+            {
+                "name": "Battleship",
+                "qid": "Q474033",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_h%E1%BA%A1m_(phim_2012)"
+            },
+            {
+                "name": "Blacklight",
+                "qid": "Q104889029",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_%C4%91en"
+            },
+            {
+                "name": "Clash of the Titans",
+                "qid": "Q192979",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_gi%E1%BB%AFa_c%C3%A1c_v%E1%BB%8B_th%E1%BA%A7n_(phim_2010)"
+            },
+            {
+                "name": "Cold Pursuit",
+                "qid": "Q28912877",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1o_th%C3%B9_(phim_2019)"
+            },
+            {
+                "name": "Kingdom of Heaven",
+                "qid": "Q207698",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_thi%C3%AAn_%C4%91%C6%B0%E1%BB%9Dng_(phim)"
+            },
+            {
+                "name": "Love Actually",
+                "qid": "Q190588",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_th%E1%BB%B1c_s%E1%BB%B1"
+            },
+            {
+                "name": "Men in Black: International",
+                "qid": "Q55439830",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_v%E1%BB%A5_%C3%A1o_%C4%91en:_S%E1%BB%A9_m%E1%BB%87nh_to%C3%A0n_c%E1%BA%A7u"
+            },
+            {
+                "name": "Non-Stop",
+                "qid": "Q2855777",
+                "url": "https://vi.wikipedia.org/wiki/Non-Stop_(phim)"
+            },
+            {
+                "name": "Run All Night",
+                "qid": "Q15220567",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BA%A9u_tho%C3%A1t_trong_%C4%91%C3%AAm"
+            },
+            {
+                "name": "Schindler's List",
+                "qid": "Q483941",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BA%A3n_danh_s%C3%A1ch_c%E1%BB%A7a_Schindler"
+            },
+            {
+                "name": "Star Wars: Episode I – The Phantom Menace",
+                "qid": "Q165713",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_T%E1%BA%ADp_I_%E2%80%93_Hi%E1%BB%83m_h%E1%BB%8Da_b%C3%B3ng_ma"
+            },
+            {
+                "name": "Star Wars: Episode II – Attack of the Clones",
+                "qid": "Q181069",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_T%E1%BA%ADp_II_%E2%80%93_S%E1%BB%B1_x%C3%A2m_l%C4%83ng_c%E1%BB%A7a_ng%C6%B0%E1%BB%9Di_V%C3%B4_t%C3%ADnh"
+            },
+            {
+                "name": "Taken",
+                "qid": "Q277080",
+                "url": "https://vi.wikipedia.org/wiki/C%C6%B0%E1%BB%A1ng_%C4%91o%E1%BA%A1t"
+            },
+            {
+                "name": "Taken 2",
+                "qid": "Q1057015",
+                "url": "https://vi.wikipedia.org/wiki/Taken_2"
+            },
+            {
+                "name": "Taken 3",
+                "qid": "Q16781911",
+                "url": "https://vi.wikipedia.org/wiki/Taken_3:_D%E1%BB%A9t_%C4%91i%E1%BB%83m"
+            },
+            {
+                "name": "Ted 2",
+                "qid": "Q17713411",
+                "url": "https://vi.wikipedia.org/wiki/Ted_2"
+            },
+            {
+                "name": "The A-Team",
+                "qid": "Q471746",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_h%C3%A0nh_%C4%91%E1%BB%99ng"
+            },
+            {
+                "name": "The Chronicles of Narnia: Prince Caspian",
+                "qid": "Q222023",
+                "url": "https://vi.wikipedia.org/wiki/Bi%C3%AAn_ni%C3%AAn_s%E1%BB%AD_Narnia:_Ho%C3%A0ng_t%E1%BB%AD_Caspian"
+            },
+            {
+                "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                "qid": "Q485803",
+                "url": "https://vi.wikipedia.org/wiki/Narnia:_V%C3%B9ng_%C4%91%E1%BA%A5t_huy%E1%BB%81n_tho%E1%BA%A1i"
+            },
+            {
+                "name": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+                "qid": "Q474082",
+                "url": "https://vi.wikipedia.org/wiki/Bi%C3%AAn_ni%C3%AAn_s%E1%BB%AD_Narnia:_H%C3%A0nh_tr%C3%ACnh_tr%C3%AAn_t%C3%A0u_Dawn_Treader"
+            },
+            {
+                "name": "The Dark Knight Rises",
+                "qid": "Q189330",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm_tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "The Dead Pool",
+                "qid": "Q263460",
+                "url": "https://vi.wikipedia.org/wiki/The_Dead_Pool"
+            },
+            {
+                "name": "The Huntsman: Winter's War",
+                "qid": "Q18485021",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A3_s%C4%83n:_Cu%E1%BB%99c_chi%E1%BA%BFn_m%C3%B9a_%C4%91%C3%B4ng"
+            },
+            {
+                "name": "The Next Three Days",
+                "qid": "Q263930",
+                "url": "https://vi.wikipedia.org/wiki/The_Next_Three_Days"
+            },
+            {
+                "name": "Wrath of the Titans",
+                "qid": "Q226773",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_ph%E1%BA%ABn_n%E1%BB%99_c%E1%BB%A7a_c%C3%A1c_v%E1%BB%8B_th%E1%BA%A7n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Ireland",
+                "qid": "Q27",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Ireland"
+            },
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Natasha Richardson",
+                "qid": "Q212545",
+                "url": "https://vi.wikipedia.org/wiki/Natasha_Richardson"
+            }
+        ]
+    }
+}

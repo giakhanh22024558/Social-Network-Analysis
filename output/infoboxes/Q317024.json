@@ -1,0 +1,102 @@
+{
+    "name": "Michael Angarano",
+    "qid": "Q317024",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Angarano",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Juno Temple",
+                "qid": "Q234434",
+                "url": "https://vi.wikipedia.org/wiki/Juno_Temple"
+            },
+            {
+                "name": "Kristen Stewart",
+                "qid": "Q126599",
+                "url": "https://vi.wikipedia.org/wiki/Kristen_Stewart"
+            },
+            {
+                "name": "Maya Erskine",
+                "qid": "Q19662801"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1987-12-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Almost Famous",
+                "qid": "Q726294",
+                "url": "https://vi.wikipedia.org/wiki/Almost_Famous"
+            },
+            {
+                "name": "Gringo",
+                "qid": "Q28369717",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%8D_g%E1%BA%B7p_h%C3%AAn"
+            },
+            {
+                "name": "Oppenheimer",
+                "qid": "Q108839994",
+                "url": "https://vi.wikipedia.org/wiki/Oppenheimer_(phim)"
+            },
+            {
+                "name": "Sky High",
+                "qid": "Q858508",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_h%E1%BB%8Dc_si%C3%AAu_nh%C3%A2n"
+            },
+            {
+                "name": "The Forbidden Kingdom",
+                "qid": "Q176568",
+                "url": "https://vi.wikipedia.org/wiki/Vua_Kung_Fu"
+            },
+            {
+                "name": "Wild Card",
+                "qid": "Q15028216",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B9m_b%C3%A0i_(phim_2015)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

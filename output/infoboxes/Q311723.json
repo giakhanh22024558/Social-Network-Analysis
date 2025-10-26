@@ -1,0 +1,272 @@
+{
+    "name": "Donnie Yen",
+    "qid": "Q311723",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ch%C3%A2n_T%E1%BB%AD_%C4%90an",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Chris Yen",
+                "qid": "Q10423823"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "Thai boxer",
+                "qid": "Q388513"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "choreographer",
+                "qid": "Q2490358"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "judoka",
+                "qid": "Q6665249"
+            },
+            {
+                "name": "karateka",
+                "qid": "Q9017214"
+            },
+            {
+                "name": "martial artist",
+                "qid": "Q11124885"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "stunt performer",
+                "qid": "Q465501",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91%C3%B3ng_th%E1%BA%BF"
+            },
+            {
+                "name": "taekwondo athlete",
+                "qid": "Q13382533"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-07-27T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Flash Point",
+                "qid": "Q544642",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_h%E1%BB%8Fa_tuy%E1%BA%BFn"
+            },
+            {
+                "name": "Ip Man 4: The Finale",
+                "qid": "Q54958357",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%87p_V%E1%BA%A5n_4:_H%E1%BB%93i_cu%E1%BB%91i"
+            },
+            {
+                "name": "Master Z: The Ip Man Legacy",
+                "qid": "Q57905222",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%87p_V%E1%BA%A5n_ngo%E1%BA%A1i_truy%E1%BB%87n:_Tr%C6%B0%C6%A1ng_Thi%C3%AAn_Ch%C3%AD"
+            },
+            {
+                "name": "Raging Fire",
+                "qid": "Q99964772",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%99_h%E1%BB%8Fa"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Bodyguards and Assassins",
+                "qid": "Q2131160",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_th%E1%BB%A7_v%C3%A0_v%E1%BB%87_s%C4%A9"
+            },
+            {
+                "name": "Chasing the Dragon",
+                "qid": "Q19572469",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B9m_H%C6%B0%C6%A1ng_C%E1%BA%A3ng"
+            },
+            {
+                "name": "Dragon",
+                "qid": "Q213138",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B5_hi%E1%BB%87p_(phim_2011)"
+            },
+            {
+                "name": "Dragon Tiger Gate",
+                "qid": "Q3038781",
+                "url": "https://vi.wikipedia.org/wiki/Long_H%E1%BB%95_M%C3%B4n_(phim)"
+            },
+            {
+                "name": "Flash Point",
+                "qid": "Q544642",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_h%E1%BB%8Fa_tuy%E1%BA%BFn"
+            },
+            {
+                "name": "Hero",
+                "qid": "Q260379",
+                "url": "https://vi.wikipedia.org/wiki/Anh_h%C3%B9ng_(phim_2002)"
+            },
+            {
+                "name": "In the Line of Duty 4: Witness",
+                "qid": "Q3149732",
+                "url": "https://vi.wikipedia.org/wiki/Ti%C3%AAu_di%E1%BB%87t_nh%C3%A2n_ch%E1%BB%A9ng_(phim_1989)"
+            },
+            {
+                "name": "Ip Man",
+                "qid": "Q573743",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%87p_V%E1%BA%A5n_(phim)"
+            },
+            {
+                "name": "Ip Man 2",
+                "qid": "Q1193433",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%87p_V%E1%BA%A5n_2"
+            },
+            {
+                "name": "Ip Man 3",
+                "qid": "Q19757672",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%87p_V%E1%BA%A5n_3"
+            },
+            {
+                "name": "Ip Man 4: The Finale",
+                "qid": "Q54958357",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%87p_V%E1%BA%A5n_4:_H%E1%BB%93i_cu%E1%BB%91i"
+            },
+            {
+                "name": "Iron Monkey 2",
+                "qid": "Q2382030",
+                "url": "https://vi.wikipedia.org/wiki/Thi%E1%BA%BFt_H%E1%BA%A7u_T%E1%BB%AD_2:_%C4%90%E1%BB%91i_%C4%91%E1%BA%A7u_s%C3%A1t_th%E1%BB%A7"
+            },
+            {
+                "name": "John Wick: Chapter 4",
+                "qid": "Q80322358",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_th%E1%BB%A7_John_Wick:_Ph%E1%BA%A7n_4"
+            },
+            {
+                "name": "Legend of the Fist: The Return of Chen Zhen",
+                "qid": "Q2087602",
+                "url": "https://vi.wikipedia.org/wiki/Huy%E1%BB%81n_tho%E1%BA%A1i_Tr%E1%BA%A7n_Ch%C3%A2n"
+            },
+            {
+                "name": "Mulan",
+                "qid": "Q24284283",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_M%E1%BB%99c_Lan_(phim_2020)"
+            },
+            {
+                "name": "New Dragon Gate Inn",
+                "qid": "Q1315888",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2n_Long_M%C3%B4n_Kh%C3%A1ch_s%E1%BA%A1n"
+            },
+            {
+                "name": "Once Upon a Time in China II",
+                "qid": "Q747034",
+                "url": "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Phi_H%E1%BB%93ng_II:_Nam_nhi_%C4%91%C6%B0%C6%A1ng_t%E1%BB%B1_c%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "Painted Skin",
+                "qid": "Q51750",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_b%C3%AC"
+            },
+            {
+                "name": "Raging Fire",
+                "qid": "Q99964772",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%99_h%E1%BB%8Fa"
+            },
+            {
+                "name": "Rogue One: A Star Wars Story",
+                "qid": "Q19590955",
+                "url": "https://vi.wikipedia.org/wiki/Rogue_One:_Star_Wars_ngo%E1%BA%A1i_truy%E1%BB%87n"
+            },
+            {
+                "name": "SPL: Sha Po Lang",
+                "qid": "Q656966",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_Ph%C3%A1_Lang"
+            },
+            {
+                "name": "The Founding of a Republic",
+                "qid": "Q2900799",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_nghi%E1%BB%87p_ki%E1%BA%BFn_qu%E1%BB%91c"
+            },
+            {
+                "name": "The Lost Bladesman",
+                "qid": "Q1314107",
+                "url": "https://vi.wikipedia.org/wiki/Quan_V%C3%A2n_Tr%C6%B0%E1%BB%9Dng_(phim_2011)"
+            },
+            {
+                "name": "The Monkey King",
+                "qid": "Q7752052",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2y_du_k%C3%BD:_%C4%90%E1%BA%A1i_n%C3%A1o_Thi%C3%AAn_cung"
+            },
+            {
+                "name": "The Twins Effect II",
+                "qid": "Q3234902",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_c%C6%A1_bi%E1%BA%BFn_2:_Hoa_%C4%90%C3%B4_%C4%91%E1%BA%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Tiger Cage",
+                "qid": "Q3528290",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_c%E1%BA%A3nh_%C4%91%E1%BB%93_long"
+            },
+            {
+                "name": "Tiger Cage 2",
+                "qid": "Q3528294",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_c%E1%BA%A3nh_%C4%91%E1%BB%93_long_2"
+            },
+            {
+                "name": "xXx Return of Xander Cage",
+                "qid": "Q22075020",
+                "url": "https://vi.wikipedia.org/wiki/XXx:_Ph%E1%BA%A3n_%C4%91%C3%B2n"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "The Twins Effect",
+                "qid": "Q687068",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_c%C6%A1_bi%E1%BA%BFn"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "British Hong Kong",
+                "qid": "Q1054923",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%93ng_K%C3%B4ng_thu%E1%BB%99c_Anh"
+            },
+            {
+                "name": "People's Republic of China",
+                "qid": "Q148",
+                "url": "https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Cissy Wang",
+                "qid": "Q8265341"
+            }
+        ]
+    }
+}

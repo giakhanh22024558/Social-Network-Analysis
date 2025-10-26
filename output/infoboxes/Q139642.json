@@ -1,0 +1,78 @@
+{
+    "name": "Zachary Quinto",
+    "qid": "Q139642",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Zachary_Quinto",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-06-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Hitman: Agent 47",
+                "qid": "Q15715216",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_th%E1%BB%A7:_M%E1%BA%ADt_danh_47"
+            },
+            {
+                "name": "Hotel Artemis",
+                "qid": "Q30321613",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%A1ch_s%E1%BA%A1n_t%E1%BB%99i_ph%E1%BA%A1m"
+            },
+            {
+                "name": "I Am Michael",
+                "qid": "Q17619306",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_%C4%91%E1%BB%9Di_c%E1%BB%A7a_Michael"
+            },
+            {
+                "name": "Snowden",
+                "qid": "Q19315473",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_v%E1%BB%A5_Snowden"
+            },
+            {
+                "name": "Star Trek",
+                "qid": "Q213081",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek_(phim)"
+            },
+            {
+                "name": "Star Trek Beyond",
+                "qid": "Q15929448",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek:_Kh%C3%B4ng_gi%E1%BB%9Bi_h%E1%BA%A1n"
+            },
+            {
+                "name": "Star Trek Into Darkness",
+                "qid": "Q171711",
+                "url": "https://vi.wikipedia.org/wiki/Star_Trek:_Ch%C3%ACm_trong_b%C3%B3ng_t%E1%BB%91i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

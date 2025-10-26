@@ -1,0 +1,63 @@
+{
+    "name": "Gary Vaynerchuk",
+    "qid": "Q3098629",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Gary_Vaynerchuk",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "computer scientist",
+                "qid": "Q82594",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_khoa_h%E1%BB%8Dc_m%C3%A1y_t%C3%ADnh"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "merchant",
+                "qid": "Q215536",
+                "url": "https://vi.wikipedia.org/wiki/Th%C6%B0%C6%A1ng_gia"
+            },
+            {
+                "name": "orator",
+                "qid": "Q12859263"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "technology evangelist",
+                "qid": "Q139648"
+            },
+            {
+                "name": "winegrower",
+                "qid": "Q897317"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1975-11-14T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "name": "James Cromwell",
+    "qid": "Q299483",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/James_Cromwell",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "John Cromwell",
+                "qid": "Q1348309"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Kay Johnson",
+                "qid": "Q1750491"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1940-01-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Babe",
+                "qid": "Q720724",
+                "url": "https://vi.wikipedia.org/wiki/Babe_ch%C3%BA_heo_ch%C4%83n_c%E1%BB%ABu"
+            },
+            {
+                "name": "I, Robot",
+                "qid": "Q200572",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%B4i,_ng%C6%B0%E1%BB%9Di_m%C3%A1y"
+            },
+            {
+                "name": "Jurassic World: Fallen Kingdom",
+                "qid": "Q21877685",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long:_V%C6%B0%C6%A1ng_qu%E1%BB%91c_s%E1%BB%A5p_%C4%91%E1%BB%95"
+            },
+            {
+                "name": "Spider-Man 3",
+                "qid": "Q182212",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Nh%E1%BB%87n_3"
+            },
+            {
+                "name": "The Artist",
+                "qid": "Q171861",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_(phim)"
+            },
+            {
+                "name": "The Green Mile",
+                "qid": "Q208263",
+                "url": "https://vi.wikipedia.org/wiki/The_Green_Mile_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Anna Stuart",
+                "qid": "Q4767516"
+            },
+            {
+                "name": "Julie Cobb",
+                "qid": "Q6308089"
+            }
+        ]
+    }
+}

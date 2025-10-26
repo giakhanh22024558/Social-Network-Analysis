@@ -1,0 +1,149 @@
+{
+    "name": "Selena Gomez",
+    "qid": "Q83287",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Selena_Gomez",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Gracie Elliot Teefey",
+                "qid": "Q136290570"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Benny Blanco",
+                "qid": "Q818048",
+                "url": "https://vi.wikipedia.org/wiki/Benny_Blanco"
+            },
+            {
+                "name": "Justin Bieber",
+                "qid": "Q34086",
+                "url": "https://vi.wikipedia.org/wiki/Justin_Bieber"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Ricardo Joel Gomez",
+                "qid": "Q129679486"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Mandy Teefey",
+                "qid": "Q3285611"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "child actor",
+                "qid": "Q970153",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_nh%C3%AD"
+            },
+            {
+                "name": "fashion designer",
+                "qid": "Q3501317",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_thi%E1%BA%BFt_k%E1%BA%BF_th%E1%BB%9Di_trang"
+            },
+            {
+                "name": "filmmaker",
+                "qid": "Q1414443"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "record producer",
+                "qid": "Q183945",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_nh%E1%BA%A1c"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-07-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Rainy Day in New York",
+                "qid": "Q42307699",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_ng%C3%A0y_m%C6%B0a_%E1%BB%9F_New_York"
+            },
+            {
+                "name": "Another Cinderella Story",
+                "qid": "Q550520",
+                "url": "https://vi.wikipedia.org/wiki/Another_Cinderella_Story"
+            },
+            {
+                "name": "Dolittle",
+                "qid": "Q38689704",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9_Dolittle:_Chuy%E1%BA%BFn_phi%C3%AAu_l%C6%B0u_th%E1%BA%A7n_tho%E1%BA%A1i"
+            },
+            {
+                "name": "Emilia Pérez",
+                "qid": "Q123928072",
+                "url": "https://vi.wikipedia.org/wiki/Emilia_P%C3%A9rez"
+            },
+            {
+                "name": "Getaway",
+                "qid": "Q400117",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BA%A9u_tho%C3%A1t_nhanh"
+            },
+            {
+                "name": "Princess Protection Program",
+                "qid": "Q549859",
+                "url": "https://vi.wikipedia.org/wiki/Princess_Protection_Program"
+            },
+            {
+                "name": "The Big Short",
+                "qid": "Q19850715",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Short_(phim)"
+            },
+            {
+                "name": "The Muppets",
+                "qid": "Q550558",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_nh%E1%BA%A1c_h%E1%BB%99i_r%E1%BB%91i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Benny Blanco",
+                "qid": "Q818048",
+                "url": "https://vi.wikipedia.org/wiki/Benny_Blanco"
+            }
+        ]
+    }
+}

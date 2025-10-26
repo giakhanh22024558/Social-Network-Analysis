@@ -1,0 +1,88 @@
+{
+    "name": "Annette Bening",
+    "qid": "Q190602",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Annette_Bening",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Ella Beatty",
+                "qid": "Q78302484"
+            },
+            {
+                "name": "Isabel Beatty",
+                "qid": "Q78468557"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-05-29T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "20th Century Women",
+                "qid": "Q21010845",
+                "url": "https://vi.wikipedia.org/wiki/20th_Century_Women"
+            },
+            {
+                "name": "American Beauty",
+                "qid": "Q25139",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%BB_%C4%91%E1%BA%B9p_M%E1%BB%B9_(phim_1999)"
+            },
+            {
+                "name": "Captain Marvel",
+                "qid": "Q23781129",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_u%C3%BD_Marvel_(phim)"
+            },
+            {
+                "name": "Death on the Nile",
+                "qid": "Q56816969",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81n_m%E1%BA%A1ng_tr%C3%AAn_s%C3%B4ng_Nile_(phim_2022)"
+            },
+            {
+                "name": "The Kids Are All Right",
+                "qid": "Q380841",
+                "url": "https://vi.wikipedia.org/wiki/The_Kids_Are_All_Right_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Warren Beatty",
+                "qid": "Q95030",
+                "url": "https://vi.wikipedia.org/wiki/Warren_Beatty"
+            }
+        ]
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "name": "Joan Cusack",
+    "qid": "Q272946",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Joan_Cusack",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Ann Cusack",
+                "qid": "Q432686"
+            },
+            {
+                "name": "Bill Cusack",
+                "qid": "Q6043759"
+            },
+            {
+                "name": "John Cusack",
+                "qid": "Q106175",
+                "url": "https://vi.wikipedia.org/wiki/John_Cusack"
+            },
+            {
+                "name": "Susie Cusack",
+                "qid": "Q2369674"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Dick Cusack",
+                "qid": "Q3706943"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-10-11T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Confessions of a Shopaholic",
+                "qid": "Q852963",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%B1_th%C3%BA_c%E1%BB%A7a_m%E1%BB%99t_t%C3%ADn_%C4%91%E1%BB%93_shopping"
+            },
+            {
+                "name": "School of Rock",
+                "qid": "Q820753",
+                "url": "https://vi.wikipedia.org/wiki/Rock_h%E1%BB%8Dc_tr%C3%B2"
+            },
+            {
+                "name": "The Perks of Being a Wallflower",
+                "qid": "Q675468",
+                "url": "https://vi.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower_(phim)"
+            },
+            {
+                "name": "Where the Heart Is",
+                "qid": "Q1500457",
+                "url": "https://vi.wikipedia.org/wiki/Where_the_Heart_Is_(phim_2000)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Ann Cusack",
+                "qid": "Q432686"
+            }
+        ]
+    }
+}

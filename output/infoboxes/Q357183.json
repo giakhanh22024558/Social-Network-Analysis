@@ -1,0 +1,85 @@
+{
+    "name": "Jaume Collet-Serra",
+    "qid": "Q357183",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jaume_Collet-Serra",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1974-03-23T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Mindscape",
+                "qid": "Q3277324",
+                "url": "https://vi.wikipedia.org/wiki/Mindscape_(phim)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Black Adam",
+                "qid": "Q28657013",
+                "url": "https://vi.wikipedia.org/wiki/Black_Adam_(phim)"
+            },
+            {
+                "name": "House of Wax",
+                "qid": "Q679679",
+                "url": "https://vi.wikipedia.org/wiki/House_of_Wax_(phim_2005)"
+            },
+            {
+                "name": "Jungle Cruise",
+                "qid": "Q24285605",
+                "url": "https://vi.wikipedia.org/wiki/Jungle_Cruise:_Th%C3%A1m_hi%E1%BB%83m_r%E1%BB%ABng_xanh"
+            },
+            {
+                "name": "Non-Stop",
+                "qid": "Q2855777",
+                "url": "https://vi.wikipedia.org/wiki/Non-Stop_(phim)"
+            },
+            {
+                "name": "Orphan",
+                "qid": "Q387414",
+                "url": "https://vi.wikipedia.org/wiki/Orphan_(phim)"
+            },
+            {
+                "name": "Run All Night",
+                "qid": "Q15220567",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BA%A9u_tho%C3%A1t_trong_%C4%91%C3%AAm"
+            },
+            {
+                "name": "The Shallows",
+                "qid": "Q21450484",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_n%C6%B0%E1%BB%9Bc_t%E1%BB%AD_th%E1%BA%A7n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Spain",
+                "qid": "Q29",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A2y_Ban_Nha"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

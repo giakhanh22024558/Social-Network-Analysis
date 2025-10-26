@@ -1,0 +1,129 @@
+{
+    "name": "Britney Spears",
+    "qid": "Q11975",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Britney_Spears",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Bryan Spears",
+                "qid": "Q11854686"
+            },
+            {
+                "name": "Jamie Lynn Spears",
+                "qid": "Q55497"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Charlie Ebersol",
+                "qid": "Q18719384"
+            },
+            {
+                "name": "Colin Farrell",
+                "qid": "Q172035",
+                "url": "https://vi.wikipedia.org/wiki/Colin_Farrell"
+            },
+            {
+                "name": "Justin Timberlake",
+                "qid": "Q43432",
+                "url": "https://vi.wikipedia.org/wiki/Justin_Timberlake"
+            },
+            {
+                "name": "Kevin Federline",
+                "qid": "Q215497"
+            },
+            {
+                "name": "Sam Asghari",
+                "qid": "Q107406565"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "James Parnell Spears",
+                "qid": "Q96816262"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Jayden Federline",
+                "qid": "Q44966310"
+            },
+            {
+                "name": "Sean Federline",
+                "qid": "Q44963352"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Lynne Spears",
+                "qid": "Q3036419"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-12-02T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Fahrenheit 9/11",
+                "qid": "Q221852",
+                "url": "https://vi.wikipedia.org/wiki/Fahrenheit_9/11"
+            },
+            {
+                "name": "Religulous",
+                "qid": "Q591709",
+                "url": "https://vi.wikipedia.org/wiki/Religulous"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jason Allen Alexander",
+                "qid": "Q27949402"
+            },
+            {
+                "name": "Kevin Federline",
+                "qid": "Q215497"
+            },
+            {
+                "name": "Sam Asghari",
+                "qid": "Q107406565"
+            }
+        ]
+    }
+}

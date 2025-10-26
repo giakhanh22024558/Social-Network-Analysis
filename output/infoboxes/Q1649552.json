@@ -1,0 +1,49 @@
+{
+    "name": "Barry Orton",
+    "qid": "Q1649552",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Barry_Orton",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Bob Orton Jr.",
+                "qid": "Q529384",
+                "url": "https://vi.wikipedia.org/wiki/Bob_Orton,_Jr."
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Bob Orton",
+                "qid": "Q725400",
+                "url": "https://vi.wikipedia.org/wiki/Bob_Orton,_Sr."
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-05-28T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

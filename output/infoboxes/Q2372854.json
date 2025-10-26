@@ -1,0 +1,42 @@
+{
+    "name": "Olivia Palermo",
+    "qid": "Q2372854",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Olivia_Palermo",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "fashion influencer",
+                "qid": "Q55611490"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-02-28T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Johannes Huebl",
+                "qid": "Q55437218"
+            }
+        ]
+    }
+}

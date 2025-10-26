@@ -1,0 +1,89 @@
+{
+    "name": "Nathan Fillion",
+    "qid": "Q342549",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nathan_Fillion",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Robert Fillion",
+                "qid": "Q129188034"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Cookie Fillion",
+                "qid": "Q128031424"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-03-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Deadpool & Wolverine",
+                "qid": "Q102180106",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_v%C3%A0_Wolverine"
+            },
+            {
+                "name": "Percy Jackson & The Olympians - The Sea of Monsters",
+                "qid": "Q2984104",
+                "url": "https://vi.wikipedia.org/wiki/Percy_Jackson:_Bi%E1%BB%83n_qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Saving Private Ryan",
+                "qid": "Q165817",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_c%E1%BB%A9u_binh_nh%C3%AC_Ryan"
+            },
+            {
+                "name": "Superman",
+                "qid": "Q116547790",
+                "url": "https://vi.wikipedia.org/wiki/Superman_(phim_2025)"
+            },
+            {
+                "name": "The Suicide Squad",
+                "qid": "Q57317060",
+                "url": "https://vi.wikipedia.org/wiki/Suicide_Squad:_%C4%90i%E1%BB%87p_v%E1%BB%A5_c%E1%BA%A3m_t%E1%BB%AD"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

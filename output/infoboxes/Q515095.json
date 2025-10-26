@@ -1,0 +1,128 @@
+{
+    "name": "Tim Blake Nelson",
+    "qid": "Q515095",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tim_Blake_Nelson",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "manufacturer",
+                "qid": "Q13235160"
+            },
+            {
+                "name": "playwright",
+                "qid": "Q214917",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_vi%E1%BA%BFt_k%E1%BB%8Bch"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1964-05-11T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Billy Lynn's Long Halftime Walk",
+                "qid": "Q19839914",
+                "url": "https://vi.wikipedia.org/wiki/Billy_Lynn_v%C3%A0_cu%E1%BB%99c_chi%E1%BA%BFn_n%E1%BB%ADa_%C4%91%E1%BB%9Di_ng%C6%B0%E1%BB%9Di"
+            },
+            {
+                "name": "Captain America: Brave New World",
+                "qid": "Q112322116",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_Th%E1%BA%BF_gi%E1%BB%9Bi_m%E1%BB%9Bi"
+            },
+            {
+                "name": "Colossal",
+                "qid": "Q21527562",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_v%C3%A0_g%C3%A3_kh%E1%BB%95ng_l%E1%BB%93"
+            },
+            {
+                "name": "Fantastic Four",
+                "qid": "Q16795448",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_t%E1%BB%A9_si%C3%AAu_%C4%91%E1%BA%B3ng_(phim_2015)"
+            },
+            {
+                "name": "Lincoln",
+                "qid": "Q32433",
+                "url": "https://vi.wikipedia.org/wiki/Lincoln_(phim)"
+            },
+            {
+                "name": "Minority Report",
+                "qid": "Q244604",
+                "url": "https://vi.wikipedia.org/wiki/Minority_Report"
+            },
+            {
+                "name": "Nightmare Alley",
+                "qid": "Q82430214",
+                "url": "https://vi.wikipedia.org/wiki/Con_h%E1%BA%BBm_%C3%A1c_m%E1%BB%99ng"
+            },
+            {
+                "name": "The Bricklayer",
+                "qid": "Q120001910",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_v%E1%BB%A5_cu%E1%BB%91i_c%C3%B9ng_(phim)"
+            },
+            {
+                "name": "The Homesman",
+                "qid": "Q15961525",
+                "url": "https://vi.wikipedia.org/wiki/The_Homesman"
+            },
+            {
+                "name": "The Hustle",
+                "qid": "Q43208792",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%BD_c%C3%B4_l%E1%BB%ABa_%C4%91%E1%BA%A3o"
+            },
+            {
+                "name": "The Incredible Hulk",
+                "qid": "Q466611",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_kh%E1%BB%95ng_l%E1%BB%93_xanh_phi_th%C6%B0%E1%BB%9Dng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

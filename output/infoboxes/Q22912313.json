@@ -1,0 +1,39 @@
+{
+    "name": "Kirstin Maldonado",
+    "qid": "Q22912313",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kirstin_Maldonado",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-05-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Pitch Perfect 2",
+                "qid": "Q16619265",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_n%E1%BB%95i_lo%E1%BA%A1n_ho%C3%A0n_h%E1%BA%A3o"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "name": "Charlie Day",
+    "qid": "Q365915",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Charlie_Day",
+    "gender": "male",
+    "infobox": {
+        "Mẹ (P25)": [
+            {
+                "name": "Mary Adelaide Peckham",
+                "qid": "Q115654835"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "showrunner",
+                "qid": "Q1440873",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1976-02-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Horrible Bosses 2",
+                "qid": "Q15275703",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_ba_si%C3%AAu_b%E1%BB%B1a_2"
+            },
+            {
+                "name": "I Want You Back",
+                "qid": "Q106578104",
+                "url": "https://vi.wikipedia.org/wiki/I_Want_You_Back_(phim)"
+            },
+            {
+                "name": "Pacific Rim",
+                "qid": "Q1388653",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Pacific Rim: Uprising",
+                "qid": "Q27826501",
+                "url": "https://vi.wikipedia.org/wiki/Pacific_Rim:_Tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "Vacation",
+                "qid": "Q18155457",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B3_ngh%E1%BB%89_b%C3%A1_%C4%91%E1%BA%A1o"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Mary Elizabeth Ellis",
+                "qid": "Q1103579"
+            }
+        ]
+    }
+}

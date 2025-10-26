@@ -1,0 +1,137 @@
+{
+    "name": "Barbra Streisand",
+    "qid": "Q4636",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Barbra_Streisand",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Roslyn Kind",
+                "qid": "Q4208690"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Barry Dennen",
+                "qid": "Q809029"
+            },
+            {
+                "name": "Jon Peters",
+                "qid": "Q2563751"
+            },
+            {
+                "name": "Richard Baskin",
+                "qid": "Q7324002"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Emanuel Streisand",
+                "qid": "Q107736438"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Jason Gould",
+                "qid": "Q1335786"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "jazz musician",
+                "qid": "Q15981151"
+            },
+            {
+                "name": "recording artist",
+                "qid": "Q55960555"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "singer-songwriter",
+                "qid": "Q488205",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9_ki%C3%AAm_nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1942-04-24T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Funny Girl",
+                "qid": "Q1364076",
+                "url": "https://vi.wikipedia.org/wiki/Funny_Girl_(phim)"
+            },
+            {
+                "name": "Little Fockers",
+                "qid": "Q921985",
+                "url": "https://vi.wikipedia.org/wiki/G%E1%BA%B7p_g%E1%BB%A1_th%C3%B4ng_gia:_Nh%C3%B3c_Fockers"
+            },
+            {
+                "name": "The Guilt Trip",
+                "qid": "Q961138",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BA%BFn_%C4%90i_Sai_L%E1%BA%A7m_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "James Brolin",
+                "qid": "Q315051"
+            }
+        ]
+    }
+}

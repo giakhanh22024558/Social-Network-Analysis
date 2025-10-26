@@ -1,0 +1,68 @@
+{
+    "name": "David Copperfield",
+    "qid": "Q139637",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/David_Copperfield_(nh%C3%A0_%E1%BA%A3o_thu%E1%BA%ADt)",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Claudia Schiffer",
+                "qid": "Q76717",
+                "url": "https://vi.wikipedia.org/wiki/Claudia_Schiffer"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "hypnotist",
+                "qid": "Q16746942"
+            },
+            {
+                "name": "illusionist",
+                "qid": "Q1658894"
+            },
+            {
+                "name": "stunt performer",
+                "qid": "Q465501",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91%C3%B3ng_th%E1%BA%BF"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1956-09-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Incredible Burt Wonderstone",
+                "qid": "Q1444108",
+                "url": "https://vi.wikipedia.org/wiki/The_Incredible_Burt_Wonderstone"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

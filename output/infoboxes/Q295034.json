@@ -1,0 +1,97 @@
+{
+    "name": "Johnny Knoxville",
+    "qid": "Q295034",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Johnny_Knoxville",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stunt performer",
+                "qid": "Q465501",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91%C3%B3ng_th%E1%BA%BF"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-03-11T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Jackass Forever",
+                "qid": "Q104528612",
+                "url": "https://vi.wikipedia.org/wiki/Jackass_Forever"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Epic",
+                "qid": "Q2700629",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_h%C3%B9ng_chi%E1%BA%BFn_x%E1%BB%A9_s%E1%BB%9F_l%C3%A1_c%C3%A2y"
+            },
+            {
+                "name": "Jackass Forever",
+                "qid": "Q104528612",
+                "url": "https://vi.wikipedia.org/wiki/Jackass_Forever"
+            },
+            {
+                "name": "Movie 43",
+                "qid": "Q548978",
+                "url": "https://vi.wikipedia.org/wiki/43_ng%C3%A0y_k%E1%BB%B3_qu%E1%BA%B7c"
+            },
+            {
+                "name": "Skiptrace",
+                "qid": "Q18613571",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BA%A9u_tho%C3%A1t_ngo%E1%BA%A1n_m%E1%BB%A5c"
+            },
+            {
+                "name": "The Last Stand",
+                "qid": "Q45672",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%91t_ch%E1%BA%B7n_cu%E1%BB%91i_c%C3%B9ng_(phim_2013)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/5759b2e1879a1b48b85e4324e5680a22"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/60700191daccc56533ea1ebc4d674712"
+            }
+        ]
+    }
+}

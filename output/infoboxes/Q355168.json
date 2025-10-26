@@ -1,0 +1,88 @@
+{
+    "name": "Lee Pace",
+    "qid": "Q355168",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lee_Pace",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-03-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Captain Marvel",
+                "qid": "Q23781129",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_u%C3%BD_Marvel_(phim)"
+            },
+            {
+                "name": "Guardians of the Galaxy",
+                "qid": "Q5887360",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_(phim)"
+            },
+            {
+                "name": "Lincoln",
+                "qid": "Q32433",
+                "url": "https://vi.wikipedia.org/wiki/Lincoln_(phim)"
+            },
+            {
+                "name": "The Hobbit: An Unexpected Journey",
+                "qid": "Q80379",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Hobbit:_H%C3%A0nh_tr%C3%ACnh_v%C3%B4_%C4%91%E1%BB%8Bnh"
+            },
+            {
+                "name": "The Hobbit: The Battle of the Five Armies",
+                "qid": "Q919649",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Hobbit:_%C4%90%E1%BA%A1i_chi%E1%BA%BFn_N%C4%83m_c%C3%A1nh_qu%C3%A2n"
+            },
+            {
+                "name": "The Hobbit: The Desolation of Smaug",
+                "qid": "Q719915",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Hobbit:_%C4%90%E1%BA%A1i_chi%E1%BA%BFn_v%E1%BB%9Bi_r%E1%BB%93ng_l%E1%BB%ADa"
+            },
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 1",
+                "qid": "Q60506",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 2",
+                "qid": "Q60487",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Matthew Foley",
+                "qid": "Q59292259"
+            }
+        ]
+    }
+}

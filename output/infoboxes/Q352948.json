@@ -1,0 +1,79 @@
+{
+    "name": "Joe Johnston",
+    "qid": "Q352948",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Joe_Johnston",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "designer",
+                "qid": "Q5322166"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1950-05-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Star Wars: Episode IV – A New Hope",
+                "qid": "Q17738",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Ni%E1%BB%81m_hi_v%E1%BB%8Dng_m%E1%BB%9Bi"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Captain America: The First Avenger",
+                "qid": "Q275120",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_K%E1%BA%BB_b%C3%A1o_th%C3%B9_%C4%91%E1%BA%A7u_ti%C3%AAn"
+            },
+            {
+                "name": "Jumanji",
+                "qid": "Q222939",
+                "url": "https://vi.wikipedia.org/wiki/Jumanji"
+            },
+            {
+                "name": "Jurassic Park III",
+                "qid": "Q1102220",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_k%E1%BB%B7_Jura_III"
+            },
+            {
+                "name": "The Nutcracker and the Four Realms",
+                "qid": "Q24290097",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%B9p_H%E1%BA%A1t_D%E1%BA%BB_v%C3%A0_b%E1%BB%91n_v%C6%B0%C6%A1ng_qu%E1%BB%91c"
+            },
+            {
+                "name": "The Wolfman",
+                "qid": "Q205532",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_s%C3%B3i_(phim_2010)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

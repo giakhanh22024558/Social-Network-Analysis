@@ -1,0 +1,143 @@
+{
+    "name": "William Hurt",
+    "qid": "Q105825",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/William_Hurt",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Marlee Matlin",
+                "qid": "Q213287",
+                "url": "https://vi.wikipedia.org/wiki/Marlee_Matlin"
+            },
+            {
+                "name": "Sandrine Bonnaire",
+                "qid": "Q232937"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Alfred McChord Hurt",
+                "qid": "Q112194837"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1950-03-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A.I. Artificial Intelligence",
+                "qid": "Q221113",
+                "url": "https://vi.wikipedia.org/wiki/A.I._%E2%80%93_Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Black Widow",
+                "qid": "Q23894626",
+                "url": "https://vi.wikipedia.org/wiki/G%C3%B3a_ph%E1%BB%A5_%C4%91en_(phim)"
+            },
+            {
+                "name": "Body Heat",
+                "qid": "Q472096",
+                "url": "https://vi.wikipedia.org/wiki/Body_Heat"
+            },
+            {
+                "name": "Captain America: Civil War",
+                "qid": "Q18407657",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_N%E1%BB%99i_chi%E1%BA%BFn_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "Into the Wild",
+                "qid": "Q269912",
+                "url": "https://vi.wikipedia.org/wiki/Into_the_Wild_(phim)"
+            },
+            {
+                "name": "Robin Hood",
+                "qid": "Q223559",
+                "url": "https://vi.wikipedia.org/wiki/Robin_Hood_(phim_2010)"
+            },
+            {
+                "name": "The Host",
+                "qid": "Q552775",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%ADt_ch%E1%BB%A7_(phim_2013)"
+            },
+            {
+                "name": "The Incredible Hulk",
+                "qid": "Q466611",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_kh%E1%BB%95ng_l%E1%BB%93_xanh_phi_th%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "The King's Daughter",
+                "qid": "Q17379618",
+                "url": "https://vi.wikipedia.org/wiki/The_King%27s_Daughter_(phim_2022)"
+            },
+            {
+                "name": "Vantage Point",
+                "qid": "Q274887",
+                "url": "https://vi.wikipedia.org/wiki/Vantage_Point"
+            },
+            {
+                "name": "Winter's Tale",
+                "qid": "Q3569395",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_t%C3%ACnh_m%C3%B9a_%C4%91%C3%B4ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Heidi Henderson",
+                "qid": "Q22327090"
+            },
+            {
+                "name": "Mary Beth Hurt",
+                "qid": "Q271460"
+            }
+        ]
+    }
+}

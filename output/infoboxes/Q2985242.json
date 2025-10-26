@@ -1,0 +1,54 @@
+{
+    "name": "Nick Robinson",
+    "qid": "Q2985242",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nick_Robinson_(di%E1%BB%85n_vi%C3%AAn_M%E1%BB%B9)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1995-03-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Everything, Everything",
+                "qid": "Q27964442",
+                "url": "https://vi.wikipedia.org/wiki/Everything,_Everything_(phim)"
+            },
+            {
+                "name": "Jurassic World",
+                "qid": "Q3512046",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long"
+            },
+            {
+                "name": "Love, Simon",
+                "qid": "Q29169280",
+                "url": "https://vi.wikipedia.org/wiki/Th%C6%B0%C6%A1ng_m%E1%BA%BFn,_Simon"
+            },
+            {
+                "name": "The 5th Wave",
+                "qid": "Q17436508",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A3t_t%E1%BA%A5n_c%C3%B4ng_th%E1%BB%A9_5"
+            },
+            {
+                "name": "The Kings of Summer",
+                "qid": "Q13423400",
+                "url": "https://vi.wikipedia.org/wiki/The_Kings_of_Summer"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

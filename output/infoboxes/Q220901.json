@@ -1,0 +1,160 @@
+{
+    "name": "Laura Dern",
+    "qid": "Q220901",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Laura_Dern",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Billy Bob Thornton",
+                "qid": "Q202735"
+            },
+            {
+                "name": "Jeff Goldblum",
+                "qid": "Q106706",
+                "url": "https://vi.wikipedia.org/wiki/Jeff_Goldblum"
+            },
+            {
+                "name": "Kyle MacLachlan",
+                "qid": "Q207506",
+                "url": "https://vi.wikipedia.org/wiki/Kyle_MacLachlan"
+            },
+            {
+                "name": "Nicolas Cage",
+                "qid": "Q42869",
+                "url": "https://vi.wikipedia.org/wiki/Nicolas_Cage"
+            },
+            {
+                "name": "Renny Harlin",
+                "qid": "Q318712"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Bruce Dern",
+                "qid": "Q357001"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Ellery Harper",
+                "qid": "Q55072256"
+            },
+            {
+                "name": "Jaya Harper",
+                "qid": "Q55072387"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Diane Ladd",
+                "qid": "Q234080"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-02-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Cold Pursuit",
+                "qid": "Q28912877",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1o_th%C3%B9_(phim_2019)"
+            },
+            {
+                "name": "Downsizing",
+                "qid": "Q22075017",
+                "url": "https://vi.wikipedia.org/wiki/Downsizing_(phim)"
+            },
+            {
+                "name": "I Am Sam",
+                "qid": "Q640387",
+                "url": "https://vi.wikipedia.org/wiki/I_Am_Sam"
+            },
+            {
+                "name": "Jurassic Park",
+                "qid": "Q167726",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_k%E1%BB%B7_Jura"
+            },
+            {
+                "name": "Jurassic Park III",
+                "qid": "Q1102220",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_k%E1%BB%B7_Jura_III"
+            },
+            {
+                "name": "Jurassic World Dominion",
+                "qid": "Q55178974",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_kh%E1%BB%A7ng_long:_L%C3%A3nh_%C4%91%E1%BB%8Ba"
+            },
+            {
+                "name": "Little Fockers",
+                "qid": "Q921985",
+                "url": "https://vi.wikipedia.org/wiki/G%E1%BA%B7p_g%E1%BB%A1_th%C3%B4ng_gia:_Nh%C3%B3c_Fockers"
+            },
+            {
+                "name": "Little Women",
+                "qid": "Q56881140",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_ng%C6%B0%E1%BB%9Di_ph%E1%BB%A5_n%E1%BB%AF_b%C3%A9_nh%E1%BB%8F"
+            },
+            {
+                "name": "Marriage Story",
+                "qid": "Q48671199",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_h%C3%B4n_nh%C3%A2n"
+            },
+            {
+                "name": "Star Wars: Episode VIII – The Last Jedi",
+                "qid": "Q18486021",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Jedi_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "The Fault in Our Stars",
+                "qid": "Q14704171",
+                "url": "https://vi.wikipedia.org/wiki/The_Fault_in_Our_Stars_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Ben Harper",
+                "qid": "Q380849"
+            }
+        ]
+    }
+}

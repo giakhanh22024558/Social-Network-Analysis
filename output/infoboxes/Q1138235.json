@@ -1,0 +1,129 @@
+{
+    "name": "Kris Jenner",
+    "qid": "Q1138235",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kris_Jenner",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Karen Houghton",
+                "qid": "Q125017735"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Corey Gamble",
+                "qid": "Q108092350"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Robert True Houghton",
+                "qid": "Q99952140"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Kendall Jenner",
+                "qid": "Q1375057",
+                "url": "https://vi.wikipedia.org/wiki/Kendall_Jenner"
+            },
+            {
+                "name": "Khloé Kardashian",
+                "qid": "Q231270",
+                "url": "https://vi.wikipedia.org/wiki/Khlo%C3%A9_Kardashian"
+            },
+            {
+                "name": "Kim Kardashian",
+                "qid": "Q186304",
+                "url": "https://vi.wikipedia.org/wiki/Kim_Kardashian"
+            },
+            {
+                "name": "Kourtney Kardashian",
+                "qid": "Q575689",
+                "url": "https://vi.wikipedia.org/wiki/Kourtney_Kardashian"
+            },
+            {
+                "name": "Kylie Jenner",
+                "qid": "Q1770624",
+                "url": "https://vi.wikipedia.org/wiki/Kylie_Jenner"
+            },
+            {
+                "name": "Rob Kardashian",
+                "qid": "Q26318",
+                "url": "https://vi.wikipedia.org/wiki/Rob_Kardashian"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Mary Jo Campbell",
+                "qid": "Q54997217"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "author",
+                "qid": "Q482980",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1c_gi%E1%BA%A3"
+            },
+            {
+                "name": "celebrity",
+                "qid": "Q211236",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_n%E1%BB%95i_ti%E1%BA%BFng"
+            },
+            {
+                "name": "flight attendant",
+                "qid": "Q101539",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BA%BFp_vi%C3%AAn_h%C3%A0ng_kh%C3%B4ng"
+            },
+            {
+                "name": "reality television participant",
+                "qid": "Q27658988"
+            },
+            {
+                "name": "socialite",
+                "qid": "Q512314",
+                "url": "https://vi.wikipedia.org/wiki/Socialite"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-11-05T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Caitlyn Jenner",
+                "qid": "Q365144",
+                "url": "https://vi.wikipedia.org/wiki/Caitlyn_Jenner"
+            },
+            {
+                "name": "Robert Kardashian",
+                "qid": "Q1816737",
+                "url": "https://vi.wikipedia.org/wiki/Robert_Kardashian"
+            }
+        ]
+    }
+}

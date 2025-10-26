@@ -1,0 +1,95 @@
+{
+    "name": "Armie Hammer",
+    "qid": "Q374273",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Armie_Hammer",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Michael Armand Hammer",
+                "qid": "Q16186690"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-08-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Call Me by Your Name",
+                "qid": "Q25136757",
+                "url": "https://vi.wikipedia.org/wiki/Call_Me_by_Your_Name"
+            },
+            {
+                "name": "Death on the Nile",
+                "qid": "Q56816969",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81n_m%E1%BA%A1ng_tr%C3%AAn_s%C3%B4ng_Nile_(phim_2022)"
+            },
+            {
+                "name": "Dunkirk",
+                "qid": "Q21935651",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_di_t%E1%BA%A3n_Dunkirk_(phim)"
+            },
+            {
+                "name": "Free Fire",
+                "qid": "Q20649227",
+                "url": "https://vi.wikipedia.org/wiki/Free_Fire"
+            },
+            {
+                "name": "Hotel Mumbai",
+                "qid": "Q27703167",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%A1ch_s%E1%BA%A1n_Mumbai:_Th%E1%BA%A3m_s%C3%A1t_kinh_ho%C3%A0ng"
+            },
+            {
+                "name": "J. Edgar",
+                "qid": "Q1137236",
+                "url": "https://vi.wikipedia.org/wiki/J._Edgar"
+            },
+            {
+                "name": "The Lone Ranger",
+                "qid": "Q548919",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_c%C3%B4_%C4%91%E1%BB%99c"
+            },
+            {
+                "name": "The Man from U.N.C.L.E.",
+                "qid": "Q14488725",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%95_ch%E1%BB%A9c_b%C3%B3ng_%C4%91%C3%AAm_U.N.C.L.E."
+            },
+            {
+                "name": "The Social Network",
+                "qid": "Q185888",
+                "url": "https://vi.wikipedia.org/wiki/The_Social_Network"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Elizabeth Chambers",
+                "qid": "Q5362564"
+            }
+        ]
+    }
+}

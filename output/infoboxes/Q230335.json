@@ -1,0 +1,68 @@
+{
+    "name": "Katee Sackhoff",
+    "qid": "Q230335",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Katee_Sackhoff",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Karl Urban",
+                "qid": "Q132430",
+                "url": "https://vi.wikipedia.org/wiki/Karl_Urban"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-04-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Halloween: Resurrection",
+                "qid": "Q176488",
+                "url": "https://vi.wikipedia.org/wiki/Halloween:_Resurrection"
+            },
+            {
+                "name": "Oculus",
+                "qid": "Q3349019",
+                "url": "https://vi.wikipedia.org/wiki/Oculus_(phim)"
+            },
+            {
+                "name": "Riddick",
+                "qid": "Q1960913",
+                "url": "https://vi.wikipedia.org/wiki/Riddick:_Th%E1%BB%91ng_l%C4%A9nh_b%C3%B3ng_t%E1%BB%91i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

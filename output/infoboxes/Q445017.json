@@ -1,0 +1,53 @@
+{
+    "name": "Ke Huy Quan",
+    "qid": "Q445017",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Quan_K%E1%BA%BF_Huy",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "taekwondo athlete",
+                "qid": "Q13382533"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-08-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Everything Everywhere All at Once",
+                "qid": "Q83808444",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_%C4%91a_v%C5%A9_tr%E1%BB%A5"
+            },
+            {
+                "name": "Love Hurts",
+                "qid": "Q125265183",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_l%C3%A0_%C4%91au"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Republic of Vietnam",
+                "qid": "Q180573",
+                "url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_C%E1%BB%99ng_h%C3%B2a"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

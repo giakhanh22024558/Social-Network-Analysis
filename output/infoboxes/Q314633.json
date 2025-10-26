@@ -1,0 +1,55 @@
+{
+    "name": "Yokozuna",
+    "qid": "Q314633",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Yokozuna_(%C4%91%C3%B4_v%E1%BA%ADt)",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Afoa Anoaʻi",
+                "qid": "Q136434368"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "amateur wrestler",
+                "qid": "Q12369333"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-10-02T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Afa Anoa'i",
+                "qid": "Q358774"
+            },
+            {
+                "name": "Reno Anoaʻi",
+                "qid": "Q1146726"
+            },
+            {
+                "name": "Sika Anoa'i",
+                "qid": "Q173275"
+            }
+        ]
+    }
+}

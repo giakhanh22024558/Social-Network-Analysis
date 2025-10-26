@@ -1,0 +1,114 @@
+{
+    "name": "Brenda Song",
+    "qid": "Q180011",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Brenda_Song",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Macaulay Culkin",
+                "qid": "Q103578",
+                "url": "https://vi.wikipedia.org/wiki/Macaulay_Culkin"
+            },
+            {
+                "name": "Trace Cyrus",
+                "qid": "Q54867"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Dakota Song Culkin",
+                "qid": "Q106503804"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "fashion model",
+                "qid": "Q3357567"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "taekwondo athlete",
+                "qid": "Q13382533"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1988-03-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "College Road Trip",
+                "qid": "Q1109085",
+                "url": "https://vi.wikipedia.org/wiki/College_Road_Trip"
+            },
+            {
+                "name": "Get a Clue",
+                "qid": "Q1467511",
+                "url": "https://vi.wikipedia.org/wiki/Get_a_Clue"
+            },
+            {
+                "name": "Stuck in the Suburbs",
+                "qid": "Q2373456",
+                "url": "https://vi.wikipedia.org/wiki/Stuck_in_the_Suburbs"
+            },
+            {
+                "name": "The Social Network",
+                "qid": "Q185888",
+                "url": "https://vi.wikipedia.org/wiki/The_Social_Network"
+            },
+            {
+                "name": "Wendy Wu: Homecoming Warrior",
+                "qid": "Q951101",
+                "url": "https://vi.wikipedia.org/wiki/Wendy_Wu_-_Homecoming_Warrior"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Macaulay Culkin",
+                "qid": "Q103578",
+                "url": "https://vi.wikipedia.org/wiki/Macaulay_Culkin"
+            }
+        ]
+    }
+}

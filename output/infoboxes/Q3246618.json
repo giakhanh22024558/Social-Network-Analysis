@@ -1,0 +1,36 @@
+{
+    "name": "J. R. Martinez",
+    "qid": "Q3246618",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/J.R._Martinez",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "motivational speaker",
+                "qid": "Q15982858",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_gi%E1%BA%A3_truy%E1%BB%81n_c%E1%BA%A3m_h%E1%BB%A9ng"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-06-14T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

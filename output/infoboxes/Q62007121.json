@@ -1,0 +1,64 @@
+{
+    "name": "Natasha Rothwell",
+    "qid": "Q62007121",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Natasha_Rothwell",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-10-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Sonic the Hedgehog",
+                "qid": "Q29906232",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%ADm_Sonic_(phim)"
+            },
+            {
+                "name": "Sonic the Hedgehog 2",
+                "qid": "Q105970894",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%ADm_Sonic_2"
+            },
+            {
+                "name": "Sonic the Hedgehog 3",
+                "qid": "Q115859490",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%ADm_Sonic_3"
+            },
+            {
+                "name": "Wonder Woman 1984",
+                "qid": "Q33408623",
+                "url": "https://vi.wikipedia.org/wiki/Wonder_Woman_1984:_N%E1%BB%AF_th%E1%BA%A7n_chi%E1%BA%BFn_binh"
+            },
+            {
+                "name": "Wonka",
+                "qid": "Q108456719",
+                "url": "https://vi.wikipedia.org/wiki/Wonka_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

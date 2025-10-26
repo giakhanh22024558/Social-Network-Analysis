@@ -1,0 +1,113 @@
+{
+    "name": "Adewale Akinnuoye-Agbaje",
+    "qid": "Q294586",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Adewale_Akinnuoye-Agbaje",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-08-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annie",
+                "qid": "Q15039835",
+                "url": "https://vi.wikipedia.org/wiki/Annie_(phim_2014)"
+            },
+            {
+                "name": "Concussion",
+                "qid": "Q18356955",
+                "url": "https://vi.wikipedia.org/wiki/Concussion_(phim_2015)"
+            },
+            {
+                "name": "Faster",
+                "qid": "Q576242",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A7n_t%E1%BB%91c"
+            },
+            {
+                "name": "G.I. Joe: The Rise of Cobra",
+                "qid": "Q288645",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_G.I._Joe:_Cu%E1%BB%99c_chi%E1%BA%BFn_M%C3%A3ng_x%C3%A0"
+            },
+            {
+                "name": "Killer Elite",
+                "qid": "Q1320416",
+                "url": "https://vi.wikipedia.org/wiki/Killer_Elite"
+            },
+            {
+                "name": "Pompeii",
+                "qid": "Q3396071",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A3m_h%E1%BB%8Da_Pompeii"
+            },
+            {
+                "name": "Suicide Squad",
+                "qid": "Q18604504",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_c%E1%BA%A3m_t%E1%BB%AD_(phim)"
+            },
+            {
+                "name": "The Bourne Identity",
+                "qid": "Q105624",
+                "url": "https://vi.wikipedia.org/wiki/The_Bourne_Identity_(phim)"
+            },
+            {
+                "name": "The Mummy Returns",
+                "qid": "Q320461",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%A1c_%C6%B0%E1%BB%9Bp_tr%E1%BB%9F_l%E1%BA%A1i"
+            },
+            {
+                "name": "Thor: The Dark World",
+                "qid": "Q1201853",
+                "url": "https://vi.wikipedia.org/wiki/Thor_2:_Th%E1%BA%BF_gi%E1%BB%9Bi_B%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "Trumbo",
+                "qid": "Q18692630",
+                "url": "https://vi.wikipedia.org/wiki/Trumbo_(phim_2015)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Nigeria",
+                "qid": "Q1033",
+                "url": "https://vi.wikipedia.org/wiki/Nigeria"
+            },
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

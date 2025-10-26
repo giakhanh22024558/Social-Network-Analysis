@@ -1,0 +1,139 @@
+{
+    "name": "Christoph Waltz",
+    "qid": "Q76819",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Christoph_Waltz",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Johannes Waltz",
+                "qid": "Q56229182"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Elisabeth Urbancic",
+                "qid": "Q1330331"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1956-10-04T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Alita: Battle Angel",
+                "qid": "Q24053265",
+                "url": "https://vi.wikipedia.org/wiki/Alita:_Thi%C3%AAn_th%E1%BA%A7n_chi%E1%BA%BFn_binh"
+            },
+            {
+                "name": "Django Unchained",
+                "qid": "Q571032",
+                "url": "https://vi.wikipedia.org/wiki/H%C3%A0nh_tr%C3%ACnh_Django"
+            },
+            {
+                "name": "Downsizing",
+                "qid": "Q22075017",
+                "url": "https://vi.wikipedia.org/wiki/Downsizing_(phim)"
+            },
+            {
+                "name": "Epic",
+                "qid": "Q2700629",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_h%C3%B9ng_chi%E1%BA%BFn_x%E1%BB%A9_s%E1%BB%9F_l%C3%A1_c%C3%A2y"
+            },
+            {
+                "name": "Horrible Bosses 2",
+                "qid": "Q15275703",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_ba_si%C3%AAu_b%E1%BB%B1a_2"
+            },
+            {
+                "name": "Inglourious Basterds",
+                "qid": "Q153723",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_m%E1%BB%87nh_(phim_2009)"
+            },
+            {
+                "name": "No Time to Die",
+                "qid": "Q21534241",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_ph%E1%BA%A3i_l%C3%BAc_ch%E1%BA%BFt"
+            },
+            {
+                "name": "Spectre",
+                "qid": "Q18602670",
+                "url": "https://vi.wikipedia.org/wiki/Spectre_(phim_2015)"
+            },
+            {
+                "name": "The Green Hornet",
+                "qid": "Q738152",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_binh_b%C3%AD_%E1%BA%A9n"
+            },
+            {
+                "name": "The Legend of Tarzan",
+                "qid": "Q17361809",
+                "url": "https://vi.wikipedia.org/wiki/Huy%E1%BB%81n_tho%E1%BA%A1i_Tarzan_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Austria",
+                "qid": "Q40",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81o"
+            },
+            {
+                "name": "Germany",
+                "qid": "Q183",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A9c"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Judith Holste",
+                "qid": "Q52557153"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Maria Mayen",
+                "qid": "Q1769765"
+            },
+            {
+                "name": "Rudolf von Urban",
+                "qid": "Q87961"
+            },
+            {
+                "name": "Victor Urbantschitsch",
+                "qid": "Q225315"
+            }
+        ]
+    }
+}

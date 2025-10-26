@@ -1,0 +1,62 @@
+{
+    "name": "Andrew Rannells",
+    "qid": "Q560516",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Andrew_Rannells",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Tuc Watkins",
+                "qid": "Q720730"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-08-23T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "The Intern",
+                "qid": "Q18151084",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_gi%C3%A0_h%E1%BB%8Dc_vi%E1%BB%87c"
+            },
+            {
+                "name": "Why Him?",
+                "qid": "Q23058779",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_v%E1%BB%A3_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u_ch%C3%A0ng_r%E1%BB%83"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

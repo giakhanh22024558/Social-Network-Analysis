@@ -1,0 +1,184 @@
+{
+    "name": "Josh Brolin",
+    "qid": "Q41396",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Josh_Brolin",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "James Brolin",
+                "qid": "Q315051"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Eden Brolin",
+                "qid": "Q21042225"
+            },
+            {
+                "name": "Trevor Brolin",
+                "qid": "Q21042229"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Jane Cameron Agee",
+                "qid": "Q108374439"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1968-02-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avengers: Age of Ultron",
+                "qid": "Q14171368",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_%C4%90%E1%BA%BF_ch%E1%BA%BF_Ultron"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Avengers: Infinity War",
+                "qid": "Q23780914",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Cu%E1%BB%99c_chi%E1%BA%BFn_v%C3%B4_c%E1%BB%B1c"
+            },
+            {
+                "name": "Deadpool 2",
+                "qid": "Q25431158",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_2"
+            },
+            {
+                "name": "Dune",
+                "qid": "Q60834962",
+                "url": "https://vi.wikipedia.org/wiki/Dune:_H%C3%A0nh_tinh_c%C3%A1t"
+            },
+            {
+                "name": "Dune: Part Two",
+                "qid": "Q109228991",
+                "url": "https://vi.wikipedia.org/wiki/Dune:_H%C3%A0nh_tinh_c%C3%A1t_%E2%80%93_Ph%E1%BA%A7n_hai"
+            },
+            {
+                "name": "Everest",
+                "qid": "Q15631013",
+                "url": "https://vi.wikipedia.org/wiki/Everest_(phim_2015)"
+            },
+            {
+                "name": "Gangster Squad",
+                "qid": "Q27751",
+                "url": "https://vi.wikipedia.org/wiki/Gangster_Squad"
+            },
+            {
+                "name": "Guardians of the Galaxy",
+                "qid": "Q5887360",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%87_binh_d%E1%BA%A3i_Ng%C3%A2n_H%C3%A0_(phim)"
+            },
+            {
+                "name": "Hollow Man",
+                "qid": "Q1098140",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_v%C3%B4_h%C3%ACnh_(phim)"
+            },
+            {
+                "name": "Inherent Vice",
+                "qid": "Q13806537",
+                "url": "https://vi.wikipedia.org/wiki/Inherent_Vice_(phim)"
+            },
+            {
+                "name": "Men in Black 3",
+                "qid": "Q327713",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_%C3%A1o_%C4%91en_3"
+            },
+            {
+                "name": "Milk",
+                "qid": "Q201687",
+                "url": "https://vi.wikipedia.org/wiki/Milk_(phim)"
+            },
+            {
+                "name": "No Country for Old Men",
+                "qid": "Q183081",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_ch%E1%BB%91n_dung_th%C3%A2n"
+            },
+            {
+                "name": "Sicario",
+                "qid": "Q17337292",
+                "url": "https://vi.wikipedia.org/wiki/Ranh_gi%E1%BB%9Bi_(phim_2015)"
+            },
+            {
+                "name": "Sin City: A Dame to Kill For",
+                "qid": "Q1653396",
+                "url": "https://vi.wikipedia.org/wiki/Sin_City:_A_Dame_to_Kill_For"
+            },
+            {
+                "name": "True Grit",
+                "qid": "Q326114",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1o_th%C3%B9_(phim_2010)"
+            },
+            {
+                "name": "Wall Street: Money Never Sleeps",
+                "qid": "Q326526",
+                "url": "https://vi.wikipedia.org/wiki/Ph%E1%BB%91_Wall:_Ma_l%E1%BB%B1c_%C4%91%E1%BB%93ng_ti%E1%BB%81n"
+            },
+            {
+                "name": "Weapons",
+                "qid": "Q126487478",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BB%9D_m%E1%BA%A5t_t%C3%ADch"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Alice Adair",
+                "qid": "Q21042222"
+            },
+            {
+                "name": "Diane Lane",
+                "qid": "Q255070",
+                "url": "https://vi.wikipedia.org/wiki/Diane_Lane"
+            }
+        ]
+    }
+}

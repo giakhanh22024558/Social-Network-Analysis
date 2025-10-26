@@ -1,0 +1,165 @@
+{
+    "name": "Kate Mara",
+    "qid": "Q231249",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kate_Mara",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Rooney Mara",
+                "qid": "Q228766",
+                "url": "https://vi.wikipedia.org/wiki/Rooney_Mara"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Chris Mara",
+                "qid": "Q104451146"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Kathleen McNulty Mara",
+                "qid": "Q104451217"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-02-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "127 Hours",
+                "qid": "Q174371",
+                "url": "https://vi.wikipedia.org/wiki/127_gi%E1%BB%9D"
+            },
+            {
+                "name": "Brokeback Mountain",
+                "qid": "Q160618",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_t%C3%ACnh_sau_n%C3%BAi"
+            },
+            {
+                "name": "Fantastic Four",
+                "qid": "Q16795448",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_t%E1%BB%A9_si%C3%AAu_%C4%91%E1%BA%B3ng_(phim_2015)"
+            },
+            {
+                "name": "Iron Man 2",
+                "qid": "Q205028",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_S%E1%BA%AFt_2"
+            },
+            {
+                "name": "Shooter",
+                "qid": "Q309014",
+                "url": "https://vi.wikipedia.org/wiki/Shooter"
+            },
+            {
+                "name": "The Martian",
+                "qid": "Q18547944",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_v%E1%BB%81_t%E1%BB%AB_Sao_H%E1%BB%8Fa"
+            },
+            {
+                "name": "Transcendence",
+                "qid": "Q10384115",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%AD_tu%E1%BB%87_si%C3%AAu_vi%E1%BB%87t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jamie Bell",
+                "qid": "Q297071"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Ann Mara",
+                "qid": "Q18926769"
+            },
+            {
+                "name": "Art Rooney",
+                "qid": "Q2745557"
+            },
+            {
+                "name": "Art Rooney II",
+                "qid": "Q4797044"
+            },
+            {
+                "name": "Art Rooney Jr.",
+                "qid": "Q121365748"
+            },
+            {
+                "name": "Dan Rooney",
+                "qid": "Q5214310"
+            },
+            {
+                "name": "Doug Brown",
+                "qid": "Q611342"
+            },
+            {
+                "name": "John Mara",
+                "qid": "Q6246683"
+            },
+            {
+                "name": "Patrick Brown",
+                "qid": "Q18249361"
+            },
+            {
+                "name": "Patrick Rooney, Jr.",
+                "qid": "Q16195777"
+            },
+            {
+                "name": "Tim Mara",
+                "qid": "Q2434138"
+            },
+            {
+                "name": "Timothy James Rooney",
+                "qid": "Q104451312"
+            },
+            {
+                "name": "Tom Rooney",
+                "qid": "Q506110"
+            },
+            {
+                "name": "Wellington Mara",
+                "qid": "Q2557801"
+            }
+        ]
+    }
+}

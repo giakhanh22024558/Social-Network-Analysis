@@ -1,0 +1,102 @@
+{
+    "name": "Michael Crichton",
+    "qid": "Q172140",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michael_Crichton",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "basketball player",
+                "qid": "Q3665646"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "medical writer",
+                "qid": "Q18533509"
+            },
+            {
+                "name": "novelist",
+                "qid": "Q6625963",
+                "url": "https://vi.wikipedia.org/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia"
+            },
+            {
+                "name": "physician writer",
+                "qid": "Q551835"
+            },
+            {
+                "name": "programmer",
+                "qid": "Q5482740",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BA%ADp_tr%C3%ACnh_vi%C3%AAn"
+            },
+            {
+                "name": "science fiction writer",
+                "qid": "Q18844224"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1942-10-23T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Westworld",
+                "qid": "Q503343",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_mi%E1%BB%81n_T%C3%A2y_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/4cc260ef19eb07e7f94431fc5d6304d0"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/75f8a777eadda4810499062e8b9bc9a4"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/887ebd68a515b41b050505a579dcbc7c"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/eab80052faed771871f91c18427718d1"
+            },
+            {
+                "name": "Anne-Marie Martin",
+                "qid": "Q564851"
+            }
+        ]
+    }
+}

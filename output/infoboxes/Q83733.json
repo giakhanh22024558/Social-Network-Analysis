@@ -1,0 +1,95 @@
+{
+    "name": "Milo Ventimiglia",
+    "qid": "Q83733",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Milo_Ventimiglia",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Alexis Bledel",
+                "qid": "Q192887"
+            },
+            {
+                "name": "Hayden Panettiere",
+                "qid": "Q171571",
+                "url": "https://vi.wikipedia.org/wiki/Hayden_Panettiere"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-07-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Gamer",
+                "qid": "Q947885",
+                "url": "https://vi.wikipedia.org/wiki/Gamer_(phim_2009)"
+            },
+            {
+                "name": "Grace of Monaco",
+                "qid": "Q137098",
+                "url": "https://vi.wikipedia.org/wiki/Grace_of_Monaco_(phim)"
+            },
+            {
+                "name": "Grown Ups 2",
+                "qid": "Q5611721",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_%C4%91%E1%BB%A9a_tr%E1%BA%BB_to_x%C3%A1c_2"
+            },
+            {
+                "name": "Killing Season",
+                "qid": "Q3196650",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_s%C4%83n_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Stay Alive",
+                "qid": "Q586367",
+                "url": "https://vi.wikipedia.org/wiki/Stay_Alive"
+            },
+            {
+                "name": "Wild Card",
+                "qid": "Q15028216",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%B9m_b%C3%A0i_(phim_2015)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jarah Mariano",
+                "qid": "Q5371730"
+            }
+        ]
+    }
+}

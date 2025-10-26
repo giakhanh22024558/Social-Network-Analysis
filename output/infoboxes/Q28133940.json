@@ -1,0 +1,43 @@
+{
+    "name": "William Jackson Harper",
+    "qid": "Q28133940",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/William_Jackson_Harper",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-02-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ant-Man and the Wasp: Quantumania",
+                "qid": "Q105359456",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_v%C3%A0_Chi%E1%BA%BFn_binh_Ong:_Th%E1%BA%BF_gi%E1%BB%9Bi_L%C6%B0%E1%BB%A3ng_t%E1%BB%AD"
+            },
+            {
+                "name": "Midsommar",
+                "qid": "Q55907451",
+                "url": "https://vi.wikipedia.org/wiki/Midsommar"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "name": "John Goodman",
+    "qid": "Q215072",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Goodman",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1952-06-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "10 Cloverfield Lane",
+                "qid": "Q18703038",
+                "url": "https://vi.wikipedia.org/wiki/C%C4%83n_h%E1%BA%A7m_(phim_2016)"
+            },
+            {
+                "name": "Argo",
+                "qid": "Q59653",
+                "url": "https://vi.wikipedia.org/wiki/Argo_(phim)"
+            },
+            {
+                "name": "Atomic Blonde",
+                "qid": "Q21528112",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_b%C3%A1o_th%C3%B9_(phim_2017)"
+            },
+            {
+                "name": "Confessions of a Shopaholic",
+                "qid": "Q852963",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%B1_th%C3%BA_c%E1%BB%A7a_m%E1%BB%99t_t%C3%ADn_%C4%91%E1%BB%93_shopping"
+            },
+            {
+                "name": "Extremely Loud and Incredibly Close",
+                "qid": "Q918769",
+                "url": "https://vi.wikipedia.org/wiki/Extremely_Loud_and_Incredibly_Close_(phim)"
+            },
+            {
+                "name": "Kong: Skull Island",
+                "qid": "Q21203766",
+                "url": "https://vi.wikipedia.org/wiki/Kong:_%C4%90%E1%BA%A3o_%C4%90%E1%BA%A7u_l%C3%A2u"
+            },
+            {
+                "name": "Love the Coopers",
+                "qid": "Q18811608",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1ng_Sinh_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "Monuments Men",
+                "qid": "Q4407383",
+                "url": "https://vi.wikipedia.org/wiki/Kho_b%C3%A1u_b%E1%BB%8B_%C4%91%C3%A1nh_c%E1%BA%AFp"
+            },
+            {
+                "name": "Patriots Day",
+                "qid": "Q23767799",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_%C4%91%E1%BB%8Bnh_m%E1%BB%87nh"
+            },
+            {
+                "name": "Pope Joan",
+                "qid": "Q702263",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_gi%C3%A1o_ho%C3%A0ng_(phim)"
+            },
+            {
+                "name": "Speed Racer",
+                "qid": "Q312078",
+                "url": "https://vi.wikipedia.org/wiki/Vua_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "The Artist",
+                "qid": "Q171861",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9_(phim)"
+            },
+            {
+                "name": "The Big Lebowski",
+                "qid": "Q337078",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Lebowski"
+            },
+            {
+                "name": "The Gambler",
+                "qid": "Q15706898",
+                "url": "https://vi.wikipedia.org/wiki/The_Gambler_(phim_2014)"
+            },
+            {
+                "name": "The Hangover Part III",
+                "qid": "Q2708940",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_qu%E1%BA%ADy_Las_Vegas"
+            },
+            {
+                "name": "The Internship",
+                "qid": "Q4207359",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%B1c_t%E1%BA%ADp_sinh_(phim)"
+            },
+            {
+                "name": "Transformers: Age of Extinction",
+                "qid": "Q6151665",
+                "url": "https://vi.wikipedia.org/wiki/Transformers_4:_K%E1%BB%B7_nguy%C3%AAn_h%E1%BB%A7y_di%E1%BB%87t"
+            },
+            {
+                "name": "Trumbo",
+                "qid": "Q18692630",
+                "url": "https://vi.wikipedia.org/wiki/Trumbo_(phim_2015)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

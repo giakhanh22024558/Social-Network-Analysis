@@ -1,0 +1,98 @@
+{
+    "name": "Sung Kang",
+    "qid": "Q317563",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sung_Kang",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1972-04-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "F9",
+                "qid": "Q29466808",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_9:_Huy%E1%BB%81n_tho%E1%BA%A1i_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Fast & Furious",
+                "qid": "Q380996",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_4"
+            },
+            {
+                "name": "Fast & Furious 6",
+                "qid": "Q5516100",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_6"
+            },
+            {
+                "name": "Fast Five",
+                "qid": "Q401976",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_5:_Phi_v%E1%BB%A5_Rio"
+            },
+            {
+                "name": "Fast X",
+                "qid": "Q31271369",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_X"
+            },
+            {
+                "name": "Furious 7",
+                "qid": "Q14650496",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_7"
+            },
+            {
+                "name": "Hollywood Adventures",
+                "qid": "Q19758827",
+                "url": "https://vi.wikipedia.org/wiki/Khu%E1%BA%A5y_%C4%91%E1%BA%A3o_Hollywood"
+            },
+            {
+                "name": "Live Free or Die Hard",
+                "qid": "Q50861",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%C6%A1ng_%C4%91%E1%BA%A7u_v%E1%BB%9Bi_th%E1%BB%AD_th%C3%A1ch_4"
+            },
+            {
+                "name": "Ninja Assassin",
+                "qid": "Q671631",
+                "url": "https://vi.wikipedia.org/wiki/Ninja_Assassin"
+            },
+            {
+                "name": "Pearl Harbor",
+                "qid": "Q194413",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C3%A2n_Ch%C3%A2u_C%E1%BA%A3ng_(phim)"
+            },
+            {
+                "name": "The Fast and the Furious: Tokyo Drift",
+                "qid": "Q213208",
+                "url": "https://vi.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift"
+            },
+            {
+                "name": "War",
+                "qid": "Q375512",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_chi%E1%BA%BFn_kh%E1%BB%91c_li%E1%BB%87t"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

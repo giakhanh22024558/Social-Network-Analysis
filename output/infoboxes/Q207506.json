@@ -1,0 +1,102 @@
+{
+    "name": "Kyle MacLachlan",
+    "qid": "Q207506",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kyle_MacLachlan",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Lara Flynn Boyle",
+                "qid": "Q486103"
+            },
+            {
+                "name": "Laura Dern",
+                "qid": "Q220901",
+                "url": "https://vi.wikipedia.org/wiki/Laura_Dern"
+            },
+            {
+                "name": "Linda Evangelista",
+                "qid": "Q192171",
+                "url": "https://vi.wikipedia.org/wiki/Linda_Evangelista"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Kent Alan MacLachlan",
+                "qid": "Q106577631"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Callum Lyon MacLachlan",
+                "qid": "Q106577621"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Catherine MacLachlan",
+                "qid": "Q106577632"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-02-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Blink Twice",
+                "qid": "Q113012523",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%ADn_hi%E1%BB%87u_c%E1%BA%A7u_c%E1%BB%A9u_(phim_2024)"
+            },
+            {
+                "name": "Dune",
+                "qid": "Q114819",
+                "url": "https://vi.wikipedia.org/wiki/Dune_(phim_1984)"
+            },
+            {
+                "name": "Giant Little Ones",
+                "qid": "Q43303144",
+                "url": "https://vi.wikipedia.org/wiki/Giant_Little_Ones"
+            },
+            {
+                "name": "The House with a Clock in Its Walls",
+                "qid": "Q42914959",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%B4i_nh%C3%A0_c%C3%B3_chi%E1%BA%BFc_%C4%91%E1%BB%93ng_h%E1%BB%93_ma_thu%E1%BA%ADt"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Desiree Gruber",
+                "qid": "Q28924919"
+            }
+        ]
+    }
+}

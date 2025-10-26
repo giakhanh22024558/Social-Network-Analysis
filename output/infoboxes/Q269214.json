@@ -1,0 +1,175 @@
+{
+    "name": "John Lasseter",
+    "qid": "Q269214",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Lasseter",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Sam Lasseter",
+                "qid": "Q41572664"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "animator",
+                "qid": "Q266569",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%8Da_s%C4%A9_di%E1%BB%85n_ho%E1%BA%A1t"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-01-12T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "BURN-E",
+                "qid": "Q797106",
+                "url": "https://vi.wikipedia.org/wiki/BURN-E"
+            },
+            {
+                "name": "Bolt",
+                "qid": "Q212792",
+                "url": "https://vi.wikipedia.org/wiki/Tia_ch%E1%BB%9Bp_(phim_2008)"
+            },
+            {
+                "name": "Dug's Special Mission",
+                "qid": "Q1264168",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_%C4%91%E1%BA%B7c_bi%E1%BB%87t_c%E1%BB%A7a_Dug"
+            },
+            {
+                "name": "Frozen",
+                "qid": "Q246283",
+                "url": "https://vi.wikipedia.org/wiki/N%E1%BB%AF_ho%C3%A0ng_b%C4%83ng_gi%C3%A1_(phim_2013)"
+            },
+            {
+                "name": "Inside Out",
+                "qid": "Q6144664",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_m%E1%BA%A3nh_gh%C3%A9p_c%E1%BA%A3m_x%C3%BAc"
+            },
+            {
+                "name": "Jack-Jack Attack",
+                "qid": "Q1004385",
+                "url": "https://vi.wikipedia.org/wiki/Jack-Jack_Attack"
+            },
+            {
+                "name": "Luxo Jr.",
+                "qid": "Q914155",
+                "url": "https://vi.wikipedia.org/wiki/Luxo_Jr."
+            },
+            {
+                "name": "Meet the Robinsons",
+                "qid": "Q221679",
+                "url": "https://vi.wikipedia.org/wiki/G%E1%BA%B7p_g%E1%BB%A1_gia_%C4%91%C3%ACnh_Robinson"
+            },
+            {
+                "name": "Planes",
+                "qid": "Q1657080",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_m%C3%A1y_bay_(phim)"
+            },
+            {
+                "name": "Planes: Fire & Rescue",
+                "qid": "Q15631322",
+                "url": "https://vi.wikipedia.org/wiki/Planes_2:_Anh_h%C3%B9ng_v%C3%A0_bi%E1%BB%83n_l%E1%BB%ADa"
+            },
+            {
+                "name": "Tangled",
+                "qid": "Q188439",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%E1%BA%B9p_t%C3%B3c_m%C3%A2y"
+            },
+            {
+                "name": "The Blue Umbrella",
+                "qid": "Q2840289",
+                "url": "https://vi.wikipedia.org/wiki/The_Blue_Umbrella_(phim_2013)"
+            },
+            {
+                "name": "The Incredibles",
+                "qid": "Q213326",
+                "url": "https://vi.wikipedia.org/wiki/Gia_%C4%91%C3%ACnh_si%C3%AAu_nh%C3%A2n"
+            },
+            {
+                "name": "The Legend of Mor'du",
+                "qid": "Q3072261",
+                "url": "https://vi.wikipedia.org/wiki/Truy%E1%BB%81n_thuy%E1%BA%BFt_v%E1%BB%81_Mor%27du"
+            },
+            {
+                "name": "Tinker Bell and the Secret of the Wings",
+                "qid": "Q1702819",
+                "url": "https://vi.wikipedia.org/wiki/Secret_of_the_Wings"
+            },
+            {
+                "name": "Toy Story 3",
+                "qid": "Q187278",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_%C4%91%E1%BB%93_ch%C6%A1i_3"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "A Bug's Life",
+                "qid": "Q216153",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%9Di_con_b%E1%BB%8D"
+            },
+            {
+                "name": "Cars",
+                "qid": "Q182153",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_xe_h%C6%A1i"
+            },
+            {
+                "name": "Cars 2",
+                "qid": "Q192212",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_xe_h%C6%A1i_2"
+            },
+            {
+                "name": "Luxo Jr.",
+                "qid": "Q914155",
+                "url": "https://vi.wikipedia.org/wiki/Luxo_Jr."
+            },
+            {
+                "name": "Toy Story",
+                "qid": "Q171048",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_%C4%91%E1%BB%93_ch%C6%A1i"
+            },
+            {
+                "name": "Toy Story 2",
+                "qid": "Q187266",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A2u_chuy%E1%BB%87n_%C4%91%E1%BB%93_ch%C6%A1i_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

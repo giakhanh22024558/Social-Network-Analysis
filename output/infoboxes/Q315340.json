@@ -1,0 +1,88 @@
+{
+    "name": "Matt Bomer",
+    "qid": "Q315340",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Matt_Bomer",
+    "gender": "male",
+    "infobox": {
+        "Mẹ (P25)": [
+            {
+                "name": "Elizabeth Macy Staton",
+                "qid": "Q100144717"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-10-11T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Flightplan",
+                "qid": "Q638386",
+                "url": "https://vi.wikipedia.org/wiki/Flightplan"
+            },
+            {
+                "name": "In Time",
+                "qid": "Q628082",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%9Di_kh%E1%BA%AFc_sinh_t%E1%BB%AD"
+            },
+            {
+                "name": "Magic Mike's Last Dance",
+                "qid": "Q114876189",
+                "url": "https://vi.wikipedia.org/wiki/Magic_Mike%27s_Last_Dance"
+            },
+            {
+                "name": "The Nice Guys",
+                "qid": "Q18415459",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_ch%C3%A0ng_trai_ngoan"
+            },
+            {
+                "name": "The Normal Heart",
+                "qid": "Q15039861",
+                "url": "https://vi.wikipedia.org/wiki/The_Normal_Heart_(phim)"
+            },
+            {
+                "name": "The Texas Chainsaw Massacre: The Beginning",
+                "qid": "Q642016",
+                "url": "https://vi.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre:_The_Beginning"
+            },
+            {
+                "name": "Winter's Tale",
+                "qid": "Q3569395",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_t%C3%ACnh_m%C3%B9a_%C4%91%C3%B4ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

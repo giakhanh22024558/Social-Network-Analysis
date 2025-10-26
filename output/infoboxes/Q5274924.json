@@ -1,0 +1,39 @@
+{
+    "name": "Diem Lien",
+    "qid": "Q5274924",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Di%E1%BB%85m_Li%C3%AAn",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-12-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Journey from the Fall",
+                "qid": "Q6296376",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%A3t_s%C3%B3ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

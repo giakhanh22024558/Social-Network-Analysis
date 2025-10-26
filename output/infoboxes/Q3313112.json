@@ -1,0 +1,41 @@
+{
+    "name": "Renata Soñé",
+    "qid": "Q3313112",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Renata_So%C3%B1%C3%A9",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "beauty pageant contestant",
+                "qid": "Q18581305"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "psychologist",
+                "qid": "Q212980",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_t%C3%A2m_l%C3%BD_h%E1%BB%8Dc"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-08-06T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Jayvee Mai The Hiep",
+    "qid": "Q55432716",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Mai_Th%E1%BA%BF_Hi%E1%BB%87p",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-12-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Bao giờ có yêu nhau",
+                "qid": "Q130748647",
+                "url": "https://vi.wikipedia.org/wiki/Bao_gi%E1%BB%9D_c%C3%B3_y%C3%AAu_nhau"
+            },
+            {
+                "name": "Red Rain",
+                "qid": "Q133863621",
+                "url": "https://vi.wikipedia.org/wiki/M%C6%B0a_%C4%91%E1%BB%8F_(phim)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Thạch Thảo",
+                "qid": "Q55378068",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_Th%E1%BA%A3o_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

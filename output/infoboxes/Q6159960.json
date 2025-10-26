@@ -1,0 +1,32 @@
+{
+    "name": "Jared Fogle",
+    "qid": "Q6159960",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jared_Fogle",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "spokesperson",
+                "qid": "Q17221",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_ph%C3%A1t_ng%C3%B4n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-08-31T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

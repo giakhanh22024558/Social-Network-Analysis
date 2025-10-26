@@ -1,0 +1,42 @@
+{
+    "name": "Olga Korbut",
+    "qid": "Q221575",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Olga_Valentinovna_Korbut",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "artistic gymnast",
+                "qid": "Q13381572"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-05-16T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Soviet Union",
+                "qid": "Q15180",
+                "url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Leonid Bortkevich",
+                "qid": "Q4094747"
+            }
+        ]
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "name": "Madonna",
+    "qid": "Q1744",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Madonna",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Anthony Ciccone",
+                "qid": "Q130445522"
+            },
+            {
+                "name": "Christopher Ciccone",
+                "qid": "Q5112102"
+            },
+            {
+                "name": "Jennifer Ciccone",
+                "qid": "Q130446878"
+            },
+            {
+                "name": "Mario Ciccone",
+                "qid": "Q130446923"
+            },
+            {
+                "name": "Martin Ciccone",
+                "qid": "Q130446281"
+            },
+            {
+                "name": "Melanie Ciccone",
+                "qid": "Q111673051"
+            },
+            {
+                "name": "Paula Ciccone",
+                "qid": "Q130444829"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Akim Moris",
+                "qid": "Q129067583"
+            },
+            {
+                "name": "Alex Rodriguez",
+                "qid": "Q558664"
+            },
+            {
+                "name": "Brahim Zaibat",
+                "qid": "Q16533866"
+            },
+            {
+                "name": "Carlos Leon",
+                "qid": "Q4343020"
+            },
+            {
+                "name": "Dan Gilroy",
+                "qid": "Q1159073",
+                "url": "https://vi.wikipedia.org/wiki/Dan_Gilroy"
+            },
+            {
+                "name": "Dennis Rodman",
+                "qid": "Q201608",
+                "url": "https://vi.wikipedia.org/wiki/Dennis_Rodman"
+            },
+            {
+                "name": "Jean-Michel Basquiat",
+                "qid": "Q155407"
+            },
+            {
+                "name": "Jenny Shimizu",
+                "qid": "Q432710"
+            },
+            {
+                "name": "Jesus Luz",
+                "qid": "Q3808176"
+            },
+            {
+                "name": "John Benitez",
+                "qid": "Q1699312"
+            },
+            {
+                "name": "John F. Kennedy Jr.",
+                "qid": "Q316064",
+                "url": "https://vi.wikipedia.org/wiki/John_F._Kennedy,_Jr."
+            },
+            {
+                "name": "Jose Canseco",
+                "qid": "Q982714"
+            },
+            {
+                "name": "Josh Popper",
+                "qid": "Q121633556"
+            },
+            {
+                "name": "Sandra Bernhard",
+                "qid": "Q236181"
+            },
+            {
+                "name": "Timor Steffens",
+                "qid": "Q2212415"
+            },
+            {
+                "name": "Tony Ward",
+                "qid": "Q2577525"
+            },
+            {
+                "name": "Tupac Shakur",
+                "qid": "Q6107",
+                "url": "https://vi.wikipedia.org/wiki/Tupac_Shakur"
+            },
+            {
+                "name": "Vanilla Ice",
+                "qid": "Q313578"
+            },
+            {
+                "name": "Warren Beatty",
+                "qid": "Q95030",
+                "url": "https://vi.wikipedia.org/wiki/Warren_Beatty"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Silvio Ciccone",
+                "qid": "Q97068316"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "David Ciccone Ritchie",
+                "qid": "Q24858136"
+            },
+            {
+                "name": "Esther Ciccone",
+                "qid": "Q44749098"
+            },
+            {
+                "name": "Lourdes Leon",
+                "qid": "Q24856246"
+            },
+            {
+                "name": "Mercy James",
+                "qid": "Q24857222"
+            },
+            {
+                "name": "Rocco Ritchie",
+                "qid": "Q24857732"
+            },
+            {
+                "name": "Stella Ciccone",
+                "qid": "Q44748772"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Madonna Louise Fortin",
+                "qid": "Q97068329"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-08-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Die Another Day",
+                "qid": "Q30931",
+                "url": "https://vi.wikipedia.org/wiki/Die_Another_Day"
+            },
+            {
+                "name": "Pixels",
+                "qid": "Q17182905",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_Pixels"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Guy Ritchie",
+                "qid": "Q192990",
+                "url": "https://vi.wikipedia.org/wiki/Guy_Ritchie"
+            },
+            {
+                "name": "Sean Penn",
+                "qid": "Q44221",
+                "url": "https://vi.wikipedia.org/wiki/Sean_Penn"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Joan Ciccone",
+                "qid": "Q130372929"
+            }
+        ]
+    }
+}

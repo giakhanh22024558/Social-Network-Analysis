@@ -1,0 +1,56 @@
+{
+    "name": "Kane",
+    "qid": "Q44354",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kane_(%C4%91%C3%B4_v%E1%BA%ADt)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "basketball player",
+                "qid": "Q3665646"
+            },
+            {
+                "name": "insurance broker",
+                "qid": "Q285759"
+            },
+            {
+                "name": "politician",
+                "qid": "Q82955",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%ADnh_kh%C3%A1ch"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-04-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "MacGruber",
+                "qid": "Q1579371",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%B7c_v%E1%BB%A5_(phim_2010)"
+            },
+            {
+                "name": "See No Evil",
+                "qid": "Q1467545",
+                "url": "https://vi.wikipedia.org/wiki/See_No_Evil"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

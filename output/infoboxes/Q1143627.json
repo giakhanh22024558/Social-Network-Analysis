@@ -1,0 +1,38 @@
+{
+    "name": "Lance Hoyt",
+    "qid": "Q1143627",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lance_Hoyt",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "American football player",
+                "qid": "Q19204627"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-02-27T00:00:00Z"
+            },
+            {
+                "name": "1977-02-28T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

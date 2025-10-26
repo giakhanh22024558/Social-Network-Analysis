@@ -1,0 +1,75 @@
+{
+    "name": "Edge",
+    "qid": "Q44164",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Edge_(%C4%91%C3%B4_v%E1%BA%ADt)",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Lita",
+                "qid": "Q230060"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Ruby Ever Copeland",
+                "qid": "Q114946070"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "amateur wrestler",
+                "qid": "Q12369333"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "podcaster",
+                "qid": "Q15077007"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1973-10-30T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Beth Phoenix",
+                "qid": "Q236804"
+            },
+            {
+                "name": "Lisa Ortiz",
+                "qid": "Q3242438"
+            }
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "name": "Lorenzo Lamas",
+    "qid": "Q145464",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lorenzo_Lamas",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Fernando Lamas",
+                "qid": "Q1146217"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "AJ Lamas",
+                "qid": "Q16745380"
+            },
+            {
+                "name": "Shayne Lamas",
+                "qid": "Q2483728"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Arlene Dahl",
+                "qid": "Q447879"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "aircraft pilot",
+                "qid": "Q2095549",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "racing automobile driver",
+                "qid": "Q10349745"
+            },
+            {
+                "name": "taekwondo athlete",
+                "qid": "Q13382533"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-01-20T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Evil Dead",
+                "qid": "Q73279",
+                "url": "https://vi.wikipedia.org/wiki/Ma_c%C3%A2y_(phim_2013)"
+            },
+            {
+                "name": "Grease",
+                "qid": "Q267721",
+                "url": "https://vi.wikipedia.org/wiki/Grease_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Kathleen Kinmont",
+                "qid": "Q457562"
+            },
+            {
+                "name": "Michele Cathy Smith",
+                "qid": "Q109744725"
+            },
+            {
+                "name": "Shauna Sand",
+                "qid": "Q2985216"
+            },
+            {
+                "name": "Shawna Craig",
+                "qid": "Q109744733"
+            },
+            {
+                "name": "Victoria Hilbert",
+                "qid": "Q109744715"
+            }
+        ]
+    }
+}

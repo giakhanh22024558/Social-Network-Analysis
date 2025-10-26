@@ -1,0 +1,140 @@
+{
+    "name": "John Turturro",
+    "qid": "Q244234",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/John_Turturro",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Nicholas Turturro",
+                "qid": "Q2342292"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Arianna Turturro",
+                "qid": "Q22915222"
+            },
+            {
+                "name": "Diego Turturro",
+                "qid": "Q22915221"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "theatrical director",
+                "qid": "Q3387717"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-02-28T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Exodus: Gods and Kings",
+                "qid": "Q14942871",
+                "url": "https://vi.wikipedia.org/wiki/Exodus:_Cu%E1%BB%99c_chi%E1%BA%BFn_ch%E1%BB%91ng_Pha-ra-%C3%B4ng"
+            },
+            {
+                "name": "The Batman",
+                "qid": "Q61117344",
+                "url": "https://vi.wikipedia.org/wiki/Batman_(phim_2022)"
+            },
+            {
+                "name": "The Big Lebowski",
+                "qid": "Q337078",
+                "url": "https://vi.wikipedia.org/wiki/The_Big_Lebowski"
+            },
+            {
+                "name": "Transformers",
+                "qid": "Q171453",
+                "url": "https://vi.wikipedia.org/wiki/Robot_%C4%91%E1%BA%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Transformers: Dark of the Moon",
+                "qid": "Q232774",
+                "url": "https://vi.wikipedia.org/wiki/Transformers_3"
+            },
+            {
+                "name": "Transformers: Revenge of the Fallen",
+                "qid": "Q191100",
+                "url": "https://vi.wikipedia.org/wiki/Transformers:_B%E1%BA%A1i_binh_ph%E1%BB%A5c_h%E1%BA%ADn"
+            },
+            {
+                "name": "Transformers: The Last Knight",
+                "qid": "Q24251026",
+                "url": "https://vi.wikipedia.org/wiki/Transformers:_Chi%E1%BA%BFn_binh_cu%E1%BB%91i_c%C3%B9ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Italy",
+                "qid": "Q38",
+                "url": "https://vi.wikipedia.org/wiki/%C3%9D"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Katherine Borowitz",
+                "qid": "Q5958562"
+            }
+        ]
+    }
+}

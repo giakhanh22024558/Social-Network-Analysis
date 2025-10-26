@@ -1,0 +1,101 @@
+{
+    "name": "Steve Zahn",
+    "qid": "Q491775",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steve_Zahn",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "stand-up comedian",
+                "qid": "Q18545066"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1967-11-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Perfect Getaway",
+                "qid": "Q300517",
+                "url": "https://vi.wikipedia.org/wiki/A_Perfect_Getaway"
+            },
+            {
+                "name": "Dallas Buyers Club",
+                "qid": "Q3520498",
+                "url": "https://vi.wikipedia.org/wiki/Dallas_Buyers_Club"
+            },
+            {
+                "name": "Diary of a Wimpy Kid",
+                "qid": "Q74671",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_k%C3%BD_ch%C3%BA_b%C3%A9_nh%C3%BAt_nh%C3%A1t_(phim)"
+            },
+            {
+                "name": "Dr. Dolittle 2",
+                "qid": "Q1253887",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9_th%C3%BA_y_2"
+            },
+            {
+                "name": "Riding in Cars with Boys",
+                "qid": "Q1313530",
+                "url": "https://vi.wikipedia.org/wiki/Riding_in_Cars_with_Boys"
+            },
+            {
+                "name": "Sahara",
+                "qid": "Q1331014",
+                "url": "https://vi.wikipedia.org/wiki/Sahara:_Con_t%C3%A0u_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Stuart Little",
+                "qid": "Q1048958",
+                "url": "https://vi.wikipedia.org/wiki/Stuart_Little_(phim)"
+            },
+            {
+                "name": "War for the Planet of the Apes",
+                "qid": "Q19938437",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_h%C3%A0nh_tinh_kh%E1%BB%89"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Robyn Peterman",
+                "qid": "Q22238039"
+            }
+        ]
+    }
+}

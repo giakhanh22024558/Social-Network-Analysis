@@ -1,0 +1,81 @@
+{
+    "name": "Lisa Kudrow",
+    "qid": "Q179041",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lisa_Kudrow",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-07-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Dr. Dolittle 2",
+                "qid": "Q1253887",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9_th%C3%BA_y_2"
+            },
+            {
+                "name": "P.S. I Love You",
+                "qid": "Q593726",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1i_b%C3%BAt:_Anh_y%C3%AAu_em"
+            },
+            {
+                "name": "Paws of Fury: The Legend of Hank",
+                "qid": "Q21450513",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%B4n_ph%C3%A1i_v%C3%B5_m%C3%A8o:_Huy%E1%BB%81n_tho%E1%BA%A1i_m%E1%BB%99t_ch%C3%BA_ch%C3%B3"
+            },
+            {
+                "name": "The Girl on the Train",
+                "qid": "Q21433535",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_tr%C3%AAn_t%C3%A0u_(phim_2016)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "name": "Logan Lerman",
+    "qid": "Q221068",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Logan_Lerman",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "child actor",
+                "qid": "Q970153",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_nh%C3%AD"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-01-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "3:10 to Yuma",
+                "qid": "Q746029",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BA%BFn_t%C3%A0u_%C4%91%E1%BA%BFn_Yuma"
+            },
+            {
+                "name": "A Painted House",
+                "qid": "Q42063712",
+                "url": "https://vi.wikipedia.org/wiki/A_Painted_House"
+            },
+            {
+                "name": "Bullet Train",
+                "qid": "Q99900595",
+                "url": "https://vi.wikipedia.org/wiki/Bullet_Train:_S%C3%A1t_th%E1%BB%A7_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "Fury",
+                "qid": "Q14786561",
+                "url": "https://vi.wikipedia.org/wiki/Cu%E1%BB%93ng_n%E1%BB%99_(phim_2014)"
+            },
+            {
+                "name": "Gamer",
+                "qid": "Q947885",
+                "url": "https://vi.wikipedia.org/wiki/Gamer_(phim_2009)"
+            },
+            {
+                "name": "Noah",
+                "qid": "Q286868",
+                "url": "https://vi.wikipedia.org/wiki/Noah:_%C4%90%E1%BA%A1i_h%E1%BB%93ng_th%E1%BB%A7y"
+            },
+            {
+                "name": "Percy Jackson & The Olympians - The Sea of Monsters",
+                "qid": "Q2984104",
+                "url": "https://vi.wikipedia.org/wiki/Percy_Jackson:_Bi%E1%BB%83n_qu%C3%A1i_v%E1%BA%ADt"
+            },
+            {
+                "name": "Percy Jackson & the Olympians: The Lightning Thief",
+                "qid": "Q244333",
+                "url": "https://vi.wikipedia.org/wiki/Percy_Jackson_%26_k%E1%BA%BB_c%E1%BA%AFp_tia_ch%E1%BB%9Bp"
+            },
+            {
+                "name": "Riding in Cars with Boys",
+                "qid": "Q1313530",
+                "url": "https://vi.wikipedia.org/wiki/Riding_in_Cars_with_Boys"
+            },
+            {
+                "name": "The Butterfly Effect",
+                "qid": "Q221109",
+                "url": "https://vi.wikipedia.org/wiki/The_Butterfly_Effect"
+            },
+            {
+                "name": "The Patriot",
+                "qid": "Q646633",
+                "url": "https://vi.wikipedia.org/wiki/The_Patriot_(phim_2000)"
+            },
+            {
+                "name": "The Perks of Being a Wallflower",
+                "qid": "Q675468",
+                "url": "https://vi.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower_(phim)"
+            },
+            {
+                "name": "What Women Want",
+                "qid": "Q156394",
+                "url": "https://vi.wikipedia.org/wiki/What_Women_Want"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

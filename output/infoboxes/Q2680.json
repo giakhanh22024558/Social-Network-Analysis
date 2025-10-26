@@ -1,0 +1,206 @@
+{
+    "name": "Bruce Willis",
+    "qid": "Q2680",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Bruce_Willis",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Dave Willis",
+                "qid": "Q3305871"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Rumer Willis",
+                "qid": "Q234566",
+                "url": "https://vi.wikipedia.org/wiki/Rumer_Willis"
+            },
+            {
+                "name": "Scout Willis",
+                "qid": "Q22350889"
+            },
+            {
+                "name": "Tallulah Willis",
+                "qid": "Q22350891"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1955-03-19T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Live Free or Die Hard",
+                "qid": "Q50861",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%C6%A1ng_%C4%91%E1%BA%A7u_v%E1%BB%9Bi_th%E1%BB%AD_th%C3%A1ch_4"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Good Day to Die Hard",
+                "qid": "Q72276",
+                "url": "https://vi.wikipedia.org/wiki/Die_Hard_5:_A_Good_Day_to_Die_Hard"
+            },
+            {
+                "name": "Acts of Violence",
+                "qid": "Q30753727",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%BA_%C4%91%E1%BA%A3o_ngo%E1%BA%A1n_m%E1%BB%A5c"
+            },
+            {
+                "name": "American Siege",
+                "qid": "Q104128132",
+                "url": "https://vi.wikipedia.org/wiki/American_Siege"
+            },
+            {
+                "name": "Armageddon",
+                "qid": "Q208344",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_t%E1%BA%ADn_th%E1%BA%BF_(phim_1998)"
+            },
+            {
+                "name": "Death Becomes Her",
+                "qid": "Q1160186",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A1i_ch%E1%BA%BFt_%C4%91%C6%B0%E1%BB%A3c_b%C3%A1o_tr%C6%B0%E1%BB%9Bc"
+            },
+            {
+                "name": "Die Hard",
+                "qid": "Q105598",
+                "url": "https://vi.wikipedia.org/wiki/Die_Hard"
+            },
+            {
+                "name": "G.I. Joe: Retaliation",
+                "qid": "Q1146345",
+                "url": "https://vi.wikipedia.org/wiki/G.I._Joe:_B%C3%A1o_th%C3%B9"
+            },
+            {
+                "name": "Glass",
+                "qid": "Q30939513",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_ba_qu%C3%A1i_nh%C3%A2n"
+            },
+            {
+                "name": "Live Free or Die Hard",
+                "qid": "Q50861",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%C6%A1ng_%C4%91%E1%BA%A7u_v%E1%BB%9Bi_th%E1%BB%AD_th%C3%A1ch_4"
+            },
+            {
+                "name": "Looper",
+                "qid": "Q53719",
+                "url": "https://vi.wikipedia.org/wiki/Looper"
+            },
+            {
+                "name": "Moonrise Kingdom",
+                "qid": "Q217112",
+                "url": "https://vi.wikipedia.org/wiki/Moonrise_Kingdom"
+            },
+            {
+                "name": "Nancy Drew",
+                "qid": "Q1402883",
+                "url": "https://vi.wikipedia.org/wiki/Nancy_Drew:_N%E1%BB%AF_th%C3%A1m_t%E1%BB%AD_t%C3%A0i_ba"
+            },
+            {
+                "name": "Pulp Fiction",
+                "qid": "Q104123",
+                "url": "https://vi.wikipedia.org/wiki/Pulp_Fiction"
+            },
+            {
+                "name": "RED",
+                "qid": "Q858842",
+                "url": "https://vi.wikipedia.org/wiki/C.I.A_t%C3%A1i_xu%E1%BA%A5t"
+            },
+            {
+                "name": "RED 2",
+                "qid": "Q903930",
+                "url": "https://vi.wikipedia.org/wiki/C.I.A_t%C3%A1i_xu%E1%BA%A5t_2"
+            },
+            {
+                "name": "Sin City",
+                "qid": "Q192115",
+                "url": "https://vi.wikipedia.org/wiki/Sin_City_(phim)"
+            },
+            {
+                "name": "Sin City: A Dame to Kill For",
+                "qid": "Q1653396",
+                "url": "https://vi.wikipedia.org/wiki/Sin_City:_A_Dame_to_Kill_For"
+            },
+            {
+                "name": "Split",
+                "qid": "Q21869840",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%A1ch_bi%E1%BB%87t"
+            },
+            {
+                "name": "The Expendables",
+                "qid": "Q206374",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA"
+            },
+            {
+                "name": "The Expendables 2",
+                "qid": "Q210812",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_2"
+            },
+            {
+                "name": "The Fifth Element",
+                "qid": "Q106506",
+                "url": "https://vi.wikipedia.org/wiki/The_Fifth_Element"
+            },
+            {
+                "name": "The Sixth Sense",
+                "qid": "Q183063",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1c_quan_th%E1%BB%A9_s%C3%A1u_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Emma Heming Willis",
+                "qid": "Q443073"
+            }
+        ]
+    }
+}

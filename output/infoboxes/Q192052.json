@@ -1,0 +1,101 @@
+{
+    "name": "Peter Facinelli",
+    "qid": "Q192052",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Peter_Facinelli",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Jaimie Alexander",
+                "qid": "Q253343",
+                "url": "https://vi.wikipedia.org/wiki/Jaimie_Alexander"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1973-11-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Countdown",
+                "qid": "Q68081969",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BB%A8ng_d%E1%BB%A5ng_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Riding in Cars with Boys",
+                "qid": "Q1313530",
+                "url": "https://vi.wikipedia.org/wiki/Riding_in_Cars_with_Boys"
+            },
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 1",
+                "qid": "Q60506",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "The Twilight Saga: Breaking Dawn – Part 2",
+                "qid": "Q60487",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_H%E1%BB%ABng_%C4%91%C3%B4ng_%E2%80%93_Ph%E1%BA%A7n_2"
+            },
+            {
+                "name": "The Twilight Saga: Eclipse",
+                "qid": "Q217010",
+                "url": "https://vi.wikipedia.org/wiki/The_Twilight_Saga:_Nh%E1%BA%ADt_th%E1%BB%B1c"
+            },
+            {
+                "name": "The Twilight Saga: New Moon",
+                "qid": "Q116928",
+                "url": "https://vi.wikipedia.org/wiki/Tr%C4%83ng_non_(phim)"
+            },
+            {
+                "name": "Twilight",
+                "qid": "Q160071",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BA%A1ng_v%E1%BA%A1ng_(phim_2008)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jennie Garth",
+                "qid": "Q230015"
+            }
+        ]
+    }
+}

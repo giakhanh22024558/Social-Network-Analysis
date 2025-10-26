@@ -1,0 +1,58 @@
+{
+    "name": "Camila Morrone",
+    "qid": "Q27449526",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Camila_Morrone",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Leonardo DiCaprio",
+                "qid": "Q38111",
+                "url": "https://vi.wikipedia.org/wiki/Leonardo_DiCaprio"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Maximo Morrone",
+                "qid": "Q97012600"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Lucila Solá",
+                "qid": "Q97012620"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1997-06-16T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Al Pacino",
+                "qid": "Q41163",
+                "url": "https://vi.wikipedia.org/wiki/Al_Pacino"
+            }
+        ]
+    }
+}

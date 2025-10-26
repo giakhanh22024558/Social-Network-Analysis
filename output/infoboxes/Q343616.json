@@ -1,0 +1,110 @@
+{
+    "name": "Paul Dano",
+    "qid": "Q343616",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Paul_Dano",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Zoe Kazan",
+                "qid": "Q218210"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Alma Dano",
+                "qid": "Q116256901"
+            },
+            {
+                "name": "second Kazan-Dano child",
+                "qid": "Q116256907"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1984-06-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "12 Years a Slave",
+                "qid": "Q3023357",
+                "url": "https://vi.wikipedia.org/wiki/12_n%C4%83m_n%C3%B4_l%E1%BB%87_(phim)"
+            },
+            {
+                "name": "Cowboys & Aliens",
+                "qid": "Q725578",
+                "url": "https://vi.wikipedia.org/wiki/Cao_b%E1%BB%93i_%26_qu%C3%A1i_v%E1%BA%ADt_ngo%C3%A0i_h%C3%A0nh_tinh"
+            },
+            {
+                "name": "Knight and Day",
+                "qid": "Q679918",
+                "url": "https://vi.wikipedia.org/wiki/Knight_and_Day"
+            },
+            {
+                "name": "Little Miss Sunshine",
+                "qid": "Q192073",
+                "url": "https://vi.wikipedia.org/wiki/Little_Miss_Sunshine"
+            },
+            {
+                "name": "Looper",
+                "qid": "Q53719",
+                "url": "https://vi.wikipedia.org/wiki/Looper"
+            },
+            {
+                "name": "Love and Mercy",
+                "qid": "Q14878580",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_th%C6%B0%C6%A1ng_quay_v%E1%BB%81"
+            },
+            {
+                "name": "Prisoners",
+                "qid": "Q3404003",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BA%A7n_theo_d%E1%BA%A5u_v%E1%BA%BFt"
+            },
+            {
+                "name": "Taking Woodstock",
+                "qid": "Q696652",
+                "url": "https://vi.wikipedia.org/wiki/Taking_Woodstock"
+            },
+            {
+                "name": "The Batman",
+                "qid": "Q61117344",
+                "url": "https://vi.wikipedia.org/wiki/Batman_(phim_2022)"
+            },
+            {
+                "name": "The Fabelmans",
+                "qid": "Q107710009",
+                "url": "https://vi.wikipedia.org/wiki/The_Fabelmans:_Tu%E1%BB%95i_tr%E1%BA%BB_huy_ho%C3%A0ng"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Chrishell Stause",
+    "qid": "Q5108579",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Chrishell_Stause",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Jason Oppenheim",
+                "qid": "Q52990503"
+            },
+            {
+                "name": "Matthew Morrison",
+                "qid": "Q294812",
+                "url": "https://vi.wikipedia.org/wiki/Matthew_Morrison"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "real estate agent",
+                "qid": "Q519076",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%B4i_gi%E1%BB%9Bi_b%E1%BA%A5t_%C4%91%E1%BB%99ng_s%E1%BA%A3n"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-07-21T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "G Flip",
+                "qid": "Q55237964"
+            },
+            {
+                "name": "Justin Hartley",
+                "qid": "Q195255"
+            }
+        ]
+    }
+}

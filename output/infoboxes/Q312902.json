@@ -1,0 +1,105 @@
+{
+    "name": "Stephen Lang",
+    "qid": "Q312902",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Stephen_Lang",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Jane Lang",
+                "qid": "Q6802642"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Eugene Lang",
+                "qid": "Q5407419"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Lucy Lang",
+                "qid": "Q113503429"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1952-07-11T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Avatar",
+                "qid": "Q24871",
+                "url": "https://vi.wikipedia.org/wiki/Avatar_(phim_2009)"
+            },
+            {
+                "name": "Avatar 4",
+                "qid": "Q29580931",
+                "url": "https://vi.wikipedia.org/wiki/Avatar_4"
+            },
+            {
+                "name": "Avatar: Fire and Ash",
+                "qid": "Q29580929",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_L%E1%BB%ADa_v%C3%A0_tro_t%C3%A0n"
+            },
+            {
+                "name": "Avatar: The Way of Water",
+                "qid": "Q3604746",
+                "url": "https://vi.wikipedia.org/wiki/Avatar:_D%C3%B2ng_ch%E1%BA%A3y_c%E1%BB%A7a_n%C6%B0%E1%BB%9Bc"
+            },
+            {
+                "name": "Don't Breathe",
+                "qid": "Q21450470",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_nh%C3%A2n_trong_b%C3%B3ng_t%E1%BB%91i"
+            },
+            {
+                "name": "Don't Breathe 2",
+                "qid": "Q100701374",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_nh%C3%A2n_trong_b%C3%B3ng_t%E1%BB%91i_2"
+            },
+            {
+                "name": "In the Blood",
+                "qid": "Q3149710",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_truy_s%C3%A1t_(phim_2014)"
+            },
+            {
+                "name": "Mortal Engines",
+                "qid": "Q28999515",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%97_m%C3%A1y_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Public Enemies",
+                "qid": "Q329448",
+                "url": "https://vi.wikipedia.org/wiki/Public_Enemies"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

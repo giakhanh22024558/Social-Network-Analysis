@@ -1,0 +1,83 @@
+{
+    "name": "Taissa Farmiga",
+    "qid": "Q389017",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Taissa_Farmiga",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Renn Hawkey",
+                "qid": "Q7313297"
+            },
+            {
+                "name": "Vera Farmiga",
+                "qid": "Q264840",
+                "url": "https://vi.wikipedia.org/wiki/Vera_Farmiga"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1994-08-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Mindscape",
+                "qid": "Q3277324",
+                "url": "https://vi.wikipedia.org/wiki/Mindscape_(phim)"
+            },
+            {
+                "name": "The Bling Ring",
+                "qid": "Q3077738",
+                "url": "https://vi.wikipedia.org/wiki/The_Bling_Ring"
+            },
+            {
+                "name": "The Nun",
+                "qid": "Q29841731",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81c_qu%E1%BB%B7_ma_s%C6%A1"
+            },
+            {
+                "name": "The Nun II",
+                "qid": "Q111784581",
+                "url": "https://vi.wikipedia.org/wiki/%C3%81c_qu%E1%BB%B7_ma_s%C6%A1_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Hadley Klein",
+                "qid": "Q110703520"
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Ellen DeGeneres",
+    "qid": "Q483325",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ellen_DeGeneres",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Vance DeGeneres",
+                "qid": "Q5419326"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Alexandra Hedison",
+                "qid": "Q258980"
+            },
+            {
+                "name": "Anne Heche",
+                "qid": "Q234610"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Elliott Everett DeGeneres Jr.",
+                "qid": "Q96296181"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Betty DeGeneres",
+                "qid": "Q656219"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "LGBTQ rights activist",
+                "qid": "Q19509201"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "presenter",
+                "qid": "Q13590141"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "talk show host",
+                "qid": "Q18668527"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1958-01-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Dr. Dolittle",
+                "qid": "Q663014",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1c_s%C4%A9_th%C3%BA_y_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Portia de Rossi",
+                "qid": "Q215366",
+                "url": "https://vi.wikipedia.org/wiki/Portia_de_Rossi"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Thomas Fairfax",
+                "qid": "Q7789497"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Krysten Ritter",
+    "qid": "Q258793",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Krysten_Ritter",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-12-16T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "27 Dresses",
+                "qid": "Q220154",
+                "url": "https://vi.wikipedia.org/wiki/27_l%E1%BA%A7n_c%C6%B0%E1%BB%9Bi"
+            },
+            {
+                "name": "Confessions of a Shopaholic",
+                "qid": "Q852963",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%B1_th%C3%BA_c%E1%BB%A7a_m%E1%BB%99t_t%C3%ADn_%C4%91%E1%BB%93_shopping"
+            },
+            {
+                "name": "Mona Lisa Smile",
+                "qid": "Q642546",
+                "url": "https://vi.wikipedia.org/wiki/Mona_Lisa_Smile"
+            },
+            {
+                "name": "She's Out of My League",
+                "qid": "Q140009",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C5%A9a_m%E1%BB%91c_ch%C3%B2i_m%C3%A2m_son"
+            },
+            {
+                "name": "Sonic the Hedgehog 3",
+                "qid": "Q115859490",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%ADm_Sonic_3"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

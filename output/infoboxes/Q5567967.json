@@ -1,0 +1,93 @@
+{
+    "name": "Glen Powell",
+    "qid": "Q5567967",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Glen_Powell",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stunt performer",
+                "qid": "Q465501",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91%C3%B3ng_th%E1%BA%BF"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1988-10-21T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Everybody Wants Some!!",
+                "qid": "Q18324869",
+                "url": "https://vi.wikipedia.org/wiki/Sinh_vi%C3%AAn_si%C3%AAu_qu%E1%BA%ADy!!"
+            },
+            {
+                "name": "Ride Along 2",
+                "qid": "Q17903453",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_t%E1%BA%ADp_s%E1%BB%B1"
+            },
+            {
+                "name": "Set It Up",
+                "qid": "Q38769953",
+                "url": "https://vi.wikipedia.org/wiki/Tr%E1%BB%A3_l%C3%BD_y%C3%AAu"
+            },
+            {
+                "name": "The Dark Knight Rises",
+                "qid": "Q189330",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm_tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "The Expendables 3",
+                "qid": "Q14370516",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_3"
+            },
+            {
+                "name": "Top Gun: Maverick",
+                "qid": "Q31202708",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng_si%C3%AAu_%C4%91%E1%BA%B3ng_Maverick"
+            },
+            {
+                "name": "Twisters",
+                "qid": "Q115932556",
+                "url": "https://vi.wikipedia.org/wiki/L%E1%BB%91c_xo%C3%A1y_t%E1%BB%AD_th%E1%BA%A7n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

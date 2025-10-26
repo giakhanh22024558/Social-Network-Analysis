@@ -1,0 +1,108 @@
+{
+    "name": "Oscar Isaac",
+    "qid": "Q336788",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Oscar_Isaac",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Nicole Hernandez Hammer",
+                "qid": "Q62026379"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1979-03-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Annihilation",
+                "qid": "Q25136228",
+                "url": "https://vi.wikipedia.org/wiki/V%C3%B9ng_h%E1%BB%A7y_di%E1%BB%87t"
+            },
+            {
+                "name": "Body of Lies",
+                "qid": "Q578312",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_v%E1%BB%A5_c%C3%A1_%C4%91u%E1%BB%91i"
+            },
+            {
+                "name": "Cristiada",
+                "qid": "Q2215942",
+                "url": "https://vi.wikipedia.org/wiki/Christian_(phim_2012)"
+            },
+            {
+                "name": "Dune",
+                "qid": "Q60834962",
+                "url": "https://vi.wikipedia.org/wiki/Dune:_H%C3%A0nh_tinh_c%C3%A1t"
+            },
+            {
+                "name": "Ex Machina",
+                "qid": "Q16635326",
+                "url": "https://vi.wikipedia.org/wiki/Ex_Machina_(phim)"
+            },
+            {
+                "name": "Robin Hood",
+                "qid": "Q223559",
+                "url": "https://vi.wikipedia.org/wiki/Robin_Hood_(phim_2010)"
+            },
+            {
+                "name": "Star Wars: Episode IX – The Rise of Skywalker",
+                "qid": "Q20977110",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Skywalker_tr%E1%BB%97i_d%E1%BA%ADy"
+            },
+            {
+                "name": "Star Wars: Episode VII – The Force Awakens",
+                "qid": "Q6074",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Th%E1%BA%A7n_l%E1%BB%B1c_th%E1%BB%A9c_t%E1%BB%89nh"
+            },
+            {
+                "name": "Star Wars: Episode VIII – The Last Jedi",
+                "qid": "Q18486021",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Jedi_cu%E1%BB%91i_c%C3%B9ng"
+            },
+            {
+                "name": "The Bourne Legacy",
+                "qid": "Q494048",
+                "url": "https://vi.wikipedia.org/wiki/The_Bourne_Legacy"
+            },
+            {
+                "name": "X-Men: Apocalypse",
+                "qid": "Q17042878",
+                "url": "https://vi.wikipedia.org/wiki/X-Men:_Cu%E1%BB%99c_chi%E1%BA%BFn_ch%E1%BB%91ng_Apocalypse"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Guatemala",
+                "qid": "Q774",
+                "url": "https://vi.wikipedia.org/wiki/Guatemala"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

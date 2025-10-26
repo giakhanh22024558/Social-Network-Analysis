@@ -1,0 +1,126 @@
+{
+    "name": "Steven Soderbergh",
+    "qid": "Q103917",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steven_Soderbergh",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "camera operator",
+                "qid": "Q1208175",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A2n_vi%C3%AAn_quay_phim"
+            },
+            {
+                "name": "cinematographer",
+                "qid": "Q222344",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_h%C3%ACnh_%E1%BA%A3nh"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "showrunner",
+                "qid": "Q1440873",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1963-01-14T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Ocean's 8",
+                "qid": "Q25627545",
+                "url": "https://vi.wikipedia.org/wiki/B%C4%83ng_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7:_%C4%90%E1%BA%B3ng_c%E1%BA%A5p_qu%C3%BD_c%C3%B4"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Contagion",
+                "qid": "Q730888",
+                "url": "https://vi.wikipedia.org/wiki/Contagion_(phim_2011)"
+            },
+            {
+                "name": "Ocean's Eleven",
+                "qid": "Q205447",
+                "url": "https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Di_m%E1%BB%99t_t%C3%AAn_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Contagion",
+                "qid": "Q730888",
+                "url": "https://vi.wikipedia.org/wiki/Contagion_(phim_2011)"
+            },
+            {
+                "name": "Kimi",
+                "qid": "Q106363032",
+                "url": "https://vi.wikipedia.org/wiki/Kimi_(phim)"
+            },
+            {
+                "name": "Magic Mike's Last Dance",
+                "qid": "Q114876189",
+                "url": "https://vi.wikipedia.org/wiki/Magic_Mike%27s_Last_Dance"
+            },
+            {
+                "name": "Ocean's Eleven",
+                "qid": "Q205447",
+                "url": "https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Di_m%E1%BB%99t_t%C3%AAn_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jules Asner",
+                "qid": "Q6305724"
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Dominique Dunne",
+    "qid": "Q254596",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dominique_Dunne",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Griffin Dunne",
+                "qid": "Q470260"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Dominick Dunne",
+                "qid": "Q448767"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Ellen Griffin Dunne",
+                "qid": "Q56884505"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-11-23T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Poltergeist",
+                "qid": "Q497622",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_tinh_(phim_1982)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

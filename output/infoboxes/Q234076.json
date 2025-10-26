@@ -1,0 +1,82 @@
+{
+    "name": "Rosie Perez",
+    "qid": "Q234076",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Rosie_Perez",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1964-09-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+                "qid": "Q57177410",
+                "url": "https://vi.wikipedia.org/wiki/Birds_of_Prey:_Cu%E1%BB%99c_l%E1%BB%99t_x%C3%A1c_huy_ho%C3%A0ng_c%E1%BB%A7a_Harley_Quinn"
+            },
+            {
+                "name": "Pitch Perfect 2",
+                "qid": "Q16619265",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_n%E1%BB%95i_lo%E1%BA%A1n_ho%C3%A0n_h%E1%BA%A3o"
+            },
+            {
+                "name": "Riding in Cars with Boys",
+                "qid": "Q1313530",
+                "url": "https://vi.wikipedia.org/wiki/Riding_in_Cars_with_Boys"
+            },
+            {
+                "name": "The Counselor",
+                "qid": "Q3061599",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0i_lu%E1%BA%ADt_s%C6%B0"
+            },
+            {
+                "name": "The Other Guys",
+                "qid": "Q376807",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_c%E1%BB%9Bm_tranh_t%C3%A0i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Eric Haze",
+                "qid": "Q5386694"
+            }
+        ]
+    }
+}

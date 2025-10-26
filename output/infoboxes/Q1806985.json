@@ -1,0 +1,111 @@
+{
+    "name": "Sharon Osbourne",
+    "qid": "Q1806985",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Sharon_Osbourne",
+    "gender": "female",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Don Arden",
+                "qid": "Q1238891"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Aimee Osbourne",
+                "qid": "Q405565"
+            },
+            {
+                "name": "Jack Osbourne",
+                "qid": "Q724791"
+            },
+            {
+                "name": "Kelly Osbourne",
+                "qid": "Q231182"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Hope Shaw",
+                "qid": "Q116187322"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "talent agent",
+                "qid": "Q1344174",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91%E1%BA%A1i_di%E1%BB%87n_t%C3%A0i_n%C4%83ng"
+            },
+            {
+                "name": "talent manager",
+                "qid": "Q1320883",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_qu%E1%BA%A3n_l%C3%BD_ngh%E1%BB%87_s%C4%A9"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1952-10-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Garfield: A Tail of Two Kitties",
+                "qid": "Q587921",
+                "url": "https://vi.wikipedia.org/wiki/Garfield:_Ch%C3%BA_m%C3%A8o_si%C3%AAu_qu%E1%BA%ADy"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United Kingdom",
+                "qid": "Q145",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Ozzy Osbourne",
+                "qid": "Q133151",
+                "url": "https://vi.wikipedia.org/wiki/Ozzy_Osbourne"
+            }
+        ]
+    }
+}

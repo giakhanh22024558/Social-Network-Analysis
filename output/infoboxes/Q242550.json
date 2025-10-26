@@ -1,0 +1,67 @@
+{
+    "name": "Olivia Thirlby",
+    "qid": "Q242550",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Olivia_Thirlby",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-10-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "New York, I Love You",
+                "qid": "Q44935",
+                "url": "https://vi.wikipedia.org/wiki/New_York,_I_Love_You"
+            },
+            {
+                "name": "No Strings Attached",
+                "qid": "Q474087",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_kh%C3%B4ng_r%C3%A0ng_bu%E1%BB%99c"
+            },
+            {
+                "name": "Oppenheimer",
+                "qid": "Q108839994",
+                "url": "https://vi.wikipedia.org/wiki/Oppenheimer_(phim)"
+            },
+            {
+                "name": "The Darkest Hour",
+                "qid": "Q964657",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BB%9D_%C4%91en_t%E1%BB%91i_(phim_2011)"
+            },
+            {
+                "name": "The Wedding Ringer",
+                "qid": "Q17049587",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BB%8Bch_v%E1%BB%A5_trai_thu%C3%AA"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

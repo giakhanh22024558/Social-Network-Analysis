@@ -1,0 +1,56 @@
+{
+    "name": "Joe Frazier",
+    "qid": "Q102301",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Joe_Frazier",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Derek Frazier",
+                "qid": "Q107560840"
+            },
+            {
+                "name": "Jackie Frazier-Lyde",
+                "qid": "Q275233"
+            },
+            {
+                "name": "Marvis Frazier",
+                "qid": "Q1906128"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "boxer",
+                "qid": "Q11338576"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1944-01-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Rocky",
+                "qid": "Q188652",
+                "url": "https://vi.wikipedia.org/wiki/Rocky"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

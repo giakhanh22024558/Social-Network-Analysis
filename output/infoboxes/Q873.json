@@ -1,0 +1,163 @@
+{
+    "name": "Meryl Streep",
+    "qid": "Q873",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Meryl_Streep",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "John Cazale",
+                "qid": "Q296177"
+            },
+            {
+                "name": "Martin Short",
+                "qid": "Q329744"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Grace Gummer",
+                "qid": "Q3486444"
+            },
+            {
+                "name": "Henry Wolfe Gummer",
+                "qid": "Q15052227"
+            },
+            {
+                "name": "Louisa Jacobson",
+                "qid": "Q17523834"
+            },
+            {
+                "name": "Mamie Gummer",
+                "qid": "Q242555"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Mary Wilkinson Streep",
+                "qid": "Q17711441"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1949-06-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A.I. Artificial Intelligence",
+                "qid": "Q221113",
+                "url": "https://vi.wikipedia.org/wiki/A.I._%E2%80%93_Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o"
+            },
+            {
+                "name": "August: Osage County",
+                "qid": "Q4055443",
+                "url": "https://vi.wikipedia.org/wiki/M%C3%B9a_h%C3%A8_%E1%BB%9F_Osage_County_(phim)"
+            },
+            {
+                "name": "Death Becomes Her",
+                "qid": "Q1160186",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%A1i_ch%E1%BA%BFt_%C4%91%C6%B0%E1%BB%A3c_b%C3%A1o_tr%C6%B0%E1%BB%9Bc"
+            },
+            {
+                "name": "Don't Look Up",
+                "qid": "Q100361490",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%ABng_nh%C3%ACn_l%C3%AAn"
+            },
+            {
+                "name": "Into the Woods",
+                "qid": "Q14847067",
+                "url": "https://vi.wikipedia.org/wiki/Khu_r%E1%BB%ABng_c%E1%BB%95_t%C3%ADch"
+            },
+            {
+                "name": "Little Women",
+                "qid": "Q56881140",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_ng%C6%B0%E1%BB%9Di_ph%E1%BB%A5_n%E1%BB%AF_b%C3%A9_nh%E1%BB%8F"
+            },
+            {
+                "name": "Mamma Mia!",
+                "qid": "Q188850",
+                "url": "https://vi.wikipedia.org/wiki/Mamma_Mia!_(phim)"
+            },
+            {
+                "name": "Mamma Mia! Here We Go Again",
+                "qid": "Q36951175",
+                "url": "https://vi.wikipedia.org/wiki/Mamma_Mia!_Y%C3%AAu_l%E1%BA%A7n_n%E1%BB%AFa"
+            },
+            {
+                "name": "Mary Poppins Returns",
+                "qid": "Q24272881",
+                "url": "https://vi.wikipedia.org/wiki/Mary_Poppins_tr%E1%BB%9F_l%E1%BA%A1i"
+            },
+            {
+                "name": "The Devil Wears Prada",
+                "qid": "Q223316",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_n%E1%BB%AF_th%C3%ADch_h%C3%A0ng_hi%E1%BB%87u_(phim)"
+            },
+            {
+                "name": "The Giver",
+                "qid": "Q15079344",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_truy%E1%BB%81n_k%C3%BD_%E1%BB%A9c"
+            },
+            {
+                "name": "The Homesman",
+                "qid": "Q15961525",
+                "url": "https://vi.wikipedia.org/wiki/The_Homesman"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Don Gummer",
+                "qid": "Q1271632"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Brooke Shields",
+                "qid": "Q189400",
+                "url": "https://vi.wikipedia.org/wiki/Brooke_Shields"
+            }
+        ]
+    }
+}

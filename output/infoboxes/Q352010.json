@@ -1,0 +1,88 @@
+{
+    "name": "David S. Goyer",
+    "qid": "Q352010",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/David_S._Goyer",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "cartoonist",
+                "qid": "Q1114448"
+            },
+            {
+                "name": "executive producer",
+                "qid": "Q1053574",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1m_%C4%91%E1%BB%91c_s%E1%BA%A3n_xu%E1%BA%A5t"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1965-12-22T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "A.X.L.",
+                "qid": "Q55262219",
+                "url": "https://vi.wikipedia.org/wiki/A-X-L_ch%C3%BA_ch%C3%B3_robot"
+            },
+            {
+                "name": "Ghost Rider",
+                "qid": "Q41754",
+                "url": "https://vi.wikipedia.org/wiki/Ma_t%E1%BB%91c_%C4%91%E1%BB%99"
+            },
+            {
+                "name": "Mission to Mars",
+                "qid": "Q128582",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BB%87m_v%E1%BB%A5_%C4%91%E1%BA%BFn_sao_H%E1%BB%8Fa"
+            },
+            {
+                "name": "The First Omen",
+                "qid": "Q117842576",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%81m_b%C3%A1o_c%E1%BB%A7a_qu%E1%BB%B7"
+            },
+            {
+                "name": "The Forest",
+                "qid": "Q19363897",
+                "url": "https://vi.wikipedia.org/wiki/Khu_r%E1%BB%ABng_t%E1%BB%B1_s%C3%A1t"
+            },
+            {
+                "name": "The Tomorrow War",
+                "qid": "Q67171072",
+                "url": "https://vi.wikipedia.org/wiki/The_Tomorrow_War"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "name": "Q348533",
+    "qid": "Q348533",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Nick_Cannon",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Adrienne Bailon-Houghton",
+                "qid": "Q1770657",
+                "url": "https://vi.wikipedia.org/wiki/Adrienne_Bailon"
+            },
+            {
+                "name": "Brittany Bell",
+                "qid": "Q4971582"
+            },
+            {
+                "name": "Christina Milian",
+                "qid": "Q230501"
+            },
+            {
+                "name": "Eva Marcille",
+                "qid": "Q269485",
+                "url": "https://vi.wikipedia.org/wiki/Eva_Marcille"
+            },
+            {
+                "name": "Heidi Klum",
+                "qid": "Q60036",
+                "url": "https://vi.wikipedia.org/wiki/Heidi_Klum"
+            },
+            {
+                "name": "Jessica White",
+                "qid": "Q3177688"
+            },
+            {
+                "name": "Kim Kardashian",
+                "qid": "Q186304",
+                "url": "https://vi.wikipedia.org/wiki/Kim_Kardashian"
+            },
+            {
+                "name": "Lanisha Cole",
+                "qid": "Q6487105"
+            },
+            {
+                "name": "Meagan Good",
+                "qid": "Q257286"
+            },
+            {
+                "name": "Nicole Scherzinger",
+                "qid": "Q167696",
+                "url": "https://vi.wikipedia.org/wiki/Nicole_Scherzinger"
+            },
+            {
+                "name": "Rozonda Thomas",
+                "qid": "Q438366"
+            },
+            {
+                "name": "Selita Ebanks",
+                "qid": "Q233768"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Golden Cannon",
+                "qid": "Q112324383"
+            },
+            {
+                "name": "Powerful Queen Cannon",
+                "qid": "Q112324342"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "DJ producer",
+                "qid": "Q3922505"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "businessperson",
+                "qid": "Q43845",
+                "url": "https://vi.wikipedia.org/wiki/Doanh_nh%C3%A2n"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "music video director",
+                "qid": "Q2340668"
+            },
+            {
+                "name": "radio personality",
+                "qid": "Q2722764"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television director",
+                "qid": "Q2059704"
+            },
+            {
+                "name": "television personality",
+                "qid": "Q44508716"
+            },
+            {
+                "name": "television presenter",
+                "qid": "Q947873",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%E1%BA%ABn_ch%C6%B0%C6%A1ng_tr%C3%ACnh_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-10-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Drumline",
+                "qid": "Q1261289",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_tr%E1%BB%91ng_c%E1%BB%95_%C4%91%E1%BB%99ng_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Mariah Carey",
+                "qid": "Q41076",
+                "url": "https://vi.wikipedia.org/wiki/Mariah_Carey"
+            }
+        ]
+    }
+}

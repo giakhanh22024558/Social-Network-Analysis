@@ -1,0 +1,34 @@
+{
+    "name": "Blake Lee",
+    "qid": "Q30688469",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Blake_Lee",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-08-31T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Ben Lewis",
+                "qid": "Q91239355",
+                "url": "https://vi.wikipedia.org/wiki/Ben_Lewis_(di%E1%BB%85n_vi%C3%AAn_Canada)"
+            }
+        ]
+    }
+}

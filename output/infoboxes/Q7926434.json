@@ -1,0 +1,74 @@
+{
+    "name": "Victor Vu",
+    "qid": "Q7926434",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Victor_V%C5%A9",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1975-11-25T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Battle of the Brides",
+                "qid": "Q621354",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_d%C3%A2u_%C4%91%E1%BA%A1i_chi%E1%BA%BFn"
+            },
+            {
+                "name": "Battle of the Brides 2",
+                "qid": "Q16480663",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_d%C3%A2u_%C4%91%E1%BA%A1i_chi%E1%BA%BFn_2"
+            },
+            {
+                "name": "Blood Letter",
+                "qid": "Q4845637",
+                "url": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_m%E1%BB%87nh_anh_h%C3%B9ng"
+            },
+            {
+                "name": "Dreamy Eyes",
+                "qid": "Q86010138",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%AFt_bi%E1%BA%BFc_(phim)"
+            },
+            {
+                "name": "Passport to Love",
+                "qid": "Q7142858",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_t%C3%ACnh_xa_x%E1%BB%A9"
+            },
+            {
+                "name": "Scandal",
+                "qid": "Q4499131",
+                "url": "https://vi.wikipedia.org/wiki/Scandal:_B%C3%AD_m%E1%BA%ADt_th%E1%BA%A3m_%C4%91%E1%BB%8F"
+            },
+            {
+                "name": "Vengeful Heart",
+                "qid": "Q16480059",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3_tim_m%C3%A1u"
+            },
+            {
+                "name": "Yellow Flowers on the Green Grass",
+                "qid": "Q20026185",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%B4i_th%E1%BA%A5y_hoa_v%C3%A0ng_tr%C3%AAn_c%E1%BB%8F_xanh_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

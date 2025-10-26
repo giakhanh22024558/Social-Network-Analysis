@@ -1,0 +1,131 @@
+{
+    "name": "Timothée Chalamet",
+    "qid": "Q19877770",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Timoth%C3%A9e_Chalamet",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Pauline Chalamet",
+                "qid": "Q91012851"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Kylie Jenner",
+                "qid": "Q1770624",
+                "url": "https://vi.wikipedia.org/wiki/Kylie_Jenner"
+            },
+            {
+                "name": "Lily-Rose Depp",
+                "qid": "Q20670730",
+                "url": "https://vi.wikipedia.org/wiki/Lily-Rose_Depp"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1995-12-27T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "A Rainy Day in New York",
+                "qid": "Q42307699",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_ng%C3%A0y_m%C6%B0a_%E1%BB%9F_New_York"
+            },
+            {
+                "name": "Beautiful Boy",
+                "qid": "Q29051576",
+                "url": "https://vi.wikipedia.org/wiki/Beautiful_Boy_(phim)"
+            },
+            {
+                "name": "Call Me by Your Name",
+                "qid": "Q25136757",
+                "url": "https://vi.wikipedia.org/wiki/Call_Me_by_Your_Name"
+            },
+            {
+                "name": "Don't Look Up",
+                "qid": "Q100361490",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%ABng_nh%C3%ACn_l%C3%AAn"
+            },
+            {
+                "name": "Dune",
+                "qid": "Q60834962",
+                "url": "https://vi.wikipedia.org/wiki/Dune:_H%C3%A0nh_tinh_c%C3%A1t"
+            },
+            {
+                "name": "Dune: Part Two",
+                "qid": "Q109228991",
+                "url": "https://vi.wikipedia.org/wiki/Dune:_H%C3%A0nh_tinh_c%C3%A1t_%E2%80%93_Ph%E1%BA%A7n_hai"
+            },
+            {
+                "name": "Hot Summer Nights",
+                "qid": "Q20875660",
+                "url": "https://vi.wikipedia.org/wiki/Hot_Summer_Nights"
+            },
+            {
+                "name": "Interstellar",
+                "qid": "Q13417189",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%91_%C4%91en_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Lady Bird",
+                "qid": "Q27480769",
+                "url": "https://vi.wikipedia.org/wiki/Lady_Bird:_Tu%E1%BB%95i_n%E1%BB%95i_lo%E1%BA%A1n"
+            },
+            {
+                "name": "Little Women",
+                "qid": "Q56881140",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_ng%C6%B0%E1%BB%9Di_ph%E1%BB%A5_n%E1%BB%AF_b%C3%A9_nh%E1%BB%8F"
+            },
+            {
+                "name": "Love the Coopers",
+                "qid": "Q18811608",
+                "url": "https://vi.wikipedia.org/wiki/Gi%C3%A1ng_Sinh_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "The King",
+                "qid": "Q54801155",
+                "url": "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_v%C6%B0%C6%A1ng_(phim_2019)"
+            },
+            {
+                "name": "Wonka",
+                "qid": "Q108456719",
+                "url": "https://vi.wikipedia.org/wiki/Wonka_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "France",
+                "qid": "Q142",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%A1p"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Amy Lippman",
+                "qid": "Q2844566"
+            },
+            {
+                "name": "Harold Flender",
+                "qid": "Q59524523"
+            },
+            {
+                "name": "Rodman Flender",
+                "qid": "Q3939895"
+            }
+        ]
+    }
+}

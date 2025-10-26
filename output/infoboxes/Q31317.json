@@ -1,0 +1,52 @@
+{
+    "name": "Shawn Michaels",
+    "qid": "Q31317",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Shawn_Michaels",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Rebecca Curci-Hickenbottom",
+                "qid": "Q43959"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "American football player",
+                "qid": "Q19204627"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1965-07-22T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Rebecca Curci-Hickenbottom",
+                "qid": "Q3931225"
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Cynthia Nixon",
+    "qid": "Q228725",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Cynthia_Nixon",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "poet",
+                "qid": "Q49757",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%C6%A1"
+            },
+            {
+                "name": "slam poet",
+                "qid": "Q2058873"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-04-09T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Amadeus",
+                "qid": "Q190956",
+                "url": "https://vi.wikipedia.org/wiki/Amadeus_(phim)"
+            },
+            {
+                "name": "Sex and the City",
+                "qid": "Q381751",
+                "url": "https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_%E1%BA%A5y_l%C3%A0_chuy%E1%BB%87n_nh%E1%BB%8F"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

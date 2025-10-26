@@ -1,0 +1,97 @@
+{
+    "name": "Katie Holmes",
+    "qid": "Q174346",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Katie_Holmes",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Jamie Foxx",
+                "qid": "Q171905",
+                "url": "https://vi.wikipedia.org/wiki/Jamie_Foxx"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Suri Cruise",
+                "qid": "Q11313411"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-12-18T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Batman Begins",
+                "qid": "Q166262",
+                "url": "https://vi.wikipedia.org/wiki/Huy%E1%BB%81n_tho%E1%BA%A1i_Ng%C6%B0%E1%BB%9Di_D%C6%A1i"
+            },
+            {
+                "name": "Don't Be Afraid of the Dark",
+                "qid": "Q2299378",
+                "url": "https://vi.wikipedia.org/wiki/Don%27t_Be_Afraid_of_the_Dark"
+            },
+            {
+                "name": "Jack and Jill",
+                "qid": "Q1505923",
+                "url": "https://vi.wikipedia.org/wiki/Jack_%26_Jill"
+            },
+            {
+                "name": "Ocean's 8",
+                "qid": "Q25627545",
+                "url": "https://vi.wikipedia.org/wiki/B%C4%83ng_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7:_%C4%90%E1%BA%B3ng_c%E1%BA%A5p_qu%C3%BD_c%C3%B4"
+            },
+            {
+                "name": "The Giver",
+                "qid": "Q15079344",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_truy%E1%BB%81n_k%C3%BD_%E1%BB%A9c"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Tom Cruise",
+                "qid": "Q37079",
+                "url": "https://vi.wikipedia.org/wiki/Tom_Cruise"
+            }
+        ]
+    }
+}

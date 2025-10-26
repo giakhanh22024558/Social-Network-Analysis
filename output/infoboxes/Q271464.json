@@ -1,0 +1,120 @@
+{
+    "name": "Terry Crews",
+    "qid": "Q271464",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Terry_Crews",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "American football player",
+                "qid": "Q19204627"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "artist",
+                "qid": "Q483501",
+                "url": "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_s%C4%A9"
+            },
+            {
+                "name": "association football player",
+                "qid": "Q937857"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1968-07-30T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Blended",
+                "qid": "Q13522800",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BB%B3_ngh%E1%BB%89_ch%E1%BA%BFt_c%C6%B0%E1%BB%9Di"
+            },
+            {
+                "name": "Click",
+                "qid": "Q496654",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%BA_click_huy%E1%BB%81n_b%C3%AD"
+            },
+            {
+                "name": "Deadpool 2",
+                "qid": "Q25431158",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_2"
+            },
+            {
+                "name": "Draft Day",
+                "qid": "Q15985322",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C3%A0y_tuy%E1%BB%83n_ch%E1%BB%8Dn"
+            },
+            {
+                "name": "Gamer",
+                "qid": "Q947885",
+                "url": "https://vi.wikipedia.org/wiki/Gamer_(phim_2009)"
+            },
+            {
+                "name": "Get Smart",
+                "qid": "Q570652",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_vi%C3%AAn_86:_Nhi%E1%BB%87m_v%E1%BB%A5_b%E1%BA%A5t_kh%E1%BA%A3_thi"
+            },
+            {
+                "name": "Street Kings",
+                "qid": "Q785712",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1_v%C6%B0%C6%A1ng_%C4%91%C6%B0%E1%BB%9Dng_ph%E1%BB%91"
+            },
+            {
+                "name": "Terminator Salvation",
+                "qid": "Q191543",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_h%E1%BB%A7y_di%E1%BB%87t_4"
+            },
+            {
+                "name": "The Expendables",
+                "qid": "Q206374",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA"
+            },
+            {
+                "name": "The Expendables 2",
+                "qid": "Q210812",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_2"
+            },
+            {
+                "name": "The Expendables 3",
+                "qid": "Q14370516",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_3"
+            },
+            {
+                "name": "White Chicks",
+                "qid": "Q575848",
+                "url": "https://vi.wikipedia.org/wiki/White_Chicks"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

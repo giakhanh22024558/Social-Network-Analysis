@@ -1,0 +1,152 @@
+{
+    "name": "Casey Affleck",
+    "qid": "Q270730",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Casey_Affleck",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Ben Affleck",
+                "qid": "Q483118",
+                "url": "https://vi.wikipedia.org/wiki/Ben_Affleck"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Caylee Cowan",
+                "qid": "Q58316363"
+            },
+            {
+                "name": "Floriana Lima",
+                "qid": "Q5461051"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Timothy Byers Affleck",
+                "qid": "Q97071433"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Atticus Affleck",
+                "qid": "Q29075353"
+            },
+            {
+                "name": "Indiana Affleck",
+                "qid": "Q29075445"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Christine Anne Boldt",
+                "qid": "Q97071469"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film editor",
+                "qid": "Q7042855"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1975-08-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Interstellar",
+                "qid": "Q13417189",
+                "url": "https://vi.wikipedia.org/wiki/H%E1%BB%91_%C4%91en_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Manchester by the Sea",
+                "qid": "Q19864603",
+                "url": "https://vi.wikipedia.org/wiki/Manchester_by_the_Sea_(phim)"
+            },
+            {
+                "name": "Ocean's Eleven",
+                "qid": "Q205447",
+                "url": "https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Di_m%E1%BB%99t_t%C3%AAn_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7"
+            },
+            {
+                "name": "Oppenheimer",
+                "qid": "Q108839994",
+                "url": "https://vi.wikipedia.org/wiki/Oppenheimer_(phim)"
+            },
+            {
+                "name": "The Finest Hours",
+                "qid": "Q18031184",
+                "url": "https://vi.wikipedia.org/wiki/The_Finest_Hours_(phim_2016)"
+            },
+            {
+                "name": "Triple 9",
+                "qid": "Q17144452",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_999"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Summer Phoenix",
+                "qid": "Q258854"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Jennifer Garner",
+                "qid": "Q172044",
+                "url": "https://vi.wikipedia.org/wiki/Jennifer_Garner"
+            },
+            {
+                "name": "Joaquin Phoenix",
+                "qid": "Q185140",
+                "url": "https://vi.wikipedia.org/wiki/Joaquin_Phoenix"
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Val Kilmer",
+    "qid": "Q191084",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Val_Kilmer",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Dorris Eugene Kilmer",
+                "qid": "Q99054791"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Jack Kilmer",
+                "qid": "Q17486552"
+            },
+            {
+                "name": "Mercedes Kilmer",
+                "qid": "Q68162822"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Gladys Ekstadt",
+                "qid": "Q99054974"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-12-31T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Déjà Vu",
+                "qid": "Q252409",
+                "url": "https://vi.wikipedia.org/wiki/K%C3%BD_%E1%BB%A9c_%E1%BA%A3o_gi%C3%A1c"
+            },
+            {
+                "name": "Heat",
+                "qid": "Q42198",
+                "url": "https://vi.wikipedia.org/wiki/Heat_(phim_1995)"
+            },
+            {
+                "name": "MacGruber",
+                "qid": "Q1579371",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_%C4%91%E1%BA%B7c_v%E1%BB%A5_(phim_2010)"
+            },
+            {
+                "name": "Top Gun: Maverick",
+                "qid": "Q31202708",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng_si%C3%AAu_%C4%91%E1%BA%B3ng_Maverick"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Joanne Whalley",
+                "qid": "Q164069"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Nora Jones",
+                "qid": "Q99054961"
+            },
+            {
+                "name": "Thomas Walker Kilmer",
+                "qid": "Q99054810"
+            }
+        ]
+    }
+}

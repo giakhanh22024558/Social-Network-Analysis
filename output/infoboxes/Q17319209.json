@@ -1,0 +1,50 @@
+{
+    "name": "Austin Swift",
+    "qid": "Q17319209",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Austin_Swift",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Taylor Swift",
+                "qid": "Q26876",
+                "url": "https://vi.wikipedia.org/wiki/Taylor_Swift"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Scott Swift",
+                "qid": "Q17319204"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Andrea Finlay",
+                "qid": "Q17319206"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1992-03-11T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

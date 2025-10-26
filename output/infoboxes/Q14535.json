@@ -1,0 +1,99 @@
+{
+    "name": "Fred Armisen",
+    "qid": "Q14535",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Fred_Armisen",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-12-04T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Cats & Dogs: The Revenge of Kitty Galore",
+                "qid": "Q959335",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_ch%C3%B3_m%C3%A8o:_Kitty_Galore_b%C3%A1o_th%C3%B9"
+            },
+            {
+                "name": "Confessions of a Shopaholic",
+                "qid": "Q852963",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%B1_th%C3%BA_c%E1%BB%A7a_m%E1%BB%99t_t%C3%ADn_%C4%91%E1%BB%93_shopping"
+            },
+            {
+                "name": "EuroTrip",
+                "qid": "Q642559",
+                "url": "https://vi.wikipedia.org/wiki/Du_ngo%E1%BA%A1n_%C3%82u_ch%C3%A2u"
+            },
+            {
+                "name": "The Dictator",
+                "qid": "Q464964",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_%C4%91%E1%BB%99c_t%C3%A0i_(phim_2012)"
+            },
+            {
+                "name": "The Lego Ninjago Movie",
+                "qid": "Q22131901",
+                "url": "https://vi.wikipedia.org/wiki/Phim_Lego_Ninjago"
+            },
+            {
+                "name": "The Smurfs",
+                "qid": "Q454398",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%AC_Trum_(phim)"
+            },
+            {
+                "name": "The Smurfs 2",
+                "qid": "Q1253366",
+                "url": "https://vi.wikipedia.org/wiki/X%C3%AC_Trum_2"
+            },
+            {
+                "name": "Zoolander 2",
+                "qid": "Q19842552",
+                "url": "https://vi.wikipedia.org/wiki/Trai_%C4%91%E1%BA%B9p_l%C3%AAn_s%C3%A0n"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Elisabeth Moss",
+                "qid": "Q233466",
+                "url": "https://vi.wikipedia.org/wiki/Elisabeth_Moss"
+            }
+        ]
+    }
+}

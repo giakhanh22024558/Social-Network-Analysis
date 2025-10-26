@@ -1,0 +1,54 @@
+{
+    "name": "Michelle Waterson",
+    "qid": "Q6837288",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Michelle_Waterson",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "Thai boxer",
+                "qid": "Q388513"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "karateka",
+                "qid": "Q9017214"
+            },
+            {
+                "name": "kickboxer",
+                "qid": "Q11296761"
+            },
+            {
+                "name": "mixed martial arts fighter",
+                "qid": "Q11607585"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1986-01-06T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Joshua Gomez",
+                "qid": "Q51333488"
+            }
+        ]
+    }
+}

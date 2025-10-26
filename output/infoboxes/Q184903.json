@@ -1,0 +1,124 @@
+{
+    "name": "David Fincher",
+    "qid": "Q184903",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/David_Fincher",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Jack Fincher",
+                "qid": "Q6112472"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Phelix Imogen Fincher",
+                "qid": "Q128601191"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1962-08-28T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Mank",
+                "qid": "Q73093591",
+                "url": "https://vi.wikipedia.org/wiki/Mank_(phim)"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Being John Malkovich",
+                "qid": "Q649165",
+                "url": "https://vi.wikipedia.org/wiki/Being_John_Malkovich"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Fight Club",
+                "qid": "Q190050",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A0n_%C4%91%E1%BA%A5u_sinh_t%E1%BB%AD"
+            },
+            {
+                "name": "Gone Girl",
+                "qid": "Q14920425",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_m%E1%BA%A5t_t%C3%ADch_(phim)"
+            },
+            {
+                "name": "Mank",
+                "qid": "Q73093591",
+                "url": "https://vi.wikipedia.org/wiki/Mank_(phim)"
+            },
+            {
+                "name": "Panic Room",
+                "qid": "Q741042",
+                "url": "https://vi.wikipedia.org/wiki/Panic_Room"
+            },
+            {
+                "name": "Seven",
+                "qid": "Q190908",
+                "url": "https://vi.wikipedia.org/wiki/Seven_(phim_1995)"
+            },
+            {
+                "name": "The Curious Case of Benjamin Button",
+                "qid": "Q183239",
+                "url": "https://vi.wikipedia.org/wiki/D%E1%BB%8B_nh%C3%A2n_Benjamin"
+            },
+            {
+                "name": "The Girl with the Dragon Tattoo",
+                "qid": "Q474093",
+                "url": "https://vi.wikipedia.org/wiki/C%C3%B4_g%C3%A1i_c%C3%B3_h%C3%ACnh_x%C4%83m_r%E1%BB%93ng_(phim)"
+            },
+            {
+                "name": "The Social Network",
+                "qid": "Q185888",
+                "url": "https://vi.wikipedia.org/wiki/The_Social_Network"
+            },
+            {
+                "name": "Zodiac",
+                "qid": "Q218172",
+                "url": "https://vi.wikipedia.org/wiki/Zodiac_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Ceán Chaffin",
+                "qid": "Q961183"
+            },
+            {
+                "name": "Donya Fiorentino",
+                "qid": "Q128600512"
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Neal McDonough",
+    "qid": "Q445125",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Neal_McDonough",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1966-02-13T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Captain America: The First Avenger",
+                "qid": "Q275120",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_K%E1%BA%BB_b%C3%A1o_th%C3%B9_%C4%91%E1%BA%A7u_ti%C3%AAn"
+            },
+            {
+                "name": "Company of Heroes",
+                "qid": "Q8989264",
+                "url": "https://vi.wikipedia.org/wiki/Company_of_Heroes_(phim)"
+            },
+            {
+                "name": "Minority Report",
+                "qid": "Q244604",
+                "url": "https://vi.wikipedia.org/wiki/Minority_Report"
+            },
+            {
+                "name": "RED 2",
+                "qid": "Q903930",
+                "url": "https://vi.wikipedia.org/wiki/C.I.A_t%C3%A1i_xu%E1%BA%A5t_2"
+            },
+            {
+                "name": "Sonic the Hedgehog",
+                "qid": "Q29906232",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%ADm_Sonic_(phim)"
+            },
+            {
+                "name": "Street Fighter: The Legend of Chun-Li",
+                "qid": "Q663645",
+                "url": "https://vi.wikipedia.org/wiki/Street_Fighter:_The_Legend_of_Chun-Li"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

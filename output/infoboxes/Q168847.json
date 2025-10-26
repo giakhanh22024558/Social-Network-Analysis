@@ -1,0 +1,91 @@
+{
+    "name": "Brittany Murphy",
+    "qid": "Q168847",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Brittany_Murphy",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Ashton Kutcher",
+                "qid": "Q164782",
+                "url": "https://vi.wikipedia.org/wiki/Ashton_Kutcher"
+            },
+            {
+                "name": "Jeff Kwatinetz",
+                "qid": "Q6174304"
+            },
+            {
+                "name": "Joe Macaluso",
+                "qid": "Q110521446"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Angelo Bertolotti",
+                "qid": "Q110521358"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Sharon Murphy",
+                "qid": "Q110521367"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "musician",
+                "qid": "Q639669",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1977-11-10T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Girl, Interrupted",
+                "qid": "Q463101",
+                "url": "https://vi.wikipedia.org/wiki/Girl,_Interrupted_(phim)"
+            },
+            {
+                "name": "Riding in Cars with Boys",
+                "qid": "Q1313530",
+                "url": "https://vi.wikipedia.org/wiki/Riding_in_Cars_with_Boys"
+            },
+            {
+                "name": "Sin City",
+                "qid": "Q192115",
+                "url": "https://vi.wikipedia.org/wiki/Sin_City_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Simon Monjack",
+                "qid": "Q645704"
+            }
+        ]
+    }
+}

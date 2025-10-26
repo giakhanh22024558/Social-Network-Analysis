@@ -1,0 +1,57 @@
+{
+    "name": "Emmy Raver-Lampman",
+    "qid": "Q61900541",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Emmy_Raver-Lampman",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Daveed Diggs",
+                "qid": "Q20973977",
+                "url": "https://vi.wikipedia.org/wiki/Daveed_Diggs"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Q126360869",
+                "qid": "Q126360869"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1988-09-05T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Blacklight",
+                "qid": "Q104889029",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_%C4%91en"
+            },
+            {
+                "name": "Dog",
+                "qid": "Q104843787",
+                "url": "https://vi.wikipedia.org/wiki/Dog_(phim_2022)"
+            },
+            {
+                "name": "The Beekeeper",
+                "qid": "Q115766625",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_v%E1%BB%A5_ong"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

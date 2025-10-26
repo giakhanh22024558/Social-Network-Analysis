@@ -1,0 +1,108 @@
+{
+    "name": "Damien Chazelle",
+    "qid": "Q18350026",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Damien_Chazelle",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Anna Chazelle",
+                "qid": "Q64138496"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Bernard Chazelle",
+                "qid": "Q892115"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Celia Chazelle",
+                "qid": "Q60034627"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "cinematographer",
+                "qid": "Q222344",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_h%C3%ACnh_%E1%BA%A3nh"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1985-01-19T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "First Man",
+                "qid": "Q42708010",
+                "url": "https://vi.wikipedia.org/wiki/B%C6%B0%E1%BB%9Bc_ch%C3%A2n_%C4%91%E1%BA%A7u_ti%C3%AAn"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Babylon",
+                "qid": "Q107119206",
+                "url": "https://vi.wikipedia.org/wiki/Babylon_(phim_2022)"
+            },
+            {
+                "name": "First Man",
+                "qid": "Q42708010",
+                "url": "https://vi.wikipedia.org/wiki/B%C6%B0%E1%BB%9Bc_ch%C3%A2n_%C4%91%E1%BA%A7u_ti%C3%AAn"
+            },
+            {
+                "name": "La La Land",
+                "qid": "Q20856802",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_k%E1%BA%BB_kh%E1%BB%9D_m%E1%BB%99ng_m%C6%A1"
+            },
+            {
+                "name": "Whiplash",
+                "qid": "Q15648198",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%A1t_v%E1%BB%8Dng_nh%E1%BB%8Bp_%C4%91i%E1%BB%87u"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "France",
+                "qid": "Q142",
+                "url": "https://vi.wikipedia.org/wiki/Ph%C3%A1p"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jasmine McGlade",
+                "qid": "Q64138824"
+            },
+            {
+                "name": "Olivia Hamilton",
+                "qid": "Q58822718"
+            }
+        ]
+    }
+}

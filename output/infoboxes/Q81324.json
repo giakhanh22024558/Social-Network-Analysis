@@ -1,0 +1,175 @@
+{
+    "name": "Bret Hart",
+    "qid": "Q81324",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Bret_Hart",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Bruce Hart",
+                "qid": "Q3645473"
+            },
+            {
+                "name": "Dean Hart",
+                "qid": "Q5246201"
+            },
+            {
+                "name": "Diana Hart",
+                "qid": "Q5271184"
+            },
+            {
+                "name": "Ellie Hart",
+                "qid": "Q119444126"
+            },
+            {
+                "name": "Georgia Hart-Annis",
+                "qid": "Q108675445"
+            },
+            {
+                "name": "Keith Hart",
+                "qid": "Q3814322"
+            },
+            {
+                "name": "Owen Hart",
+                "qid": "Q317365",
+                "url": "https://vi.wikipedia.org/wiki/Owen_Hart"
+            },
+            {
+                "name": "Ross Hart",
+                "qid": "Q23696682"
+            },
+            {
+                "name": "Smith Hart",
+                "qid": "Q7545169"
+            },
+            {
+                "name": "Wayne Hart",
+                "qid": "Q108679013"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Stu Hart",
+                "qid": "Q707440"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Dallas Hart",
+                "qid": "Q123423599"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "journalist",
+                "qid": "Q1930187",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_b%C3%A1o"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1957-07-02T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Canada",
+                "qid": "Q16",
+                "url": "https://vi.wikipedia.org/wiki/Canada"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/030b975f0e677475a1fc70a9d8529f2e"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/77eed088e9120cfedd127e643d214dc9"
+            },
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/edfdc7e0850590f05483f06d2557e6bf"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "B. J. Annis",
+                "qid": "Q22003152"
+            },
+            {
+                "name": "Ben Bassarab",
+                "qid": "Q4885278"
+            },
+            {
+                "name": "Davey Boy Smith",
+                "qid": "Q452557"
+            },
+            {
+                "name": "Davey Boy Smith Jr.",
+                "qid": "Q379471"
+            },
+            {
+                "name": "Donald Stewart",
+                "qid": "Q25206278"
+            },
+            {
+                "name": "Dynamite Kid",
+                "qid": "Q962172"
+            },
+            {
+                "name": "Harry Smith",
+                "qid": "Q9286627"
+            },
+            {
+                "name": "Jim Neidhart",
+                "qid": "Q727645"
+            },
+            {
+                "name": "Martha Hart",
+                "qid": "Q6774420"
+            },
+            {
+                "name": "Matt Hart",
+                "qid": "Q61659949"
+            },
+            {
+                "name": "Nattie Neidhart",
+                "qid": "Q231508",
+                "url": "https://vi.wikipedia.org/wiki/Natalya_Neidhart"
+            },
+            {
+                "name": "Roddy Piper",
+                "qid": "Q59630"
+            },
+            {
+                "name": "Teddy Hart",
+                "qid": "Q742280"
+            }
+        ]
+    }
+}

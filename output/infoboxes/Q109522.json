@@ -1,0 +1,80 @@
+{
+    "name": "Ginnifer Goodwin",
+    "qid": "Q109522",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Ginnifer_Goodwin",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Melissa Goodwin",
+                "qid": "Q6812707"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Oliver Dallas",
+                "qid": "Q128499523"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1978-05-22T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "He's Just Not That Into You",
+                "qid": "Q155559",
+                "url": "https://vi.wikipedia.org/wiki/He%27s_Just_Not_That_Into_You_(phim)"
+            },
+            {
+                "name": "Mona Lisa Smile",
+                "qid": "Q642546",
+                "url": "https://vi.wikipedia.org/wiki/Mona_Lisa_Smile"
+            },
+            {
+                "name": "Walk the Line",
+                "qid": "Q154077",
+                "url": "https://vi.wikipedia.org/wiki/Walk_the_Line"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Josh Dallas",
+                "qid": "Q714261",
+                "url": "https://vi.wikipedia.org/wiki/Josh_Dallas"
+            }
+        ]
+    }
+}

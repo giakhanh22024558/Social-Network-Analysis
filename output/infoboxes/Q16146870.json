@@ -1,0 +1,94 @@
+{
+    "name": "Steve Bannon",
+    "qid": "Q16146870",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Steve_Bannon",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "adviser",
+                "qid": "Q2994387"
+            },
+            {
+                "name": "banker",
+                "qid": "Q806798"
+            },
+            {
+                "name": "entrepreneur",
+                "qid": "Q131524",
+                "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_doanh_nghi%E1%BB%87p"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "investment banker",
+                "qid": "Q2883465"
+            },
+            {
+                "name": "political adviser",
+                "qid": "Q8125919"
+            },
+            {
+                "name": "political scientist",
+                "qid": "Q1238570"
+            },
+            {
+                "name": "politician",
+                "qid": "Q82955",
+                "url": "https://vi.wikipedia.org/wiki/Ch%C3%ADnh_kh%C3%A1ch"
+            },
+            {
+                "name": "publicist",
+                "qid": "Q4178004"
+            },
+            {
+                "name": "radio personality",
+                "qid": "Q2722764"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "strategist",
+                "qid": "Q7621877",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_l%C6%B0%E1%BB%A3c_gia"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1953-11-27T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Cathleen Houff",
+                "qid": "Q28587005"
+            },
+            {
+                "name": "Diane Clohesy",
+                "qid": "Q28587586"
+            },
+            {
+                "name": "Mary Piccard",
+                "qid": "Q28587346"
+            }
+        ]
+    }
+}

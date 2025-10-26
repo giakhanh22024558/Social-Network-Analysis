@@ -1,0 +1,90 @@
+{
+    "name": "Dylan O'Brien",
+    "qid": "Q714458",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Dylan_O%27Brien",
+    "gender": "male",
+    "infobox": {
+        "Cha (P22)": [
+            {
+                "name": "Patrick O'Brien",
+                "qid": "Q23754681"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Lisa Simpsons O'Brien",
+                "qid": "Q23754560"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "YouTuber",
+                "qid": "Q17125263",
+                "url": "https://vi.wikipedia.org/wiki/YouTuber"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1991-08-26T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "All Too Well: The Short Film",
+                "qid": "Q109416103",
+                "url": "https://vi.wikipedia.org/wiki/All_Too_Well:_The_Short_Film"
+            },
+            {
+                "name": "Bumblebee",
+                "qid": "Q34220038",
+                "url": "https://vi.wikipedia.org/wiki/Bumblebee_(phim)"
+            },
+            {
+                "name": "Deepwater Horizon",
+                "qid": "Q19877874",
+                "url": "https://vi.wikipedia.org/wiki/Deepwater_Horizon:_Th%E1%BA%A3m_h%E1%BB%8Da_gi%C3%A0n_khoan"
+            },
+            {
+                "name": "Maze Runner: The Death Cure",
+                "qid": "Q23068002",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_m%C3%AA_cung:_L%E1%BB%91i_tho%C3%A1t_t%E1%BB%AD_th%E1%BA%A7n"
+            },
+            {
+                "name": "Maze Runner: The Scorch Trials",
+                "qid": "Q18359358",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_m%C3%AA_cung:_Th%E1%BB%AD_nghi%E1%BB%87m_%C4%91%E1%BA%A5t_ch%C3%A1y"
+            },
+            {
+                "name": "The Internship",
+                "qid": "Q4207359",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%B1c_t%E1%BA%ADp_sinh_(phim)"
+            },
+            {
+                "name": "The Maze Runner",
+                "qid": "Q13099455",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_m%C3%A3_m%C3%AA_cung_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

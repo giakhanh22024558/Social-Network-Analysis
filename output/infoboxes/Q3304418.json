@@ -1,0 +1,85 @@
+{
+    "name": "Meghan, Duchess of Sussex",
+    "qid": "Q3304418",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Meghan_Markle,_C%C3%B4ng_t%C6%B0%E1%BB%9Bc_phu_nh%C3%A2n_x%E1%BB%A9_Sussex",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Samantha Markle",
+                "qid": "Q115767793"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Cory Vitiello",
+                "qid": "Q55588201"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Thomas Markle",
+                "qid": "Q43918214"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Prince Archie of Sussex",
+                "qid": "Q62938826",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_t%C3%B4n_Archie_x%E1%BB%A9_Sussex"
+            },
+            {
+                "name": "Princess Lilibet of Sussex",
+                "qid": "Q107125551",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_t%C3%B4n_n%E1%BB%AF_Lilibet_x%E1%BB%A9_Sussex"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Doria Ragland",
+                "qid": "Q43918160"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1981-08-04T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Remember Me",
+                "qid": "Q632680",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%9B_%C4%91%E1%BA%BFn_anh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Prince Harry, Duke of Sussex",
+                "qid": "Q152316",
+                "url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_t%E1%BB%AD_Harry,_C%C3%B4ng_t%C6%B0%E1%BB%9Bc_x%E1%BB%A9_Sussex"
+            },
+            {
+                "name": "Trevor Engelson",
+                "qid": "Q27947534"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "F. Gary Gray",
+    "qid": "Q462078",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/F._Gary_Gray",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-07-17T00:00:00Z"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Men in Black: International",
+                "qid": "Q55439830",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_v%E1%BB%A5_%C3%A1o_%C4%91en:_S%E1%BB%A9_m%E1%BB%87nh_to%C3%A0n_c%E1%BA%A7u"
+            },
+            {
+                "name": "The Fate of the Furious",
+                "qid": "Q19829521",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious_8"
+            },
+            {
+                "name": "The Italian Job",
+                "qid": "Q648312",
+                "url": "https://vi.wikipedia.org/wiki/Phi_v%E1%BB%A5_Italia"
+            },
+            {
+                "name": "The Negotiator",
+                "qid": "Q1428715",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_th%C6%B0%C6%A1ng_thuy%E1%BA%BFt"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

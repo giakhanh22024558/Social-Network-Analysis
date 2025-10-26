@@ -1,0 +1,113 @@
+{
+    "name": "Andy Garcia",
+    "qid": "Q189415",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Andy_Garc%C3%ADa",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Dominik Garcia-Lorido",
+                "qid": "Q2054524"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "composer",
+                "qid": "Q36834",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_so%E1%BA%A1n_nh%E1%BA%A1c"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1956-04-12T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Cristiada",
+                "qid": "Q2215942",
+                "url": "https://vi.wikipedia.org/wiki/Christian_(phim_2012)"
+            },
+            {
+                "name": "Expend4bles",
+                "qid": "Q108813842",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_%C4%91%C3%A1nh_thu%C3%AA_4"
+            },
+            {
+                "name": "Geostorm",
+                "qid": "Q18342910",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_b%C3%A3o_%C4%91%E1%BB%8Ba_c%E1%BA%A7u"
+            },
+            {
+                "name": "Ghostbusters",
+                "qid": "Q20120108",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma_(phim_2016)"
+            },
+            {
+                "name": "Mamma Mia! Here We Go Again",
+                "qid": "Q36951175",
+                "url": "https://vi.wikipedia.org/wiki/Mamma_Mia!_Y%C3%AAu_l%E1%BA%A7n_n%E1%BB%AFa"
+            },
+            {
+                "name": "New York, I Love You",
+                "qid": "Q44935",
+                "url": "https://vi.wikipedia.org/wiki/New_York,_I_Love_You"
+            },
+            {
+                "name": "Ocean's Eleven",
+                "qid": "Q205447",
+                "url": "https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Di_m%E1%BB%99t_t%C3%AAn_c%C6%B0%E1%BB%9Bp_th%E1%BA%BF_k%E1%BB%B7"
+            },
+            {
+                "name": "Passengers",
+                "qid": "Q20962283",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_du_h%C3%A0nh_(phim_2016)"
+            },
+            {
+                "name": "The Godfather Part III",
+                "qid": "Q202326",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_gi%C3%A0_ph%E1%BA%A7n_III"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Cuba",
+                "qid": "Q241",
+                "url": "https://vi.wikipedia.org/wiki/Cuba"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

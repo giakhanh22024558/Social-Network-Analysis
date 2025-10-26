@@ -1,0 +1,78 @@
+{
+    "name": "Amaury Nolasco",
+    "qid": "Q210327",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Amaury_Nolasco",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1970-12-24T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "2 Fast 2 Furious",
+                "qid": "Q222867",
+                "url": "https://vi.wikipedia.org/wiki/2_Fast_2_Furious"
+            },
+            {
+                "name": "A Good Day to Die Hard",
+                "qid": "Q72276",
+                "url": "https://vi.wikipedia.org/wiki/Die_Hard_5:_A_Good_Day_to_Die_Hard"
+            },
+            {
+                "name": "Animal",
+                "qid": "Q17317998",
+                "url": "https://vi.wikipedia.org/wiki/Animal_(phim_2014)"
+            },
+            {
+                "name": "Criminal",
+                "qid": "Q18149041",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%99i_ph%E1%BA%A1m_(phim_2016)"
+            },
+            {
+                "name": "In the Blood",
+                "qid": "Q3149710",
+                "url": "https://vi.wikipedia.org/wiki/K%E1%BA%BB_truy_s%C3%A1t_(phim_2014)"
+            },
+            {
+                "name": "Street Kings",
+                "qid": "Q785712",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%A1_v%C6%B0%C6%A1ng_%C4%91%C6%B0%E1%BB%9Dng_ph%E1%BB%91"
+            },
+            {
+                "name": "Transformers",
+                "qid": "Q171453",
+                "url": "https://vi.wikipedia.org/wiki/Robot_%C4%91%E1%BA%A1i_chi%E1%BA%BFn"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "Dominican Republic",
+                "qid": "Q786",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Dominica"
+            },
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

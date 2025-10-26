@@ -1,0 +1,83 @@
+{
+    "name": "Lauren Sánchez",
+    "qid": "Q4407963",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Lauren_S%C3%A1nchez",
+    "gender": "female",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "aircraft pilot",
+                "qid": "Q2095549",
+                "url": "https://vi.wikipedia.org/wiki/Phi_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "journalist",
+                "qid": "Q1930187",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_b%C3%A1o"
+            },
+            {
+                "name": "media personality",
+                "qid": "Q1885941"
+            },
+            {
+                "name": "news presenter",
+                "qid": "Q270389",
+                "url": "https://vi.wikipedia.org/wiki/Bi%C3%AAn_t%E1%BA%ADp_vi%C3%AAn_th%E1%BB%9Di_s%E1%BB%B1"
+            },
+            {
+                "name": "sports commentator",
+                "qid": "Q2986228",
+                "url": "https://vi.wikipedia.org/wiki/B%C3%ACnh_lu%E1%BA%ADn_vi%C3%AAn_th%E1%BB%83_thao"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-12-19T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ted 2",
+                "qid": "Q17713411",
+                "url": "https://vi.wikipedia.org/wiki/Ted_2"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jeff Bezos",
+                "qid": "Q312556",
+                "url": "https://vi.wikipedia.org/wiki/Jeff_Bezos"
+            },
+            {
+                "name": "Patrick Whitesell",
+                "qid": "Q7147839"
+            },
+            {
+                "name": "Tony Gonzalez",
+                "qid": "Q729462"
+            }
+        ]
+    }
+}

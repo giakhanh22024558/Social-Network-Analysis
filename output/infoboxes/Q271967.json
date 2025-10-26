@@ -1,0 +1,125 @@
+{
+    "name": "Greta Gerwig",
+    "qid": "Q271967",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Greta_Gerwig",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Noah Baumbach",
+                "qid": "Q459349",
+                "url": "https://vi.wikipedia.org/wiki/Noah_Baumbach"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "film screenwriter",
+                "qid": "Q69423232"
+            },
+            {
+                "name": "playwright",
+                "qid": "Q214917",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_vi%E1%BA%BFt_k%E1%BB%8Bch"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1983-08-04T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "Mistress America",
+                "qid": "Q18699754",
+                "url": "https://vi.wikipedia.org/wiki/Mistress_America"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "20th Century Women",
+                "qid": "Q21010845",
+                "url": "https://vi.wikipedia.org/wiki/20th_Century_Women"
+            },
+            {
+                "name": "Frances Ha",
+                "qid": "Q5478692",
+                "url": "https://vi.wikipedia.org/wiki/Frances_Ha"
+            },
+            {
+                "name": "Greenberg",
+                "qid": "Q629974",
+                "url": "https://vi.wikipedia.org/wiki/Greenberg_(phim)"
+            },
+            {
+                "name": "Mistress America",
+                "qid": "Q18699754",
+                "url": "https://vi.wikipedia.org/wiki/Mistress_America"
+            },
+            {
+                "name": "No Strings Attached",
+                "qid": "Q474087",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_kh%C3%B4ng_r%C3%A0ng_bu%E1%BB%99c"
+            },
+            {
+                "name": "To Rome with Love",
+                "qid": "Q29658",
+                "url": "https://vi.wikipedia.org/wiki/To_Rome_with_Love_(phim)"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Barbie",
+                "qid": "Q55436290",
+                "url": "https://vi.wikipedia.org/wiki/Barbie_(phim)"
+            },
+            {
+                "name": "Lady Bird",
+                "qid": "Q27480769",
+                "url": "https://vi.wikipedia.org/wiki/Lady_Bird:_Tu%E1%BB%95i_n%E1%BB%95i_lo%E1%BA%A1n"
+            },
+            {
+                "name": "Little Women",
+                "qid": "Q56881140",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_ng%C6%B0%E1%BB%9Di_ph%E1%BB%A5_n%E1%BB%AF_b%C3%A9_nh%E1%BB%8F"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Noah Baumbach",
+                "qid": "Q459349",
+                "url": "https://vi.wikipedia.org/wiki/Noah_Baumbach"
+            }
+        ]
+    }
+}

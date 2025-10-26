@@ -1,0 +1,143 @@
+{
+    "name": "Paul Rudd",
+    "qid": "Q276525",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Paul_Rudd",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Darby Rudd",
+                "qid": "Q117676300"
+            },
+            {
+                "name": "Jack Rudd",
+                "qid": "Q117676759"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1969-04-06T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ant-Man",
+                "qid": "Q5901134",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_(phim)"
+            },
+            {
+                "name": "Ant-Man and the Wasp",
+                "qid": "Q22957393",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_v%C3%A0_Chi%E1%BA%BFn_binh_Ong"
+            },
+            {
+                "name": "Ant-Man and the Wasp: Quantumania",
+                "qid": "Q105359456",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Ki%E1%BA%BFn_v%C3%A0_Chi%E1%BA%BFn_binh_Ong:_Th%E1%BA%BF_gi%E1%BB%9Bi_L%C6%B0%E1%BB%A3ng_t%E1%BB%AD"
+            },
+            {
+                "name": "Avengers: Doomsday",
+                "qid": "Q113244839",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Doomsday"
+            },
+            {
+                "name": "Avengers: Endgame",
+                "qid": "Q23781155",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_H%E1%BB%93i_k%E1%BA%BFt"
+            },
+            {
+                "name": "Captain America: Civil War",
+                "qid": "Q18407657",
+                "url": "https://vi.wikipedia.org/wiki/Captain_America:_N%E1%BB%99i_chi%E1%BA%BFn_si%C3%AAu_anh_h%C3%B9ng"
+            },
+            {
+                "name": "Gen-Y Cops",
+                "qid": "Q3100345",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_c%E1%BA%A3nh_t%C3%A2n_nh%C3%A2n_lo%E1%BA%A1i_2"
+            },
+            {
+                "name": "Ghostbusters: Afterlife",
+                "qid": "Q61883088",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma:_Chuy%E1%BB%83n_ki%E1%BA%BFp"
+            },
+            {
+                "name": "Ghostbusters: Frozen Empire",
+                "qid": "Q113300586",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_s%C4%83n_ma:_K%E1%BB%B7_nguy%C3%AAn_b%C4%83ng_gi%C3%A1"
+            },
+            {
+                "name": "Ideal Home",
+                "qid": "Q27959441",
+                "url": "https://vi.wikipedia.org/wiki/Ideal_Home_(phim)"
+            },
+            {
+                "name": "Night at the Museum",
+                "qid": "Q387601",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_kinh_ho%C3%A0ng"
+            },
+            {
+                "name": "The Perks of Being a Wallflower",
+                "qid": "Q675468",
+                "url": "https://vi.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower_(phim)"
+            },
+            {
+                "name": "This Is the End",
+                "qid": "Q607363",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_n%E1%BB%91t_ng%C3%A0y_cu%E1%BB%91i"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Julie Yaeger",
+                "qid": "Q117676564"
+            }
+        ]
+    }
+}

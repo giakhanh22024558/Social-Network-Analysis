@@ -1,0 +1,125 @@
+{
+    "name": "Anjelica Huston",
+    "qid": "Q190998",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Anjelica_Huston",
+    "gender": "female",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Allegra Huston",
+                "qid": "Q4731396"
+            },
+            {
+                "name": "Danny Huston",
+                "qid": "Q357762",
+                "url": "https://vi.wikipedia.org/wiki/Danny_Huston"
+            },
+            {
+                "name": "Tony Huston",
+                "qid": "Q19059415"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Q726136",
+                "qid": "Q726136"
+            },
+            {
+                "name": "Jack Nicholson",
+                "qid": "Q39792",
+                "url": "https://vi.wikipedia.org/wiki/Jack_Nicholson"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "John Huston",
+                "qid": "Q51575",
+                "url": "https://vi.wikipedia.org/wiki/John_Huston"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Enrica Soma",
+                "qid": "Q18211504"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "autobiographer",
+                "qid": "Q18814623"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1951-07-08T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Ballerina",
+                "qid": "Q84713105",
+                "url": "https://vi.wikipedia.org/wiki/T%E1%BB%AB_V%C5%A9_tr%E1%BB%A5_John_Wick:_Ballerina"
+            },
+            {
+                "name": "John Wick: Chapter 3 – Parabellum",
+                "qid": "Q52951815",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%A1t_th%E1%BB%A7_John_Wick:_Ph%E1%BA%A7n_3_%E2%80%93_Chu%E1%BA%A9n_b%E1%BB%8B_chi%E1%BA%BFn_tranh"
+            },
+            {
+                "name": "One Flew Over the Cuckoo's Nest",
+                "qid": "Q171669",
+                "url": "https://vi.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(phim)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Q726136",
+                "qid": "Q726136"
+            }
+        ]
+    }
+}

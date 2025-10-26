@@ -1,0 +1,97 @@
+{
+    "name": "Bette Midler",
+    "qid": "Q190631",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Bette_Midler",
+    "gender": "female",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Sophie von Haselberg",
+                "qid": "Q21285647"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "comedian",
+                "qid": "Q245068",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_h%C3%A0i"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "producer",
+                "qid": "Q47541952"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1945-12-01T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Cats & Dogs: The Revenge of Kitty Galore",
+                "qid": "Q959335",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_ch%C3%B3_m%C3%A8o:_Kitty_Galore_b%C3%A1o_th%C3%B9"
+            },
+            {
+                "name": "Freak Show",
+                "qid": "Q21646414",
+                "url": "https://vi.wikipedia.org/wiki/Freak_Show_(phim)"
+            },
+            {
+                "name": "Parental Guidance",
+                "qid": "Q3384891",
+                "url": "https://vi.wikipedia.org/wiki/Khi_ch%C3%A1u_l%C3%A0_si%C3%AAu_qu%E1%BA%ADy"
+            },
+            {
+                "name": "What Women Want",
+                "qid": "Q156394",
+                "url": "https://vi.wikipedia.org/wiki/What_Women_Want"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Martin von Haselberg",
+                "qid": "Q7744719"
+            }
+        ]
+    }
+}

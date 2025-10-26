@@ -1,0 +1,63 @@
+# SELECT ?person ?personLabel ?viwikiURL ?genderLabel ?countryLabel ?age
+# WHERE {
+#   # Bộ lọc 1: Quốc gia (Chỉ định)
+#   # Ví dụ: Hoa Kỳ (wd:Q30), Vương quốc Anh (wd:Q145)
+#   VALUES ?country { wd:Q30 }
+#   ?person wdt:P27 ?country.
+# 
+#   # Bộ lọc 2: Giới tính (Chỉ định)
+#   # Ví dụ: Nam (wd:Q6581097)
+#   VALUES ?gender { wd:Q6581097 }
+#   ?person wdt:P21 ?gender.
+#   
+#   # Lấy các thực thể là Diễn viên (wd:Q33999) HOẶC Đạo diễn (wd:Q2526255)
+#   ?person wdt:P106 ?occupation.
+#   VALUES ?occupation { wd:Q33999 wd:Q2526255 }
+# 
+#   # BẮT BUỘC: Phải có bài viết trên Wikipedia tiếng Việt
+#   ?article schema:about ?person;
+#            schema:isPartOf <https://vi.wikipedia.org/>.
+#   BIND(STR(?article) AS ?viwikiURL)
+# 
+#   # Bộ lọc 3: Khoảng độ tuổi (Tính toán)
+#   ?person wdt:P569 ?dob. # Lấy ngày sinh
+#   BIND(YEAR(NOW()) - YEAR(?dob) AS ?age)
+#   FILTER(?age >= 30 && ?age <= 50) # Ví dụ: Lọc tuổi từ 30 đến 50
+# 
+#   # Lấy nhãn (tên) - ưu tiên tiếng Việt, nếu không có thì lấy tiếng Anh
+#   SERVICE wikibase:label {
+#     bd:serviceParam wikibase:language "en".
+#     ?person rdfs:label ?personLabel.
+#     ?gender rdfs:label ?genderLabel.
+#     ?country rdfs:label ?countryLabel.
+#   }
+#   # Lọc bỏ các nhãn không phải 'vi' hoặc 'en'
+#   FILTER(LANG(?personLabel) = "vi" || LANG(?personLabel) = "en")
+# }
+# LIMIT 100 # Giới hạn số lượng kết quả
+
+
+
+SELECT ?person ?personLabel ?viwikiURL ?genderLabel ?countryLabel ?dob
+WHERE {
+  VALUES ?country { wd:Q30 }        # Quốc gia: Mỹ
+  VALUES ?gender { wd:Q6581072 }    # Giới tính: Nữ wd:Q6581072
+  VALUES ?occupation { wd:Q33999 wd:Q2526255 } # Diễn viên, Đạo diễn
+
+  ?person wdt:P27 ?country;
+          wdt:P21 ?gender;
+          wdt:P106 ?occupation;
+          wdt:P569 ?dob.
+
+  # Bộ lọc tuổi (năm sinh)
+  FILTER(?dob >= "1980-01-01T00:00:00Z"^^xsd:dateTime &&
+         ?dob <= "2000-12-31T23:59:59Z"^^xsd:dateTime)
+
+  # Bài Wikipedia tiếng Việt
+  ?article schema:about ?person;
+           schema:isPartOf <https://vi.wikipedia.org/>.
+  BIND(STR(?article) AS ?viwikiURL)
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+LIMIT 1000

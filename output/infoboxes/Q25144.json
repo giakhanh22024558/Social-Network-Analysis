@@ -1,0 +1,140 @@
+{
+    "name": "Kevin Spacey",
+    "qid": "Q25144",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Kevin_Spacey",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "character actor",
+                "qid": "Q948329"
+            },
+            {
+                "name": "director",
+                "qid": "Q3455803"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "screenwriter",
+                "qid": "Q28389",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_bi%C3%AAn_k%E1%BB%8Bch"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "television producer",
+                "qid": "Q578109",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_truy%E1%BB%81n_h%C3%ACnh"
+            },
+            {
+                "name": "theatrical director",
+                "qid": "Q3387717"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1959-07-26T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "The Social Network",
+                "qid": "Q185888",
+                "url": "https://vi.wikipedia.org/wiki/The_Social_Network"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "American Beauty",
+                "qid": "Q25139",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BA%BB_%C4%91%E1%BA%B9p_M%E1%BB%B9_(phim_1999)"
+            },
+            {
+                "name": "Baby Driver",
+                "qid": "Q23016644",
+                "url": "https://vi.wikipedia.org/wiki/Qu%C3%A1i_x%E1%BA%BF_Baby"
+            },
+            {
+                "name": "Horrible Bosses 2",
+                "qid": "Q15275703",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_ba_si%C3%AAu_b%E1%BB%B1a_2"
+            },
+            {
+                "name": "Nine Lives",
+                "qid": "Q20002304",
+                "url": "https://vi.wikipedia.org/wiki/B%E1%BB%91_t%C3%B4i_l%C3%A0_m%C3%A8o"
+            },
+            {
+                "name": "Outbreak",
+                "qid": "Q495513",
+                "url": "https://vi.wikipedia.org/wiki/Outbreak_(phim_1995)"
+            },
+            {
+                "name": "Seven",
+                "qid": "Q190908",
+                "url": "https://vi.wikipedia.org/wiki/Seven_(phim_1995)"
+            },
+            {
+                "name": "Superman Returns",
+                "qid": "Q328695",
+                "url": "https://vi.wikipedia.org/wiki/Si%C3%AAu_nh%C3%A2n_tr%E1%BB%9F_l%E1%BA%A1i"
+            },
+            {
+                "name": "The Negotiator",
+                "qid": "Q1428715",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_th%C6%B0%C6%A1ng_thuy%E1%BA%BFt"
+            },
+            {
+                "name": "The Usual Suspects",
+                "qid": "Q132351",
+                "url": "https://vi.wikipedia.org/wiki/The_Usual_Suspects"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Daniel Fowler",
+                "qid": "Q123470459"
+            },
+            {
+                "name": "Josh Sartain",
+                "qid": "Q123470536"
+            }
+        ]
+    }
+}

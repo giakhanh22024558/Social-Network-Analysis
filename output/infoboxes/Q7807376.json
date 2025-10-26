@@ -1,0 +1,44 @@
+{
+    "name": "Timothy M. Rose",
+    "qid": "Q7807376",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tim_Rose_(di%E1%BB%85n_vi%C3%AAn)",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "puppeteer",
+                "qid": "Q2629392",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_%C4%91i%E1%BB%81u_khi%E1%BB%83n_r%E1%BB%91i"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1942-07-17T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Star Wars: Episode VI – Return of the Jedi",
+                "qid": "Q181803",
+                "url": "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_gi%E1%BB%AFa_c%C3%A1c_v%C3%AC_sao:_S%E1%BB%B1_tr%E1%BB%9F_l%E1%BA%A1i_c%E1%BB%A7a_Jedi"
+            },
+            {
+                "name": "Star Wars: Episode VII – The Force Awakens",
+                "qid": "Q6074",
+                "url": "https://vi.wikipedia.org/wiki/Star_Wars:_Th%E1%BA%A7n_l%E1%BB%B1c_th%E1%BB%A9c_t%E1%BB%89nh"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,224 @@
+{
+    "name": "Channing Tatum",
+    "qid": "Q212064",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Channing_Tatum",
+    "gender": "male",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Jessie J",
+                "qid": "Q18814",
+                "url": "https://vi.wikipedia.org/wiki/Jessie_J"
+            },
+            {
+                "name": "Zoë Kravitz",
+                "qid": "Q227129",
+                "url": "https://vi.wikipedia.org/wiki/Zo%C3%AB_Kravitz"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "dancer",
+                "qid": "Q5716684",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_c%C3%B4ng"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "model",
+                "qid": "Q4610556",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%ABu"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "voice actor",
+                "qid": "Q2405480"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1980-04-26T00:00:00Z"
+            }
+        ],
+        "Phim đã sản xuất (P162)": [
+            {
+                "name": "21 Jump Street",
+                "qid": "Q214014",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "22 Jump Street",
+                "qid": "Q15040917",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_%C4%91%E1%BA%A1i_h%E1%BB%8Dc"
+            },
+            {
+                "name": "Dog",
+                "qid": "Q104843787",
+                "url": "https://vi.wikipedia.org/wiki/Dog_(phim_2022)"
+            },
+            {
+                "name": "Magic Mike's Last Dance",
+                "qid": "Q114876189",
+                "url": "https://vi.wikipedia.org/wiki/Magic_Mike%27s_Last_Dance"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "21 Jump Street",
+                "qid": "Q214014",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng"
+            },
+            {
+                "name": "22 Jump Street",
+                "qid": "Q15040917",
+                "url": "https://vi.wikipedia.org/wiki/C%E1%BB%9Bm_%C4%91%E1%BA%A1i_h%E1%BB%8Dc"
+            },
+            {
+                "name": "Avengers: Doomsday",
+                "qid": "Q113244839",
+                "url": "https://vi.wikipedia.org/wiki/Avengers:_Doomsday"
+            },
+            {
+                "name": "Blink Twice",
+                "qid": "Q113012523",
+                "url": "https://vi.wikipedia.org/wiki/T%C3%ADn_hi%E1%BB%87u_c%E1%BA%A7u_c%E1%BB%A9u_(phim_2024)"
+            },
+            {
+                "name": "Bullet Train",
+                "qid": "Q99900595",
+                "url": "https://vi.wikipedia.org/wiki/Bullet_Train:_S%C3%A1t_th%E1%BB%A7_%C4%91%E1%BB%91i_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "Deadpool & Wolverine",
+                "qid": "Q102180106",
+                "url": "https://vi.wikipedia.org/wiki/Deadpool_v%C3%A0_Wolverine"
+            },
+            {
+                "name": "Dear John",
+                "qid": "Q867138",
+                "url": "https://vi.wikipedia.org/wiki/Th%C6%B0_t%C3%ACnh_n%C6%A1i_chi%E1%BA%BFn_tr%E1%BA%ADn"
+            },
+            {
+                "name": "Dog",
+                "qid": "Q104843787",
+                "url": "https://vi.wikipedia.org/wiki/Dog_(phim_2022)"
+            },
+            {
+                "name": "Fly Me to the Moon",
+                "qid": "Q115057826",
+                "url": "https://vi.wikipedia.org/wiki/V%E1%BB%A5_b%C3%AA_b%E1%BB%91i_%C3%A1nh_tr%C4%83ng"
+            },
+            {
+                "name": "Free Guy",
+                "qid": "Q38685497",
+                "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_c%E1%BB%A9u_%22Guy%22"
+            },
+            {
+                "name": "G.I. Joe: Retaliation",
+                "qid": "Q1146345",
+                "url": "https://vi.wikipedia.org/wiki/G.I._Joe:_B%C3%A1o_th%C3%B9"
+            },
+            {
+                "name": "G.I. Joe: The Rise of Cobra",
+                "qid": "Q288645",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_G.I._Joe:_Cu%E1%BB%99c_chi%E1%BA%BFn_M%C3%A3ng_x%C3%A0"
+            },
+            {
+                "name": "Jupiter Ascending",
+                "qid": "Q12125299",
+                "url": "https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_th%E1%BB%ABa_k%E1%BA%BF_v%C5%A9_tr%E1%BB%A5"
+            },
+            {
+                "name": "Kingsman: The Golden Circle",
+                "qid": "Q23780457",
+                "url": "https://vi.wikipedia.org/wiki/Kingsman:_T%E1%BB%95_ch%E1%BB%A9c_Ho%C3%A0ng_Kim"
+            },
+            {
+                "name": "Magic Mike's Last Dance",
+                "qid": "Q114876189",
+                "url": "https://vi.wikipedia.org/wiki/Magic_Mike%27s_Last_Dance"
+            },
+            {
+                "name": "Public Enemies",
+                "qid": "Q329448",
+                "url": "https://vi.wikipedia.org/wiki/Public_Enemies"
+            },
+            {
+                "name": "She's the Man",
+                "qid": "Q72925",
+                "url": "https://vi.wikipedia.org/wiki/She%E2%80%99s_the_Man"
+            },
+            {
+                "name": "Step Up",
+                "qid": "Q180125",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_%C4%91i%E1%BB%87u_%C4%91%C6%B0%E1%BB%9Dng_ph%E1%BB%91_(phim)"
+            },
+            {
+                "name": "Step Up 2: The Streets",
+                "qid": "Q81487",
+                "url": "https://vi.wikipedia.org/wiki/V%C5%A9_%C4%91i%E1%BB%87u_t%C3%ACnh_y%C3%AAu:_B%C6%B0%E1%BB%9Bc_nh%E1%BA%A3y_%C4%91%C6%B0%E1%BB%9Dng_ph%E1%BB%91"
+            },
+            {
+                "name": "The Hateful Eight",
+                "qid": "Q18225084",
+                "url": "https://vi.wikipedia.org/wiki/The_Hateful_Eight"
+            },
+            {
+                "name": "The Vow",
+                "qid": "Q522389",
+                "url": "https://vi.wikipedia.org/wiki/Y%C3%AAu_l%E1%BA%A1i_t%E1%BB%AB_%C4%91%E1%BA%A7u"
+            },
+            {
+                "name": "This Is the End",
+                "qid": "Q607363",
+                "url": "https://vi.wikipedia.org/wiki/S%E1%BB%91ng_n%E1%BB%91t_ng%C3%A0y_cu%E1%BB%91i"
+            },
+            {
+                "name": "War of the Worlds",
+                "qid": "Q202028",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi_%C4%91%E1%BA%A1i_chi%E1%BA%BFn"
+            }
+        ],
+        "Phim đã đạo diễn (P57)": [
+            {
+                "name": "Dog",
+                "qid": "Q104843787",
+                "url": "https://vi.wikipedia.org/wiki/Dog_(phim_2022)"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Jenna Dewan",
+                "qid": "Q232708"
+            }
+        ]
+    }
+}

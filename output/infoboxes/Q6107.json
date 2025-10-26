@@ -1,0 +1,134 @@
+{
+    "name": "Tupac Shakur",
+    "qid": "Q6107",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Tupac_Shakur",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Mopreme Shakur",
+                "qid": "Q1352765"
+            },
+            {
+                "name": "Sekyiwa Shakur",
+                "qid": "Q62739620"
+            },
+            {
+                "name": "Takerra Allen",
+                "qid": "Q111490920"
+            }
+        ],
+        "Bạn tình (P451)": [
+            {
+                "name": "Kidada Jones",
+                "qid": "Q6404568",
+                "url": "https://vi.wikipedia.org/wiki/Kidada_Jones"
+            },
+            {
+                "name": "Madonna",
+                "qid": "Q1744",
+                "url": "https://vi.wikipedia.org/wiki/Madonna"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Billy Garland",
+                "qid": "Q8248007"
+            },
+            {
+                "name": "Mutulu Shakur",
+                "qid": "Q3394760"
+            }
+        ],
+        "Mẹ (P25)": [
+            {
+                "name": "Afeni Shakur",
+                "qid": "Q2273636"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "activist",
+                "qid": "Q15253558"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "lyricist",
+                "qid": "Q822146",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_vi%E1%BA%BFt_l%E1%BB%9Di_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "poet",
+                "qid": "Q49757",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%C6%A1"
+            },
+            {
+                "name": "rapper",
+                "qid": "Q2252262"
+            },
+            {
+                "name": "singer",
+                "qid": "Q177220",
+                "url": "https://vi.wikipedia.org/wiki/Ca_s%C4%A9"
+            },
+            {
+                "name": "songwriter",
+                "qid": "Q753110",
+                "url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_s%C4%A9_s%C3%A1ng_t%C3%A1c_b%C3%A0i_h%C3%A1t"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            },
+            {
+                "name": "writer",
+                "qid": "Q36180",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_v%C4%83n"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1971-01-01T00:00:00Z"
+            },
+            {
+                "name": "1971-06-16T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Keisha Morris",
+                "qid": "Q57055903"
+            }
+        ],
+        "Ông/bà (P1038)": [
+            {
+                "name": "Assata Shakur",
+                "qid": "Q467961"
+            },
+            {
+                "name": "Geronimo Pratt",
+                "qid": "Q711080"
+            },
+            {
+                "name": "Kastro",
+                "qid": "Q2153802"
+            }
+        ]
+    }
+}

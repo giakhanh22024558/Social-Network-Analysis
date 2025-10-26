@@ -1,0 +1,83 @@
+{
+    "name": "Jessica Biel",
+    "qid": "Q163249",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jessica_Biel",
+    "gender": "female",
+    "infobox": {
+        "Bạn tình (P451)": [
+            {
+                "name": "Adam LaVorgna",
+                "qid": "Q350251"
+            },
+            {
+                "name": "Chris Evans",
+                "qid": "Q178348",
+                "url": "https://vi.wikipedia.org/wiki/Chris_Evans_(di%E1%BB%85n_vi%C3%AAn)"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Silas Timberlake",
+                "qid": "Q23820958"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1982-03-03T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Elizabethtown",
+                "qid": "Q113052",
+                "url": "https://vi.wikipedia.org/wiki/Th%E1%BB%8B_tr%E1%BA%A5n_t%C3%ACnh_y%C3%AAu"
+            },
+            {
+                "name": "The A-Team",
+                "qid": "Q471746",
+                "url": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91%E1%BB%99i_h%C3%A0nh_%C4%91%E1%BB%99ng"
+            },
+            {
+                "name": "The Illusionist",
+                "qid": "Q645735",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A2o_thu%E1%BA%ADt_gia_(phim_2006)"
+            },
+            {
+                "name": "The Texas Chainsaw Massacre",
+                "qid": "Q392696",
+                "url": "https://vi.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_(phim_2003)"
+            },
+            {
+                "name": "Total Recall",
+                "qid": "Q634810",
+                "url": "https://vi.wikipedia.org/wiki/Truy_t%C3%ACm_k%C3%BD_%E1%BB%A9c"
+            },
+            {
+                "name": "Valentine's Day",
+                "qid": "Q244975",
+                "url": "https://vi.wikipedia.org/wiki/%E1%BA%A8n_s%E1%BB%91_t%C3%ACnh_y%C3%AAu"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Justin Timberlake",
+                "qid": "Q43432",
+                "url": "https://vi.wikipedia.org/wiki/Justin_Timberlake"
+            }
+        ]
+    }
+}

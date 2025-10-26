@@ -1,0 +1,85 @@
+{
+    "name": "Roman Reigns",
+    "qid": "Q275971",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Roman_Reigns",
+    "gender": "male",
+    "infobox": {
+        "Anh/Chị em (P3373)": [
+            {
+                "name": "Rosey",
+                "qid": "Q2474413"
+            }
+        ],
+        "Cha (P22)": [
+            {
+                "name": "Sika Anoa'i",
+                "qid": "Q173275"
+            }
+        ],
+        "Con cái (P40)": [
+            {
+                "name": "Aitonui Anoa'i",
+                "qid": "Q135107514"
+            },
+            {
+                "name": "Aonani Anoa'i",
+                "qid": "Q135107434"
+            },
+            {
+                "name": "Jojo Anoa'i",
+                "qid": "Q135107244"
+            },
+            {
+                "name": "Shaimim Anoa'i",
+                "qid": "Q135107221"
+            },
+            {
+                "name": "Shanahan Anoa'i",
+                "qid": "Q135107247"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "American football player",
+                "qid": "Q19204627"
+            },
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "professional wrestler",
+                "qid": "Q13474373"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1985-05-25T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Hobbs & Shaw",
+                "qid": "Q56559254",
+                "url": "https://vi.wikipedia.org/wiki/Fast_%26_Furious:_Hobbs_%26_Shaw"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "http://www.wikidata.org/.well-known/genid/c13b2fd93882aff74b22842ba1fab233"
+            },
+            {
+                "name": "Galina Becker",
+                "qid": "Q135107236"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Van Darkholme",
+    "qid": "Q1198949",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Van_Darkholme",
+    "gender": "male",
+    "infobox": {
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "film director",
+                "qid": "Q2526255",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_di%E1%BB%85n_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "online streamer",
+                "qid": "Q57414145"
+            },
+            {
+                "name": "photographer",
+                "qid": "Q33231",
+                "url": "https://vi.wikipedia.org/wiki/Nhi%E1%BA%BFp_%E1%BA%A3nh_gia"
+            },
+            {
+                "name": "pornographic actor",
+                "qid": "Q488111",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_phim_khi%C3%AAu_d%C3%A2m"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1972-10-24T00:00:00Z"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ]
+    }
+}

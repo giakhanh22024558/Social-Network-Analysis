@@ -1,0 +1,119 @@
+{
+    "name": "Jeffrey Wright",
+    "qid": "Q343059",
+    "viwikiURL": "https://vi.wikipedia.org/wiki/Jeffrey_Wright",
+    "gender": "male",
+    "infobox": {
+        "Con cái (P40)": [
+            {
+                "name": "Elijah Wright",
+                "qid": "Q121748257"
+            }
+        ],
+        "Nghề nghiệp (P106)": [
+            {
+                "name": "actor",
+                "qid": "Q33999",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn"
+            },
+            {
+                "name": "film actor",
+                "qid": "Q10800557",
+                "url": "https://vi.wikipedia.org/wiki/Di%E1%BB%85n_vi%C3%AAn_%C4%91i%E1%BB%87n_%E1%BA%A3nh"
+            },
+            {
+                "name": "film producer",
+                "qid": "Q3282637",
+                "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_s%E1%BA%A3n_xu%E1%BA%A5t_phim"
+            },
+            {
+                "name": "stage actor",
+                "qid": "Q2259451"
+            },
+            {
+                "name": "television actor",
+                "qid": "Q10798782"
+            }
+        ],
+        "Ngày sinh (P569)": [
+            {
+                "name": "1965-12-07T00:00:00Z"
+            }
+        ],
+        "Phim đã tham gia (diễn viên) (P161)": [
+            {
+                "name": "Asteroid City",
+                "qid": "Q108086029",
+                "url": "https://vi.wikipedia.org/wiki/Asteroid_City"
+            },
+            {
+                "name": "Casino Royale",
+                "qid": "Q151904",
+                "url": "https://vi.wikipedia.org/wiki/S%C3%B2ng_b%E1%BA%A1c_ho%C3%A0ng_gia"
+            },
+            {
+                "name": "Extremely Loud and Incredibly Close",
+                "qid": "Q918769",
+                "url": "https://vi.wikipedia.org/wiki/Extremely_Loud_and_Incredibly_Close_(phim)"
+            },
+            {
+                "name": "Game Night",
+                "qid": "Q30011713",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%AAm_ch%C6%A1i_nh%E1%BB%9B_%C4%91%E1%BB%9Di"
+            },
+            {
+                "name": "No Time to Die",
+                "qid": "Q21534241",
+                "url": "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_ph%E1%BA%A3i_l%C3%BAc_ch%E1%BA%BFt"
+            },
+            {
+                "name": "Quantum of Solace",
+                "qid": "Q181540",
+                "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_m%E1%BB%A9c_khu%C3%A2y_kh%E1%BB%8Fa"
+            },
+            {
+                "name": "Ride with the Devil",
+                "qid": "Q669578",
+                "url": "https://vi.wikipedia.org/wiki/Ride_with_the_Devil"
+            },
+            {
+                "name": "Source Code",
+                "qid": "Q266209",
+                "url": "https://vi.wikipedia.org/wiki/M%E1%BA%ADt_m%C3%A3_g%E1%BB%91c"
+            },
+            {
+                "name": "The Batman",
+                "qid": "Q61117344",
+                "url": "https://vi.wikipedia.org/wiki/Batman_(phim_2022)"
+            },
+            {
+                "name": "The Hunger Games: Catching Fire",
+                "qid": "Q574583",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_B%E1%BA%AFt_l%E1%BB%ADa"
+            },
+            {
+                "name": "The Hunger Games: Mockingjay – Part 1",
+                "qid": "Q4142083",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_H%C3%BAng_nh%E1%BA%A1i_%E2%80%93_Ph%E1%BA%A7n_1"
+            },
+            {
+                "name": "The Hunger Games: Mockingjay – Part 2",
+                "qid": "Q10307713",
+                "url": "https://vi.wikipedia.org/wiki/The_Hunger_Games:_H%C3%BAng_nh%E1%BA%A1i_%E2%80%93_H%E1%BB%93i_k%E1%BA%BFt"
+            }
+        ],
+        "Quốc tịch (P27)": [
+            {
+                "name": "United States",
+                "qid": "Q30",
+                "url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3"
+            }
+        ],
+        "Vợ/Chồng (P26)": [
+            {
+                "name": "Carmen Ejogo",
+                "qid": "Q391536"
+            }
+        ]
+    }
+}
