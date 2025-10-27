@@ -1,0 +1,56 @@
+node.Film {
+  color: #8edcec;
+  size: 25px;
+}
+
+node.Person {
+  color: #FFE081;
+  size: 50px;
+}
+
+node.ActorDirector {
+  color: #F16667;
+  size: 72px;
+  caption: "{name}";
+}
+
+node.* {
+  color: #8DCC93;
+  size: 25px;
+}
+
+relationship.IS_SIBLING_OF {
+  width: 1px;
+}
+
+relationship.IS_PARTNER_OF {
+  width: 1px;
+}
+
+relationship.IS_CHILD_OF {
+  width: 1px;
+}
+
+relationship.IS_PARENT_OF {
+  width: 1px;
+}
+
+relationship.ACTED_IN {
+  width: 1px;
+}
+
+relationship.DIRECTED {
+  width: 1px;
+}
+
+relationship.IS_SPOUSE_OF {
+  width: 1px;
+}
+
+relationship.PRODUCED {
+  width: 1px;
+}
+
+relationship.HAS_GRANDPARENT_OF {
+  width: 1px;
+}

@@ -93,6 +93,7 @@ class Neo4jImporter:
                     p.name = $name,
                     p.gender = $gender,
                     p.viwikiURL = $url
+                SET p: ActorDirector
                 """
                 session.run(query_person, 
                             qid=actor_qid, 
