@@ -12,7 +12,11 @@ Bước 2:
 Bước 3:
 3_filter_actors.py: Bước lọc cuối cùng, mục tiêu là lọc các nhân vật có nhãn nghề nghiệp và diễn viên/đạo diễn nhưng không tham gia bất kỳ tác phẩm phim nào. Bộ dữ liệu cuối cùng thu được có 1264 nhân vật (output\all_actors_infoboxes_FILTERED.json)
 
+Bước 4:
+4_import_to_neo4j.py: Thực hiện tạo đồ thị(node và quan hệ) và lưu vào Neo4j. 
+
 ## Chú thích: 
 - file utils.py dùng để thiết lập các câu hình với hàm sử dụng cơ bản
 - Mã Q(id): Mã định dang duy nhất cho thực thể.
 - Mã P(id): Mã định danh thông tin/quan hệ.
+- Một vài lệnh để truy vấn trên đồ thị được lưu trong some-script.cpl
