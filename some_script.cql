@@ -25,3 +25,21 @@ LIMIT 50
 MATCH (n) - [r] - (m)
 RETURN n, r, m
 LIMIT 200
+
+//lệnh 5/////////////////
+// Truy vấn 1: Lấy 10 mẫu quan hệ Diễn viên -> Phim
+MATCH (ad:ActorDirector) - [r1] -> (f:Film)
+RETURN ad AS NodeA, r1 AS Relationship, f AS NodeB
+LIMIT 50
+
+UNION
+
+// Truy vấn 2: Lấy 10 mẫu quan hệ Diễn viên -> Người (không phải diễn viên)
+MATCH (ad:ActorDirector) - [r2] -> (p:Person)
+// Đảm bảo rằng nút 'p' CHỈ là Person, không phải ActorDirector
+WHERE NOT p:ActorDirector
+RETURN ad AS NodeA, r2 AS Relationship, p AS NodeB
+LIMIT 50
+
+//////////////////////////////////
+

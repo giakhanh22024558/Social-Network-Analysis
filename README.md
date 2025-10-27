@@ -20,8 +20,9 @@ Bước 4:
 - Mã Q(id): Mã định dang duy nhất cho thực thể.
 - Mã P(id): Mã định danh thông tin/quan hệ.
 - Một vài lệnh để truy vấn trên đồ thị được lưu trong some-script.cpl
-- tất cả con người đều có nhãn Person, nếu là diễn viên/đạo diễn thì có thêm nhãn ActorDirector
-- Import cấu hình màu cho các node bằng file ne4j_style_2025-10-27.grass (nếu không làm thì màu của actordirector sẽ bị dùng chung với Person)
+- tất cả con người đều có nhãn Person (nhãn màu vàng), nếu là diễn viên/đạo diễn thì có thêm nhãn ActorDirector (màu đỏ), nhã film có màu xanh dương
+- Import cấu hình màu cho các node bằng file ne4j_style_2025-10-27.grass (nếu không làm thì màu của actordirector sẽ bị dùng chung với Person): gõ lệnh truy vấn ":style" để import
+![alt text](image-3.png)
 ![alt text](image-2.png)
 ![alt text](image-1.png)
 ![alt text](image.png)
