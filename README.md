@@ -21,5 +21,6 @@ Bước 4:
 - Mã P(id): Mã định danh thông tin/quan hệ.
 - Một vài lệnh để truy vấn trên đồ thị được lưu trong some-script.cpl
 
+![alt text](image-2.png)
 ![alt text](image-1.png)
 ![alt text](image.png)
