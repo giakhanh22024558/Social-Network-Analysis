@@ -18,11 +18,10 @@ KEY_MAP = {
     "P162": "PRODUCED",
     "P22": "IS_CHILD_OF", # Cha
     "P25": "IS_CHILD_OF", # Mẹ
-    "P26": "IS_SPOUSE_OF",
-    "P451": "IS_PARTNER_OF",
-    "P3373": "IS_SIBLING_OF",
+    "P26": "IS_SPOUSE_OF", # Vợ/chồng
+    "P451": "IS_PARTNER_OF", #người yêu
+    "P3373": "IS_SIBLING_OF", #anh chị em
     "P40": "IS_PARENT_OF", # Con cái
-    # Thêm các P-ID khác nếu cần
     "P1038": "HAS_GRANDPARENT_OF"  # Ông/bà
 }
 # Các khóa liên quan đến Phim (để tạo Nút :Film)
