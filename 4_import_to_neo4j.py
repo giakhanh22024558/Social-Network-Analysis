@@ -6,7 +6,7 @@ from utils import load_json, OUTPUT_DIR # Tái sử dụng hàm
 # (Thay đổi nếu bạn cấu hình khác)
 NEO4J_URI = "neo4j://127.0.0.1:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "123456789" # Mật khẩu bạn đặt ở Bước 1
+NEO4J_PASSWORD = "123456aA@" # Mật khẩu bạn đặt ở Bước 1
 
 # --- CẤU HÌNH FILE ---
 INPUT_FILE = os.path.join(OUTPUT_DIR, "all_actors_infoboxes_FILTERED.json")
