@@ -1,2 +1,7 @@
 sparqlwrapper
 neo4j
+py2neo
+networkx
+matplotlib
+pandas
+scipy
