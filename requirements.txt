@@ -1,2 +1,10 @@
 sparqlwrapper
 neo4j
+langchain 
+langchain-huggingface 
+transformers 
+accelerate 
+bitsandbytes 
+sentencepiece 
+protobuf
+python-dotenv

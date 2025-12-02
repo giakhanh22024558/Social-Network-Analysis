@@ -2,3 +2,5 @@ viwiki-latest-pages-articles.xml.bz2
 .venv/
 __pycache__/
 data/
+.venvbot/
+neo4j/
