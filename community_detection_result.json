@@ -1,0 +1,482 @@
+{
+  "total_communities": 80,
+  "modularity": 0.6760554535125805,
+  "modularities_per_level": [
+    0.5236252088839014,
+    0.6515100548817234,
+    0.6754394530031687,
+    0.6760554535125805
+  ],
+  "community_sizes": [
+    {
+      "community": 5492,
+      "size": 329
+    },
+    {
+      "community": 1050,
+      "size": 213
+    },
+    {
+      "community": 1391,
+      "size": 197
+    },
+    {
+      "community": 4268,
+      "size": 189
+    },
+    {
+      "community": 2233,
+      "size": 183
+    },
+    {
+      "community": 740,
+      "size": 175
+    },
+    {
+      "community": 2111,
+      "size": 172
+    },
+    {
+      "community": 5428,
+      "size": 166
+    },
+    {
+      "community": 2337,
+      "size": 165
+    },
+    {
+      "community": 2303,
+      "size": 163
+    },
+    {
+      "community": 2937,
+      "size": 157
+    },
+    {
+      "community": 4167,
+      "size": 155
+    },
+    {
+      "community": 2536,
+      "size": 147
+    },
+    {
+      "community": 1641,
+      "size": 142
+    },
+    {
+      "community": 2023,
+      "size": 140
+    },
+    {
+      "community": 4693,
+      "size": 135
+    },
+    {
+      "community": 3276,
+      "size": 135
+    },
+    {
+      "community": 2371,
+      "size": 135
+    },
+    {
+      "community": 3415,
+      "size": 132
+    },
+    {
+      "community": 5788,
+      "size": 131
+    }
+  ],
+  "top5_communities_sample": [
+    {
+      "community": 5492,
+      "size": 329,
+      "sample_members": [
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Heist",
+          "qid": "Q18386107"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Catch Me If You Can",
+          "qid": "Q208108"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Creed III",
+          "qid": "Q110664384"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Guardians of the Galaxy Vol. 2",
+          "qid": "Q20001199"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Guardians of the Galaxy Vol. 3",
+          "qid": "Q29226331"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Ant-Man",
+          "qid": "Q5901134"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Avengers: Endgame",
+          "qid": "Q23781155"
+        },
+        {
+          "labels": [
+            "Person",
+            "ActorDirector"
+          ],
+          "name": "Herbie Hancock",
+          "qid": "Q105875"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Valérian and the City of a Thousand Planets",
+          "qid": "Q20926273"
+        },
+        {
+          "labels": [
+            "Person",
+            "ActorDirector"
+          ],
+          "name": "Tommy Lee Jones",
+          "qid": "Q170587"
+        }
+      ]
+    },
+    {
+      "community": 1050,
+      "size": 213,
+      "sample_members": [
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Miss Americana",
+          "qid": "Q77833628"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Jurassic World",
+          "qid": "Q3512046"
+        },
+        {
+          "labels": [
+            "Person",
+            "ActorDirector"
+          ],
+          "name": "Edwin Catmull",
+          "qid": "Q93161"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Toy Story",
+          "qid": "Q171048"
+        },
+        {
+          "labels": [
+            "Person",
+            "ActorDirector"
+          ],
+          "name": "Meat Loaf",
+          "qid": "Q152929"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Amanda Aday",
+          "qid": "Q4739544"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Pearl Aday",
+          "qid": "Q513336"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Fight Club",
+          "qid": "Q190050"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Deborah Gillespie",
+          "qid": "Q110634599"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Leslie G. Edmonds",
+          "qid": "Q110634616"
+        }
+      ]
+    },
+    {
+      "community": 1391,
+      "size": 197,
+      "sample_members": [
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Killing Season",
+          "qid": "Q3196650"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Jack and Jill",
+          "qid": "Q1505923"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "A.I. Artificial Intelligence",
+          "qid": "Q221113"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "You, Me and Dupree",
+          "qid": "Q289841"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "The Watch",
+          "qid": "Q29313"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "MacGruber",
+          "qid": "Q1579371"
+        },
+        {
+          "labels": [
+            "Person",
+            "ActorDirector"
+          ],
+          "name": "John de Lancie",
+          "qid": "Q550778"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "John de Lancie",
+          "qid": "Q3182814"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Keegan de Lancie",
+          "qid": "Q1737714"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Gamer",
+          "qid": "Q947885"
+        }
+      ]
+    },
+    {
+      "community": 4268,
+      "size": 189,
+      "sample_members": [
+        {
+          "labels": [
+            "Person",
+            "ActorDirector"
+          ],
+          "name": "Chuck Norris",
+          "qid": "Q2673"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Aaron Norris",
+          "qid": "Q302418"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Wieland Norris",
+          "qid": "Q130526685"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Ray Norris",
+          "qid": "Q130526564"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Eric Norris",
+          "qid": "Q5387194"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Mike Norris",
+          "qid": "Q287395"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Wilma Scarberry",
+          "qid": "Q130526563"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "The Expendables 2",
+          "qid": "Q210812"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Way of the Dragon",
+          "qid": "Q462409"
+        },
+        {
+          "labels": [
+            "Person"
+          ],
+          "name": "Diane Holechek",
+          "qid": "Q130526547"
+        }
+      ]
+    },
+    {
+      "community": 2233,
+      "size": 183,
+      "sample_members": [
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Artemis Fowl",
+          "qid": "Q12302227"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "The Departed",
+          "qid": "Q172975"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Apocalypse Now",
+          "qid": "Q182692"
+        },
+        {
+          "labels": [
+            "Person",
+            "ActorDirector"
+          ],
+          "name": "Scott Glenn",
+          "qid": "Q114179"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "A Painted House",
+          "qid": "Q42063712"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "The Bourne Legacy",
+          "qid": "Q494048"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "The Bourne Ultimatum",
+          "qid": "Q107226"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "Ad Astra",
+          "qid": "Q38774788"
+        },
+        {
+          "labels": [
+            "Person",
+            "ActorDirector"
+          ],
+          "name": "Terrence Malick",
+          "qid": "Q215478"
+        },
+        {
+          "labels": [
+            "Film"
+          ],
+          "name": "The Tree of Life",
+          "qid": "Q244257"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q1744",
+    "name": "Madonna",
+    "pagerank": 13.962370381807318
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q8877",
+    "name": "Steven Spielberg",
+    "pagerank": 13.241612749352804
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q36970",
+    "name": "Jackie Chan",
+    "pagerank": 13.133471671183772
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q35332",
+    "name": "Brad Pitt",
+    "pagerank": 11.5507527122193
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q311723",
+    "name": "Donnie Yen",
+    "pagerank": 11.303816562996095
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q42869",
+    "name": "Nicolas Cage",
+    "pagerank": 10.553008638585505
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q37175",
+    "name": "Johnny Depp",
+    "pagerank": 10.226268050532822
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q10738",
+    "name": "Dwayne Johnson",
+    "pagerank": 9.427180092202654
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q13909",
+    "name": "Angelina Jolie",
+    "pagerank": 8.894226394276222
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q22686",
+    "name": "Donald Trump",
+    "pagerank": 8.8497976047667
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q2831",
+    "name": "Michael Jackson",
+    "pagerank": 8.66295374193145
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q269214",
+    "name": "John Lasseter",
+    "pagerank": 8.57772933068097
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q2263",
+    "name": "Tom Hanks",
+    "pagerank": 8.118317792259955
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q38111",
+    "name": "Leonardo DiCaprio",
+    "pagerank": 8.011422167655795
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q40026",
+    "name": "Sylvester Stallone",
+    "pagerank": 7.936444735720189
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q36949",
+    "name": "Robert De Niro",
+    "pagerank": 7.898508357857025
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q37079",
+    "name": "Tom Cruise",
+    "pagerank": 7.813010959319417
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q164119",
+    "name": "Mark Wahlberg",
+    "pagerank": 7.736751298737496
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q47899",
+    "name": "Paris Hilton",
+    "pagerank": 7.702005393157709
+  },
+  {
+    "labels": [
+      "Person",
+      "ActorDirector"
+    ],
+    "qid": "Q34436",
+    "name": "Scarlett Johansson",
+    "pagerank": 7.59891991253585
+  }
+]

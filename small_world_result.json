@@ -1,0 +1,10 @@
+{
+  "n": 5816,
+  "m": 10165,
+  "lcc_n": 5679,
+  "avg_shortest_path": 5.985036104262064,
+  "avg_clustering": 0.03543426444518634,
+  "baseline_avg_shortest_path": 6.907973801910816,
+  "baseline_avg_clustering": 0.0004963885270383632,
+  "small_world_sigma": 82.39210414460011
+}

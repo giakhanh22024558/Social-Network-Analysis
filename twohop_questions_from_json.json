@@ -1,0 +1,162 @@
+[
+  {
+    "question_vi": "Ai là vợ/chồng của Bruce Lee (cha/mẹ của Brandon Lee)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Brandon Lee",
+    "intermediate": "Bruce Lee",
+    "object": "Linda Lee Cadwell",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Dennis Quaid (cha/mẹ của Jack Quaid)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Jack Quaid",
+    "intermediate": "Dennis Quaid",
+    "object": "Meg Ryan",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Ethan Hawke (cha/mẹ của Maya Hawke)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Maya Hawke",
+    "intermediate": "Ethan Hawke",
+    "object": "Ryan Hawke",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Dennis Quaid (cha/mẹ của Jack Quaid)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Jack Quaid",
+    "intermediate": "Dennis Quaid",
+    "object": "P. J. Soles",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Steven Tyler (cha/mẹ của Liv Tyler)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Liv Tyler",
+    "intermediate": "Steven Tyler",
+    "object": "Cyrinda Foxe",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Johnny Depp (cha/mẹ của Lily-Rose Depp)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Lily-Rose Depp",
+    "intermediate": "Johnny Depp",
+    "object": "Amber Heard",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Arnold Schwarzenegger (cha/mẹ của Patrick Schwarzenegger)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Patrick Schwarzenegger",
+    "intermediate": "Arnold Schwarzenegger",
+    "object": "Maria Shriver",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Jada Pinkett Smith (cha/mẹ của Jaden Smith)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Jaden Smith",
+    "intermediate": "Jada Pinkett Smith",
+    "object": "Will Smith",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Dennis Quaid (cha/mẹ của Jack Quaid)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Jack Quaid",
+    "intermediate": "Dennis Quaid",
+    "object": "Kimberly Quaid",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Steven Spielberg (cha/mẹ của Jessica Capshaw)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Jessica Capshaw",
+    "intermediate": "Steven Spielberg",
+    "object": "Amy Irving",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Ron Howard (cha/mẹ của Bryce Dallas Howard)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Bryce Dallas Howard",
+    "intermediate": "Ron Howard",
+    "object": "Cheryl Howard",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Jada Pinkett Smith (cha/mẹ của Willow Smith)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Willow Smith",
+    "intermediate": "Jada Pinkett Smith",
+    "object": "Will Smith",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Johnny Depp (cha/mẹ của Lily-Rose Depp)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Lily-Rose Depp",
+    "intermediate": "Johnny Depp",
+    "object": "Lori Allison",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Will Smith (cha/mẹ của Jaden Smith)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Jaden Smith",
+    "intermediate": "Will Smith",
+    "object": "Jada Pinkett Smith",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Steven Tyler (cha/mẹ của Liv Tyler)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Liv Tyler",
+    "intermediate": "Steven Tyler",
+    "object": "Teresa Barrick",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Lenny Kravitz (cha/mẹ của Zoë Kravitz)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Zoë Kravitz",
+    "intermediate": "Lenny Kravitz",
+    "object": "Lisa Bonet",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Ethan Hawke (cha/mẹ của Maya Hawke)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Maya Hawke",
+    "intermediate": "Ethan Hawke",
+    "object": "Uma Thurman",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Meg Ryan (cha/mẹ của Jack Quaid)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Jack Quaid",
+    "intermediate": "Meg Ryan",
+    "object": "Dennis Quaid",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Steven Spielberg (cha/mẹ của Jessica Capshaw)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Jessica Capshaw",
+    "intermediate": "Steven Spielberg",
+    "object": "Kate Capshaw",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  },
+  {
+    "question_vi": "Ai là vợ/chồng của Will Smith (cha/mẹ của Willow Smith)?",
+    "template": "child->IS_CHILD_OF->parent->IS_SPOUSE_OF->spouse",
+    "subject": "Willow Smith",
+    "intermediate": "Will Smith",
+    "object": "Jada Pinkett Smith",
+    "cypher_answer": "MATCH (c:Person {name:$child})-[:IS_CHILD_OF]->(parent:Person)-[:IS_SPOUSE_OF]->(sp:Person) RETURN sp.name AS answer"
+  }
+]
