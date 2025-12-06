@@ -96,6 +96,9 @@ def main():
         
         # Câu hỏi test logic (để kích hoạt tư duy)
         question = "Nếu tôi có 3 quả táo, tôi ăn 1 quả, sau đó mua thêm 2 quả nữa. Hỏi tôi còn bao nhiêu quả?"
+        question = "Ai là đạo diễn của phim Inception và ông ấy đã thắng bao nhiêu giải Oscar?"
+        question = "Đạo diễn của phim Titanic đã sản xuất những phim nào khác?"
+        question = "Nếu Leonardo DiCaprio sinh năm 1974, thì năm 2025 anh ấy bao nhiêu tuổi và năm đó có phải năm nhuận không?"
         
         print(f"\n📝 Câu hỏi: {question}")
         print("-" * 50)

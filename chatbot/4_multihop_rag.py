@@ -1,6 +1,7 @@
 
 import os
 import re
+from datetime import datetime
 from dotenv import load_dotenv
 from neo4j import GraphDatabase
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
@@ -22,14 +23,30 @@ MODEL_ID = "Qwen/Qwen3-0.6B" # Qwen3-0.6B đã public
 def init_system():
     print("⏳ Đang khởi tạo hệ thống Multi-hop V3...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
-    model = AutoModelForCausalLM.from_pretrained(MODEL_ID, torch_dtype="auto", device_map="auto")
+    model = AutoModelForCausalLM.from_pretrained(MODEL_ID, dtype="auto", device_map="auto")
     
+    # Cấu hình cho Thinking Mode (theo tài liệu Qwen3)
+    # Temperature=0.6, TopP=0.95, TopK=20, MinP=0
     pipe = pipeline(
         "text-generation", model=model, tokenizer=tokenizer,
-        max_new_tokens=512, temperature=0.1, top_p=0.9, do_sample=True, repetition_penalty=1.1
+        max_new_tokens=32768, # Tăng token tối đa theo hướng dẫn Qwen3
+        temperature=0.6, 
+        top_p=0.95, 
+        top_k=20,
+        do_sample=True, 
+        repetition_penalty=1.1
     )
     llm = HuggingFacePipeline(pipeline=pipe)
     driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+    
+    # Tự động tạo Fulltext Index nếu chưa có
+    with driver.session() as session:
+        print("🛠️ Đang kiểm tra và tạo chỉ mục tìm kiếm (Fulltext Index)...")
+        session.run("""
+            CREATE FULLTEXT INDEX names IF NOT EXISTS 
+            FOR (n:Person|Film) ON EACH [n.name]
+        """)
+        
     print("✅ Hệ thống đã sẵn sàng!")
     return llm, tokenizer, driver
 
@@ -148,13 +165,27 @@ def get_graph_context(driver, entity_names):
             # Tìm đường đi ngắn nhất (tối đa 4 bước nhảy)
             query = """
                 MATCH (p1 {qid: $start_id}), (p2 {qid: $end_id})
-                MATCH path = shortestPath((p1)-[*..4]-(p2))
+                MATCH path = shortestPath((p1)-[*..10]-(p2))
                 RETURN path
             """
             result = session.run(query, start_id=start_node["qid"], end_id=end_node["qid"]).single()
             
             if result:
-                return f"Quan hệ {start_node['name']} - {end_node['name']}", format_path_context(result["path"])
+                path = result["path"]
+                # --- IN CHI TIẾT ĐƯỜNG ĐI ĐỂ DEBUG ---
+                print("\n" + "="*40)
+                print("🔍 CHI TIẾT ĐƯỜNG ĐI (DEBUG):")
+                for i, node in enumerate(path.nodes):
+                    print(f"  Node {i}: {node.get('name')} (Labels: {list(node.labels)}, QID: {node.get('qid')})")
+                for i, rel in enumerate(path.relationships):
+                    print(f"  Rel {i}: ({rel.start_node.get('name')}) -[{rel.type}]-> ({rel.end_node.get('name')})")
+                print("="*40 + "\n")
+                # -------------------------------------
+
+                test_result = format_path_context(path)
+                print(f"  🛤️ Đường đi tìm được:\n{test_result}")
+                return f"Quan hệ {start_node['name']} - {end_node['name']}", format_path_context(path)
+
             else:
                 return None, f"Không tìm thấy đường đi kết nối trực tiếp giữa {start_node['name']} và {end_node['name']}."
 
@@ -168,7 +199,7 @@ def get_graph_context(driver, entity_names):
             """
             results = session.run(query, qid=main_node["qid"]).data()
             
-            # (Tái sử dụng logic format đơn giản cho 1-hop)
+            # (Tái sử dụng logic format đơn giản cho 1-hop)l
             lines = [f"Thông tin về {main_node['name']}:"]
             for row in results:
                 rel = row['rel_type']
@@ -190,6 +221,7 @@ def generate_answer(llm, tokenizer, question, context):
         {"role": "system", "content": "Bạn là trợ lý điện ảnh. Dựa vào thông tin kết nối được cung cấp, hãy mô tả mối quan hệ giữa hai người một cách tự nhiên."},
         {"role": "user", "content": f"THÔNG TIN:\n{context}\n\nCÂU HỎI: {question}\nTRẢ LỜI:"}
     ]
+    # Bật thinking mode theo tài liệu Qwen3
     prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True, enable_thinking=True)
     res = llm.invoke(prompt)
     if prompt in res: res = res.replace(prompt, "")

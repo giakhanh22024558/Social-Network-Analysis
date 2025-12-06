@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   neo4j:
-    image: neo4j:5.15.0
+    image: neo4j:5.15.0-enterprise
     container_name: social_network_neo4j
     ports:
       - "7474:7474" # HTTP for Neo4j Browser
@@ -13,8 +13,16 @@ services:
       - ./neo4j/import:/var/lib/neo4j/import
       - ./neo4j/plugins:/plugins
     environment:
+      - NEO4J_ACCEPT_LICENSE_AGREEMENT=yes
       - NEO4J_AUTH=${NEO4J_USER}/${NEO4J_PASSWORD}
-      - NEO4J_PLUGINS=["apoc", "graph-data-science"] # Optional: useful plugins
+      - NEO4J_PLUGINS=["apoc", "graph-data-science", "bloom"] # Added bloom
       - NEO4J_dbms_memory_heap_initial__size=512m
       - NEO4J_dbms_memory_heap_max__size=1G
+    restart: unless-stopped
+
+  neodash:
+    image: neo4jlabs/neodash:2.4.0
+    container_name: social_network_neodash
+    ports:
+      - "5005:5005"
     restart: unless-stopped

@@ -1,0 +1,11 @@
+
+========================================
+TIMESTAMP: 2025-12-06 19:14:58
+QUERY: Leonardo DiCaprio -> Kathy Bates
+🔍 CHI TIẾT ĐƯỜNG ĐI:
+  Node 0: Leonardo DiCaprio (Labels: ['ActorDirector', 'Person'], QID: Q38111)
+  Node 1: Titanic (Labels: ['Film'], QID: Q44578)
+  Node 2: Kathy Bates (Labels: ['ActorDirector', 'Person'], QID: Q544465)
+  Rel 0: (Leonardo DiCaprio) -[ACTED_IN]-> (Titanic)
+  Rel 1: (Kathy Bates) -[ACTED_IN]-> (Titanic)
+========================================

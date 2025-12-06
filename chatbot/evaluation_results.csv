@@ -1,0 +1,136 @@
+﻿question,type,ground_truth,extracted_entities,context_found,bot_answer,score
+Emily Stofle và Heather Milligan có từng đóng chung phim nào không?,2-hop_CoActor,No,['<think>'],False,Có,0
+"Ai là đạo diễn của phim 'A.I. Artificial Intelligence'?
+A. Marc Webb
+B. Ben Stiller
+C. Steven Spielberg
+D. Matt Reeves",MCQ_Director,C,['<think>'],False,Có.,1
+"Ai là đạo diễn của phim 'Beauty and the Beast'?
+A. Stephen Hillenburg
+B. Richard Kelly
+C. Gary Trousdale
+D. Wes Anderson",MCQ_Director,C,['<think>'],False,Có.,1
+Martha Lynch Levacy có tham gia bộ phim 'Jumper' không?,1-hop_YesNo,No,['<think>'],False,Không,1
+Rob Delaney và John Lithgow có từng đóng chung phim nào không?,2-hop_CoActor,Yes,['<think>'],False,Không.,0
+Leonardo DiCaprio có phải là cha/mẹ của George DiCaprio không?,Family_YesNo,No,['<think>'],False,Có,0
+Martha Lynch Levacy có tham gia bộ phim 'Armageddon' không?,1-hop_YesNo,No,['<think>'],False,Không.,1
+"Ai là đạo diễn của phim 'Transformers: Age of Extinction'?
+A. Nora Ephron
+B. John Francis Daley
+C. Michael Bay
+D. Frank Darabont",MCQ_Director,C,['<think>'],False,"<think>
+Okay, so I need to figure out who the director of ""Transformers: Age of Extinction"" is from the given options. Let me start by recalling what I know about this movie.
+
+First, I remember that ""Transformers: Age of Extinction"" was directed by someone. The original Transformers had different directors, but maybe there's a change here. Wait, the user provided four options: A. Nora Ephron, B. John Francis Daley, C. Michael Bay, D. Frank Darabont. 
+
+I think Frank Darabont directed the first Transformers (2005), and then later they changed the director for the Age of Extinction. So if the question is asking about the director of that specific film, it's likely not Frank Darabont. But wait, maybe I'm mixing up the years? Or perhaps the answer is one of those names. 
+
+Alternatively, I might be confusing with other movies. For example, some people might confuse the 2013 movie with the 2005 one. But according to my knowledge, the correct director for ""Age of Extinction"" is Frank Darabont. However, I should double-check. 
+
+Wait, another thought: sometimes in movies,",1
+Terry Crews và Sylvester Stallone có từng đóng chung phim nào không?,2-hop_CoActor,Yes,['<think>'],False,Có,0
+Cha/Mẹ của Paul Thomas Anderson là ai?,Family,Ernie Anderson,['<think>'],False,Không,0
+Patrick Swayze có phải là cha/mẹ của Patsy Swayze không?,Family_YesNo,No,['<think>'],False,Có,0
+"Ai là đạo diễn của phim '1911'?
+A. Jackie Chan
+B. Jon Turteltaub
+C. Steven Spielberg
+D. Brad Bird",MCQ_Director,A,['<think>'],False,"<think>
+Okay, so I need to figure out who the director of the movie ""1911"" is based on the given options. Let me start by recalling what I know about movies and directors.
+
+First, ""1911"" is a film that's been mentioned in some contexts. Wait, maybe it's a reference to a specific movie? Or perhaps it's a title that's not widely known. The options provided are A. Jackie Chan, B. Jon Turteltaub, C. Steven Spielberg, D. Brad Bird.
+
+I remember that Steven Spielberg directed ""Jurassic Park,"" which was released in 1993. But does ""1911"" have any connection to him? Maybe there's a mix-up here. Alternatively, could it be a different movie?
+
+Wait, let me think again. If I look up the movie ""1911,"" I might find that it's actually a comedy or drama directed by someone else. For example, if I search for ""1911 director,"" I might find that it's directed by Brad Bird. But since I can't access external information, I need to rely on my memory.
+
+Alternatively, maybe ""1911"" refers to a different movie.",1
+Cha/Mẹ của Dan Gilroy là ai?,Family,Q135268325,['<think>'],False,Không,0
+"Martha Lynch Levacy có tham gia bộ phim 'HIStory on Film, Volume II' không?",1-hop_YesNo,No,['<think>'],False,Không,1
+"Ai là đạo diễn của phim 'Mission: Impossible – Rogue Nation'?
+A. Sean Penn
+B. Gary Trousdale
+C. Christopher McQuarrie
+D. Oliver Stone",MCQ_Director,C,['<think>'],False,"<think>
+Okay, so I need to figure out who the director of ""Mission: Impossible – Rogue Nation"" is from the given options. Let me start by recalling what I know about this movie.
+
+First, I remember that ""Mission: Impossible – Rogue Nation"" was directed by Christopher Nolan. Wait, but let me make sure. Oh right, Nolan did a lot of his films with different directors. But wait, another thought—some people might confuse him with others. For example, maybe someone else? Let me check again. No, Christopher Nolan is definitely the director here. The other options are Sean Penn (which I think he directed ""The Shawshank Redemption""), Gary Trousdale for ""The Dark Knight,"" and Oliver Stone for ""Inception."" So the correct answer should be C. Christopher McQuarrie? Wait, no, Christopher Nolan's name is Christopher Nolan. Oh, maybe there's a typo in the options? Because if it were Christopher Nolan, then option C would be correct. But looking at the options again, option C says Christopher McQuarrie. Hmm, that doesn't match. Wait, perhaps there's a mistake in the question or the options. Alternatively, maybe I'm mixing up the names. Let me confirm once more",1
+"Ai là đạo diễn của phim 'Tron: Legacy'?
+A. Barry Levinson
+B. Q2444076
+C. Darren Aronofsky
+D. David O. Russell",MCQ_Director,B,['<think>'],False,Có,0
+Martha Lynch Levacy có tham gia bộ phim 'War of the Worlds' không?,1-hop_YesNo,No,['<think>'],False,Có,0
+Christian Bale có tham gia bộ phim 'American Hustle' không?,1-hop_YesNo,Yes,['<think>'],False,Có,1
+"Ai là đạo diễn của phim 'The Guardians of the Galaxy Holiday Special'?
+A. Kevin Costner
+B. Colin Trevorrow
+C. Christopher Reeve
+D. James Gunn",MCQ_Director,D,['<think>'],False,Có.,0
+Frances Conroy có tham gia bộ phim 'Scent of a Woman' không?,1-hop_YesNo,Yes,['<think>'],False,Không.,0
+Martha Lynch Levacy có tham gia bộ phim 'Indiana Jones and the Kingdom of the Crystal Skull' không?,1-hop_YesNo,No,['<think>'],False,Có,0
+Claire Danes có tham gia bộ phim 'Terminator 3: Rise of the Machines' không?,1-hop_YesNo,Yes,['<think>'],False,Có,1
+Channing Tatum có tham gia bộ phim 'Jupiter Ascending' không?,1-hop_YesNo,Yes,['<think>'],False,Không,0
+Cha/Mẹ của Kevin Bacon là ai?,Family,Ruth Hilda Holmes,['<think>'],False,Không,0
+Martha Lynch Levacy có tham gia bộ phim 'The Sixth Sense' không?,1-hop_YesNo,No,['<think>'],False,Có,0
+Stephen Baldwin có phải là cha/mẹ của Carol Baldwin không?,Family_YesNo,No,['<think>'],False,Không.,1
+Emily Stofle và Ben Ford có từng đóng chung phim nào không?,2-hop_CoActor,No,['<think>'],False,Có,0
+Al Pacino có tham gia bộ phim 'Once Upon a Time in Hollywood' không?,1-hop_YesNo,Yes,['<think>'],False,Không.,0
+"Ai là đạo diễn của phim 'Frozen 2'?
+A. Sean Penn
+B. Tommy Lee Jones
+C. Rob Marshall
+D. Chris Buck",MCQ_Director,D,['<think>'],False,Có.,0
+"Ai là đạo diễn của phim 'Rush Hour'?
+A. Jon Turteltaub
+B. Josh Cooley
+C. Brett Ratner
+D. Terry Gilliam",MCQ_Director,C,['<think>'],False,Có.,1
+"Ai là đạo diễn của phim 'Angels & Demons'?
+A. Jayvee Mai The Hiep
+B. Ron Howard
+C. Ava DuVernay
+D. Sean Penn",MCQ_Director,B,['<think>'],False,"Có  
+B.",1
+Linda Hamilton và Arnold Schwarzenegger có từng đóng chung phim nào không?,2-hop_CoActor,Yes,['<think>'],False,Có.,0
+Cha/Mẹ của Titus Welliver là ai?,Family,Neil Welliver,['<think>'],False,Không,0
+Cha/Mẹ của Christopher Reeve là ai?,Family,Barbara Pitney Lamb,['<think>'],False,Không,0
+"Ai là đạo diễn của phim 'IF'?
+A. John Krasinski
+B. Ray J
+C. Dan Gilroy
+D. Michael Crichton",MCQ_Director,A,['<think>'],False,"<think>
+Okay, so I need to figure out who the director of the movie ""IF"" is based on the given options. The choices are A. John Krasinski, B. Ray J, C. Dan Gilroy, and D. Michael Crichton.
+
+First, I should recall if there's any information about the director of ""IF."" The user mentioned that there's no additional information provided, but they included the question and answer in a text format. Wait, maybe the original question was part of a test or quiz where the answer is known? Let me think again.
+
+Wait, the user wrote: ""Câu hỏi: Ai là đạo diễn của phim 'IF'? (A. John Krasinski; B. Ray J; C. Dan Gilroy; D. Michael Crichton) (không có thông tin tra cứu)"" which translates to ""Question: Who is the director of the movie 'IF'? (A. John Krasinski; B. Ray J; C. Dan Gilroy; D. Michael Crichton) No information available..."" So the actual answer might be one of these four, but since there's no info, how do we choose?
+
+But wait, maybe this is a trick question. If there",1
+Martha Lynch Levacy có tham gia bộ phim 'xXx Return of Xander Cage' không?,1-hop_YesNo,No,['<think>'],False,Không,1
+Cha/Mẹ của Ben Affleck là ai?,Family,Christine Anne Boldt,['<think>'],False,Không,0
+Cha/Mẹ của Adrien Brody là ai?,Family,Elliott Brody,['<think>'],False,Không,0
+Jeff Daniels có tham gia bộ phim 'Steve Jobs' không?,1-hop_YesNo,Yes,['<think>'],False,Có,1
+Martha Lynch Levacy có tham gia bộ phim 'Tội lỗi cuối cùng' không?,1-hop_YesNo,No,['<think>'],False,Không,1
+Pedro Pascal có phải là cha/mẹ của Verónica Pascal không?,Family_YesNo,No,['<think>'],False,"<think>
+Okay, let's see. The question is whether Pedro Pascal is the father or mother of Verónica Pascal. The user says there's no information to check, so I need to answer based on what's given.
+
+First, I know that Verónica Pascal was born in 2004 and has a brother named Lucas. Pedro Pascal was born in 1987, so he would be older than Verónica by about 17 years. Since Verónica's birth year is 2004, adding 17 makes her 2021. But wait, maybe there's some confusion here. If Verónica was born in 2004, then Pedro would have been born around 1987, which is before 2004. So if they are siblings, one would be the younger sister and the other the older brother. Therefore, Verónica would not be the mother of Pedro. 
+
+But wait, maybe there's another angle. Let me double-check. Verónica's full name is Verónica Pascal, and she has a brother named Lucas. Pedro was born in 1987, so he would be older than Verónica. Therefore, Verónica would be the younger sibling.",1
+Macaulay Culkin có tham gia bộ phim 'Home Alone 2: Lost in New York' không?,1-hop_YesNo,Yes,['<think>'],False,Không.,0
+Emily Stofle và Brian Doyle-Murray có từng đóng chung phim nào không?,2-hop_CoActor,No,['<think>'],False,Không.,0
+Mike Myers có phải là cha/mẹ của Alice Myers không?,Family_YesNo,No,['<think>'],False,"<think>
+Okay, let's see. The question is whether Mike Myers is the father or mother of Alice Myers. The user says there's no information provided, so I need to answer based on what's given.
+
+First, I remember that Mike Myers is a well-known actor and comedian. He has appeared in movies like ""The Dark Knight"" and ""Inception."" Now, about Alice Myers... Wait, I think Alice Myers is a real person. She was an actress who played the role of a woman named Alice in some TV shows. But how does that relate to Mike Myers?
+
+Wait, maybe there's confusion here. Let me check my memory again. Oh right! There was a movie called ""Alice,"" directed by Mike Myers. That movie involved Alice as the main character. So if Alice is from that movie, then Mike Myers would be her parent. But the question is phrased as ""Mike Myers có phải là cha/mẹ của Alice Myers?"" which translates to ""Is Mike Myers the father/mother of Alice Myers?""
+
+But wait, the original question might have a typo. Maybe it's supposed to say ""Alice Myers"" instead of ""Alice""? Because otherwise, if Alice is someone else, but according to the movie ""Alice,"" she's the",1
+Q3772 có tham gia bộ phim 'Once Upon a Time in Hollywood' không?,1-hop_YesNo,Yes,['<think>'],False,Không.,0
+Stone Cold Steve Austin và Sylvester Stallone có từng đóng chung phim nào không?,2-hop_CoActor,Yes,['<think>'],False,Có.,0
+John Lithgow có tham gia bộ phim 'Bombshell' không?,1-hop_YesNo,Yes,['<think>'],False,Có,1
+Martha Lynch Levacy có tham gia bộ phim 'When Harry Met Sally' không?,1-hop_YesNo,No,['<think>'],False,Không.,1
+Matt Damon có phải là cha/mẹ của Kent Telfer Damon không?,Family_YesNo,No,['<think>'],False,Không.,1
+Ashton Kutcher có phải là cha/mẹ của Larry M. Kutcher không?,Family_YesNo,No,['<think>'],False,Có,0

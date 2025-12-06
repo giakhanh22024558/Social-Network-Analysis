@@ -57,7 +57,7 @@ def extract_entity(llm, tokenizer, question):
     """
     messages = [
         {"role": "system", "content": "Bạn là công cụ trích xuất thực thể. Chỉ trả về TÊN RIÊNG của phim hoặc người trong câu hỏi. Không giải thích."},
-        {"role": "user", "content": f"{examples}\nCâu hỏi: {question}\nThực thể:"}
+        {"role": "user", "content": f"Đây là các ví dụ mẫu :\n{examples}\n. Đây là câu hỏi cần bạn trả lời: {question}\nThực thể:"}
     ]
     prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
     res = llm.invoke(prompt)
