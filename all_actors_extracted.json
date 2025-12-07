@@ -1,0 +1,232 @@
+{
+    "David Lynch_Q2071": {
+        "summary": "David Keith Lynch (1946-2025) là một nhà làm phim, họa sĩ kiêm nhạc sĩ người Mỹ. Ông nổi tiếng với phong cách làm phim siêu thực, độc đáo, thường mang yếu tố kỳ ảo và bạo lực. Ông đã giành được nhiều giải thưởng, bao gồm giải Cành cọ vàng tại Liên hoan phim Cannes và giải Oscar danh dự.",
+        "entities": [
+            {
+                "id": "David Lynch Foundation",
+                "label": "Organization"
+            },
+            {
+                "id": "Học viện Nghệ thuật Pennsylvania",
+                "label": "University/School"
+            },
+            {
+                "id": "Missoula, Montana",
+                "label": "Location"
+            },
+            {
+                "id": "Los Angeles",
+                "label": "Location"
+            },
+            {
+                "id": "Liên hoan phim Cannes",
+                "label": "Award"
+            },
+            {
+                "id": "Liên hoan phim Venice",
+                "label": "Award"
+            },
+            {
+                "id": "Oscar",
+                "label": "Award"
+            },
+            {
+                "id": "Mark Frost",
+                "label": "Person"
+            },
+            {
+                "id": "De Laurentiis Entertainment Group",
+                "label": "Organization"
+            }
+        ],
+        "relationships": [
+            {
+                "head": "David Lynch",
+                "type": "BORN_IN",
+                "tail": "Missoula, Montana"
+            },
+            {
+                "head": "David Lynch",
+                "type": "EDUCATED_AT",
+                "tail": "Học viện Nghệ thuật Pennsylvania"
+            },
+            {
+                "head": "David Lynch",
+                "type": "FOUNDED",
+                "tail": "David Lynch Foundation"
+            },
+            {
+                "head": "David Lynch",
+                "type": "COLLABORATED_WITH",
+                "tail": "Mark Frost"
+            },
+            {
+                "head": "David Lynch",
+                "type": "WORKED_FOR",
+                "tail": "De Laurentiis Entertainment Group"
+            },
+            {
+                "head": "David Lynch",
+                "type": "WON_AWARD",
+                "tail": "Liên hoan phim Cannes"
+            },
+            {
+                "head": "David Lynch",
+                "type": "WON_AWARD",
+                "tail": "Liên hoan phim Venice"
+            },
+            {
+                "head": "David Lynch",
+                "type": "WON_AWARD",
+                "tail": "Oscar"
+            }
+        ]
+    },
+    "Bob Dylan_Q392": {
+        "summary": "Robert Dylan, tên khai sinh Robert Allen Zimmerman, là một ca sĩ kiêm sáng tác nhạc người Mỹ. Ông được công nhận là một trong những nhạc sĩ vĩ đại nhất mọi thời đại và là một nhân vật quan trọng của nền văn hóa đại chúng. Các tác phẩm nổi tiếng nhất của ông, như \"Blowin' in the Wind\" và \"The Times They Are a-Changin'\", đã trở thành thánh ca của phong trào dân quyền và phản chiến trong những năm 1960. Ông đã bán được hơn 125 triệu đĩa và nhận được nhiều giải thưởng, bao gồm Giải Nobel Văn học năm 2016.",
+        "entities": [
+            {
+                "id": "Robert Dylan",
+                "label": "Person"
+            },
+            {
+                "id": "Mỹ",
+                "label": "Location"
+            },
+            {
+                "id": "Rolling Stone",
+                "label": "Organization"
+            },
+            {
+                "id": "Duluth, Minnesota",
+                "label": "Location"
+            },
+            {
+                "id": "Hibbing, Minnesota",
+                "label": "Location"
+            },
+            {
+                "id": "Đại học Minnesota",
+                "label": "University/School"
+            },
+            {
+                "id": "Columbia Records",
+                "label": "Organization"
+            },
+            {
+                "id": "Giải Grammy",
+                "label": "Award"
+            },
+            {
+                "id": "Giải Quả cầu vàng",
+                "label": "Award"
+            },
+            {
+                "id": "Giải Oscar",
+                "label": "Award"
+            },
+            {
+                "id": "Giải Nobel Văn học",
+                "label": "Award"
+            },
+            {
+                "id": "Woody Guthrie",
+                "label": "Person"
+            },
+            {
+                "id": "Greystone Park",
+                "label": "Location"
+            },
+            {
+                "id": "Ramblin' Jack Elliott",
+                "label": "Person"
+            },
+            {
+                "id": "Greenwich",
+                "label": "Location"
+            },
+            {
+                "id": "The New York Times",
+                "label": "Organization"
+            },
+            {
+                "id": "Johnny Cash",
+                "label": "Person"
+            },
+            {
+                "id": "Albert Grossman",
+                "label": "Person"
+            },
+            {
+                "id": "BBC Television",
+                "label": "Organization"
+            },
+            {
+                "id": "Joan Baez",
+                "label": "Person"
+            }
+        ],
+        "relationships": [
+            {
+                "head": "Robert Dylan",
+                "type": "BORN_IN",
+                "tail": "Duluth, Minnesota"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "LIVED_IN",
+                "tail": "Hibbing, Minnesota"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "EDUCATED_AT",
+                "tail": "Đại học Minnesota"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "WORKED_FOR",
+                "tail": "Columbia Records"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "WON_AWARD",
+                "tail": "Giải Grammy"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "WON_AWARD",
+                "tail": "Giải Quả cầu vàng"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "WON_AWARD",
+                "tail": "Giải Oscar"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "WON_AWARD",
+                "tail": "Giải Nobel Văn học"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "LIVED_IN",
+                "tail": "Mỹ"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "LIVED_IN",
+                "tail": "Greystone Park"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "COLLABORATED_WITH",
+                "tail": "Ramblin' Jack Elliott"
+            },
+            {
+                "head": "Robert Dylan",
+                "type": "COLLABORATED_WITH",
+                "tail": "Joan Baez"
+            }
+        ]
+    }
+}

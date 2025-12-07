@@ -4,6 +4,7 @@ import re
 from datetime import datetime
 from dotenv import load_dotenv
 from neo4j import GraphDatabase
+from neo4j.exceptions import ClientError
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from langchain_huggingface import HuggingFacePipeline
 
@@ -94,12 +95,23 @@ def extract_entities(llm, tokenizer, question):
     return valid_entities
 
 def find_node_qid(session, name):
-    result = session.run("""
-        CALL db.index.fulltext.queryNodes("names", $name + "~") YIELD node, score
-        RETURN node.name AS name, node.qid AS qid, labels(node) AS labels, score
-        ORDER BY score DESC LIMIT 1
-    """, name=name).single()
-    
+    try:
+        result = session.run("""
+            CALL db.index.fulltext.queryNodes("names", $name + "~") YIELD node, score
+            RETURN node.name AS name, node.qid AS qid, labels(node) AS labels, score
+            ORDER BY score DESC LIMIT 1
+        """, name=name).single()
+    except ClientError as e:
+        # Fulltext index 'names' may not exist. Fall back to a property-based search.
+        print(f"  ⚠️ Fulltext index 'names' unavailable, falling back to property match: {e}")
+        result = session.run("""
+            MATCH (n)
+            WHERE toLower(n.name) = toLower($name)
+               OR toLower(n.name) CONTAINS toLower($name)
+            RETURN n.name AS name, n.qid AS qid, labels(n) AS labels
+            LIMIT 1
+        """, name=name).single()
+
     if result:
         return {"name": result["name"], "qid": result["qid"], "labels": result["labels"]}
     return None
