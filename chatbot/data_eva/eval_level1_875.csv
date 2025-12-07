@@ -1,0 +1,809 @@
+﻿level,rel_type,question,option_a,option_b,answer,ground_truth
+1,IS_PARTNER_OF,Bạn đời của Kevin Costner là ai?,Vanessa Hudgens,Elle Macpherson,B,Elle Macpherson
+1,IS_PARTNER_OF,Bạn đời của George Clooney là ai?,Kelly Preston,Kidada Jones,A,Kelly Preston
+1,IS_PARENT_OF,Ai là con của Tom Hanks?,E. A. Hanks,Grace Cummings,A,E. A. Hanks
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sabotage'?,Connie Britton,Terrence Howard,B,Terrence Howard
+1,IS_PARENT_OF,Ai là con của Robert De Niro?,Drena De Niro,Austin Jack Lynch,A,Drena De Niro
+1,PRODUCED,Bộ phim 'Michael Jackson's Ghosts' được sản xuất bởi ai?,John Lasseter,Michael Jackson,B,Michael Jackson
+1,PRODUCED,Bộ phim 'Memoirs of a Geisha' được sản xuất bởi ai?,Sam Raimi,Steven Spielberg,B,Steven Spielberg
+1,IS_SPOUSE_OF,Vợ/Chồng của Bob Dylan là ai?,Rene Russo,Carolyn Dennis,B,Carolyn Dennis
+1,IS_SPOUSE_OF,Vợ/Chồng của Danny DeVito là ai?,Rhea Perlman,Elizabeth Ann Hulette,A,Rhea Perlman
+1,IS_PARTNER_OF,Bạn đời của Kevin Costner là ai?,Amy Poehler,Bridget Rooney,B,Bridget Rooney
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 2'?,Bruce Willis,Vanessa Ferlito,A,Bruce Willis
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,Eliza Jane Wordsworth,Phillip Myers,A,Eliza Jane Wordsworth
+1,IS_PARENT_OF,Ai là con của Paul Anka?,Gracie DeVito,Anthea Anka,B,Anthea Anka
+1,PRODUCED,Bộ phim 'Bridge of Spies' được sản xuất bởi ai?,Jackie Chan,Steven Spielberg,B,Steven Spielberg
+1,IS_SPOUSE_OF,Vợ/Chồng của Larry Ellison là ai?,Laraine Marie Brennan,Adda Quinn,B,Adda Quinn
+1,IS_PARTNER_OF,Bạn đời của Marilyn Manson là ai?,Evan Rachel Wood,Mary-Louise Parker,A,Evan Rachel Wood
+1,PRODUCED,Bộ phim 'Saving Private Ryan' được sản xuất bởi ai?,John Lasseter,Steven Spielberg,B,Steven Spielberg
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Wall Street'?,Oliver Stone,Stan Winston,A,Oliver Stone
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Aviator'?,Martin Scorsese,Robert Zemeckis,A,Martin Scorsese
+1,IS_PARENT_OF,Ai là con của Bruce Willis?,Tallulah Willis,Chelsea Tyler,A,Tallulah Willis
+1,HAS_GRANDPARENT_OF,Ông/Bà của George Clooney là ai?,Jennifer Garner,Rosemary Clooney,B,Rosemary Clooney
+1,PRODUCED,Bộ phim 'The Wolf of Wall Street' được sản xuất bởi ai?,Chris Columbus,Martin Scorsese,B,Martin Scorsese
+1,IS_PARENT_OF,Ai là con của Steven Spielberg?,Destry Spielberg,Rose Gilroy,A,Destry Spielberg
+1,IS_PARENT_OF,Ai là con của Steven Spielberg?,Ella Clooney,Sasha Spielberg,B,Sasha Spielberg
+1,IS_PARENT_OF,Ai là con của Powers Boothe?,Parisse Boothe,Megan Ellison,A,Parisse Boothe
+1,HAS_GRANDPARENT_OF,Ông/Bà của Alice Cooper là ai?,John Myers,Dave Mustaine,B,Dave Mustaine
+1,IS_SIBLING_OF,Ai là anh/chị em với David Lynch?,Keenen Ivory Wayans,Martha Lynch Levacy,B,Martha Lynch Levacy
+1,IS_PARENT_OF,Ai là con của Barry Levinson?,Riley Sweeney Lynch,Jack Levinson,B,Jack Levinson
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Jackson?,Amy Stiller,Jermaine Jackson,B,Jermaine Jackson
+1,IS_PARENT_OF,Ai là con của Danny DeVito?,Gracie DeVito,Cathy Scorsese,A,Gracie DeVito
+1,IS_PARENT_OF,Ai là con của Joe Frazier?,Marvis Frazier,Charlie John Oldman,A,Marvis Frazier
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q6096 là ai?,Brandy Norwood,Thomas Walker Kilmer,A,Brandy Norwood
+1,IS_PARENT_OF,Ai là con của Sylvester Stallone?,Sophia Rose Stallone,Elizabeth Dick,A,Sophia Rose Stallone
+1,IS_PARTNER_OF,Bạn đời của Mel Gibson là ai?,Isabel Lucas,Rosalind Ross,B,Rosalind Ross
+1,IS_SPOUSE_OF,Vợ/Chồng của Larry Ellison là ai?,Miyako Fujitani,Nancy Wheeler Jenkins,B,Nancy Wheeler Jenkins
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Bloomberg?,Marjorie Tiven,John Gilroy,A,Marjorie Tiven
+1,IS_PARENT_OF,Ai là con của Steven Spielberg?,Sawyer Spielberg,"Kareem Abdul-Jabbar, Jr.",A,Sawyer Spielberg
+1,PRODUCED,Bộ phim 'Balto' được sản xuất bởi ai?,Steven Spielberg,Chris Columbus,A,Steven Spielberg
+1,PRODUCED,Bộ phim 'Michael Jackson's Thriller' được sản xuất bởi ai?,Robert Zemeckis,Michael Jackson,B,Michael Jackson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 2'?,Arnold Schwarzenegger,Sylvester Stallone,B,Sylvester Stallone
+1,IS_SIBLING_OF,Ai là anh/chị em với Sean Penn?,Michael Penn,Andrew Wilson,A,Michael Penn
+1,PRODUCED,Bộ phim 'Cast Away' được sản xuất bởi ai?,Michael Jackson,Tom Hanks,B,Tom Hanks
+1,PRODUCED,Bộ phim 'Greyhound' được sản xuất bởi ai?,Robert Zemeckis,Tom Hanks,B,Tom Hanks
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Pixels'?,Cameron Crowe,Chris Columbus,B,Chris Columbus
+1,PRODUCED,Bộ phim 'Dragon Blade' được sản xuất bởi ai?,Steven Spielberg,Jackie Chan,B,Jackie Chan
+1,IS_PARENT_OF,Ai là con của Bob Dylan?,Jakob Dylan,Karsen Liotta,A,Jakob Dylan
+1,PRODUCED,Bộ phim 'When Harry Met Sally' được sản xuất bởi ai?,Rob Reiner,Steven Spielberg,A,Rob Reiner
+1,PRODUCED,Bộ phim 'Game of Death' được sản xuất bởi ai?,Michael Jackson,Bruce Lee,B,Bruce Lee
+1,IS_PARTNER_OF,Bạn đời của Tom Cruise là ai?,Penélope Cruz,Amy Poehler,A,Penélope Cruz
+1,IS_PARTNER_OF,Bạn đời của Wallace Shawn là ai?,Deborah Eisenberg,Meg Ryan,A,Deborah Eisenberg
+1,IS_PARENT_OF,Ai là con của Paul Simon?,Harper Simon,Gracie DeVito,A,Harper Simon
+1,HAS_GRANDPARENT_OF,Ông/Bà của Brad Pitt là ai?,Zahara Jolie-Pitt,Dave Mustaine,A,Zahara Jolie-Pitt
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Tree of Life'?,Q361336,Terrence Malick,B,Terrence Malick
+1,IS_PARENT_OF,Ai là con của John Carpenter?,Nicholas Bird,Cody Carpenter,B,Cody Carpenter
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Fabelmans'?,Seth Rogen,John Lithgow,A,Seth Rogen
+1,IS_PARENT_OF,Ai là con của Peter Fonda?,Bridget Fonda,Mason Grammer,A,Bridget Fonda
+1,IS_PARENT_OF,Ai là con của Martin Scorsese?,Paris Brosnan,Cathy Scorsese,B,Cathy Scorsese
+1,IS_PARTNER_OF,Bạn đời của Dennis Quaid là ai?,Susan Sarandon,Shanna Moakler,B,Shanna Moakler
+1,IS_SIBLING_OF,Ai là anh/chị em với Mel Gibson?,Tito Jackson,Donal Gibson,B,Donal Gibson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator Genisys'?,Arnold Schwarzenegger,Douglas Smith,B,Douglas Smith
+1,PRODUCED,Bộ phim 'The Princess Bride' được sản xuất bởi ai?,Rob Reiner,Tom Hanks,A,Rob Reiner
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables'?,Terry Crews,Arnold Schwarzenegger,A,Terry Crews
+1,PRODUCED,Bộ phim 'The Color Purple' được sản xuất bởi ai?,Steven Spielberg,Ron Howard,A,Steven Spielberg
+1,HAS_GRANDPARENT_OF,Ông/Bà của Brad Pitt là ai?,Maddox Jolie-Pitt.,Zoë Kravitz,A,Maddox Jolie-Pitt.
+1,IS_SPOUSE_OF,Vợ/Chồng của Tom Hanks là ai?,Rita Wilson,Debra Marshall,A,Rita Wilson
+1,IS_SIBLING_OF,Ai là anh/chị em với Chuck Norris?,Tricia Leigh Fisher,Aaron Norris,B,Aaron Norris
+1,IS_PARENT_OF,Ai là con của Larry Ellison?,David Ellison,Daniel Jack Neeson,A,David Ellison
+1,IS_PARENT_OF,Ai là con của Peter Fonda?,Chelsea Tyler,Justin Fonda,B,Justin Fonda
+1,PRODUCED,Bộ phim 'Alvin and the Chipmunks: Chipwrecked' được sản xuất bởi ai?,Ross Bagdasarian Jr.,Ron Howard,A,Ross Bagdasarian Jr.
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dr. Dolittle 2'?,Eddie Murphy,Charlize Theron,A,Eddie Murphy
+1,IS_PARENT_OF,Ai là con của Harrison Ford?,Willard Ford,Hannah Gibson,A,Willard Ford
+1,PRODUCED,Bộ phim 'E.T. the Extra-Terrestrial' được sản xuất bởi ai?,Steven Spielberg,Harvey Weinstein,A,Steven Spielberg
+1,IS_PARTNER_OF,Bạn đời của Brad Pitt là ai?,Erin Heatherton,Juliette Lewis,B,Juliette Lewis
+1,IS_SPOUSE_OF,Vợ/Chồng của Steven Tyler là ai?,Cyrinda Foxe,Melania Trump,A,Cyrinda Foxe
+1,PRODUCED,Bộ phim 'Michael Jackson's Ghosts' được sản xuất bởi ai?,Stan Winston,Brad Bird,A,Stan Winston
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,Alessandro Lecquio,Mary Atherton,B,Mary Atherton
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Jackson?,Marlon Jackson,Amy Stiller,A,Marlon Jackson
+1,IS_SPOUSE_OF,Vợ/Chồng của John Lithgow là ai?,Amy Madigan,Mary Yeager,B,Mary Yeager
+1,IS_PARENT_OF,Ai là con của Steve Martin?,Zahra Savannah Rock,Mary A. Martin,B,Mary A. Martin
+1,PRODUCED,Bộ phim 'The Polar Express' được sản xuất bởi ai?,John Lasseter,Tom Hanks,B,Tom Hanks
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator 2: Judgment Day'?,Robert Patrick,Q3959303,A,Robert Patrick
+1,IS_PARTNER_OF,Bạn đời của Wes Anderson là ai?,Juman Malouf,Elizabeth McGovern,A,Juman Malouf
+1,IS_PARENT_OF,Ai là con của Sylvester Stallone?,Diego Turturro,Sistine Stallone,B,Sistine Stallone
+1,PRODUCED,Bộ phim 'Parental Guidance' được sản xuất bởi ai?,Mel Gibson,Billy Crystal,B,Billy Crystal
+1,IS_PARTNER_OF,Bạn đời của Sean Combs là ai?,Shauna Sexton,Jennifer Lopez,B,Jennifer Lopez
+1,PRODUCED,Bộ phim 'Creed III' được sản xuất bởi ai?,Sylvester Stallone,Ron Howard,A,Sylvester Stallone
+1,IS_SPOUSE_OF,Vợ/Chồng của Tom Selleck là ai?,Jacqueline Ray,Maggie Weston,A,Jacqueline Ray
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'My Name Is Khan'?,Arnold Schwarzenegger,Sarah Jessica Parker,A,Arnold Schwarzenegger
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Adjustment Bureau'?,Pedro Pascal,Andrew Garfield,A,Pedro Pascal
+1,HAS_GRANDPARENT_OF,Ông/Bà của Kevin Spacey là ai?,James Smith,Josh Sartain,B,Josh Sartain
+1,IS_SPOUSE_OF,Vợ/Chồng của Salman Rushdie là ai?,Padma Lakshmi,Amy Madigan,A,Padma Lakshmi
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q5608 là ai?,Todd K. Nelson,Tambu Kisoki,A,Todd K. Nelson
+1,IS_SPOUSE_OF,Vợ/Chồng của Kevin Costner là ai?,Christine Baumgartner,Lauren Holly,A,Christine Baumgartner
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Douglas?,Martha Lynch Levacy,Peter Douglas,B,Peter Douglas
+1,IS_SPOUSE_OF,Vợ/Chồng của Donald Trump là ai?,Melania Trump,Keely Shaye Smith,A,Melania Trump
+1,IS_PARTNER_OF,Bạn đời của Johnny Depp là ai?,Suze Rotolo,Vanessa Paradis,B,Vanessa Paradis
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sex and the City'?,Jon Stewart,Jennifer Hudson,B,Jennifer Hudson
+1,IS_SPOUSE_OF,Vợ/Chồng của Martin Scorsese là ai?,Bridget Fonda,Isabella Rossellini,B,Isabella Rossellini
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Princess Bride'?,Q361336,Rob Reiner,B,Rob Reiner
+1,IS_SPOUSE_OF,Vợ/Chồng của Meat Loaf là ai?,Leslie G. Edmonds,Leslie Zemeckis,A,Leslie G. Edmonds
+1,IS_PARTNER_OF,Bạn đời của Tim Robbins là ai?,Tuc Watkins,Susan Sarandon,B,Susan Sarandon
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Bridge of Spies'?,Chris Columbus,Steven Spielberg,B,Steven Spielberg
+1,HAS_GRANDPARENT_OF,Ông/Bà của Patrick Wilson là ai?,Jennifer Garner,Marika Domińczyk,B,Marika Domińczyk
+1,IS_SIBLING_OF,Ai là anh/chị em với Steve Antin?,Ute Emmerich,Jonathan Antin,B,Jonathan Antin
+1,HAS_GRANDPARENT_OF,Ông/Bà của Donald Trump là ai?,John G. Trump,Leslie Michelle Carter,A,John G. Trump
+1,IS_PARENT_OF,Ai là con của Rob Reiner?,Tracy Reiner,Francesca Scorsese,A,Tracy Reiner
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Chinese Zodiac'?,Steven Spielberg,Jackie Chan,B,Jackie Chan
+1,IS_PARENT_OF,Ai là con của Steven Tyler?,Sam Levinson,Mia Tyler,B,Mia Tyler
+1,IS_SPOUSE_OF,Vợ/Chồng của Craig T. Nelson là ai?,Carrie Fisher,Doria Cook-Nelson,B,Doria Cook-Nelson
+1,IS_PARENT_OF,Ai là con của George Lucas?,Katie Lucas,Grace Cummings,A,Katie Lucas
+1,IS_PARTNER_OF,Bạn đời của Sean Combs là ai?,Cassie Ventura,Vanessa Hudgens,A,Cassie Ventura
+1,PRODUCED,Bộ phim 'Shutter Island' được sản xuất bởi ai?,Sam Raimi,Martin Scorsese,B,Martin Scorsese
+1,DIRECTED,Ai là đạo diễn của bộ phim 'War of the Worlds'?,Q3772,Steven Spielberg,B,Steven Spielberg
+1,IS_PARENT_OF,Ai là con của Paul Simon?,Lulu Simon,Georgina Bloomberg,A,Lulu Simon
+1,PRODUCED,Bộ phim 'Indiana Jones and the Dial of Destiny' được sản xuất bởi ai?,Chris Columbus,George Lucas,B,George Lucas
+1,IS_SPOUSE_OF,Vợ/Chồng của Pierce Brosnan là ai?,Catherine Hickland,Keely Shaye Smith,B,Keely Shaye Smith
+1,HAS_GRANDPARENT_OF,Ông/Bà của Patrick Wilson là ai?,Scott Foley,Maddox Jolie-Pitt.,A,Scott Foley
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables'?,Terry Crews,Stone Cold Steve Austin,B,Stone Cold Steve Austin
+1,IS_SPOUSE_OF,Vợ/Chồng của John Carpenter là ai?,Adrienne Barbeau,Camille Grammer,A,Adrienne Barbeau
+1,IS_PARENT_OF,Ai là con của Danny DeVito?,Diego Turturro,Lucy DeVito,B,Lucy DeVito
+1,IS_PARENT_OF,Ai là con của Paul Simon?,Adrian Edward Simon,Katie Lucas,A,Adrian Edward Simon
+1,IS_PARENT_OF,Ai là con của Sylvester Stallone?,Seargeoh Stallone,Theo Spielberg,A,Seargeoh Stallone
+1,PRODUCED,Bộ phim 'The Foreigner' được sản xuất bởi ai?,Jackie Chan,Robert Zemeckis,A,Jackie Chan
+1,IS_PARENT_OF,Ai là con của Craig T. Nelson?,Sosie Bacon,Noah Nelson,B,Noah Nelson
+1,HAS_GRANDPARENT_OF,Ông/Bà của Don Cheadle là ai?,Dionne Warwick,Ron Kenoly,B,Ron Kenoly
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Escape Plan'?,Arnold Schwarzenegger,Michael Bloomberg,A,Arnold Schwarzenegger
+1,HAS_GRANDPARENT_OF,Ông/Bà của Casey Affleck là ai?,Daniel Fowler,Joaquin Phoenix,B,Joaquin Phoenix
+1,HAS_GRANDPARENT_OF,Ông/Bà của Donald Trump là ai?,Todd K. Nelson,Vanessa Trump,B,Vanessa Trump
+1,HAS_GRANDPARENT_OF,Ông/Bà của Brian Wilson là ai?,Mike Love,Arnold Schwarzenegger,A,Mike Love
+1,IS_SIBLING_OF,Ai là anh/chị em với Donald Trump?,Fred Trump Jr.,Jane Sasso,A,Fred Trump Jr.
+1,IS_PARTNER_OF,Bạn đời của Jamie Foxx là ai?,Katie Holmes,Bebe Buell,A,Katie Holmes
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator 3: Rise of the Machines'?,Arnold Schwarzenegger,Chris Hardwick,B,Chris Hardwick
+1,IS_SPOUSE_OF,Vợ/Chồng của Martin Scorsese là ai?,Laraine Marie Brennan,Liza Mundy,A,Laraine Marie Brennan
+1,IS_SIBLING_OF,Ai là anh/chị em với Bruce Willis?,Dave Willis,Michael Bacon,A,Dave Willis
+1,IS_PARENT_OF,Ai là con của Al Pacino?,Julie Pacino,Owen Kline,A,Julie Pacino
+1,IS_SPOUSE_OF,Vợ/Chồng của Barry Levinson là ai?,Valerie Curtin,Sun-jung Jung,A,Valerie Curtin
+1,IS_PARTNER_OF,Bạn đời của Ray Liotta là ai?,Amanda Seyfried,Catherine Hickland,B,Catherine Hickland
+1,IS_SPOUSE_OF,Vợ/Chồng của Ross Bagdasarian Jr. là ai?,Janice Karman,Kelly Rowan,A,Janice Karman
+1,IS_SIBLING_OF,Ai là anh/chị em với Donald Trump?,William Baldwin,Elizabeth Trump Grau,B,Elizabeth Trump Grau
+1,IS_SPOUSE_OF,Vợ/Chồng của Michael Brandon là ai?,Valerie Velardi,Glynis Barber,B,Glynis Barber
+1,IS_SPOUSE_OF,Vợ/Chồng của Dan Castellaneta là ai?,Marnie Mosiman,Deb Lacusta,B,Deb Lacusta
+1,IS_PARTNER_OF,Bạn đời của Johnny Depp là ai?,Kate Moss,Olga Kurylenko,A,Kate Moss
+1,PRODUCED,Bộ phim 'Indiana Jones and the Dial of Destiny' được sản xuất bởi ai?,Steven Spielberg,Martin Scorsese,A,Steven Spielberg
+1,PRODUCED,Bộ phim 'Rob-B-Hood' được sản xuất bởi ai?,Robert Zemeckis,Jackie Chan,B,Jackie Chan
+1,IS_PARENT_OF,Ai là con của Levon Helm?,Sage Stallone,Amy Helm,B,Amy Helm
+1,IS_PARENT_OF,Ai là con của Joe Frazier?,Jackie Frazier-Lyde,Greta Lundgren,A,Jackie Frazier-Lyde
+1,IS_PARENT_OF,Ai là con của Tom Hanks?,Christopher Schwarzenegger,Colin Hanks,B,Colin Hanks
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Munich'?,Chris Columbus,Steven Spielberg,B,Steven Spielberg
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,John Whitney Walter,Alice Boote,B,Alice Boote
+1,IS_SIBLING_OF,Ai là anh/chị em với Harvey Weinstein?,Rafael Ferrer,Bob Weinstein,B,Bob Weinstein
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator: Dark Fate'?,Paul Dano,Gabriel Luna,B,Gabriel Luna
+1,IS_PARENT_OF,Ai là con của Barry Levinson?,Sam Levinson,Mercedes Kilmer,A,Sam Levinson
+1,IS_PARTNER_OF,Bạn đời của Johnny Depp là ai?,Tally Chanel,Catherine Hickland,A,Tally Chanel
+1,PRODUCED,Bộ phim 'Wrong Turn' được sản xuất bởi ai?,Ron Howard,Stan Winston,B,Stan Winston
+1,IS_PARTNER_OF,Bạn đời của Marilyn Manson là ai?,Jaimie Alexander,Esmé Bianco,B,Esmé Bianco
+1,IS_PARTNER_OF,Bạn đời của Kyle MacLachlan là ai?,Lara Flynn Boyle,Helena Christensen,A,Lara Flynn Boyle
+1,HAS_GRANDPARENT_OF,Ông/Bà của Dwayne Johnson là ai?,Roman Reigns,John Krasinski,A,Roman Reigns
+1,HAS_GRANDPARENT_OF,Ông/Bà của Brian Wilson là ai?,Prince Jackson,Kevin Love,B,Kevin Love
+1,IS_SIBLING_OF,Ai là anh/chị em với John Cusack?,Joey Travolta,Bill Cusack,B,Bill Cusack
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Steve Jobs'?,Katherine Waterston,Arnold Schwarzenegger,A,Katherine Waterston
+1,IS_PARTNER_OF,Bạn đời của Arnold Schwarzenegger là ai?,Olivia d'Abo,Mildred Patricia Baena,B,Mildred Patricia Baena
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Raiders of the Lost Ark'?,Sam Raimi,Steven Spielberg,B,Steven Spielberg
+1,IS_PARENT_OF,Ai là con của David Lynch?,E. A. Hanks,Jennifer Lynch,B,Jennifer Lynch
+1,PRODUCED,Bộ phim 'The Book of Eli' được sản xuất bởi ai?,Denzel Washington,Mel Gibson,A,Denzel Washington
+1,PRODUCED,Bộ phim 'Video Greatest Hits – HIStory' được sản xuất bởi ai?,Brian Wilson,Michael Jackson,B,Michael Jackson
+1,HAS_GRANDPARENT_OF,Ông/Bà của John Carpenter là ai?,Joaquin Phoenix,Daniel Davies,B,Daniel Davies
+1,HAS_GRANDPARENT_OF,Ông/Bà của Zach Galifianakis là ai?,Nick Galifianakis,Ron Kenoly,A,Nick Galifianakis
+1,IS_SPOUSE_OF,Vợ/Chồng của Salman Rushdie là ai?,Rachel Eliza Griffiths,Melinda Ledbetter,A,Rachel Eliza Griffiths
+1,HAS_GRANDPARENT_OF,Ông/Bà của Val Kilmer là ai?,Brian Grazer,Thomas Walker Kilmer,B,Thomas Walker Kilmer
+1,IS_SPOUSE_OF,Vợ/Chồng của Chuck Norris là ai?,Gena O'Kelly,Donna Freberg,A,Gena O'Kelly
+1,IS_PARENT_OF,Ai là con của Donald Trump?,Donald Trump Jr.,Jakob Dylan,A,Donald Trump Jr.
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Indiana Jones and the Kingdom of the Crystal Skull'?,Steven Spielberg,Chris Columbus,A,Steven Spielberg
+1,IS_PARENT_OF,Ai là con của Bruce Willis?,Paige Howard,Scout Willis,B,Scout Willis
+1,PRODUCED,Bộ phim 'Double Impact' được sản xuất bởi ai?,Michael Douglas,Sam Raimi,A,Michael Douglas
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q6096 là ai?,Lara Trump,Nate Dogg,B,Nate Dogg
+1,IS_SPOUSE_OF,Vợ/Chồng của Alice Cooper là ai?,Sheryl Cooper,Robin Wright,A,Sheryl Cooper
+1,IS_CHILD_OF_DAD,Cha của Patrick Schwarzenegger là ai?,Arnold Schwarzenegger,Richard Dryden Field,A,Arnold Schwarzenegger
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sex and the City'?,Sarah Jessica Parker,Cynthia Nixon,B,Cynthia Nixon
+1,PRODUCED,Bộ phim 'JFK' được sản xuất bởi ai?,Oliver Stone,John Malkovich,A,Oliver Stone
+1,HAS_GRANDPARENT_OF,Ông/Bà của George Lucas là ai?,Bobby Shriver,Amanda Lucas,B,Amanda Lucas
+1,IS_SIBLING_OF,Ai là anh/chị em với John Travolta?,Liberty Phoenix,Joey Travolta,B,Joey Travolta
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Steve Jobs'?,Mel Gibson,Jeff Daniels,B,Jeff Daniels
+1,HAS_GRANDPARENT_OF,Ông/Bà của Sam Raimi là ai?,Paris Hilton,Lorne Greene,B,Lorne Greene
+1,IS_SIBLING_OF,Ai là anh/chị em với Harrison Ford?,Terence Ford,Robert Lee,A,Terence Ford
+1,IS_SPOUSE_OF,Vợ/Chồng của Larry Ellison là ai?,Barbara Boothe,Anna Scarpulla,A,Barbara Boothe
+1,PRODUCED,Bộ phim 'Maggie' được sản xuất bởi ai?,Arnold Schwarzenegger,Chris Columbus,A,Arnold Schwarzenegger
+1,PRODUCED,Bộ phim 'The Irishman' được sản xuất bởi ai?,John Lasseter,Martin Scorsese,B,Martin Scorsese
+1,IS_SIBLING_OF,Ai là anh/chị em với Bill Murray?,Omar Gooding,Joel Murray,B,Joel Murray
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Mulholland Drive'?,John DiMaggio,Robert Forster,B,Robert Forster
+1,PRODUCED,Bộ phim 'Little Fockers' được sản xuất bởi ai?,Bruce Lee,Robert De Niro,B,Robert De Niro
+1,IS_SPOUSE_OF,Vợ/Chồng của Bryan Cranston là ai?,Robin Dearden,Mickey Kelly,A,Robin Dearden
+1,IS_SPOUSE_OF,Vợ/Chồng của John de Lancie là ai?,Marnie Mosiman,Valerie Curtin,A,Marnie Mosiman
+1,IS_PARENT_OF,Ai là con của Salman Rushdie?,Milan Rushdie,Sean Douglas,A,Milan Rushdie
+1,IS_SPOUSE_OF,Vợ/Chồng của Harrison Ford là ai?,Michele Cathy Smith,Calista Flockhart,B,Calista Flockhart
+1,HAS_GRANDPARENT_OF,Ông/Bà của Donald Trump là ai?,Dandridge McRae,Kai Trump,B,Kai Trump
+1,IS_PARTNER_OF,Bạn đời của Mel Gibson là ai?,Stacy Keibler,Oksana Grigorieva,B,Oksana Grigorieva
+1,IS_SPOUSE_OF,Vợ/Chồng của Michael Jackson là ai?,Melania Trump,Lisa Marie Presley,B,Lisa Marie Presley
+1,PRODUCED,Bộ phim 'Monster House' được sản xuất bởi ai?,Steven Spielberg,Jackie Chan,A,Steven Spielberg
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,Phillip Myers,Marjorie Finlay,A,Phillip Myers
+1,HAS_GRANDPARENT_OF,Ông/Bà của Donald Trump là ai?,Jared Kushner,Ann Mara,A,Jared Kushner
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator 3: Rise of the Machines'?,Claire Danes,Daniel Henney,A,Claire Danes
+1,IS_PARENT_OF,Ai là con của Robert De Niro?,Airyn De Niro,Alexandra Romano,A,Airyn De Niro
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Steve Jobs'?,Arnold Schwarzenegger,Seth Rogen,B,Seth Rogen
+1,IS_SIBLING_OF,Ai là anh/chị em với Wallace Shawn?,Allen Shawn,Ute Emmerich,A,Allen Shawn
+1,PRODUCED,Bộ phim 'A Walk Among the Tombstones' được sản xuất bởi ai?,Danny DeVito,John Lasseter,A,Danny DeVito
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Rambo'?,Sylvester Stallone,Tim Burton,A,Sylvester Stallone
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Jurassic Park'?,Steven Spielberg,Rob Cohen,A,Steven Spielberg
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,Eloise C. Uggams,Stephen Atherton,B,Stephen Atherton
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dune'?,Nick Kroll,Kyle MacLachlan,B,Kyle MacLachlan
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Midway'?,Joe Johnston,Roland Emmerich,B,Roland Emmerich
+1,PRODUCED,Bộ phim 'Shanghai Noon' được sản xuất bởi ai?,Charlie Kaufman,Jackie Chan,B,Jackie Chan
+1,IS_PARENT_OF,Ai là con của Arnold Schwarzenegger?,Lukas Ferrer,Patrick Schwarzenegger,B,Patrick Schwarzenegger
+1,IS_PARENT_OF,Ai là con của Martin Scorsese?,Francesca Scorsese,Billy Burton,A,Francesca Scorsese
+1,HAS_GRANDPARENT_OF,Ông/Bà của Ashton Kutcher là ai?,Rumer Willis,Eumir Deodato,A,Rumer Willis
+1,IS_SPOUSE_OF,Vợ/Chồng của Terry Gilliam là ai?,Laraine Marie Brennan,Maggie Weston,B,Maggie Weston
+1,PRODUCED,Bộ phim 'Lincoln' được sản xuất bởi ai?,John Lasseter,Steven Spielberg,B,Steven Spielberg
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Escape Plan'?,Chris Columbus,50 Cent,B,50 Cent
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,Mathilde Pinault,John Wordsworth,B,John Wordsworth
+1,IS_SIBLING_OF,Ai là anh/chị em với Brian Wilson?,Dennis Wilson,Laila Morse,A,Dennis Wilson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Jupiter Ascending'?,Taylor Swift,Mila Kunis,B,Mila Kunis
+1,IS_PARTNER_OF,Bạn đời của Sean Combs là ai?,Margaret Qualley,Naomi Campbell,B,Naomi Campbell
+1,IS_PARTNER_OF,Bạn đời của Johnny Depp là ai?,Cassie Ventura,Polina Glen,B,Polina Glen
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Last Stand'?,Mila Kunis,Daniel Henney,B,Daniel Henney
+1,IS_SPOUSE_OF,Vợ/Chồng của Bob Dylan là ai?,Pamela Bach,Sara Dylan,B,Sara Dylan
+1,IS_SIBLING_OF,Ai là anh/chị em với Owen Wilson?,Margaret Travolta,Luke Wilson,B,Luke Wilson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sex and the City'?,Steve Zahn,Michael Bloomberg,B,Michael Bloomberg
+1,IS_PARTNER_OF,Bạn đời của William Hurt là ai?,Marlee Matlin,Lindsay Shookus,A,Marlee Matlin
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Live in Bucharest: The Dangerous Tour'?,Michael Jackson,Tim Burton,A,Michael Jackson
+1,HAS_GRANDPARENT_OF,Ông/Bà của Leonardo DiCaprio là ai?,Dee Dee Warwick,Adam Farrar,B,Adam Farrar
+1,IS_SIBLING_OF,Ai là anh/chị em với Robert Patrick?,Caleb Walker,Richard Patrick,B,Richard Patrick
+1,IS_SIBLING_OF,Ai là anh/chị em với David Lynch?,John Lynch,Christi Dembrowski,A,John Lynch
+1,HAS_GRANDPARENT_OF,Ông/Bà của Stephen Baldwin là ai?,Justin Bieber,Fred M. Hechinger,A,Justin Bieber
+1,IS_SPOUSE_OF,Vợ/Chồng của Martin Scorsese là ai?,Helen Schermerhorn Morris,Leslie G. Edmonds,A,Helen Schermerhorn Morris
+1,IS_PARTNER_OF,Bạn đời của Robert De Niro là ai?,Jennifer Lawrence,Charmaine Sinclair,B,Charmaine Sinclair
+1,IS_SPOUSE_OF,Vợ/Chồng của Arnold Schwarzenegger là ai?,Maggie Weston,Maria Shriver,B,Maria Shriver
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Platoon'?,David Lynch,Oliver Stone,B,Oliver Stone
+1,IS_PARTNER_OF,Bạn đời của Q3772 là ai?,Birgit Cunningham,Didem Erol,B,Didem Erol
+1,IS_SPOUSE_OF,Vợ/Chồng của David Lynch là ai?,Peggy Reavey,Calista Flockhart,A,Peggy Reavey
+1,DIRECTED,Ai là đạo diễn của bộ phim 'It's Not Just You'?,Martin Scorsese,George Lucas,A,Martin Scorsese
+1,IS_PARTNER_OF,Bạn đời của Q3772 là ai?,Gigi Hadid,Mira Sorvino,B,Mira Sorvino
+1,IS_SPOUSE_OF,Vợ/Chồng của Richard Gere là ai?,Gillian Greene,Alejandra Silva,B,Alejandra Silva
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Dances with Wolves'?,Q3772,Kevin Costner,B,Kevin Costner
+1,IS_PARTNER_OF,Bạn đời của Al Pacino là ai?,Lucila Solá,Lindsay Shookus,A,Lucila Solá
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 3'?,Michael Douglas,Arnold Schwarzenegger,B,Arnold Schwarzenegger
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Close Encounters of the Third Kind'?,Steven Spielberg,Robert Zemeckis,A,Steven Spielberg
+1,HAS_GRANDPARENT_OF,Ông/Bà của Ben Affleck là ai?,Michelle Bentley,Summer Phoenix,B,Summer Phoenix
+1,PRODUCED,Bộ phim 'You Can Count on Me' được sản xuất bởi ai?,Robert Zemeckis,Martin Scorsese,B,Martin Scorsese
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Wall Street: Money Never Sleeps'?,Oliver Stone,Joe Johnston,A,Oliver Stone
+1,PRODUCED,Bộ phim 'New Police Story' được sản xuất bởi ai?,Harvey Weinstein,Jackie Chan,B,Jackie Chan
+1,PRODUCED,Bộ phim 'Philadelphia' được sản xuất bởi ai?,Roland Emmerich,Jonathan Demme,B,Jonathan Demme
+1,PRODUCED,Bộ phim 'The Terminal' được sản xuất bởi ai?,Chris Columbus,Steven Spielberg,B,Steven Spielberg
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator 2: Judgment Day'?,Joe Morton,Douglas Smith,A,Joe Morton
+1,IS_PARTNER_OF,Bạn đời của Matthew McConaughey là ai?,Lauren Graham,Sandra Bullock,B,Sandra Bullock
+1,IS_PARENT_OF,Ai là con của Tom Hanks?,Hayley Hasselhoff,Truman Hanks,B,Truman Hanks
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Harry Potter and the Philosopher's Stone'?,Chris Columbus,Sylvester Stallone,A,Chris Columbus
+1,DIRECTED,Ai là đạo diễn của bộ phim '1911'?,Jackie Chan,John Lasseter,A,Jackie Chan
+1,IS_PARENT_OF,Ai là con của David Lynch?,Austin Jack Lynch,Jude Grammer,A,Austin Jack Lynch
+1,IS_PARTNER_OF,Bạn đời của Lenny Kravitz là ai?,Madonna,Vanessa Paradis,A,Madonna
+1,PRODUCED,Bộ phim 'Rouge' được sản xuất bởi ai?,Jackie Chan,Steven Spielberg,A,Jackie Chan
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Lost World: Jurassic Park'?,David O. Russell,Steven Spielberg,B,Steven Spielberg
+1,IS_SIBLING_OF,Ai là anh/chị em với Sean Penn?,Chris Penn,Aaron Carter,A,Chris Penn
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator: Dark Fate'?,Donald Trump,Linda Hamilton,B,Linda Hamilton
+1,IS_PARTNER_OF,Bạn đời của Steven Tyler là ai?,Maya Rudolph,Julia Holcomb,B,Julia Holcomb
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Ready Player One'?,Steven Spielberg,Sylvester Stallone,A,Steven Spielberg
+1,IS_PARENT_OF,Ai là con của Tom Hanks?,Sawyer Spielberg,Chet Hanks,B,Chet Hanks
+1,IS_PARENT_OF,Ai là con của Robert De Niro?,Francesca Scorsese,Julian De Niro,B,Julian De Niro
+1,HAS_GRANDPARENT_OF,Ông/Bà của Donald Trump là ai?,Roxie Roker,Mary L. Trump,B,Mary L. Trump
+1,IS_SPOUSE_OF,Vợ/Chồng của Liam Neeson là ai?,Cheryl Howard,Natasha Richardson,B,Natasha Richardson
+1,IS_SPOUSE_OF,Vợ/Chồng của Paul Simon là ai?,Susan Brown,Peggy Harper,B,Peggy Harper
+1,DIRECTED,Ai là đạo diễn của bộ phim 'JFK'?,Tommy Wiseau,Oliver Stone,B,Oliver Stone
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 3'?,Sylvester Stallone,Shelley Duvall,A,Sylvester Stallone
+1,HAS_GRANDPARENT_OF,Ông/Bà của Dwayne Johnson là ai?,Lia Maivia,Oliver Hudson,A,Lia Maivia
+1,IS_PARTNER_OF,Bạn đời của Tim Burton là ai?,Monica Bellucci,Cameron Diaz,A,Monica Bellucci
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The BFG'?,Dan Gilroy,Steven Spielberg,B,Steven Spielberg
+1,IS_SIBLING_OF,Ai là anh/chị em với Q463497?,Elizabeth Keuchler,Rafael Ferrer,B,Rafael Ferrer
+1,IS_SPOUSE_OF,Vợ/Chồng của Gary Oldman là ai?,Gisele Schmidt,Carrie Fisher,A,Gisele Schmidt
+1,PRODUCED,Bộ phim 'Dances with Wolves' được sản xuất bởi ai?,Kevin Costner,Edwin Catmull,A,Kevin Costner
+1,PRODUCED,Bộ phim 'Skiptrace' được sản xuất bởi ai?,Jackie Chan,Robert Zemeckis,A,Jackie Chan
+1,IS_SIBLING_OF,Ai là anh/chị em với Chris Rock?,Liberty Phoenix,Tony Rock,B,Tony Rock
+1,IS_SIBLING_OF,Ai là anh/chị em với Sylvester Stallone?,Frank Stallone,Shannon Leto,A,Frank Stallone
+1,IS_PARTNER_OF,Bạn đời của Sean Penn là ai?,Elizabeth McGovern,Sarah Jessica Parker,A,Elizabeth McGovern
+1,IS_PARTNER_OF,Bạn đời của Daniel Craig là ai?,Heike Makatsch,Kidada Jones,A,Heike Makatsch
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables'?,Laura Dern,Arnold Schwarzenegger,B,Arnold Schwarzenegger
+1,IS_SIBLING_OF,Ai là anh/chị em với Tom Hanks?,Liberty Phoenix,Larry Hanks,B,Larry Hanks
+1,PRODUCED,Bộ phim 'Gen-X Cops' được sản xuất bởi ai?,Jackie Chan,John Lasseter,A,Jackie Chan
+1,IS_SIBLING_OF,Ai là anh/chị em với Rob Reiner?,Sylivia Ann Reiner,Daniel Baldwin,A,Sylivia Ann Reiner
+1,IS_PARTNER_OF,Bạn đời của Tim Burton là ai?,Helena Bonham Carter,Rebecca De Mornay,A,Helena Bonham Carter
+1,IS_SIBLING_OF,Ai là anh/chị em với Gary Oldman?,Laila Morse,Bob Weinstein,A,Laila Morse
+1,IS_PARTNER_OF,Bạn đời của Robert Downey Jr. là ai?,Sarah Jessica Parker,Vanessa Hudgens,A,Sarah Jessica Parker
+1,IS_PARENT_OF,Ai là con của Kevin Kline?,Greta Kline,Daniel Jack Neeson,A,Greta Kline
+1,IS_SIBLING_OF,Ai là anh/chị em với Tom Hanks?,Patrick Hamill,Jim Hanks,B,Jim Hanks
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Fabelmans'?,Whoopi Goldberg,Paul Dano,B,Paul Dano
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 3'?,Lisa Kudrow,Ronda Rousey,B,Ronda Rousey
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,Nate Dogg,Jane Radcliffe,B,Jane Radcliffe
+1,IS_PARTNER_OF,Bạn đời của Garry Shandling là ai?,Kate Bosworth,Linda Doucett,B,Linda Doucett
+1,HAS_GRANDPARENT_OF,Ông/Bà của Christopher Nolan là ai?,Roman Reigns,John Nolan,B,John Nolan
+1,IS_PARENT_OF,Ai là con của Michael Douglas?,Julie Pacino,Cameron Douglas,B,Cameron Douglas
+1,IS_PARENT_OF,Ai là con của Robert De Niro?,Georgina Bloomberg,Elliot De Niro,B,Elliot De Niro
+1,PRODUCED,Bộ phim 'Star Wars: The Clone Wars' được sản xuất bởi ai?,Robert Zemeckis,George Lucas,B,George Lucas
+1,IS_SIBLING_OF,Ai là anh/chị em với Roland Emmerich?,Ute Emmerich,Nicholas Turturro,A,Ute Emmerich
+1,IS_PARTNER_OF,Bạn đời của Dolph Lundgren là ai?,Tess Broussard,Grace Jones,B,Grace Jones
+1,PRODUCED,Bộ phim 'Alvin and the Chipmunks: The Squeakquel' được sản xuất bởi ai?,Ross Bagdasarian Jr.,Charlie Kaufman,A,Ross Bagdasarian Jr.
+1,PRODUCED,Bộ phim 'Shrek' được sản xuất bởi ai?,Steven Spielberg,Sam Raimi,A,Steven Spielberg
+1,PRODUCED,Bộ phim 'Wall Street: Money Never Sleeps' được sản xuất bởi ai?,Michael Douglas,Harvey Weinstein,A,Michael Douglas
+1,IS_SPOUSE_OF,Vợ/Chồng của John Carpenter là ai?,Mellody Hobson,Sandy King,B,Sandy King
+1,HAS_GRANDPARENT_OF,Ông/Bà của Rob Schneider là ai?,David Chneïderov,Tallulah Willis,A,David Chneïderov
+1,PRODUCED,Bộ phim 'Wall Street: Money Never Sleeps' được sản xuất bởi ai?,Oliver Stone,Tom Hanks,A,Oliver Stone
+1,IS_PARENT_OF,Ai là con của Steven Spielberg?,Nicholas Bird,Max Spielberg,B,Max Spielberg
+1,IS_PARENT_OF,Ai là con của Steven Tyler?,Chelsea Tyler,Joseph Baena,A,Chelsea Tyler
+1,IS_SIBLING_OF,Ai là anh/chị em với Ron Howard?,Clint Howard,John Goldwyn,A,Clint Howard
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dr. Dolittle 2'?,Steve Zahn,Donald Trump,A,Steve Zahn
+1,IS_SIBLING_OF,Ai là anh/chị em với Gilbert Gottfried?,Arlene Gottfried,Peter Douglas,A,Arlene Gottfried
+1,HAS_GRANDPARENT_OF,Ông/Bà của Val Kilmer là ai?,Joan Ciccone,Nora Jones,B,Nora Jones
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Philadelphia'?,Jackie Chan,Jonathan Demme,B,Jonathan Demme
+1,IS_PARTNER_OF,Bạn đời của Lenny Kravitz là ai?,Vanessa Paradis,Minka Kelly,A,Vanessa Paradis
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator: Dark Fate'?,Owen Wilson,Arnold Schwarzenegger,B,Arnold Schwarzenegger
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Terminator'?,Arnold Schwarzenegger,Bill Paxton,B,Bill Paxton
+1,IS_PARTNER_OF,Bạn đời của Robert Rodriguez là ai?,Rose McGowan,Charmaine Sinclair,A,Rose McGowan
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Terminal'?,Steven Spielberg,Robert Zemeckis,A,Steven Spielberg
+1,IS_SIBLING_OF,Ai là anh/chị em với Alec Baldwin?,William Baldwin,Asa Taccone,A,William Baldwin
+1,IS_SPOUSE_OF,Vợ/Chồng của Steven Spielberg là ai?,Miyako Fujitani,Amy Irving,B,Amy Irving
+1,IS_SPOUSE_OF,"Vợ/Chồng của ""Weird Al"" Yankovic là ai?",Suzanne Yankovic,Adrienne La Russa,A,Suzanne Yankovic
+1,DIRECTED,Ai là đạo diễn của bộ phim 'West Side Story'?,Steven Spielberg,Sam Raimi,A,Steven Spielberg
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Rain Man'?,Frank Darabont,Barry Levinson,B,Barry Levinson
+1,IS_PARTNER_OF,Bạn đời của Stone Cold Steve Austin là ai?,Tess Broussard,Elsa Pataky,A,Tess Broussard
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dune'?,Eliza Dushku,Virginia Madsen,B,Virginia Madsen
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Jackson?,Tito Jackson,Adam Kaufman,A,Tito Jackson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sabotage'?,Bruce Willis,Arnold Schwarzenegger,B,Arnold Schwarzenegger
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator 2: Judgment Day'?,Beyoncé,Arnold Schwarzenegger,B,Arnold Schwarzenegger
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Adventures of Tintin: The Secret of the Unicorn'?,Steven Spielberg,Michael Bay,A,Steven Spielberg
+1,PRODUCED,Bộ phim 'Supercop' được sản xuất bởi ai?,Jackie Chan,John Lasseter,A,Jackie Chan
+1,IS_PARTNER_OF,Bạn đời của Kyle MacLachlan là ai?,Bebe Buell,Laura Dern,B,Laura Dern
+1,HAS_GRANDPARENT_OF,Ông/Bà của Todd Fisher là ai?,Carrie Fisher,Evelyn Greenblatt,A,Carrie Fisher
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q463497 là ai?,Fred M. Hechinger,Sonny Ferrer,B,Sonny Ferrer
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 3'?,Q3959303,Mel Gibson,B,Mel Gibson
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Minority Report'?,Chris Columbus,Steven Spielberg,B,Steven Spielberg
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Maggie'?,Arnold Schwarzenegger,Kim Kardashian,A,Arnold Schwarzenegger
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Police Story 2'?,Jackie Chan,Brad Bird,A,Jackie Chan
+1,HAS_GRANDPARENT_OF,Ông/Bà của Ashton Kutcher là ai?,Tallulah Willis,Rosemary Clooney,A,Tallulah Willis
+1,IS_PARTNER_OF,Bạn đời của David Lynch là ai?,Rosalind Ross,Isabella Rossellini,B,Isabella Rossellini
+1,IS_SIBLING_OF,Ai là anh/chị em với Ben Stiller?,Jopaul Van Epp,Amy Stiller,B,Amy Stiller
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Moonfall'?,Roland Emmerich,Michael Jackson,A,Roland Emmerich
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 3'?,Terry Crews,Lenny Kravitz,A,Terry Crews
+1,PRODUCED,Bộ phim 'The Homesman' được sản xuất bởi ai?,Tommy Lee Jones,Jackie Chan,A,Tommy Lee Jones
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q463497 là ai?,Mark Hudson,George Clooney,B,George Clooney
+1,IS_SIBLING_OF,Ai là anh/chị em với Owen Wilson?,Andrew Wilson,Matt Oswalt,A,Andrew Wilson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sabotage'?,Joe Manganiello,Kyle MacLachlan,A,Joe Manganiello
+1,IS_PARTNER_OF,Bạn đời của Sean Penn là ai?,Susan Sarandon,Noor Alfallah,A,Susan Sarandon
+1,IS_SIBLING_OF,Ai là anh/chị em với Alec Baldwin?,Tricia Leigh Fisher,Elizabeth Keuchler,B,Elizabeth Keuchler
+1,IS_PARENT_OF,Ai là con của Michael Bloomberg?,Georgina Bloomberg,Paige Howard,A,Georgina Bloomberg
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Hurricane Heist'?,Q3772,Rob Cohen,B,Rob Cohen
+1,IS_PARENT_OF,Ai là con của Oliver Stone?,Sean Stone,Alexander Zemeckis,A,Sean Stone
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Jackson?,Dave Franco,Randy Jackson,B,Randy Jackson
+1,IS_CHILD_OF_DAD,Cha của Jack Quaid là ai?,Judith Love Cohen,Dennis Quaid,B,Dennis Quaid
+1,IS_SPOUSE_OF,Vợ/Chồng của Paul Anka là ai?,Anna Anka,Mimi Rogers,A,Anna Anka
+1,HAS_GRANDPARENT_OF,Ông/Bà của Donald Trump là ai?,Justin Bieber,Lara Trump,B,Lara Trump
+1,PRODUCED,Bộ phim 'Artemis Fowl' được sản xuất bởi ai?,Tom Hanks,Robert De Niro,B,Robert De Niro
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Mulholland Drive'?,Brad Bird,David Lynch,B,David Lynch
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Fabelmans'?,Donald Trump,David Lynch,B,David Lynch
+1,IS_PARTNER_OF,Bạn đời của Gary Oldman là ai?,Jennifer Aniston,Isabella Rossellini,B,Isabella Rossellini
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Killers of the Flower Moon'?,Martin Scorsese,Sam Raimi,A,Martin Scorsese
+1,HAS_GRANDPARENT_OF,Ông/Bà của Christoph Waltz là ai?,Marcus Eberhardt,Victor Urbantschitsch,B,Victor Urbantschitsch
+1,HAS_GRANDPARENT_OF,Ông/Bà của Arnold Schwarzenegger là ai?,Summer Phoenix,Q24004771,B,Q24004771
+1,IS_SIBLING_OF,Ai là anh/chị em với John Travolta?,Margaret Travolta,Amy Stiller,A,Margaret Travolta
+1,IS_PARENT_OF,Ai là con của John Lithgow?,Sean Stone,Ian Lithgow,B,Ian Lithgow
+1,IS_SPOUSE_OF,Vợ/Chồng của David Lynch là ai?,Jillie Mack,Mary Sweeney,B,Mary Sweeney
+1,PRODUCED,Bộ phim 'Schindler's List' được sản xuất bởi ai?,Sam Raimi,Steven Spielberg,B,Steven Spielberg
+1,IS_SIBLING_OF,Ai là anh/chị em với Eddie Murphy?,Charlie Murphy,Marlon Jackson,A,Charlie Murphy
+1,IS_PARTNER_OF,Bạn đời của Jim Carrey là ai?,Jenny McCarthy,Britney Spears,A,Jenny McCarthy
+1,PRODUCED,Bộ phim 'Killers of the Flower Moon' được sản xuất bởi ai?,Tommy Wiseau,Martin Scorsese,B,Martin Scorsese
+1,IS_SPOUSE_OF,Vợ/Chồng của Peter Fonda là ai?,Portia Rebecca Crockett,Katie Holmes,A,Portia Rebecca Crockett
+1,IS_PARTNER_OF,Bạn đời của Darren Aronofsky là ai?,Helena Christensen,Jennifer Lawrence,B,Jennifer Lawrence
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Adjustment Bureau'?,Jon Stewart,Bill Paxton,A,Jon Stewart
+1,PRODUCED,Bộ phim 'Live Free or Die Hard' được sản xuất bởi ai?,Bruce Willis,John Lasseter,A,Bruce Willis
+1,IS_SIBLING_OF,Ai là anh/chị em với Nicolas Cage?,Elizabeth Colbert Busch,Marc Coppola,B,Marc Coppola
+1,IS_PARTNER_OF,Bạn đời của Sean Penn là ai?,Laura Dern,Charlize Theron,B,Charlize Theron
+1,IS_SPOUSE_OF,Vợ/Chồng của David Lynch là ai?,Emily Stofle,Mary Beth Hurt,A,Emily Stofle
+1,HAS_GRANDPARENT_OF,Ông/Bà của Donald Trump là ai?,Laurence Pinault,John Whitney Walter,B,John Whitney Walter
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Independence Day: Resurgence'?,Roland Emmerich,Q3772,A,Roland Emmerich
+1,IS_SPOUSE_OF,Vợ/Chồng của Salman Rushdie là ai?,Adrienne La Russa,Clarissa Luard,B,Clarissa Luard
+1,IS_SPOUSE_OF,Vợ/Chồng của Bruce Lee là ai?,Kathleen Treado Daniels,Linda Lee Cadwell,B,Linda Lee Cadwell
+1,PRODUCED,Bộ phim 'War Horse' được sản xuất bởi ai?,Danny DeVito,Steven Spielberg,B,Steven Spielberg
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Steve Jobs'?,Arnold Schwarzenegger,Bob Dylan,B,Bob Dylan
+1,IS_SPOUSE_OF,Vợ/Chồng của Robert De Niro là ai?,Mickey Middleton,Diahnne Abbott,B,Diahnne Abbott
+1,IS_SPOUSE_OF,Vợ/Chồng của Ron Howard là ai?,Katherine Borowitz,Cheryl Howard,B,Cheryl Howard
+1,IS_PARENT_OF,Ai là con của John de Lancie?,Keegan de Lancie,Oliver Elfman,A,Keegan de Lancie
+1,IS_SIBLING_OF,Ai là anh/chị em với Steve Antin?,Robin Antin,Andi Rock,A,Robin Antin
+1,IS_SPOUSE_OF,Vợ/Chồng của Steve Martin là ai?,Victoria Tennant,Nancy Wilson,A,Victoria Tennant
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 3'?,Robert Patrick,Harrison Ford,B,Harrison Ford
+1,IS_PARTNER_OF,Bạn đời của Thomas Jane là ai?,Jennifer Aniston,Olivia d'Abo,B,Olivia d'Abo
+1,PRODUCED,Bộ phim 'Jurassic Park' được sản xuất bởi ai?,Bruce Willis,Steven Spielberg,B,Steven Spielberg
+1,IS_PARENT_OF,Ai là con của Sylvester Stallone?,Ben Ford,Sage Stallone,B,Sage Stallone
+1,PRODUCED,Bộ phim 'Hugo' được sản xuất bởi ai?,Martin Scorsese,Harvey Weinstein,A,Martin Scorsese
+1,IS_PARENT_OF,Ai là con của Martin Scorsese?,Lucas Daniels,Domenica Cameron-Scorsese,B,Domenica Cameron-Scorsese
+1,PRODUCED,Bộ phim 'Transformers One' được sản xuất bởi ai?,Edwin Catmull,Steven Spielberg,B,Steven Spielberg
+1,HAS_GRANDPARENT_OF,Ông/Bà của Ryan Reynolds là ai?,Alice Braga,Chester Reynolds,B,Chester Reynolds
+1,HAS_GRANDPARENT_OF,Ông/Bà của Joaquin Phoenix là ai?,Allen Bonet,Casey Affleck,B,Casey Affleck
+1,IS_CHILD_OF_DAD,Cha của Brandon Lee là ai?,Nancy June Carlsson Page,Bruce Lee,B,Bruce Lee
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,Matthew Hind,Jane Radcliffe,A,Matthew Hind
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Adjustment Bureau'?,Kristin Davis,Matt Damon,B,Matt Damon
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Saving Private Ryan'?,Steven Spielberg,Chris Columbus,A,Steven Spielberg
+1,PRODUCED,Bộ phim 'Men in Black' được sản xuất bởi ai?,Martin Scorsese,Steven Spielberg,B,Steven Spielberg
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 3'?,Glen Powell,Shailene Woodley,A,Glen Powell
+1,PRODUCED,Bộ phim 'The Irishman' được sản xuất bởi ai?,Edwin Catmull,Robert De Niro,B,Robert De Niro
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Maggie'?,Abigail Breslin,Arnold Schwarzenegger,A,Abigail Breslin
+1,IS_PARTNER_OF,Bạn đời của William Hurt là ai?,Sandrine Bonnaire,Jennifer Lawrence,A,Sandrine Bonnaire
+1,HAS_GRANDPARENT_OF,Ông/Bà của Michael Keaton là ai?,Vanessa Trump,River Douglas,B,River Douglas
+1,IS_SIBLING_OF,Ai là anh/chị em với John Cusack?,Susie Cusack,Letty Ferrer,A,Susie Cusack
+1,IS_PARENT_OF,Ai là con của Brian Wilson?,Eric Trump,Wendy Wilson,B,Wendy Wilson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Terminator'?,Linda Hamilton,Rob Schneider,A,Linda Hamilton
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Thing'?,John Carpenter,Ron Howard,A,John Carpenter
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 2'?,Dolph Lundgren,Aubrey Plaza,A,Dolph Lundgren
+1,IS_PARENT_OF,Ai là con của Sylvester Stallone?,Scarlet Rose Stallone,Rafi Ferrer,A,Scarlet Rose Stallone
+1,IS_SIBLING_OF,Ai là anh/chị em với Todd Fisher?,Keenen Ivory Wayans,Joely Fisher,B,Joely Fisher
+1,IS_SPOUSE_OF,Vợ/Chồng của Christoph Waltz là ai?,Judith Holste,Glenne Headly,A,Judith Holste
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Expendables'?,Sylvester Stallone,Chris Columbus,A,Sylvester Stallone
+1,IS_SPOUSE_OF,Vợ/Chồng của Denzel Washington là ai?,Pauletta Pearson Washington,Liza Mundy,A,Pauletta Pearson Washington
+1,IS_SPOUSE_OF,Vợ/Chồng của Paul Simon là ai?,Edie Brickell,Pauletta Pearson Washington,A,Edie Brickell
+1,IS_SPOUSE_OF,Vợ/Chồng của George Lucas là ai?,Jennifer Lee,Mellody Hobson,B,Mellody Hobson
+1,IS_SPOUSE_OF,Vợ/Chồng của Bill Murray là ai?,Christine Baumgartner,Jennifer Butler,B,Jennifer Butler
+1,IS_SIBLING_OF,Ai là anh/chị em với Q463497?,Monsita Ferrer,Nadia Wayans,A,Monsita Ferrer
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Snowden'?,Oliver Stone,Steven Spielberg,A,Oliver Stone
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Fences'?,Denzel Washington,Robert Zemeckis,A,Denzel Washington
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 2'?,Josh Gad,Chuck Norris,B,Chuck Norris
+1,IS_CHILD_OF_DAD,Cha của Jessica Capshaw là ai?,Steven Spielberg,Nick Clooney,A,Steven Spielberg
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Last Stand'?,Eddie Murphy,Forest Whitaker,B,Forest Whitaker
+1,IS_PARTNER_OF,Bạn đời của Sean Combs là ai?,Cameron Diaz,Marlee Matlin,A,Cameron Diaz
+1,IS_SPOUSE_OF,Vợ/Chồng của Robert De Niro là ai?,Grace Hightower,Laraine Marie Brennan,A,Grace Hightower
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,Amy Laugharne,Tambu Kisoki,A,Amy Laugharne
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Boy Next Door'?,David Lynch,Rob Cohen,B,Rob Cohen
+1,IS_SIBLING_OF,Ai là anh/chị em với Patrick Swayze?,Don Swayze,Dakota Culkin,A,Don Swayze
+1,IS_PARENT_OF,Ai là con của Meat Loaf?,Hayley Hasselhoff,Amanda Aday,B,Amanda Aday
+1,IS_PARTNER_OF,Bạn đời của Benjamin Bratt là ai?,Julia Roberts,Mia Zottoli,A,Julia Roberts
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,Leslie Michelle Carter,Marcus Eberhardt,A,Leslie Michelle Carter
+1,IS_PARENT_OF,Ai là con của George Lucas?,Amanda Lucas,Tracy Reiner,A,Amanda Lucas
+1,IS_PARENT_OF,Ai là con của Arnold Schwarzenegger?,Sam Levinson,Joseph Baena,B,Joseph Baena
+1,DIRECTED,Ai là đạo diễn của bộ phim 'When Harry Met Sally'?,Rob Reiner,David O. Russell,A,Rob Reiner
+1,IS_PARTNER_OF,Bạn đời của Nicolas Cage là ai?,Laura Dern,Rooney Mara,A,Laura Dern
+1,IS_SPOUSE_OF,Vợ/Chồng của Chuck Norris là ai?,Judith Holste,Diane Holechek,B,Diane Holechek
+1,IS_PARENT_OF,Ai là con của Bruce Lee?,Brandon Lee,Mason Grammer,A,Brandon Lee
+1,DIRECTED,Ai là đạo diễn của bộ phim 'A.I. Artificial Intelligence'?,Steven Spielberg,Cameron Crowe,A,Steven Spielberg
+1,PRODUCED,Bộ phim 'Letters from Iwo Jima' được sản xuất bởi ai?,Steven Spielberg,Michael Jackson,A,Steven Spielberg
+1,IS_SIBLING_OF,Ai là anh/chị em với John Cusack?,River Phoenix,Ann Cusack,B,Ann Cusack
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q6096 là ai?,Matthew Hind,Daz Dillinger,B,Daz Dillinger
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Braveheart'?,Mel Gibson,Michael Crichton,A,Mel Gibson
+1,IS_PARENT_OF,Ai là con của John Ratzenberger?,James Ratzenberger,Cody Williams,A,James Ratzenberger
+1,IS_SIBLING_OF,Ai là anh/chị em với Arnold Schwarzenegger?,Anne Spielberg,Meinhard Schwarzenegger,B,Meinhard Schwarzenegger
+1,IS_SIBLING_OF,Ai là anh/chị em với Sam Raimi?,Agnes Lee,Ted Raimi,B,Ted Raimi
+1,IS_PARTNER_OF,Bạn đời của LL Cool J là ai?,Kidada Jones,Cassie Ventura,A,Kidada Jones
+1,IS_SIBLING_OF,Ai là anh/chị em với Peter Fonda?,Summer Phoenix,Jane Fonda,B,Jane Fonda
+1,PRODUCED,Bộ phim 'Ma Rainey's Black Bottom' được sản xuất bởi ai?,Martin Scorsese,Denzel Washington,B,Denzel Washington
+1,HAS_GRANDPARENT_OF,Ông/Bà của Dwayne Johnson là ai?,Alice Boote,Peter Maivia,B,Peter Maivia
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Game of Death'?,Bruce Lee,Cameron Crowe,A,Bruce Lee
+1,IS_SPOUSE_OF,Vợ/Chồng của Salman Rushdie là ai?,Elizabeth West,Kelly Le Brock,A,Elizabeth West
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Taxi Driver'?,Steven Spielberg,Martin Scorsese,B,Martin Scorsese
+1,IS_SIBLING_OF,Ai là anh/chị em với Bruce Lee?,Peter Lee Jung-sum,Patrick Hamill,A,Peter Lee Jung-sum
+1,IS_PARTNER_OF,Bạn đời của David Copperfield là ai?,Claudia Schiffer,Penélope Cruz,A,Claudia Schiffer
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 3'?,Wesley Snipes,Nick Kroll,A,Wesley Snipes
+1,HAS_GRANDPARENT_OF,Ông/Bà của Mike Myers là ai?,Maria Mayen,John Myers,B,John Myers
+1,IS_SIBLING_OF,Ai là anh/chị em với Alec Baldwin?,River Phoenix,Stephen Baldwin,B,Stephen Baldwin
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Savages'?,Oliver Stone,Steven Spielberg,A,Oliver Stone
+1,IS_SPOUSE_OF,Vợ/Chồng của Paul Simon là ai?,Carrie Fisher,Emma Heming Willis,A,Carrie Fisher
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Lincoln'?,Steven Spielberg,John Carpenter,A,Steven Spielberg
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Escape Plan'?,Sylvester Stallone,Ashley Greene,A,Sylvester Stallone
+1,PRODUCED,Bộ phim 'The One' được sản xuất bởi ai?,Jackie Chan,Michael Jackson,B,Michael Jackson
+1,IS_SIBLING_OF,Ai là anh/chị em với Chris Rock?,Andi Rock,Jed Whedon,A,Andi Rock
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dune'?,Sean Young,Arnold Schwarzenegger,A,Sean Young
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q6096 là ai?,Stanley Tucci,Ray J,B,Ray J
+1,PRODUCED,Bộ phim 'The BFG' được sản xuất bởi ai?,Steven Spielberg,Tom Hanks,A,Steven Spielberg
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Wolf of Wall Street'?,Martin Scorsese,Joe Johnston,A,Martin Scorsese
+1,IS_PARTNER_OF,Bạn đời của Jim Carrey là ai?,Tuc Watkins,Ginger Gonzaga,B,Ginger Gonzaga
+1,HAS_GRANDPARENT_OF,Ông/Bà của Tom Cruise là ai?,Harry Garfield,William Mapother,B,William Mapother
+1,IS_SIBLING_OF,Ai là anh/chị em với Zach Galifianakis?,Merritt Galifianakis,Ben Garfield,A,Merritt Galifianakis
+1,IS_PARTNER_OF,Bạn đời của John Corbett là ai?,Bo Derek,Grace Jones,A,Bo Derek
+1,IS_SPOUSE_OF,Vợ/Chồng của David Lynch là ai?,Pauletta Pearson Washington,Mary Fisk,B,Mary Fisk
+1,IS_PARENT_OF,Ai là con của Paul Simon?,Georgina Bloomberg,Gabriel Elijah Simon,B,Gabriel Elijah Simon
+1,IS_PARTNER_OF,Bạn đời của George Clooney là ai?,Naomi Campbell,Céline Balitran,B,Céline Balitran
+1,HAS_GRANDPARENT_OF,Ông/Bà của Matthew McConaughey là ai?,Dandridge McRae,Daz Dillinger,A,Dandridge McRae
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Monty Python and the Holy Grail'?,Terry Gilliam,Mel Gibson,A,Terry Gilliam
+1,IS_PARTNER_OF,Bạn đời của Bob Dylan là ai?,Merrill Markoe,Joan Baez,B,Joan Baez
+1,HAS_GRANDPARENT_OF,Ông/Bà của John Krasinski là ai?,Stanley Tucci,Blake Sunderman,A,Stanley Tucci
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sabotage'?,Martin Donovan,Seth Rogen,A,Martin Donovan
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'True Lies'?,Jon Stewart,Jamie Lee Curtis,B,Jamie Lee Curtis
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Homesman'?,Brad Bird,Tommy Lee Jones,B,Tommy Lee Jones
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Fast and the Furious'?,George Lucas,Rob Cohen,B,Rob Cohen
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Hugo'?,Joe Johnston,Martin Scorsese,B,Martin Scorsese
+1,IS_PARTNER_OF,Bạn đời của Tom Cruise là ai?,Rebecca De Mornay,Rose Byrne,A,Rebecca De Mornay
+1,HAS_GRANDPARENT_OF,Ông/Bà của Chris Pratt là ai?,Stanley Tucci,Arnold Schwarzenegger,B,Arnold Schwarzenegger
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Independence Day'?,Q361336,Roland Emmerich,B,Roland Emmerich
+1,HAS_GRANDPARENT_OF,Ông/Bà của Tom Hanks là ai?,Carmine Kahuanui,Gage Hanks,B,Gage Hanks
+1,HAS_GRANDPARENT_OF,Ông/Bà của Stephen Baldwin là ai?,Eumir Deodato,Brooke Shields,A,Eumir Deodato
+1,IS_PARENT_OF,Ai là con của Steven Spielberg?,Theo Spielberg,Sasha Spielberg,A,Theo Spielberg
+1,IS_PARTNER_OF,Bạn đời của Sean Combs là ai?,Emma Heming Willis,FKA twigs,A,Emma Heming Willis
+1,IS_SIBLING_OF,Ai là anh/chị em với Robert Downey Jr.?,Allyson Downey,Allegra Huston,A,Allyson Downey
+1,IS_SPOUSE_OF,Vợ/Chồng của Michael Jackson là ai?,Nancy Wilson,Debbie Rowe,B,Debbie Rowe
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Irishman'?,Steven Spielberg,Martin Scorsese,B,Martin Scorsese
+1,IS_SPOUSE_OF,Vợ/Chồng của Michael Crichton là ai?,Edie Brickell,Anne-Marie Martin,B,Anne-Marie Martin
+1,HAS_GRANDPARENT_OF,Ông/Bà của Stanley Tucci là ai?,Ron Kenoly,Emily Blunt,B,Emily Blunt
+1,DIRECTED,Ai là đạo diễn của bộ phim '2012'?,Brad Bird,Roland Emmerich,B,Roland Emmerich
+1,PRODUCED,Bộ phim 'Jurassic Park III' được sản xuất bởi ai?,Martin Scorsese,Steven Spielberg,B,Steven Spielberg
+1,IS_PARENT_OF,Ai là con của Steven Spielberg?,Jessica Capshaw,Chris Brosnan,A,Jessica Capshaw
+1,IS_SPOUSE_OF,Vợ/Chồng của Michael Bloomberg là ai?,Susan Brown,Romy Rosemont,A,Susan Brown
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Percy Jackson & the Olympians: The Lightning Thief'?,Joe Johnston,Chris Columbus,B,Chris Columbus
+1,IS_SPOUSE_OF,Vợ/Chồng của Randy Savage là ai?,Robyn Moore,Elizabeth Ann Hulette,B,Elizabeth Ann Hulette
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Number Ones'?,Michael Jackson,Chris Columbus,A,Michael Jackson
+1,IS_SIBLING_OF,Ai là anh/chị em với Chris Rock?,Jordan Rock,Franklin Jonas,A,Jordan Rock
+1,IS_PARTNER_OF,Bạn đời của Bob Dylan là ai?,Didem Erol,Suze Rotolo,B,Suze Rotolo
+1,IS_PARTNER_OF,Bạn đời của Eddie Murphy là ai?,Paige Butcher,Vanessa Hudgens,A,Paige Butcher
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 3'?,Natalie Portman,Kelsey Grammer,B,Kelsey Grammer
+1,IS_SPOUSE_OF,Vợ/Chồng của Steven Spielberg là ai?,Kate Capshaw,Rene Russo,A,Kate Capshaw
+1,IS_SIBLING_OF,Ai là anh/chị em với Nicolas Cage?,Christopher Coppola,Luke Wilson,A,Christopher Coppola
+1,IS_SPOUSE_OF,Vợ/Chồng của Peter Fonda là ai?,Susan Brewer,Leslie Zemeckis,A,Susan Brewer
+1,IS_PARENT_OF,Ai là con của David Lynch?,Riley Sweeney Lynch,Sasha Spielberg,A,Riley Sweeney Lynch
+1,HAS_GRANDPARENT_OF,Ông/Bà của Ashton Kutcher là ai?,Scout Willis,Barry Pang,A,Scout Willis
+1,IS_SIBLING_OF,Ai là anh/chị em với Bruce Lee?,Amy Stiller,Robert Lee,B,Robert Lee
+1,HAS_GRANDPARENT_OF,Ông/Bà của Kevin Costner là ai?,Vincent Cox,Sarah Rosenberg,A,Vincent Cox
+1,IS_SPOUSE_OF,Vợ/Chồng của Brian Wilson là ai?,Diahnne Abbott,Marilyn Wilson,B,Marilyn Wilson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 2'?,Arnold Schwarzenegger,Terry Crews,B,Terry Crews
+1,IS_PARENT_OF,Ai là con của Kareem Abdul-Jabbar?,Paris Jackson,"Kareem Abdul-Jabbar, Jr.",B,"Kareem Abdul-Jabbar, Jr."
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables'?,Arnold Schwarzenegger,Sylvester Stallone,B,Sylvester Stallone
+1,IS_PARENT_OF,Ai là con của Arnold Schwarzenegger?,Ayako Fujitani,Christina Schwarzenegger,B,Christina Schwarzenegger
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'True Lies'?,Eliza Dushku,Zoe Saldaña,A,Eliza Dushku
+1,IS_SIBLING_OF,Ai là anh/chị em với Bruce Lee?,Ellen Travolta,Phoebe Lee,B,Phoebe Lee
+1,IS_PARTNER_OF,Bạn đời của George Clooney là ai?,Naomi Campbell,Kimberly Russell,B,Kimberly Russell
+1,IS_SIBLING_OF,Ai là anh/chị em với Mark Hamill?,Patrick Hamill,Douglas Pitt,A,Patrick Hamill
+1,PRODUCED,Bộ phim 'Ready Player One' được sản xuất bởi ai?,Steven Spielberg,Sylvester Stallone,A,Steven Spielberg
+1,IS_PARENT_OF,Ai là con của Michael Douglas?,Sophia Rose Stallone,Dylan Douglas,B,Dylan Douglas
+1,IS_SIBLING_OF,Ai là anh/chị em với Steven Spielberg?,Anne Spielberg,Letty Ferrer,A,Anne Spielberg
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Who Am I?'?,Jackie Chan,Jonathan Demme,A,Jackie Chan
+1,PRODUCED,Bộ phim 'One Flew Over the Cuckoo's Nest' được sản xuất bởi ai?,Jeff Bridges,Michael Douglas,B,Michael Douglas
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Jaws'?,Q361336,Steven Spielberg,B,Steven Spielberg
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Home Alone 2: Lost in New York'?,Chris Columbus,Frank Oz,A,Chris Columbus
+1,IS_SPOUSE_OF,Vợ/Chồng của Steve Martin là ai?,Anne Stringfield,Laraine Marie Brennan,A,Anne Stringfield
+1,IS_SIBLING_OF,Ai là anh/chị em với Bill Murray?,John Murray,Curtis Bowles,A,John Murray
+1,HAS_GRANDPARENT_OF,Ông/Bà của Dwayne Johnson là ai?,Marjorie Finlay,Rosey,B,Rosey
+1,HAS_GRANDPARENT_OF,Ông/Bà của Donald Trump là ai?,Elizabeth Christ Trump,Max Spielberg,A,Elizabeth Christ Trump
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Jackson?,Charlie Murphy,Jackie Jackson,B,Jackie Jackson
+1,HAS_GRANDPARENT_OF,Ông/Bà của Casey Affleck là ai?,Vincent Cox,Jennifer Garner,B,Jennifer Garner
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Jackson?,Brandon Jackson,Agnes Lee,A,Brandon Jackson
+1,IS_PARENT_OF,Ai là con của Danny DeVito?,Jake DeVito,Sean Stone,A,Jake DeVito
+1,IS_PARTNER_OF,Bạn đời của George Clooney là ai?,Sandrine Bonnaire,Elisabetta Canalis,B,Elisabetta Canalis
+1,PRODUCED,Bộ phim 'Toy Story' được sản xuất bởi ai?,Edwin Catmull,John Lasseter,A,Edwin Catmull
+1,PRODUCED,Bộ phim 'Star Wars: Episode IV – A New Hope' được sản xuất bởi ai?,Michael Jackson,George Lucas,B,George Lucas
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator Genisys'?,Jaimie Alexander,J. K. Simmons,B,J. K. Simmons
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Jackson?,Janet Jackson,Liz Goldwyn,A,Janet Jackson
+1,IS_SIBLING_OF,Ai là anh/chị em với Robin Williams?,Jackie Jackson,Robert Williams,B,Robert Williams
+1,IS_PARENT_OF,Ai là con của Joe Frazier?,Derek Frazier,Truman Hanks,A,Derek Frazier
+1,IS_PARENT_OF,Ai là con của Alice Cooper?,Lola Elfman,Calico Cooper,B,Calico Cooper
+1,DIRECTED,"Ai là đạo diễn của bộ phim 'Good Morning, Vietnam'?",Martin Scorsese,Barry Levinson,B,Barry Levinson
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Police Story'?,Jackie Chan,John Lasseter,A,Jackie Chan
+1,IS_SPOUSE_OF,Vợ/Chồng của Jackie Chan là ai?,Chinchin Wan,Adrienne La Russa,A,Chinchin Wan
+1,IS_PARTNER_OF,Bạn đời của David Letterman là ai?,Olivia d'Abo,Merrill Markoe,B,Merrill Markoe
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator Genisys'?,Robert De Niro,Arnold Schwarzenegger,B,Arnold Schwarzenegger
+1,IS_SIBLING_OF,Ai là anh/chị em với Q463497?,Letty Ferrer,Michael Bacon,A,Letty Ferrer
+1,IS_PARTNER_OF,Bạn đời của Kevin Costner là ai?,Birgit Cunningham,Kimora Lee Simmons,A,Birgit Cunningham
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Halloween'?,Steven Spielberg,John Carpenter,B,John Carpenter
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'True Lies'?,Arnold Schwarzenegger,Sigourney Weaver,A,Arnold Schwarzenegger
+1,IS_PARENT_OF,Ai là con của Robert De Niro?,Jennifer Crystal Foley,Raphael De Niro,B,Raphael De Niro
+1,IS_SPOUSE_OF,Vợ/Chồng của Michael Douglas là ai?,Catherine Zeta-Jones,Erika Koike,A,Catherine Zeta-Jones
+1,IS_PARTNER_OF,Bạn đời của Darren Aronofsky là ai?,Rachel Weisz,Gigi Hadid,A,Rachel Weisz
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Shutter Island'?,Martin Scorsese,Barry Levinson,A,Martin Scorsese
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Departed'?,Martin Scorsese,Joe Johnston,A,Martin Scorsese
+1,PRODUCED,Bộ phim 'Way of the Dragon' được sản xuất bởi ai?,Jeffrey Katzenberg,Bruce Lee,B,Bruce Lee
+1,IS_SPOUSE_OF,Vợ/Chồng của John Travolta là ai?,Joanne Whalley,Kelly Preston,B,Kelly Preston
+1,PRODUCED,Bộ phim 'Garfield: The Movie' được sản xuất bởi ai?,Harvey Weinstein,Jim Davis,B,Jim Davis
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Star Wars: Episode I – The Phantom Menace'?,George Lucas,Sam Raimi,A,George Lucas
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Jackson?,Gabriel Ferrer,Latoya Jackson,B,Latoya Jackson
+1,IS_SPOUSE_OF,Vợ/Chồng của Bruce Willis là ai?,Emma Heming Willis,Mimi Rogers,A,Emma Heming Willis
+1,HAS_GRANDPARENT_OF,Ông/Bà của Jim Davis là ai?,Fred M. Hechinger,James Garfield Davis,B,James Garfield Davis
+1,IS_PARTNER_OF,Bạn đời của Brad Pitt là ai?,Toni Garrn,Gwyneth Paltrow,B,Gwyneth Paltrow
+1,PRODUCED,Bộ phim 'The Social Network' được sản xuất bởi ai?,Kevin Spacey,Danny DeVito,A,Kevin Spacey
+1,IS_PARTNER_OF,Bạn đời của George Clooney là ai?,Chelsea Peretti,Lisa Snowdon,B,Lisa Snowdon
+1,PRODUCED,Bộ phim 'West Side Story' được sản xuất bởi ai?,Steven Spielberg,John Lasseter,A,Steven Spielberg
+1,IS_SIBLING_OF,Ai là anh/chị em với John Cusack?,Joel Murray,Joan Cusack,B,Joan Cusack
+1,IS_SPOUSE_OF,Vợ/Chồng của Bill Murray là ai?,Mickey Kelly,Leila George,A,Mickey Kelly
+1,IS_SIBLING_OF,Ai là anh/chị em với Bill Murray?,Paul Wahlberg,Brian Doyle-Murray,B,Brian Doyle-Murray
+1,PRODUCED,Bộ phim 'The Equalizer 3' được sản xuất bởi ai?,Denzel Washington,Charlie Kaufman,A,Denzel Washington
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Escape Plan'?,Robert De Niro,Jim Caviezel,B,Jim Caviezel
+1,PRODUCED,Bộ phim 'Apocalypto' được sản xuất bởi ai?,Mel Gibson,Jim Davis,A,Mel Gibson
+1,IS_SPOUSE_OF,Vợ/Chồng của Larry Ellison là ai?,Michele Little,Melanie Craft,B,Melanie Craft
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q463497 là ai?,Jordan Ferrer,Jeremy Piven,A,Jordan Ferrer
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Patriot'?,Roland Emmerich,Q3772,A,Roland Emmerich
+1,PRODUCED,Bộ phim 'Indiana Jones and the Kingdom of the Crystal Skull' được sản xuất bởi ai?,Michael Patrick King,George Lucas,B,George Lucas
+1,IS_PARENT_OF,Ai là con của Donald Trump?,Ivanka Trump,Cathy Scorsese,A,Ivanka Trump
+1,IS_PARENT_OF,Ai là con của Salman Rushdie?,Max Spielberg,Zafar Rushdie,B,Zafar Rushdie
+1,IS_SIBLING_OF,Ai là anh/chị em với Todd Fisher?,Carrie Fisher,Jim Wahlberg,A,Carrie Fisher
+1,IS_SPOUSE_OF,Vợ/Chồng của Richard Jenkins là ai?,Michele Cathy Smith,Sharon R. Friedrick,B,Sharon R. Friedrick
+1,IS_PARENT_OF,Ai là con của Donald Trump?,Max Spielberg,Barron Trump,B,Barron Trump
+1,IS_SPOUSE_OF,Vợ/Chồng của Oliver Stone là ai?,Sun-jung Jung,Leilani Sarelle,A,Sun-jung Jung
+1,IS_PARENT_OF,Ai là con của Brian Wilson?,Donald Trump Jr.,Carnie Wilson,B,Carnie Wilson
+1,IS_SIBLING_OF,Ai là anh/chị em với Dan Gilroy?,Jon Kasdan,Tony Gilroy,B,Tony Gilroy
+1,HAS_GRANDPARENT_OF,Ông/Bà của James Franco là ai?,Chip Taylor,Lennon Franco,B,Lennon Franco
+1,IS_SIBLING_OF,Ai là anh/chị em với Danny Elfman?,Liberty Phoenix,Richard Elfman,B,Richard Elfman
+1,IS_CHILD_OF_MOM,Mẹ của Jack Quaid là ai?,Donald Glover Sr.,Meg Ryan,B,Meg Ryan
+1,IS_PARENT_OF,Ai là con của Chuck Norris?,Megan Ellison,Mike Norris,B,Mike Norris
+1,IS_PARTNER_OF,Bạn đời của Darren Aronofsky là ai?,Mary-Louise Parker,Aglaya Tarasova,B,Aglaya Tarasova
+1,IS_PARTNER_OF,Bạn đời của Brad Pitt là ai?,Julia Holcomb,Jennifer Aniston,B,Jennifer Aniston
+1,IS_SIBLING_OF,Ai là anh/chị em với Cuba Gooding Jr.?,Shannon Lee,Omar Gooding,B,Omar Gooding
+1,IS_PARTNER_OF,Bạn đời của Nicolas Cage là ai?,Amy Poehler,Christina Fulton,B,Christina Fulton
+1,PRODUCED,Bộ phim 'Alvin and the Chipmunks' được sản xuất bởi ai?,Ross Bagdasarian Jr.,Arnold Schwarzenegger,A,Ross Bagdasarian Jr.
+1,HAS_GRANDPARENT_OF,Ông/Bà của Leonardo DiCaprio là ai?,Helene Indenbirken,Rumer Willis,A,Helene Indenbirken
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator 2: Judgment Day'?,Ronda Rousey,Linda Hamilton,B,Linda Hamilton
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Last Stand'?,Michael Bloomberg,Johnny Knoxville,B,Johnny Knoxville
+1,IS_SIBLING_OF,Ai là anh/chị em với Dan Gilroy?,John Gilroy,Aaron Carter,A,John Gilroy
+1,PRODUCED,Bộ phim 'Chinese Zodiac' được sản xuất bởi ai?,Jackie Chan,Harvey Weinstein,A,Jackie Chan
+1,IS_PARENT_OF,Ai là con của Harrison Ford?,Karsen Liotta,Ben Ford,B,Ben Ford
+1,IS_PARTNER_OF,Bạn đời của Johnny Depp là ai?,Winona Ryder,Vittoria Ceretti,A,Winona Ryder
+1,IS_SIBLING_OF,Ai là anh/chị em với Jeff Bridges?,Beau Bridges,Janet Jackson,A,Beau Bridges
+1,IS_PARENT_OF,Ai là con của Billy Crystal?,Jennifer Crystal Foley,Shayne Lamas,A,Jennifer Crystal Foley
+1,IS_PARENT_OF,Ai là con của Bruce Lee?,David Ellison,Shannon Lee,B,Shannon Lee
+1,IS_PARTNER_OF,Bạn đời của George Clooney là ai?,Stacy Keibler,Toukie Smith,A,Stacy Keibler
+1,IS_PARENT_OF,Ai là con của Donald Trump?,Tiffany Trump,Carys Zeta Douglas,A,Tiffany Trump
+1,IS_PARTNER_OF,Bạn đời của Johnny Depp là ai?,Rose McGowan,Sherilyn Fenn,B,Sherilyn Fenn
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Color Purple'?,Steven Spielberg,Tim Burton,A,Steven Spielberg
+1,IS_SPOUSE_OF,Vợ/Chồng của Martin Scorsese là ai?,Padma Lakshmi,Barbara De Fina,B,Barbara De Fina
+1,HAS_GRANDPARENT_OF,Ông/Bà của Dwayne Johnson là ai?,Patricia Lee Logton,Nia Jax,B,Nia Jax
+1,IS_PARTNER_OF,Bạn đời của Al Pacino là ai?,Elizabeth McGovern,Noor Alfallah,B,Noor Alfallah
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Douglas?,Andy Favreau,Eric Douglas,B,Eric Douglas
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Way of the Dragon'?,Chuck Norris,Linda Hamilton,A,Chuck Norris
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Adjustment Bureau'?,Emily Blunt,Dermot Mulroney,A,Emily Blunt
+1,IS_SIBLING_OF,Ai là anh/chị em với John Travolta?,Michael Bacon,Ellen Travolta,B,Ellen Travolta
+1,IS_PARTNER_OF,Bạn đời của Al Pacino là ai?,Jennifer Westfeldt,Beverly D'Angelo,B,Beverly D'Angelo
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Schindler's List'?,Steven Spielberg,Mel Gibson,A,Steven Spielberg
+1,IS_SIBLING_OF,Ai là anh/chị em với Chuck Norris?,Nicholas Turturro,Wieland Norris,B,Wieland Norris
+1,HAS_GRANDPARENT_OF,Ông/Bà của Jeff Bennett là ai?,Matthew Hind,Blake Sunderman,B,Blake Sunderman
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sex and the City'?,Jon Stewart,Kristin Davis,B,Kristin Davis
+1,PRODUCED,Bộ phim 'City of Ember' được sản xuất bởi ai?,Tom Hanks,Michael Jackson,A,Tom Hanks
+1,IS_PARTNER_OF,Bạn đời của Arnold Schwarzenegger là ai?,Heather Milligan,Lara Flynn Boyle,A,Heather Milligan
+1,HAS_GRANDPARENT_OF,Ông/Bà của Donald Trump là ai?,Dave Mustaine,Donald Trump III,B,Donald Trump III
+1,IS_SPOUSE_OF,Vợ/Chồng của Billy Crystal là ai?,Janice Crystal,Victoria Hilbert,A,Janice Crystal
+1,IS_CHILD_OF_DAD,Cha của Jaden Smith là ai?,Will Smith,Patrick O'Connell,A,Will Smith
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Dune'?,David Lynch,Steven Spielberg,A,David Lynch
+1,IS_SIBLING_OF,Ai là anh/chị em với John Turturro?,Joey Travolta,Nicholas Turturro,B,Nicholas Turturro
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Star Wars: Episode II – Attack of the Clones'?,Tim Burton,George Lucas,B,George Lucas
+1,IS_SIBLING_OF,Ai là anh/chị em với Brad Pitt?,Eddie Simon,Douglas Pitt,B,Douglas Pitt
+1,IS_PARTNER_OF,Bạn đời của Jim Carrey là ai?,Renée Zellweger,Jennifer Lawrence,A,Renée Zellweger
+1,IS_SPOUSE_OF,Vợ/Chồng của Meat Loaf là ai?,Amal Clooney,Deborah Gillespie,B,Deborah Gillespie
+1,IS_SPOUSE_OF,Vợ/Chồng của James Cromwell là ai?,Anna Stuart,Talisa Soto,A,Anna Stuart
+1,HAS_GRANDPARENT_OF,Ông/Bà của Kevin Spacey là ai?,Zahara Jolie-Pitt,Daniel Fowler,B,Daniel Fowler
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dune'?,David Lynch,Terrence Howard,A,David Lynch
+1,PRODUCED,Bộ phim 'Body Heat' được sản xuất bởi ai?,Harvey Weinstein,George Lucas,B,George Lucas
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Star Wars: Episode IV – A New Hope'?,Chris Columbus,George Lucas,B,George Lucas
+1,PRODUCED,Bộ phim 'The Equalizer' được sản xuất bởi ai?,Denzel Washington,Jim Davis,A,Denzel Washington
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Home Alone'?,Martin Scorsese,Chris Columbus,B,Chris Columbus
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Escape Plan'?,Shane Black,Faran Tahir,B,Faran Tahir
+1,IS_PARTNER_OF,Bạn đời của Paul Simon là ai?,Madonna,Kathleen Mary Chitty,B,Kathleen Mary Chitty
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Passion of the Christ'?,Mel Gibson,Tim Burton,A,Mel Gibson
+1,IS_PARENT_OF,Ai là con của David Lynch?,Patrick Schwarzenegger,Lula Boginia Lynch,B,Lula Boginia Lynch
+1,IS_PARENT_OF,Ai là con của Steven Tyler?,Alexander Zemeckis,Liv Tyler,B,Liv Tyler
+1,IS_PARTNER_OF,Bạn đời của Robert De Niro là ai?,Jessica Biel,Toukie Smith,B,Toukie Smith
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Star Wars: Episode III – Revenge of the Sith'?,George Lucas,Raja Gosnell,A,George Lucas
+1,IS_SIBLING_OF,Ai là anh/chị em với Paul Simon?,Alexis Arquette,Eddie Simon,B,Eddie Simon
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Skulls'?,Rob Cohen,Q3772,A,Rob Cohen
+1,IS_PARTNER_OF,Bạn đời của Steven Tyler là ai?,Bebe Buell,Gigi Hadid,A,Bebe Buell
+1,HAS_GRANDPARENT_OF,Ông/Bà của Dwayne Johnson là ai?,Sib Hashian,Scout Willis,A,Sib Hashian
+1,IS_SPOUSE_OF,Vợ/Chồng của James Cromwell là ai?,Jane Hajduk,Julie Cobb,B,Julie Cobb
+1,IS_SPOUSE_OF,Vợ/Chồng của Sylvester Stallone là ai?,Lena Gieseke,Jennifer Flavin,B,Jennifer Flavin
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Jackson?,Rebbie Jackson,Anne Spielberg,A,Rebbie Jackson
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Mrs. Doubtfire'?,Bruce Lee,Chris Columbus,B,Chris Columbus
+1,IS_SPOUSE_OF,Vợ/Chồng của Rob Reiner là ai?,Penny Marshall,Michelle Schumacher,A,Penny Marshall
+1,IS_SIBLING_OF,Ai là anh/chị em với Donald Trump?,Robert Trump,Andrew Wilson,A,Robert Trump
+1,PRODUCED,Bộ phim 'True Grit' được sản xuất bởi ai?,George Lucas,Steven Spielberg,B,Steven Spielberg
+1,IS_PARENT_OF,Ai là con của Steven Tyler?,Taj Tallarico,Rafi Ferrer,A,Taj Tallarico
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dr. Dolittle 2'?,Jennifer Morrison,Mandy Moore,B,Mandy Moore
+1,IS_PARENT_OF,Ai là con của Michael Bloomberg?,Billy Burton,Emma Bloomberg,B,Emma Bloomberg
+1,PRODUCED,Bộ phim 'Love and Mercy' được sản xuất bởi ai?,Robert Zemeckis,Brian Wilson,B,Brian Wilson
+1,HAS_GRANDPARENT_OF,Ông/Bà của Michael Vartan là ai?,Marjorie Finlay,Sylvie Vartan,B,Sylvie Vartan
+1,IS_PARENT_OF,Ai là con của Michael Douglas?,Carys Zeta Douglas,Oliver Raimi,A,Carys Zeta Douglas
+1,PRODUCED,Bộ phim 'The Hundred-Foot Journey' được sản xuất bởi ai?,Steven Spielberg,John Lasseter,A,Steven Spielberg
+1,IS_SIBLING_OF,Ai là anh/chị em với Donald Trump?,Marjorie Tiven,Maryanne Trump Barry,B,Maryanne Trump Barry
+1,IS_SPOUSE_OF,Vợ/Chồng của Bryan Cranston là ai?,Mickey Middleton,Catherine Hickland,A,Mickey Middleton
+1,IS_PARENT_OF,Ai là con của Bruce Willis?,Calico Cooper,Rumer Willis,B,Rumer Willis
+1,IS_PARENT_OF,Ai là con của Donald Trump?,Eric Trump,Max Spielberg,A,Eric Trump
+1,HAS_GRANDPARENT_OF,Ông/Bà của Adam Sandler là ai?,Aubrey Sunderman,Jared Sandler,B,Jared Sandler
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Adjustment Bureau'?,Allison Janney,John Slattery,B,John Slattery
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dr. Dolittle 2'?,Raven-Symoné,Logan Marshall-Green,A,Raven-Symoné
+1,PRODUCED,Bộ phim 'Poltergeist' được sản xuất bởi ai?,Robert Zemeckis,Steven Spielberg,B,Steven Spielberg
+1,HAS_GRANDPARENT_OF,Ông/Bà của Stephen Baldwin là ai?,Joseph Baldwin,Marika Domińczyk,A,Joseph Baldwin
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Predator'?,Arnold Schwarzenegger,Shane Black,B,Shane Black
+1,PRODUCED,Bộ phim 'Dangerous: The Short Films' được sản xuất bởi ai?,George Lucas,Michael Jackson,B,Michael Jackson
+1,IS_SPOUSE_OF,Vợ/Chồng của Steven Tyler là ai?,Jennifer Flavin,Teresa Barrick,B,Teresa Barrick
+1,HAS_GRANDPARENT_OF,Ông/Bà của Stanley Tucci là ai?,Kathy Hilton,John Krasinski,B,John Krasinski
+1,IS_SPOUSE_OF,Vợ/Chồng của Salman Rushdie là ai?,Marianne Wiggins,Michele Cathy Smith,A,Marianne Wiggins
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Fabelmans'?,Jackie Chan,Steven Spielberg,B,Steven Spielberg
+1,IS_SIBLING_OF,Ai là anh/chị em với Todd Fisher?,Tricia Leigh Fisher,Peter Douglas,A,Tricia Leigh Fisher
+1,IS_PARTNER_OF,Bạn đời của Michael Bloomberg là ai?,Diana Taylor,Toni Garrn,A,Diana Taylor
+1,IS_SIBLING_OF,Ai là anh/chị em với Kevin Bacon?,Allegra Huston,Michael Bacon,B,Michael Bacon
+1,HAS_GRANDPARENT_OF,Ông/Bà của George Lucas là ai?,Katie Lucas,Justin Bieber,A,Katie Lucas
+1,IS_SPOUSE_OF,Vợ/Chồng của Jeff Daniels là ai?,Mickey Kelly,Kathleen Treado Daniels,B,Kathleen Treado Daniels
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator 3: Rise of the Machines'?,Arnold Schwarzenegger,Glen Powell,A,Arnold Schwarzenegger
+1,DIRECTED,Ai là đạo diễn của bộ phim 'xXx'?,Robert Zemeckis,Rob Cohen,B,Rob Cohen
+1,DIRECTED,Ai là đạo diễn của bộ phim 'War Horse'?,Jonathan Demme,Steven Spielberg,B,Steven Spielberg
+1,IS_SPOUSE_OF,Vợ/Chồng của Edward James Olmos là ai?,P. J. Soles,Lymari Nadal,B,Lymari Nadal
+1,HAS_GRANDPARENT_OF,Ông/Bà của Adam McKay là ai?,Rachel Paulson,Jeremy Piven,B,Jeremy Piven
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Fabelmans'?,Michelle Williams,Beyoncé,A,Michelle Williams
+1,HAS_GRANDPARENT_OF,Ông/Bà của Daniel Craig là ai?,Kevin Love,Daniel Chamier,B,Daniel Chamier
+1,IS_PARENT_OF,Ai là con của Arnold Schwarzenegger?,Christopher Schwarzenegger,Lukas Ferrer,A,Christopher Schwarzenegger
+1,IS_PARENT_OF,Ai là con của Kevin Kline?,Owen Kline,Nellie Daniels,A,Owen Kline
+1,PRODUCED,Bộ phim 'The Jewel of the Nile' được sản xuất bởi ai?,Sam Raimi,Michael Douglas,B,Michael Douglas
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Rocky II'?,Sylvester Stallone,Steven Spielberg,A,Sylvester Stallone
+1,IS_PARENT_OF,Ai là con của Arnold Schwarzenegger?,Katherine Schwarzenegger,Bridget Fonda,A,Katherine Schwarzenegger
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dr. Dolittle 2'?,Sylvester Stallone,John DiMaggio,B,John DiMaggio
+1,HAS_GRANDPARENT_OF,Ông/Bà của Jeff Bennett là ai?,Aubrey Sunderman,Gidi Matas,A,Aubrey Sunderman
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 3'?,Dolph Lundgren,50 Cent,A,Dolph Lundgren
+1,IS_PARTNER_OF,Bạn đời của Al Pacino là ai?,Meg Ryan,Diane Keaton,B,Diane Keaton
+1,IS_PARTNER_OF,Bạn đời của Johnny Depp là ai?,Jennifer Grey,Toukie Smith,A,Jennifer Grey
+1,IS_SPOUSE_OF,Vợ/Chồng của Kevin Kline là ai?,Elisabeth Moss,Phoebe Cates-Kline,B,Phoebe Cates-Kline
+1,IS_PARENT_OF,Ai là con của Isaac Hayes?,Isaac Hayes III,Jesse Dylan,A,Isaac Hayes III
+1,IS_SPOUSE_OF,Vợ/Chồng của Mel Gibson là ai?,Robyn Moore,Lena Gieseke,A,Robyn Moore
+1,IS_PARTNER_OF,Bạn đời của Michael Keaton là ai?,Greta Gerwig,Courteney Cox,B,Courteney Cox
+1,IS_CHILD_OF_MOM,Mẹ của Jaden Smith là ai?,Kathleen Carrey,Jada Pinkett Smith,B,Jada Pinkett Smith
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Way of the Dragon'?,Robert De Niro,Bruce Lee,B,Bruce Lee
+1,PRODUCED,Bộ phim 'Wish Dragon' được sản xuất bởi ai?,Jackie Chan,Kevin Costner,A,Jackie Chan
+1,IS_SPOUSE_OF,Vợ/Chồng của Jeff Bridges là ai?,Susan Geston,Meg Ryan,A,Susan Geston
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q6096 là ai?,RBX,Lola Momoa,A,RBX
+1,PRODUCED,Bộ phim 'The Fabelmans' được sản xuất bởi ai?,Steven Spielberg,Ross Bagdasarian Jr.,A,Steven Spielberg
+1,IS_PARENT_OF,Ai là con của Larry Ellison?,Megan Ellison,Derek Frazier,A,Megan Ellison
+1,IS_PARTNER_OF,Bạn đời của Tim Burton là ai?,Lisa Marie,Katie Holmes,A,Lisa Marie
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Score'?,Q3772,Frank Oz,B,Frank Oz
+1,PRODUCED,Bộ phim 'The Giver' được sản xuất bởi ai?,Steven Spielberg,Jeff Bridges,B,Jeff Bridges
+1,HAS_GRANDPARENT_OF,Ông/Bà của Christoph Waltz là ai?,Dandridge McRae,Maria Mayen,B,Maria Mayen
+1,IS_PARTNER_OF,Bạn đời của Michael Clarke Duncan là ai?,Gigi Hadid,Omarosa Manigault Newman,B,Omarosa Manigault Newman
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Michael Jackson's Ghosts'?,Stan Winston,Oliver Stone,A,Stan Winston
+1,DIRECTED,Ai là đạo diễn của bộ phim 'E.T. the Extra-Terrestrial'?,Robert Zemeckis,Steven Spielberg,B,Steven Spielberg
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Apocalypto'?,Mel Gibson,Martin Scorsese,A,Mel Gibson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dr. Dolittle 2'?,Lisa Kudrow,Arnold Schwarzenegger,A,Lisa Kudrow
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Elephant Man'?,David Lynch,Raja Gosnell,A,David Lynch
+1,IS_PARENT_OF,Ai là con của Chuck Norris?,Eric Norris,AJ Lamas,A,Eric Norris
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Terminator'?,Arnold Schwarzenegger,Corey Hawkins,A,Arnold Schwarzenegger
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Hacksaw Ridge'?,Robert Zemeckis,Mel Gibson,B,Mel Gibson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables'?,Channing Tatum,Dolph Lundgren,B,Dolph Lundgren
+1,HAS_GRANDPARENT_OF,Ông/Bà của Brian Wilson là ai?,Stan Love,Alice Boote,A,Stan Love
+1,IS_PARTNER_OF,Bạn đời của Dylan McDermott là ai?,Maggie Q,Lauren Mayberry,A,Maggie Q
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Harry Potter and the Chamber of Secrets'?,Ron Howard,Chris Columbus,B,Chris Columbus
+1,IS_SIBLING_OF,Ai là anh/chị em với Kevin James?,Randy Jackson,Gary Valentine,B,Gary Valentine
+1,HAS_GRANDPARENT_OF,Ông/Bà của Kevin Richardson là ai?,Jared Sandler,Brian Littrell,B,Brian Littrell
+1,IS_SPOUSE_OF,Vợ/Chồng của Robin Williams là ai?,Marsha Garces,Victoria Hilbert,A,Marsha Garces
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q6096 là ai?,Tallulah Willis,Mercedes Moné,B,Mercedes Moné
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sex and the City'?,Kim Cattrall,Sylvester Stallone,A,Kim Cattrall
+1,HAS_GRANDPARENT_OF,Ông/Bà của Ewan McGregor là ai?,RBX,Denis Lawson,B,Denis Lawson
+1,IS_PARTNER_OF,Bạn đời của Brad Pitt là ai?,Angelina Jolie,Rosalind Ross,A,Angelina Jolie
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Westworld'?,Michael Crichton,Q3772,A,Michael Crichton
+1,IS_SIBLING_OF,Ai là anh/chị em với Stephen Lang?,Jane Lang,Michael Penn,A,Jane Lang
+1,IS_SIBLING_OF,Ai là anh/chị em với Johnny Depp?,Christi Dembrowski,Nicholas Turturro,A,Christi Dembrowski
+1,IS_SIBLING_OF,Ai là anh/chị em với Q463497?,Douglas Pitt,Gabriel Ferrer,B,Gabriel Ferrer
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Way of the Dragon'?,Steven Spielberg,Bruce Lee,B,Bruce Lee
+1,IS_SPOUSE_OF,Vợ/Chồng của Brian Wilson là ai?,Teresa Barrick,Melinda Ledbetter,B,Melinda Ledbetter
+1,PRODUCED,Bộ phim 'Michael Jackson's This Is It' được sản xuất bởi ai?,Michael Jackson,Robert Zemeckis,A,Michael Jackson
+1,IS_PARTNER_OF,Bạn đời của Jim Carrey là ai?,Laurie Holden,Emma Heming Willis,A,Laurie Holden
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Adjustment Bureau'?,Joseph Gordon-Levitt,Michael Bloomberg,B,Michael Bloomberg
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Last Waltz'?,Martin Scorsese,John Carpenter,A,Martin Scorsese
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Imaginarium of Doctor Parnassus'?,Terry Gilliam,Michael Patrick King,A,Terry Gilliam
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables 2'?,Arnold Schwarzenegger,Chris Hardwick,A,Arnold Schwarzenegger
+1,IS_SIBLING_OF,Ai là anh/chị em với Bruce Lee?,Bobbie Jean Carter,Agnes Lee,B,Agnes Lee
+1,IS_SPOUSE_OF,Vợ/Chồng của Tom Selleck là ai?,Gisele Schmidt,Jillie Mack,B,Jillie Mack
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Last Stand'?,Josh Brolin,Jaimie Alexander,B,Jaimie Alexander
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Catch Me If You Can'?,Sylvester Stallone,Steven Spielberg,B,Steven Spielberg
+1,IS_SIBLING_OF,Ai là anh/chị em với Michael Douglas?,Joel Douglas,Anne Spielberg,A,Joel Douglas
+1,IS_SPOUSE_OF,Vợ/Chồng của Martin Scorsese là ai?,Valerie Curtin,Julia Cameron,B,Julia Cameron
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Expendables'?,Bruce Willis,Connie Britton,A,Bruce Willis
+1,IS_SPOUSE_OF,Vợ/Chồng của Patrick Swayze là ai?,Meg Ryan,Lisa Niemi,B,Lisa Niemi
+1,HAS_GRANDPARENT_OF,Ông/Bà của Christoph Waltz là ai?,Blake Sunderman,Rudolf von Urban,B,Rudolf von Urban
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'True Lies'?,Terry Crews,Bill Paxton,B,Bill Paxton
+1,IS_PARTNER_OF,Bạn đời của Paul Simon là ai?,Shelley Duvall,Tuc Watkins,A,Shelley Duvall
+1,HAS_GRANDPARENT_OF,Ông/Bà của Brad Pitt là ai?,Prinz Fabrice von Anhalt,Pax Jolie-Pitt,B,Pax Jolie-Pitt
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q5608 là ai?,Ronnie Polkingharn,Rebeca Pous Del Toro,A,Ronnie Polkingharn
+1,PRODUCED,Bộ phim 'Jurassic World' được sản xuất bởi ai?,John Lasseter,Steven Spielberg,B,Steven Spielberg
+1,DIRECTED,Ai là đạo diễn của bộ phim 'Bicentennial Man'?,Q3772,Chris Columbus,B,Chris Columbus
+1,IS_SIBLING_OF,Ai là anh/chị em với Alec Baldwin?,Jane Sasso,Andrew Wilson,A,Jane Sasso
+1,IS_PARTNER_OF,Bạn đời của Bob Dylan là ai?,Echo Helstrom,Taylor Neisen,A,Echo Helstrom
+1,PRODUCED,Bộ phim 'Super 8' được sản xuất bởi ai?,Denzel Washington,Steven Spielberg,B,Steven Spielberg
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Mulholland Drive'?,Claire Danes,Justin Theroux,B,Justin Theroux
+1,HAS_GRANDPARENT_OF,Ông/Bà của Bruce Lee là ai?,Barry Pang,Zahara Jolie-Pitt,A,Barry Pang
+1,IS_SPOUSE_OF,Vợ/Chồng của Ed Harris là ai?,Amy Madigan,Glynis Barber,A,Amy Madigan
+1,IS_SIBLING_OF,Ai là anh/chị em với Randy Savage?,Lanny Poffo,Adam Kaufman,A,Lanny Poffo
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dr. Dolittle 2'?,Corey Hawkins,Isaac Hayes,B,Isaac Hayes
+1,IS_SIBLING_OF,Ai là anh/chị em với Rob Reiner?,Allen Shawn,Lucas Reiner,B,Lucas Reiner
+1,IS_PARTNER_OF,Bạn đời của Sean Combs là ai?,Alicia Douvall,Jaimie Alexander,A,Alicia Douvall
+1,IS_CHILD_OF_DAD,Cha của Liv Tyler là ai?,Steven Tyler,Bill Burton,A,Steven Tyler
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sex and the City'?,Malcolm Gets,Robert De Niro,A,Malcolm Gets
+1,PRODUCED,Bộ phim 'The Adventures of Tintin: The Secret of the Unicorn' được sản xuất bởi ai?,Chris Columbus,Steven Spielberg,B,Steven Spielberg
+1,HAS_GRANDPARENT_OF,Ông/Bà của Benicio del Toro là ai?,Nicky Hilton,Rebeca Pous Del Toro,B,Rebeca Pous Del Toro
+1,IS_PARTNER_OF,Bạn đời của Sylvester Stallone là ai?,Jennifer Aniston,Angie Everhart,B,Angie Everhart
+1,IS_PARTNER_OF,Bạn đời của Kyle MacLachlan là ai?,Linda Evangelista,Angie Everhart,A,Linda Evangelista
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Mummy: Tomb of the Dragon Emperor'?,Jackie Chan,Rob Cohen,B,Rob Cohen
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Dr. Dolittle 2'?,Arnold Schwarzenegger,Jennifer Morrison,A,Arnold Schwarzenegger
+1,HAS_GRANDPARENT_OF,Ông/Bà của Q463497 là ai?,Tessa Ferrer,Steve McQueen,A,Tessa Ferrer
+1,PRODUCED,Bộ phim 'Munich' được sản xuất bởi ai?,Steven Spielberg,John Lasseter,A,Steven Spielberg
+1,IS_PARTNER_OF,Bạn đời của George Clooney là ai?,Krista Allen,Jenny McCarthy,A,Krista Allen
+1,IS_SPOUSE_OF,Vợ/Chồng của Robin Williams là ai?,Riko Shibata,Valerie Velardi,B,Valerie Velardi
+1,IS_SPOUSE_OF,Vợ/Chồng của Robin Williams là ai?,Melinda Ledbetter,Susan Schneider,B,Susan Schneider
+1,IS_SIBLING_OF,Ai là anh/chị em với Dennis Quaid?,Randy Quaid,Richmond Arquette,A,Randy Quaid
+1,IS_SPOUSE_OF,Vợ/Chồng của Samuel L. Jackson là ai?,Adrienne La Russa,LaTanya Richardson,B,LaTanya Richardson
+1,IS_PARENT_OF,Ai là con của Bob Dylan?,Jesse Dylan,Kentaro Seagal,A,Jesse Dylan
+1,IS_SIBLING_OF,Ai là anh/chị em với Alec Baldwin?,Daniel Baldwin,Robin Antin,A,Daniel Baldwin
+1,PRODUCED,Bộ phim 'The Myth' được sản xuất bởi ai?,Jackie Chan,Robert Zemeckis,A,Jackie Chan
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Sex and the City'?,Sarah Jessica Parker,Susan Sarandon,A,Sarah Jessica Parker
+1,PRODUCED,"Bộ phim 'HIStory on Film, Volume II' được sản xuất bởi ai?",Roland Emmerich,Michael Jackson,B,Michael Jackson
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Predator'?,Q3959303,Arnold Schwarzenegger,B,Arnold Schwarzenegger
+1,IS_PARENT_OF,Ai là con của Meat Loaf?,Pearl Aday,Carnie Wilson,A,Pearl Aday
+1,IS_PARTNER_OF,Bạn đời của Dennis Quaid là ai?,Meg Ryan,Irina Shayk,A,Meg Ryan
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'The Last Stand'?,Arnold Schwarzenegger,Aubrey Plaza,A,Arnold Schwarzenegger
+1,ACTED_IN,Ai đã tham gia vào bộ phim 'Terminator: Dark Fate'?,Donald Trump,Diego Boneta,B,Diego Boneta
+1,DIRECTED,Ai là đạo diễn của bộ phim 'The Silence of the Lambs'?,Jonathan Demme,Chris Columbus,A,Jonathan Demme
+1,HAS_GRANDPARENT_OF,Ông/Bà của Jason Momoa là ai?,Gage Hanks,Zoë Kravitz,B,Zoë Kravitz
+1,IS_PARENT_OF,Ai là con của Paul Anka?,Cathy Scorsese,Amanda Anka,B,Amanda Anka
+1,PRODUCED,Bộ phim 'Raiders of the Lost Ark' được sản xuất bởi ai?,George Lucas,Robert Zemeckis,A,George Lucas
+1,IS_SIBLING_OF,Ai là anh/chị em với Brian Wilson?,Carl Wilson,Joel Douglas,A,Carl Wilson

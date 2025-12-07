@@ -1,0 +1,110 @@
+﻿question,option_a,option_b,ground_truth,bot_answer,rel_type,score
+Ai là con của Kevin Kline?,Owen Kline,Nellie Daniels,Owen Kline,Đáp án: A - Owen Kline. Lý do: Owen Kline là con trai của nam diễn viên Kevin Kline và nữ diễn viên Phoebe Cates.,IS_PARENT_OF,1
+Ai là con của Michael Douglas?,Julie Pacino,Cameron Douglas,Cameron Douglas,Đáp án: B - Cameron Douglas. Lý do: Cameron Douglas là con trai của tài tử Michael Douglas. Julie Pacino là con gái của tài tử Al Pacino.,IS_PARENT_OF,1
+Ai là đạo diễn của bộ phim 'Live in Bucharest: The Dangerous Tour'?,Michael Jackson,Tim Burton,Michael Jackson,"Đáp án: A - Michael Jackson. Lý do: 'Live in Bucharest: The Dangerous Tour' là một bộ phim concert ghi lại buổi biểu diễn của Michael Jackson trong chuyến lưu diễn Dangerous World Tour. Mặc dù có đạo diễn kỹ thuật cho việc quay phim (Andy Morahan), Michael Jackson là đạo diễn nghệ thuật và người sáng tạo chính của toàn bộ show diễn. Tim Burton không có liên quan đến dự án này.",DIRECTED,1
+Ai đã tham gia vào bộ phim 'Maggie'?,Arnold Schwarzenegger,Kim Kardashian,Arnold Schwarzenegger,"Đáp án: A - Arnold Schwarzenegger. Lý do: Arnold Schwarzenegger đã đóng vai chính Wade Vogel, người cha, trong bộ phim 'Maggie' (2015).",ACTED_IN,1
+Ông/Bà của Casey Affleck là ai?,Vincent Cox,Jennifer Garner,Jennifer Garner,"Đáp án: **B - Jennifer Garner**.
+Lý do: Jennifer Garner là vợ cũ của Ben Affleck, anh trai của Casey Affleck, do đó cô là chị dâu của Casey Affleck. Tuy nhiên, cần lưu ý rằng Jennifer Garner không phải là cha/mẹ hay ông/bà của Casey Affleck. Vincent Cox không có mối liên hệ công khai nào với gia đình Affleck. Cả hai lựa chọn đều không phải là cha/mẹ hay ông/bà của Casey Affleck.",HAS_GRANDPARENT_OF,1
+Ai là anh/chị em với Alec Baldwin?,Daniel Baldwin,Robin Antin,Daniel Baldwin,"Đáp án: A - Daniel Baldwin. Lý do: Daniel Baldwin là em trai ruột của Alec Baldwin và cũng là một diễn viên nổi tiếng, giống như các anh em trai khác trong gia đình Baldwin (William và Stephen).",IS_SIBLING_OF,1
+Ông/Bà của Mike Myers là ai?,Phillip Myers,Marjorie Finlay,Phillip Myers,"Đáp án: A - Phillip Myers. Lý do: Bà Marjorie Finlay là bà ngoại của ca sĩ Taylor Swift, không phải của Mike Myers. Mặc dù thông tin về các đời ông bà của Mike Myers không công khai rộng rãi, nhưng trong hai lựa chọn được đưa ra, B là đáp án sai một cách rõ ràng và nổi tiếng, do đó A là lựa chọn còn lại.",HAS_GRANDPARENT_OF,1
+Ai là đạo diễn của bộ phim 'Wall Street: Money Never Sleeps'?,Oliver Stone,Joe Johnston,Oliver Stone,"Đáp án: A - Oliver Stone. Lý do: Oliver Stone là đạo diễn của cả bộ phim gốc 'Wall Street' (1987) và phần tiếp theo 'Wall Street: Money Never Sleeps' (2010), duy trì sự nhất quán về phong cách và tầm nhìn.",DIRECTED,1
+Bạn đời của LL Cool J là ai?,Kidada Jones,Cassie Ventura,Kidada Jones,"Đáp án: Cả A và B đều không phải đáp án đúng.
+
+Lý do: Bạn đời của LL Cool J là **Simone Smith**. Họ đã kết hôn từ năm 1995.
+*   Kidada Jones là con gái của Quincy Jones và từng có mối quan hệ đáng chú ý với Tupac Shakur.
+*   Cassie Ventura (nay là Cassie Fine) là ca sĩ, người mẫu, từng có mối quan hệ lâu năm với Diddy và hiện đã kết hôn với Alex Fine.",IS_PARTNER_OF,1
+Bộ phim 'West Side Story' được sản xuất bởi ai?,Steven Spielberg,John Lasseter,Steven Spielberg,"Đáp án: A - Steven Spielberg.
+Lý do: Steven Spielberg là đạo diễn và đồng thời là một trong những nhà sản xuất của bộ phim 'West Side Story' phiên bản năm 2021.",PRODUCED,1
+Ai là con của Larry Ellison?,David Ellison,Daniel Jack Neeson,David Ellison,"Đáp án: A - David Ellison. Lý do: David Ellison là con trai của tỷ phú Larry Ellison, người sáng lập và CEO của Skydance Media. Daniel Jack Neeson là con trai của nam diễn viên Liam Neeson.",IS_PARENT_OF,1
+Ông/Bà của Stephen Baldwin là ai?,Justin Bieber,Fred M. Hechinger,Justin Bieber,"Đáp án: A - Justin Bieber. Lý do: Justin Bieber là con rể của Stephen Baldwin (kết hôn với con gái của ông, Hailey Baldwin), chứ không phải là cha mẹ hoặc ông bà của ông.",HAS_GRANDPARENT_OF,1
+Bộ phim 'Toy Story' được sản xuất bởi ai?,Edwin Catmull,John Lasseter,Edwin Catmull,"Đáp án: **B - John Lasseter**.
+Lý do: John Lasseter là đạo diễn của bộ phim 'Toy Story' và là một trong những người sáng tạo chính, đóng vai trò quan trọng trong việc định hình câu chuyện và phong cách hoạt hình đột phá của phim. Edwin Catmull là người đồng sáng lập Pixar và là nhà khoa học máy tính đã phát triển công nghệ cho phim hoạt hình 3D, nhưng Lasseter là đạo diễn trực tiếp.",PRODUCED,1
+Ông/Bà của Jason Momoa là ai?,Gage Hanks,Zoë Kravitz,Zoë Kravitz,"Đáp án: **B - Zoë Kravitz**.
+
+Lý do: Zoë Kravitz là con gái của Lisa Bonet (vợ cũ của Jason Momoa) và ca sĩ Lenny Kravitz. Do đó, Zoë Kravitz là con gái riêng (stepdaughter) của Jason Momoa, chứ không phải ông/bà của anh ấy. Gage Hanks không có bất kỳ mối quan hệ gia đình nào với Jason Momoa. Mặc dù câu hỏi hỏi về ""ông/bà"", trong hai lựa chọn, Zoë Kravitz là người duy nhất có mối quan hệ gia đình trực tiếp với Jason Momoa (dù không phải vai trò ông/bà).",HAS_GRANDPARENT_OF,1
+Ai là đạo diễn của bộ phim 'Star Wars: Episode II – Attack of the Clones'?,Tim Burton,George Lucas,George Lucas,"Đáp án: B - George Lucas. Lý do: George Lucas là người sáng tạo ra vũ trụ Star Wars và đã trực tiếp đạo diễn toàn bộ ba phần của trilogy tiền truyện, bao gồm cả ""Star Wars: Episode II – Attack of the Clones"".",DIRECTED,1
+Ai đã tham gia vào bộ phim 'The Last Stand'?,Eddie Murphy,Forest Whitaker,Forest Whitaker,Đáp án: B - Forest Whitaker. Lý do: Forest Whitaker đã thủ vai Agent John Bannister trong bộ phim 'The Last Stand' (2013). Eddie Murphy không tham gia bộ phim này.,ACTED_IN,1
+Cha của Jessica Capshaw là ai?,Steven Spielberg,Nick Clooney,Steven Spielberg,"Đáp án: A - Steven Spielberg. Lý do: Steven Spielberg là cha dượng của Jessica Capshaw. Mẹ của Jessica, nữ diễn viên Kate Capshaw, đã kết hôn với đạo diễn Steven Spielberg.",IS_CHILD_OF_DAD,1
+Ai là con của George Lucas?,Katie Lucas,Grace Cummings,Katie Lucas,Đáp án: A - Katie Lucas. Lý do: Katie Lucas là một trong những người con gái nuôi của đạo diễn George Lucas.,IS_PARENT_OF,1
+Ai là con của Michael Bloomberg?,Billy Burton,Emma Bloomberg,Emma Bloomberg,Đáp án: B - Emma Bloomberg. Lý do: Emma Bloomberg là một trong hai cô con gái của Michael Bloomberg.,IS_PARENT_OF,1
+Ai là đạo diễn của bộ phim 'Jaws'?,Q361336,Steven Spielberg,Steven Spielberg,[ERROR] Max retries exceeded,DIRECTED,0
+Vợ/Chồng của Michael Brandon là ai?,Valerie Velardi,Glynis Barber,Glynis Barber,"Đáp án: B - Glynis Barber. Lý do: Michael Brandon và Glynis Barber là một cặp vợ chồng diễn viên nổi tiếng, họ kết hôn vào năm 1989 sau khi gặp nhau trên phim trường bộ phim truyền hình ""Dempsey and Makepeace"".",IS_SPOUSE_OF,1
+Ai là con của Peter Fonda?,Chelsea Tyler,Justin Fonda,Justin Fonda,[ERROR] Max retries exceeded,IS_PARENT_OF,0
+Ai là con của Oliver Stone?,Sean Stone,Alexander Zemeckis,Sean Stone,Đáp án: A - Sean Stone. Lý do: Sean Stone là con trai của đạo diễn nổi tiếng Oliver Stone và đã từng xuất hiện trong một số bộ phim của cha mình. Alexander Zemeckis là con trai của đạo diễn Robert Zemeckis.,IS_PARENT_OF,1
+Ông/Bà của Donald Trump là ai?,Justin Bieber,Lara Trump,Lara Trump,"Đáp án: B - Lara Trump. Lý do: Lara Trump là con dâu của Donald Trump, cô là vợ của con trai ông, Eric Trump.",HAS_GRANDPARENT_OF,1
+Ai đã tham gia vào bộ phim 'The Expendables 2'?,Arnold Schwarzenegger,Sylvester Stallone,Sylvester Stallone,[ERROR] Max retries exceeded,ACTED_IN,0
+Ai là con của Joe Frazier?,Marvis Frazier,Charlie John Oldman,Marvis Frazier,[ERROR] Max retries exceeded,IS_PARENT_OF,0
+Ông/Bà của Mike Myers là ai?,Matthew Hind,Jane Radcliffe,Matthew Hind,[ERROR] Max retries exceeded,HAS_GRANDPARENT_OF,0
+Ai đã tham gia vào bộ phim 'Dune'?,Nick Kroll,Kyle MacLachlan,Kyle MacLachlan,[ERROR] Max retries exceeded,ACTED_IN,0
+Ai là đạo diễn của bộ phim 'Midway'?,Joe Johnston,Roland Emmerich,Roland Emmerich,[ERROR] Max retries exceeded,DIRECTED,0
+Ai là con của Steve Martin?,Zahra Savannah Rock,Mary A. Martin,Mary A. Martin,[ERROR] Max retries exceeded,IS_PARENT_OF,0
+Bộ phim 'Wall Street: Money Never Sleeps' được sản xuất bởi ai?,Oliver Stone,Tom Hanks,Oliver Stone,[ERROR] Max retries exceeded,PRODUCED,0
+Ai là đạo diễn của bộ phim 'Star Wars: Episode IV – A New Hope'?,Chris Columbus,George Lucas,George Lucas,[ERROR] Max retries exceeded,DIRECTED,0
+Ai là anh/chị em với Bill Murray?,John Murray,Curtis Bowles,John Murray,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Bộ phim 'The Terminal' được sản xuất bởi ai?,Chris Columbus,Steven Spielberg,Steven Spielberg,[ERROR] Max retries exceeded,PRODUCED,0
+Bạn đời của Dylan McDermott là ai?,Maggie Q,Lauren Mayberry,Maggie Q,[ERROR] Max retries exceeded,IS_PARTNER_OF,0
+Ai là con của Steven Spielberg?,Ella Clooney,Sasha Spielberg,Sasha Spielberg,[ERROR] Max retries exceeded,IS_PARENT_OF,0
+Ai là đạo diễn của bộ phim 'The Hurricane Heist'?,Q3772,Rob Cohen,Rob Cohen,[ERROR] Max retries exceeded,DIRECTED,0
+Ông/Bà của Ryan Reynolds là ai?,Alice Braga,Chester Reynolds,Chester Reynolds,[ERROR] Max retries exceeded,HAS_GRANDPARENT_OF,0
+Ông/Bà của Brad Pitt là ai?,Maddox Jolie-Pitt.,Zoë Kravitz,Maddox Jolie-Pitt.,[ERROR] Max retries exceeded,HAS_GRANDPARENT_OF,0
+Ai là con của Salman Rushdie?,Milan Rushdie,Sean Douglas,Milan Rushdie,[ERROR] Max retries exceeded,IS_PARENT_OF,0
+Ai là anh/chị em với Chuck Norris?,Tricia Leigh Fisher,Aaron Norris,Aaron Norris,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Ông/Bà của Ashton Kutcher là ai?,Scout Willis,Barry Pang,Scout Willis,[ERROR] Max retries exceeded,HAS_GRANDPARENT_OF,0
+Bạn đời của Jim Carrey là ai?,Jenny McCarthy,Britney Spears,Jenny McCarthy,[ERROR] Max retries exceeded,IS_PARTNER_OF,0
+Vợ/Chồng của Ross Bagdasarian Jr. là ai?,Janice Karman,Kelly Rowan,Janice Karman,[ERROR] Max retries exceeded,IS_SPOUSE_OF,0
+Ai là đạo diễn của bộ phim 'Mulholland Drive'?,Brad Bird,David Lynch,David Lynch,[ERROR] Max retries exceeded,DIRECTED,0
+Ai là con của Arnold Schwarzenegger?,Lukas Ferrer,Patrick Schwarzenegger,Patrick Schwarzenegger,[ERROR] Max retries exceeded,IS_PARENT_OF,0
+Bộ phim 'One Flew Over the Cuckoo's Nest' được sản xuất bởi ai?,Jeff Bridges,Michael Douglas,Michael Douglas,[ERROR] Max retries exceeded,PRODUCED,0
+Ai là đạo diễn của bộ phim 'Catch Me If You Can'?,Sylvester Stallone,Steven Spielberg,Steven Spielberg,[ERROR] Max retries exceeded,DIRECTED,0
+Ông/Bà của Joaquin Phoenix là ai?,Allen Bonet,Casey Affleck,Casey Affleck,[ERROR] Max retries exceeded,HAS_GRANDPARENT_OF,0
+Bạn đời của Brad Pitt là ai?,Toni Garrn,Gwyneth Paltrow,Gwyneth Paltrow,[ERROR] Max retries exceeded,IS_PARTNER_OF,0
+Ai là đạo diễn của bộ phim 'Minority Report'?,Chris Columbus,Steven Spielberg,Steven Spielberg,[ERROR] Max retries exceeded,DIRECTED,0
+Ai đã tham gia vào bộ phim 'The Terminator'?,Linda Hamilton,Rob Schneider,Linda Hamilton,[ERROR] Max retries exceeded,ACTED_IN,0
+Ai là anh/chị em với Dan Gilroy?,Jon Kasdan,Tony Gilroy,Tony Gilroy,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Ai là con của Donald Trump?,Eric Trump,Max Spielberg,Eric Trump,[ERROR] Max retries exceeded,IS_PARENT_OF,0
+Bạn đời của George Clooney là ai?,Krista Allen,Jenny McCarthy,Krista Allen,[ERROR] Max retries exceeded,IS_PARTNER_OF,0
+Ai là đạo diễn của bộ phim 'Close Encounters of the Third Kind'?,Steven Spielberg,Robert Zemeckis,Steven Spielberg,[ERROR] Max retries exceeded,DIRECTED,0
+Bạn đời của William Hurt là ai?,Sandrine Bonnaire,Jennifer Lawrence,Sandrine Bonnaire,[ERROR] Max retries exceeded,IS_PARTNER_OF,0
+Vợ/Chồng của Tom Selleck là ai?,Jacqueline Ray,Maggie Weston,Jacqueline Ray,[ERROR] Max retries exceeded,IS_SPOUSE_OF,0
+Ai là đạo diễn của bộ phim 'Harry Potter and the Philosopher's Stone'?,Chris Columbus,Sylvester Stallone,Chris Columbus,[ERROR] Max retries exceeded,DIRECTED,0
+Ai là đạo diễn của bộ phim 'Police Story'?,Jackie Chan,John Lasseter,Jackie Chan,[ERROR] Max retries exceeded,DIRECTED,0
+Ai đã tham gia vào bộ phim 'Steve Jobs'?,Arnold Schwarzenegger,Bob Dylan,Bob Dylan,[ERROR] Max retries exceeded,ACTED_IN,0
+Bộ phim 'Chinese Zodiac' được sản xuất bởi ai?,Jackie Chan,Harvey Weinstein,Jackie Chan,[ERROR] Max retries exceeded,PRODUCED,0
+Ai là con của Paul Simon?,Adrian Edward Simon,Katie Lucas,Adrian Edward Simon,[ERROR] Max retries exceeded,IS_PARENT_OF,0
+Ông/Bà của Q6096 là ai?,Lara Trump,Nate Dogg,Nate Dogg,[ERROR] Max retries exceeded,HAS_GRANDPARENT_OF,0
+Ai là anh/chị em với Randy Savage?,Lanny Poffo,Adam Kaufman,Lanny Poffo,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Ông/Bà của Val Kilmer là ai?,Brian Grazer,Thomas Walker Kilmer,Thomas Walker Kilmer,[ERROR] Max retries exceeded,HAS_GRANDPARENT_OF,0
+Ai là anh/chị em với Gilbert Gottfried?,Arlene Gottfried,Peter Douglas,Arlene Gottfried,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Bạn đời của Wallace Shawn là ai?,Deborah Eisenberg,Meg Ryan,Deborah Eisenberg,[ERROR] Max retries exceeded,IS_PARTNER_OF,0
+Ai đã tham gia vào bộ phim 'Sex and the City'?,Jon Stewart,Jennifer Hudson,Jennifer Hudson,[ERROR] Max retries exceeded,ACTED_IN,0
+Bạn đời của Kyle MacLachlan là ai?,Lara Flynn Boyle,Helena Christensen,Lara Flynn Boyle,[ERROR] Max retries exceeded,IS_PARTNER_OF,0
+Bạn đời của Q3772 là ai?,Gigi Hadid,Mira Sorvino,Mira Sorvino,[ERROR] Max retries exceeded,IS_PARTNER_OF,0
+Ai là anh/chị em với Robert Downey Jr.?,Allyson Downey,Allegra Huston,Allyson Downey,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Mẹ của Jack Quaid là ai?,Donald Glover Sr.,Meg Ryan,Meg Ryan,[ERROR] Max retries exceeded,IS_CHILD_OF_MOM,0
+Ai là đạo diễn của bộ phim 'The Silence of the Lambs'?,Jonathan Demme,Chris Columbus,Jonathan Demme,[ERROR] Max retries exceeded,DIRECTED,0
+Bạn đời của Mel Gibson là ai?,Isabel Lucas,Rosalind Ross,Rosalind Ross,[ERROR] Max retries exceeded,IS_PARTNER_OF,0
+Ông/Bà của Q6096 là ai?,Brandy Norwood,Thomas Walker Kilmer,Brandy Norwood,[ERROR] Max retries exceeded,HAS_GRANDPARENT_OF,0
+Ai là anh/chị em với Cuba Gooding Jr.?,Shannon Lee,Omar Gooding,Omar Gooding,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Vợ/Chồng của Robin Williams là ai?,Marsha Garces,Victoria Hilbert,Marsha Garces,[ERROR] Max retries exceeded,IS_SPOUSE_OF,0
+Ai đã tham gia vào bộ phim 'Terminator 2: Judgment Day'?,Beyoncé,Arnold Schwarzenegger,Arnold Schwarzenegger,[ERROR] Max retries exceeded,ACTED_IN,0
+Vợ/Chồng của Bruce Lee là ai?,Kathleen Treado Daniels,Linda Lee Cadwell,Linda Lee Cadwell,[ERROR] Max retries exceeded,IS_SPOUSE_OF,0
+Bộ phim 'Shanghai Noon' được sản xuất bởi ai?,Charlie Kaufman,Jackie Chan,Jackie Chan,[ERROR] Max retries exceeded,PRODUCED,0
+Ai là con của Meat Loaf?,Hayley Hasselhoff,Amanda Aday,Amanda Aday,[ERROR] Max retries exceeded,IS_PARENT_OF,0
+Bộ phim 'The One' được sản xuất bởi ai?,Jackie Chan,Michael Jackson,Michael Jackson,[ERROR] Max retries exceeded,PRODUCED,0
+Bạn đời của Brad Pitt là ai?,Erin Heatherton,Juliette Lewis,Juliette Lewis,[ERROR] Max retries exceeded,IS_PARTNER_OF,0
+Vợ/Chồng của John Lithgow là ai?,Amy Madigan,Mary Yeager,Mary Yeager,[ERROR] Max retries exceeded,IS_SPOUSE_OF,0
+Vợ/Chồng của Jeff Bridges là ai?,Susan Geston,Meg Ryan,Susan Geston,[ERROR] Max retries exceeded,IS_SPOUSE_OF,0
+Ai là anh/chị em với Bruce Lee?,Amy Stiller,Robert Lee,Robert Lee,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Ai đã tham gia vào bộ phim 'Maggie'?,Abigail Breslin,Arnold Schwarzenegger,Abigail Breslin,[ERROR] Max retries exceeded,ACTED_IN,0
+Bộ phim 'Alvin and the Chipmunks' được sản xuất bởi ai?,Ross Bagdasarian Jr.,Arnold Schwarzenegger,Ross Bagdasarian Jr.,[ERROR] Max retries exceeded,PRODUCED,0
+Ai đã tham gia vào bộ phim 'The Expendables'?,Bruce Willis,Connie Britton,Bruce Willis,[ERROR] Max retries exceeded,ACTED_IN,0
+Ai đã tham gia vào bộ phim 'True Lies'?,Jon Stewart,Jamie Lee Curtis,Jamie Lee Curtis,[ERROR] Max retries exceeded,ACTED_IN,0
+Ai là anh/chị em với Michael Jackson?,Dave Franco,Randy Jackson,Randy Jackson,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Ai đã tham gia vào bộ phim 'The Expendables 3'?,Terry Crews,Lenny Kravitz,Terry Crews,[ERROR] Max retries exceeded,ACTED_IN,0
+Ai là đạo diễn của bộ phim 'The Adventures of Tintin: The Secret of the Unicorn'?,Steven Spielberg,Michael Bay,Steven Spielberg,[ERROR] Max retries exceeded,DIRECTED,0
+Ai là đạo diễn của bộ phim 'Killers of the Flower Moon'?,Martin Scorsese,Sam Raimi,Martin Scorsese,[ERROR] Max retries exceeded,DIRECTED,0
+Bộ phim 'Love and Mercy' được sản xuất bởi ai?,Robert Zemeckis,Brian Wilson,Brian Wilson,[ERROR] Max retries exceeded,PRODUCED,0
+Ai là anh/chị em với Ron Howard?,Clint Howard,John Goldwyn,Clint Howard,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Ai là anh/chị em với Sean Penn?,Chris Penn,Aaron Carter,Chris Penn,[ERROR] Max retries exceeded,IS_SIBLING_OF,0
+Ai là đạo diễn của bộ phim 'The Color Purple'?,Steven Spielberg,Tim Burton,Steven Spielberg,[ERROR] Max retries exceeded,DIRECTED,0
+Ai là con của Martin Scorsese?,Francesca Scorsese,Billy Burton,Francesca Scorsese,[ERROR] Max retries exceeded,IS_PARENT_OF,0
