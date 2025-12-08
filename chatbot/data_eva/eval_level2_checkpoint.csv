@@ -1,0 +1,702 @@
+﻿question,ground_truth_letter,ground_truth_text,ground_truth_label,bot_answer,rel_type,score,context_length
+John Lynch và Emma Bloomberg có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy không có bằng chứng trực tiếp về mối quan hệ giữa John Lynch và Emma Bloomberg, trừ khi được liệt kê rõ ràng.  
+
+""Liên kết giữa họ không được xác minh trong dữ liệu.""",CONNECTION,1,264
+David Lynch và Matt Damon có cùng tham gia vào bộ phim 'The Departed' không?,B,"Sai, David Lynch không tham gia phim 'The Departed'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng cả David Lynch và Matt Damon đều tham gia vào bộ phim ""The Departed"", với Matt Damon đóng vai trò diễn viên và David Lynch làm đạo diễn.",CO_ACTOR,0,3417
+David Lynch và Donald Trump có cùng tham gia vào bộ phim 'BlacKkKlansman' không?,B,"Sai, David Lynch không tham gia phim 'BlacKkKlansman'.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa David Lynch và bộ phim 'BlacKkKlansman'; dựa trên thông tin đã cung cấp, David Lynch chỉ được liệt kê như đạo diễn trong các tác phẩm khác nhau mà không liên quan đến 'BlacKkKlansman'.  
+
+""Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa David Lynch và bộ phim 'BlacKkKlansman'; dựa trên thông tin đã cung cấp, David Lynch chỉ được liệt kê như đạo diễn trong các tác phẩm khác nhau mà không liên quan đến 'BlacKkKlansman'.""",CO_ACTOR,1,2580
+David Lynch và Al Pacino có cùng tham gia vào bộ phim 'Dog Day Afternoon' không?,B,"Sai, David Lynch không tham gia phim 'Dog Day Afternoon'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Al Pacino đóng vai trong phim ""Dog Day Afternoon"" và David Lynch cũng là đạo diễn của bộ phim này.",CO_ACTOR,0,2350
+Bruce Lee có phải là vợ/chồng của Linda Lee Cadwell không?,A,"Đúng, Bruce Lee là vợ/chồng của Linda Lee Cadwell.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rõ ràng rằng Bruce Lee là vợ/chồng của Linda Lee Cadwell.",IS_SPOUSE_OF,1,1181
+Terry Crews và Arnold Schwarzenegger có cùng tham gia vào bộ phim 'The Expendables 2' không?,A,"Đúng, cả hai đều đóng trong phim 'The Expendables 2'.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng Terry Crews và Arnold Schwarzenegger đều đóng vai trong bộ phim ""The Expendables 2"".",CO_ACTOR,1,3236
+"Patrick Schwarzenegger, Arnold Schwarzenegger và bộ phim 'Sabotage' có mối liên hệ chuỗi nào không?",A,"Đúng, Patrick Schwarzenegger là con của Arnold Schwarzenegger, và Arnold Schwarzenegger đã đóng phim 'Sabotage'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi từ Patrick Schwarzenegger đến Arnold Schwarzenegger (con của cha) rồi Arnold Schwarzenegger đóng phim Sabotage.  
+
+Lý do: Mối liên hệ được liệt kê rõ ràng trong phần ""LIÊN KẾT GIỮA CÁC THỰC THỂ"" và không có sự đối lập.",TRIPLE_LINK,1,3717
+Malcolm Gets và Cynthia Nixon có cùng tham gia vào bộ phim 'Sex and the City' không?,A,"Đúng, cả hai đều đóng trong phim 'Sex and the City'.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng cả hai diễn viên đều tham gia vào bộ phim ""Sex and the City"", nên câu trả lời là ĐÚNG.",CO_ACTOR,1,506
+John Lynch và Riley Sweeney Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng John Lynch là con của David Lynch, cùng với Riley Sweeney Lynch, nên hai họ có mối liên hệ qua cha mẹ.",CONNECTION,1,340
+Jonathan Demme có phải là đạo diễn của bộ phim mà Jodie Foster tham gia là 'The Silence of the Lambs' không?,A,"Đúng, Jonathan Demme đạo diễn phim 'The Silence of the Lambs' và Jodie Foster diễn xuất trong đó.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Jonathan Demme đạo diễn bộ phim *The Silence of the Lambs*, đồng thời Jodie Foster tham gia vào bộ phim này.",DIRECTOR_ACTOR,1,1792
+David Lynch và Bradley Cooper có cùng tham gia vào bộ phim 'American Hustle' không?,B,"Sai, David Lynch không tham gia phim 'American Hustle'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch và Bradley Cooper đều tham gia vào bộ phim ""American Hustle"" (vì Bradley Cooper là diễn viên chính trong đó).  
+
+Lý do: Dữ liệu cho thấy Bradley Cooper đóng trong phim ""American Hustle"" và ""All About Steve,"" phù hợp với câu hỏi.",CO_ACTOR,0,2517
+Martin Scorsese có phải là đạo diễn của bộ phim mà John Carroll Lynch tham gia là 'Shutter Island' không?,A,"Đúng, Martin Scorsese đạo diễn phim 'Shutter Island' và John Carroll Lynch diễn xuất trong đó.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận trực tiếp rằng Martin Scorsese là đạo diễn của *Shutter Island*.  
+
+Lý do: Dữ liệu liệt kê rõ ràng ""Martin Scorsese là đạo diễn của Shutter Island"", đồng thời còn kèm theo mối liên hệ giữa hai tác phẩm này.",DIRECTOR_ACTOR,1,2257
+"David Lynch, David Lynch và bộ phim 'Annie Hall' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác minh mối liên hệ giữa Annie Hall và David Lynch qua sự xuất hiện của Paul Simon (từ ""Annie Hall có diễn viên là Paul Simon"") cùng mối quan hệ trực tiếp (Paul Simon là vợ/chồng Carrie Fisher), dẫn đến kết luận rằng hai nhân vật này có mối liên kết chặt chẽ.",TRIPLE_LINK,0,1513
+Steven Spielberg có phải là đạo diễn của bộ phim mà Tommy Lee Jones tham gia là 'Lincoln' không?,A,"Đúng, Steven Spielberg đạo diễn phim 'Lincoln' và Tommy Lee Jones diễn xuất trong đó.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng Steven Spielberg là đạo diễn của bộ phim *Lincoln*, điều này phù hợp với thông tin đã cung cấp.",DIRECTOR_ACTOR,1,3218
+David Lynch và Dakota Fanning có cùng tham gia vào bộ phim 'Once Upon a Time in Hollywood' không?,B,"Sai, David Lynch không tham gia phim 'Once Upon a Time in Hollywood'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng David Lynch và Dakota Fanning đều tham gia vào bộ phim ""Once Upon a Time in Hollywood"".  
+
+Lý do: Dữ liệu liệt kê rõ ràng rằng Dakota Fanning đóng vai trong phim này, đồng thời David Lynch cũng là một trong những diễn viên chính của phim.",CO_ACTOR,0,3566
+David Lynch và Denzel Washington có cùng tham gia vào bộ phim 'Philadelphia' không?,B,"Sai, David Lynch không tham gia phim 'Philadelphia'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng Denzel Washington đóng vai trong phim Philadelphia, còn David Lynch cũng là đạo diễn của phim đó.",CO_ACTOR,0,2736
+David Lynch và Michael Peña có cùng tham gia vào bộ phim 'American Hustle' không?,B,"Sai, David Lynch không tham gia phim 'American Hustle'.",0,"Đáp án: B. Lý do: Dữ liệu chỉ xác nhận Michael Peña là diễn viên trong phim *American Hustle*, nhưng không khẳng định mối quan hệ trực tiếp giữa hai người và bộ phim đó.  
+
+Lý do: Dữ liệu không cho thấy David Lynch và Michael Peña cùng tham gia vào bộ phim *American Hustle*.",CO_ACTOR,1,2879
+"David Lynch, David Lynch và bộ phim 'You Can Count on Me' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác minh mối quan hệ trực tiếp giữa David Lynch và bộ phim ""You Can Count on Me"", đồng thời chỉ ra mối liên kết giữa David Lynch và nhà sản xuất của phim.  
+
+Lý do: Dữ liệu cho thấy David Lynch là bạn đời của Isabella Rossellini, và Isabella Rossellini là nhà sản xuất của phim này, tạo nên một mối liên kết chặt chẽ giữa hai cá nhân và tác phẩm.",TRIPLE_LINK,0,1384
+Martin Scorsese có phải là đạo diễn của bộ phim mà Frances Conroy tham gia là 'The Aviator' không?,A,"Đúng, Martin Scorsese đạo diễn phim 'The Aviator' và Frances Conroy diễn xuất trong đó.",1,Đáp án: A). Lý do: Dữ liệu xác nhận rằng Martin Scorsese là đạo diễn của The Aviator và Frances Conroy là một trong những diễn viên tham gia bộ phim này.,DIRECTOR_ACTOR,1,2205
+Kristin Davis và Jennifer Hudson có cùng tham gia vào bộ phim 'Sex and the City' không?,A,"Đúng, cả hai đều đóng trong phim 'Sex and the City'.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu cho thấy cả Kristin Davis và Jennifer Hudson đều đóng vai trong bộ phim ""Sex and the City"", dù Jennifer Hudson là diễn viên chính và Kristin Davis là diễn viên đồng hành.",CO_ACTOR,1,827
+David Lynch và Martin Scorsese có cùng tham gia vào bộ phim 'The Aviator' không?,B,"Sai, David Lynch không tham gia phim 'The Aviator'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận David Lynch là đạo diễn của ""The Aviator"", đồng thời Martin Scorsese cũng là đạo diễn của ""The Aviator"".",CO_ACTOR,0,3463
+Terry Crews có phải là con của Bruce Willis không?,B,"Sai, họ không có quan hệ con (có thể chỉ là đồng nghiệp).",0,Đáp án: B). Lý do: Dữ liệu không có bằng chứng trực tiếp liên hệ giữa Terry Crews và Bruce Willis qua mối quan hệ cá nhân hoặc gia đình. Chỉ biết Terry Crews tham gia nhiều bộ phim cùng Bruce Willis nhưng không có thông tin cụ thể về mối quan hệ gia đình.,IS_CHILD_OF,1,2067
+Jennifer Lynch và Sunny Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A) Đúng. Lý do: Từ dữ liệu, Jennifer Lynch là con gái của David Lynch, và Sunny Lynch là mẹ của David Lynch. Do đó, Jennifer Lynch và Sunny Lynch có mối quan hệ trực tiếp qua gia đình.",CONNECTION,1,350
+Jared Kushner có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Jared Kushner.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng Virginia Madsen là đạo diễn của bộ phim 'Dune'; chỉ khẳng định cô tham gia cùng Danny Huston.  
+
+""Đáp án: B. Lý do: Dữ liệu không xác nhận rằng Virginia Madsen là đạo diễn của bộ phim 'Dune'; chỉ khẳng định cô tham gia cùng Danny Huston.""",DIRECTOR_ACTOR,1,962
+Steven Spielberg có phải là đạo diễn của bộ phim mà Joseph Gordon-Levitt tham gia là 'Lincoln' không?,A,"Đúng, Steven Spielberg đạo diễn phim 'Lincoln' và Joseph Gordon-Levitt diễn xuất trong đó.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận Steven Spielberg là đạo diễn của 'Lincoln', đồng thời liệt kê mối liên hệ này rõ ràng.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận Steven Spielberg là đạo diễn của 'Lincoln', đồng thời liệt kê mối liên hệ này rõ ràng.""",DIRECTOR_ACTOR,1,3218
+"David Lynch, David Lynch và bộ phim 'Miss Americana' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của ""Miss Americana"", tức là hai người có mối quan hệ chặt chẽ qua công việc làm đạo diễn.",TRIPLE_LINK,0,1751
+Dolph Lundgren có phải là vợ/chồng của Bruce Willis không?,B,"Sai, họ không có quan hệ vợ/chồng (có thể chỉ là đồng nghiệp).",0,"Đáp án: B. Lý do: Dữ liệu không указывает на наличие mối quan hệ hôn nhân giữa Dolph Lundgren và Bruce Willis. Các thông tin về họ chỉ đề cập đến mối quan hệ cá nhân (tình cảm, cha mẹ, bạn đời) và không khẳng định mối quan hệ hôn nhân cụ thể.",IS_SPOUSE_OF,1,2118
+David Lynch và Bruce Willis có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 3 bước).",1,"""Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa David Lynch và Bruce Willis trực tiếp. Mặc dù David Lynch có mối quan hệ với Isabella Rossellini (vợ), nhưng không có thông tin rõ ràng về mối quan hệ giữa David và Bruce Willis.""  
+
+Lý do: Dữ liệu chỉ nêu rõ David Lynch là bạn đời của Isabella Rossellini, nhưng không bao gồm thông tin trực tiếp về mối quan hệ của David Lynch và Bruce Willis.",CONNECTION,0,2508
+"Jaden Smith, Will Smith và bộ phim 'After Earth' có mối liên hệ chuỗi nào không?",A,"Đúng, Jaden Smith là con của Will Smith, và Will Smith đã đóng phim 'After Earth'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi Jaden Smith (con của Will Smith) → Jaden Smith đóng trong phim After Earth → After Earth có diễn viên là Will Smith, tạo nên một liên kết rõ ràng giữa ba cá nhân và bộ phim.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi Jaden Smith (con của Will Smith) → Jaden Smith đóng trong phim After Earth → After Earth có diễn viên là Will Smith, tạo nên một liên kết rõ ràng giữa ba cá nhân và bộ phim.""",TRIPLE_LINK,1,2981
+Isabella Rossellini và Donald Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A). Lý do: Dữ liệu xác minh rằng Isabella Rossellini là bạn đời của David Lynch, tức là họ có mối quan hệ hôn nhân.",CONNECTION,1,1348
+John Lynch và Donald Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng John Lynch là anh/chị em của David Lynch, và Donald Lynch là cha của David Lynch, nên hai người có mối quan hệ trực tiếp.  
+
+**Lý do:** Dữ liệu khẳng định mối liên hệ giữa John Lynch và Donald Lynch qua mối quan hệ cha-brother.",CONNECTION,1,355
+David Lynch và Laraine Marie Brennan có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 3 bước).",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác minh mối quan hệ trực tiếp giữa David Lynch và Laraine Marie Brennan qua chuỗi liên kết (David Lynch - Isabella Rossellini - Martin Scorsese - Laraine Marie Brennan).",CONNECTION,1,1294
+Jon Stewart và John Slattery có cùng tham gia vào bộ phim 'The Adjustment Bureau' không?,A,"Đúng, cả hai đều đóng trong phim 'The Adjustment Bureau'.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng John Slattery đóng vai trong phim *The Adjustment Bureau*, và Jon Stewart cũng là diễn viên trong đó phim.",CO_ACTOR,1,895
+Justin Theroux có phải là con của Robert Forster không?,B,"Sai, họ không có quan hệ con (có thể chỉ là đồng nghiệp).",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận mối quan hệ huyết thống giữa Justin Theroux và Robert Forster. Theo thông tin cung cấp, Justin Theroux có hai bậc phụ huynh (mẹ Phyllis Grissim và cha Eugène Theroux), nhưng không có bất kỳ thông tin nào liên quan đến mối quan hệ với Robert Forster.",IS_CHILD_OF,1,1435
+Donald Lynch và Sunny Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Donald Lynch là cha của David Lynch và Sunny Lynch là mẹ của David Lynch, điều này thể hiện mối quan hệ giữa hai người.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mối quan hệ giữa Donald Lynch và Sunny Lynch.""",CONNECTION,1,381
+David Lynch và Robert De Niro có cùng tham gia vào bộ phim 'The Godfather Part II' không?,B,"Sai, David Lynch không tham gia phim 'The Godfather Part II'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng cả David Lynch và Robert De Niro đều là diễn viên trong bộ phim *The Godfather Part II*.  
+
+Lý do: Dữ liệu trực tiếp khẳng định mối quan hệ này, không cần kiểm tra thêm.",CO_ACTOR,0,3298
+"David Lynch, David Lynch và bộ phim 'Beetlejuice Beetlejuice' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch không phải đạo diễn của ""Beetlejuice Beetlejuice"" mà còn执导 ""The Elephant Man,"" ""Mulholland Drive,"" và ""Dune.""",TRIPLE_LINK,1,1666
+David Lynch và Seth Rogen có cùng tham gia vào bộ phim 'Steve Jobs' không?,B,"Sai, David Lynch không tham gia phim 'Steve Jobs'.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của ""Steve Jobs"", nên hai nhân vật này không phải là cùng tham gia vào bộ phim đó.  
+
+""Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của ""Steve Jobs"", nên hai nhân vật này không phải là cùng tham gia vào bộ phim đó.""",CO_ACTOR,1,2572
+"Jaden Smith, Will Smith và bộ phim 'Men in Black 3' có mối liên hệ chuỗi nào không?",A,"Đúng, Jaden Smith là con của Will Smith, và Will Smith đã đóng phim 'Men in Black 3'.",1,"Đáp án: A. Lý do: Dữ liệu xác minh mối liên hệ chuỗi Jaden Smith (con của Will Smith) → Will Smith đóng trong phim Men in Black 3, tạo nên mối liên kết rõ ràng.  
+
+""Đáp án: Đúng.""",TRIPLE_LINK,1,3095
+Michael Douglas có phải là anh/chị em của Eric Douglas không?,A,"Đúng, Michael Douglas là anh/chị em của Eric Douglas.",1,"Đáp án: A) Đúng  
+Lý do: Từ thông tin ""Michael Douglas là anh/chị em với Eric Douglas"" xác nhận mối quan hệ huyết thống giữa hai người. Do đó, Michael là cha hoặc mẹ của Eric.",IS_SIBLING_OF,1,1537
+Michael Bloomberg và Cynthia Nixon có cùng tham gia vào bộ phim 'Sex and the City' không?,A,"Đúng, cả hai đều đóng trong phim 'Sex and the City'.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Michael Bloomberg đóng trong phim *Sex and the City* và Cynthia Nixon cũng là diễn viên của bộ phim này, nên hai người có cùng tham gia vào bộ phim đó.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mối quan hệ giữa Michael Bloomberg và Cynthia Nixon trong phim *Sex and the City*.",CO_ACTOR,1,992
+Isabella Rossellini và John Lithgow có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A) Đúng. Lý do: Dữ liệu cho thấy Isabella Rossellini và John Lithgow đều đóng vai trò diễn viên trong phim ""Conclave"", đồng thời có mối quan hệ trực tiếp qua tác phẩm này.",CONNECTION,1,2003
+Robert De Niro có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Robert De Niro.",0,"Đáp án: B). Lý do: Dữ liệu xác minh rằng bộ phim *Dune* được đạo diễn bởi **David Lynch**, chứ không phải Robert De Niro.  
+
+**Giải thích**: Câu hỏi yêu cầu xác định mối quan hệ giữa Robert De Niro và đạo diễn của *Dune*, nhưng từ dữ liệu đã cung cấp, chỉ biết rằng đạo diễn của *Dune* là David Lynch, còn Robert De Niro không bị liệt kê làm đạo diễn trong các thông tin này.",DIRECTOR_ACTOR,1,2072
+David Lynch và Corey Hawkins có cùng tham gia vào bộ phim 'BlacKkKlansman' không?,B,"Sai, David Lynch không tham gia phim 'BlacKkKlansman'.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng David Lynch và Corey Hawkins cùng tham gia vào bộ phim 'BlacKkKlansman'; Corey Hawkins chính thức bị liệt kê làm đạo diễn của phim này, nhưng David Lynch không được nhắc đến trực tiếp liên quan đến bộ phim đó.  
+
+""Đáp án: B.""",CO_ACTOR,1,1674
+"Billie Lourd, Carrie Fisher và bộ phim 'When Harry Met Sally' có mối liên hệ chuỗi nào không?",A,"Đúng, Billie Lourd là con của Carrie Fisher, và Carrie Fisher đã đóng phim 'When Harry Met Sally'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi Billie Lourd (con của Carrie Fisher) → Carrie Fisher (mẹ của Billie Lourd) → 'When Harry Met Sally' (trong đó Carrie Fisher là diễn viên).  
+
+Lý do: Dữ liệu cho thấy mối liên hệ này rõ ràng và hợp lý.",TRIPLE_LINK,1,2823
+Steven Spielberg có phải là đạo diễn của bộ phim mà Paul Wesley tham gia là 'Minority Report' không?,A,"Đúng, Steven Spielberg đạo diễn phim 'Minority Report' và Paul Wesley diễn xuất trong đó.",1,"Đáp án: A). Lý do: Dữ liệu khẳng định rằng Steven Spielberg là đạo diễn của ""Minority Report"" và Paul Wesley là một diễn viên trong đó, nên câu trả lời đúng.  
+
+Lý do: Dữ liệu cung cấp rõ ràng rằng Steven Spielberg là đạo diễn của Minority Report và liệt kê các diễn viên trong bộ phim này, bao gồm Paul Wesley.",DIRECTOR_ACTOR,1,3201
+"Patrick Schwarzenegger, Arnold Schwarzenegger và bộ phim 'Maggie' có mối liên hệ chuỗi nào không?",A,"Đúng, Patrick Schwarzenegger là con của Arnold Schwarzenegger, và Arnold Schwarzenegger đã đóng phim 'Maggie'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi từ ""Maggie"" đến Arnold Schwarzenegger (được ghi rõ) và tiếp đến Patrick Schwarzenegger (Arnold là cha của Patrick).  
+
+Lý do: Mối liên hệ này trực tiếp và hợp lý.",TRIPLE_LINK,1,3661
+Bob Dylan có phải là vợ/chồng của Sara Dylan không?,A,"Đúng, Bob Dylan là vợ/chồng của Sara Dylan.",1,Đáp án: A) Đúng. Lý do: Dữ liệu trực tiếp xác nhận rằng Sara Dylan là vợ/chồng của Bob Dylan.,IS_SPOUSE_OF,1,711
+David Lynch và John Whitney Walter có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B. Lý do: Dữ liệu không thể xác định mối quan hệ trực tiếp giữa David Lynch và John Whitney Walter, chỉ rõ họ đều có liên quan đến các mối quan hệ cá nhân như chồng/chị của Isabella Rossellini và cha mẹ của Donald Trump, nhưng không có thông tin liên kết trực tiếp.  
+
+""Đáp án: B. Lý do: Dữ liệu không thể xác định mối quan hệ trực tiếp giữa David Lynch và John Whitney Walter, chỉ rõ họ đều có liên quan đến các mối quan hệ cá nhân như chồng/chị của Isabella Rossellini và cha mẹ của Donald ",CONNECTION,1,1392
+Martha Lynch Levacy và Austin Jack Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Martha Lynch Levacy là anh/chị em của David Lynch, và Austin Jack Lynch là con của David Lynch, nên hai người có mối liên hệ trực tiếp qua gia đình.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mối quan hệ giữa Martha và Austin thông qua mối quan hệ gia đình của David Lynch.""",CONNECTION,1,371
+Donald Trump có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Donald Trump.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng Donald Trump là đạo diễn của bộ phim 'Dune'; chỉ khẳng định ông từng tham gia vào phim này qua các mối quan hệ, nhưng chưa tiết lộ vai trò đạo diễn cụ thể.  
+
+""Đáp án: B/Sai.""",DIRECTOR_ACTOR,1,1862
+Sarah Jessica Parker và Kristin Davis có cùng tham gia vào bộ phim 'Sex and the City' không?,A,"Đúng, cả hai đều đóng trong phim 'Sex and the City'.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Sarah Jessica Parker và Kristin Davis đều đóng vai trò đồng hành cùng nhau trong bộ phim ""Sex and the City"", theo đó họ cùng tham gia vào cùng một tác phẩm.",CO_ACTOR,1,2091
+David Lynch và Paul Simon có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B. Lý do: Dữ liệu chỉ xác minh mối quan hệ giữa Paul Simon và Carrie Fisher qua phim ""Star Wars: Episode VIII – The Last Jedi"", nhưng không khẳng định mối quan hệ trực tiếp giữa David Lynch và Paul Simon.",CONNECTION,1,2104
+David Lynch và Rob Delaney có cùng tham gia vào bộ phim 'Bombshell' không?,B,"Sai, David Lynch không tham gia phim 'Bombshell'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng David Lynch và Rob Delaney đều tham gia vào bộ phim **'Bombshell'**, qua đó họ cùng đóng vai nhau trong một dự án này.  
+
+""Đáp án: A).""",CO_ACTOR,0,2501
+Dolph Lundgren có phải là anh/chị em của Chuck Norris không?,B,"Sai, họ không có quan hệ anh/chị em (có thể chỉ là đồng nghiệp).",0,"Đáp án: B). Lý do: Dữ liệu không указывает trực tiếp mối quan hệ giữa Dolph Lundgren và Chuck Norris, chỉ khẳng định họ đều là vợ/giờ của Gena O'Kelly.  
+
+Lý do sai vì không có bằng chứng cho thấy Dolph là cha/bạn đời của Chuck Norris.",IS_SIBLING_OF,1,1369
+Lisa Kudrow và Raven-Symoné có cùng tham gia vào bộ phim 'Dr. Dolittle 2' không?,A,"Đúng, cả hai đều đóng trong phim 'Dr. Dolittle 2'.",1,Đáp án: A. Lý do: Dữ liệu khẳng định Lisa Kudrow và Raven-Symoné đều là diễn viên của bộ phim *Dr. Dolittle 2*.,CO_ACTOR,1,842
+Michelle Williams có phải là vợ/chồng của Paul Dano không?,B,"Sai, họ không có quan hệ vợ/chồng (có thể chỉ là đồng nghiệp).",0,"Đáp án: B). Lý do: Dữ liệu chỉ xác nhận rằng Paul Dano là bạn đời của Zoe Kazan, nhưng không khẳng định mối quan hệ giữa Michelle Williams và Paul Dano.",IS_SPOUSE_OF,1,1828
+David Lynch và Robert De Niro có cùng tham gia vào bộ phim 'The Score' không?,B,"Sai, David Lynch không tham gia phim 'The Score'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rõ ràng rằng ""The Score có diễn viên là Robert De Niro"", điều này trực tiếp khẳng định mối quan hệ giữa David Lynch và Robert De Niro trong bộ phim đó.",CO_ACTOR,0,3296
+David Lynch và Sally Field có cùng tham gia vào bộ phim 'Lincoln' không?,B,"Sai, David Lynch không tham gia phim 'Lincoln'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác minh rằng David Lynch và Sally Field đều tham gia vào bộ phim **Lincoln**, cụ thể là trong **The Fabelmans** (được phát triển bởi Steven Spielberg).",CO_ACTOR,0,2514
+David Lynch và Jennifer Morrison có cùng tham gia vào bộ phim 'Bombshell' không?,B,"Sai, David Lynch không tham gia phim 'Bombshell'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng Jennifer Morrison đóng vai trong ""Bombshell"" và David Lynch cũng là một trong những diễn viên cùng tham gia.  
+
+Lý do: Dữ liệu cho thấy mối quan hệ giữa hai diễn viên này được liệt kê rõ ràng trong bảng ""MỐI QUAN HỆ"", đồng thời khẳng định họ đều tham gia vào bộ phim đó.",CO_ACTOR,0,1583
+"Jack Quaid, Dennis Quaid và bộ phim 'The Tiger Rising' có mối liên hệ chuỗi nào không?",A,"Đúng, Jack Quaid là con của Dennis Quaid, và Dennis Quaid đã đóng phim 'The Tiger Rising'.",1,"Đáp án: A. Lý do: Dữ liệu cho thấy Jack Quaid là con của Dennis Quaid, và Dennis Quaid đóng vai trong phim *The Tiger Rising*. Do đó, mối liên hệ chuỗi chính là Jack Quaid → Dennis Quaid → *The Tiger Rising*, phù hợp với yêu cầu câu hỏi.  
+
+""Đáp án: A.""",TRIPLE_LINK,1,1935
+David Lynch và Robert Forster có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu cho thấy David Lynch và Robert Forster có liên kết qua việc cùng đóng vai trò đạo diễn trong tác phẩm *Mulholland Drive*, một trong những bộ phim mà họ đều tham gia.",CONNECTION,1,1434
+Steven Spielberg có phải là đạo diễn của bộ phim mà Jessica Capshaw tham gia là 'Minority Report' không?,A,"Đúng, Steven Spielberg đạo diễn phim 'Minority Report' và Jessica Capshaw diễn xuất trong đó.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận Steven Spielberg đã执导电影《Minority Report》，而Jessica Capshaw是该片的主演，因此符合题意。  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận Steven Spielberg đã执导电影《Minority Report》.""",DIRECTOR_ACTOR,1,3420
+David Lynch và Ted Levine có cùng tham gia vào bộ phim 'Shutter Island' không?,B,"Sai, David Lynch không tham gia phim 'Shutter Island'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của *Shutter Island* và Ted Levine là một diễn viên trong đó, nên hai đều tham gia vào bộ phim này.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của *Shutter Island* và Ted Levine là một diễn viên trong đó, nên hai đều tham gia vào bộ phim này.""",CO_ACTOR,0,2335
+David Lynch và Taylor Lautner có cùng tham gia vào bộ phim 'Miss Americana' không?,B,"Sai, David Lynch không tham gia phim 'Miss Americana'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận cả hai cá nhân đều tham gia vào bộ phim ""Miss Americana"".",CO_ACTOR,0,3305
+"David Lynch, David Lynch và bộ phim 'Joker' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận mối liên hệ trực tiếp giữa David Lynch (đạo diễn của Mulholland Drive) và Justin Theroux (dịch giả của Joker), thể hiện mối quan hệ chặt chẽ.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận mối liên hệ trực tiếp giữa David Lynch (đạo diễn của Mulholland Drive) và Justin Theroux (dịch giả của Joker), thể hiện mối quan hệ chặt chẽ.""",TRIPLE_LINK,0,1691
+Sarah Jessica Parker và Michael Bloomberg có cùng tham gia vào bộ phim 'Sex and the City' không?,A,"Đúng, cả hai đều đóng trong phim 'Sex and the City'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng cả hai cá nhân đều tham gia vào bộ phim 'Sex and the City', với Michael Bloomberg đóng vai trò diễn viên và Sarah Jessica Parker cũng là diễn viên trong đó.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng cả hai cá nhân đều tham gia vào bộ phim 'Sex and the City', với Michael Bloomberg đóng vai trò diễn viên và Sarah Jessica Parker cũng là diễn viên trong đó.""",CO_ACTOR,1,2481
+David Lynch và 50 Cent có cùng tham gia vào bộ phim 'Escape Plan' không?,B,"Sai, David Lynch không tham gia phim 'Escape Plan'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác minh rằng cả David Lynch và 50 Cent đều đóng vai trong bộ phim ""Escape Plan"".",CO_ACTOR,0,2171
+Paul Simon có phải là vợ/chồng của Edie Brickell không?,A,"Đúng, Paul Simon là vợ/chồng của Edie Brickell.",1,Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận trực tiếp rằng Paul Simon là vợ/chồng của Edie Brickell.,IS_SPOUSE_OF,1,995
+Jeff Daniels có phải là vợ/chồng của Bob Dylan không?,B,"Sai, họ không có quan hệ vợ/chồng (có thể chỉ là đồng nghiệp).",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ vợ chồng giữa Jeff Daniels và Bob Dylan. Các mối quan hệ được liệt kê rõ ràng là Sara Dylan, Carolyn Dennis, nhưng không khẳng định sự kết nối này.",IS_SPOUSE_OF,1,1248
+David Lynch và Jon Stewart có cùng tham gia vào bộ phim 'The Adjustment Bureau' không?,B,"Sai, David Lynch không tham gia phim 'The Adjustment Bureau'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch đóng trong phim *The Adjustment Bureau* và có diễn viên là Jon Stewart, nên hai nhân vật này cùng tham gia vào bộ phim đó.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch đóng trong phim *The Adjustment Bureau* và có diễn viên là Jon Stewart, nên hai nhân vật này cùng tham gia vào bộ phim đó.""",CO_ACTOR,0,2263
+Terry Crews và Sylvester Stallone có cùng tham gia vào bộ phim 'The Expendables 2' không?,A,"Đúng, cả hai đều đóng trong phim 'The Expendables 2'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận cả hai diễn viên Terry Crews và Sylvester Stallone đều tham gia vào bộ phim **The Expendables 2**, qua các mối liên hệ rõ ràng.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận cả hai diễn viên Terry Crews và Sylvester Stallone đều tham gia vào bộ phim 'The Expendables 2'.""",CO_ACTOR,1,2947
+Tom Hanks có phải là anh/chị em của Larry Hanks không?,A,"Đúng, Tom Hanks là anh/chị em của Larry Hanks.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu trực tiếp khẳng định rằng Larry Hanks là anh/chị em của Tom Hanks.  
+
+Lý do: Dữ liệu cung cấp rõ ràng trong phần ""THÔNG TIN CÁNH"" và ""MỐI QUAN HỆ"", đồng thời nêu rõ mối quan hệ này giữa hai cá nhân.",IS_SIBLING_OF,1,1771
+David Lynch và Claire Danes có cùng tham gia vào bộ phim 'Stardust' không?,B,"Sai, David Lynch không tham gia phim 'Stardust'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận cả hai cá nhân đều tham gia vào bộ phim 'Stardust', với mối liên hệ rõ ràng giữa David Lynch và Claire Danes qua các vai trò và diễn viên trong phim này.",CO_ACTOR,0,2011
+David Lynch và Robert De Niro có cùng tham gia vào bộ phim '9/11' không?,B,"Sai, David Lynch không tham gia phim '9/11'.",0,"Error: {neo4j_code: Neo.ClientError.Procedure.ProcedureCallFailed} {message: Failed to invoke procedure `db.index.fulltext.queryNodes`: Caused by: org.apache.lucene.queryparser.classic.TokenMgrError: Lexical error at line 1, column 6.  Encountered: <EOF> after prefix ""/11~"" (in lexical state 2)} {gql_status: 50N42} {gql_status_description: error: general processing exception - unexpected error. Failed to invoke procedure `db.index.fulltext.queryNodes`: Caused by: org.apache.lucene.queryparser.cl",CO_ACTOR,0,0
+David Lynch và Josh Gad có cùng tham gia vào bộ phim 'Artemis Fowl' không?,B,"Sai, David Lynch không tham gia phim 'Artemis Fowl'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng Josh Gad đóng trong phim Artemis Fowl, và David Lynch cũng là diễn viên của Isabella Rossellini trong cùng bộ phim.",CO_ACTOR,0,2164
+Steven Spielberg có phải là đạo diễn của bộ phim mà Jennifer Garner tham gia là 'Catch Me If You Can' không?,A,"Đúng, Steven Spielberg đạo diễn phim 'Catch Me If You Can' và Jennifer Garner diễn xuất trong đó.",1,"Đáp án: A). Lý do: Dữ liệu khẳng định Steven Spielberg là đạo diễn của ""Catch Me If You Can"" và có diễn viên Jennifer Garner tham gia.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mệnh đề đúng.""",DIRECTOR_ACTOR,1,3190
+David Lynch và Cate Blanchett có cùng tham gia vào bộ phim 'The Aviator' không?,B,"Sai, David Lynch không tham gia phim 'The Aviator'.",0,"Đáp án: B. Lý do: Dữ liệu chỉ xác minh rằng Cate Blanchett đóng vai trong ""The Aviator"", nhưng David Lynch là đạo diễn, không phải diễn viên.",CO_ACTOR,1,3477
+Riley Sweeney Lynch và Sunny Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A). Lý do: Dữ liệu xác minh rằng Riley Sweeney Lynch là con của David Lynch, và Sunny Lynch là mẹ của David Lynch, nên hai người có mối quan hệ trực tiếp qua cha mẹ.  
+
+""Đáp án: A/B]. Lý do: Riley Sweeney Lynch và Sunny Lynch có mối liên hệ với nhau qua cha mẹ.""",CONNECTION,1,370
+Chuck Norris có phải là vợ/chồng của Arnold Schwarzenegger không?,B,"Sai, họ không có quan hệ vợ/chồng (có thể chỉ là đồng nghiệp).",0,"Đáp án: A). Lý do: Dữ liệu khẳng định rằng Chuck Norris là vợ/chồng của Gena O'Kelly và Diane Holechek, nên câu trả lời đúng là ""Đúng"".  
+
+Lý do: Dữ liệu xác nhận mối quan hệ giữa Chuck Norris và hai cặp vợ chồng (Gena O'Kelly và Diane Holechek), điều này phù hợp với câu hỏi.",IS_SPOUSE_OF,0,2735
+Chuck Norris có phải là vợ/chồng của Gena O'Kelly không?,A,"Đúng, Chuck Norris là vợ/chồng của Gena O'Kelly.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng Gena O'Kelly là vợ/chồng của Chuck Norris, điều này trực tiếp phản ánh câu hỏi.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận rằng Gena O'Kelly là vợ/chồng của Chuck Norris.""",IS_SPOUSE_OF,1,785
+David Lynch và Nick Jonas có cùng tham gia vào bộ phim 'Jumanji: The Next Level' không?,B,"Sai, David Lynch không tham gia phim 'Jumanji: The Next Level'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận cả hai cá nhân đều được liệt kê trong danh sách các diễn viên của bộ phim ""Jumanji: The Next Level"".",CO_ACTOR,0,3217
+Donald Trump có phải là anh/chị em của Elizabeth Trump Grau không?,A,"Đúng, Donald Trump là anh/chị em của Elizabeth Trump Grau.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng Donald Trump là anh/chị em với Elizabeth Trump Grau, tức là họ có mối quan hệ huyết thống qua hôn nhân.  
+
+Lý do: Dữ liệu cho thấy Donald Trump là anh/chị em với Elizabeth Trump Grau, nên mệnh đề đúng.",IS_SIBLING_OF,1,1576
+Sylvester Stallone có phải là anh/chị em của Arnold Schwarzenegger không?,B,"Sai, họ không có quan hệ anh/chị em (có thể chỉ là đồng nghiệp).",0,Đáp án: B). Lý do: Dữ liệu không chứa thông tin nào liên quan đến mối quan hệ giữa Sylvester Stallone và Arnold Schwarzenegger.,IS_SIBLING_OF,1,2203
+David Lynch và Margaret Qualley có cùng tham gia vào bộ phim 'Once Upon a Time in Hollywood' không?,B,"Sai, David Lynch không tham gia phim 'Once Upon a Time in Hollywood'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu cho thấy David Lynch đóng trong phim *Once Upon a Time in Hollywood* thông qua mối liên hệ giữa các bộ phim liên quan, đặc biệt là phim *The Fabelmans*, trong đó Leonardo DiCaprio diễn.",CO_ACTOR,0,3495
+Austin Jack Lynch và Jennifer Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Jennifer Lynch và Austin Jack Lynch đều là con của David Lynch, tức là họ cùng là con của cha mẹ chung.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng Jennifer Lynch và Austin Jack Lynch đều là con của David Lynch, tức là họ cùng là con của cha mẹ chung.""",CONNECTION,1,337
+David Lynch và Brad Pitt có cùng tham gia vào bộ phim 'Once Upon a Time in Hollywood' không?,B,"Sai, David Lynch không tham gia phim 'Once Upon a Time in Hollywood'.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa David Lynch và Brad Pitt tham gia vào bộ phim ""Once Upon a Time in Hollywood"". Các thông tin đã liệt kê chỉ rõ họ từng đóng vai trong các tác phẩm khác như ""The Elephant Man"", ""Mulholland Drive"", ""Dune"", v.v., nhưng không khẳng định họ tham gia vào ""Once Upon a Time in Hollywood"".  
+
+""Đáp án: B.""",CO_ACTOR,1,4627
+David Lynch và Robert De Niro có cùng tham gia vào bộ phim 'Heist' không?,B,"Sai, David Lynch không tham gia phim 'Heist'.",0,"Đáp án: B. Lý do: Dữ liệu không khẳng định mối quan hệ trực tiếp giữa David Lynch và Robert De Niro trong bộ phim ""Heist"". Chỉ có thể xác minh nếu David Lynch đóng vai trong ""Heist"", nhưng từ các thông tin đã cung cấp, không có sự liên kết rõ ràng như vậy.  
+
+""Đáp án: B. Lý do: Dữ liệu không khẳng định mối quan hệ trực tiếp giữa David Lynch và Robert De Niro trong bộ phim ""Heist"". Chỉ có thể xác minh nếu David Lynch đóng vai trong ""Heist"", nhưng từ các thông tin đã cung cấp, không có sự liên kết",CO_ACTOR,1,3266
+David Lynch và Shailene Woodley có cùng tham gia vào bộ phim 'Snowden' không?,B,"Sai, David Lynch không tham gia phim 'Snowden'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Shailene Woodley đóng vai trong bộ phim *Snowden*, và cả hai đều được liệt kê trong danh sách các diễn viên của bộ phim này.",CO_ACTOR,0,2634
+David Lynch và Timothy Olyphant có cùng tham gia vào bộ phim 'Snowden' không?,B,"Sai, David Lynch không tham gia phim 'Snowden'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Timothy Olyphant đóng trong phim *Snowden* như một diễn viên.",CO_ACTOR,0,2639
+Marjorie Tiven có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Marjorie Tiven.",0,Đáp án: B. Lý do: Dữ liệu không xác nhận rằng Marjorie Tiven là đạo diễn của bộ phim 'Dune' hoặc Virginia Madsen tham gia.,DIRECTOR_ACTOR,1,392
+David Lynch và Gwen Stefani có cùng tham gia vào bộ phim 'The Aviator' không?,B,"Sai, David Lynch không tham gia phim 'The Aviator'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng David Lynch và Gwen Stefani đều tham gia vào bộ phim *The Aviator*, dù họ từng là bạn đời nhau và diễn viên riêng biệt trong đó.",CO_ACTOR,0,2308
+Sylvester Stallone có phải là con của Jackie Stallone không?,A,"Đúng, Sylvester Stallone là con của Jackie Stallone.",1,Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận trực tiếp rằng Sylvester Stallone là con của Jackie Stallone.,IS_CHILD_OF,1,1954
+David Lynch và Harper Simon có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A) Đúng  
+Lý do: Từ ngữ ""David Lynch là cha/mẹ của Harper Simon"" trong dữ liệu cho thấy hai người có mối liên hệ qua gia đình, phù hợp với kết luận.",CONNECTION,0,1426
+David Lynch và Brian Tyree Henry có cùng tham gia vào bộ phim 'Joker' không?,B,"Sai, David Lynch không tham gia phim 'Joker'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của Mulholland Drive, trong đó Justin Theroux đóng vai trò diễn viên, và Justin Theroux cũng là diễn viên của Joker. Do đó, hai nhân vật này cùng tham gia vào bộ phim 'Joker'.",CO_ACTOR,0,2406
+David Lynch và Boyd Holbrook có cùng tham gia vào bộ phim 'Indiana Jones and the Dial of Destiny' không?,B,"Sai, David Lynch không tham gia phim 'Indiana Jones and the Dial of Destiny'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng Boyd Holbrook đóng vai trò đạo diễn trong phim ""Indiana Jones và Dial của Destiny"", đồng thời David Lynch cũng là một trong những đạo diễn khác của các bộ phim tương ứng.",CO_ACTOR,0,2391
+"David Lynch, David Lynch và bộ phim 'Taxi Driver' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác minh mối quan hệ trực tiếp giữa David Lynch và bộ phim *Taxi Driver*, bao gồm vai trò của David Lynch như bạn đời của Isabella Rossellini, cùng với việc Isabella Rossellini là vợ của Martin Scorsese, đạo diễn của *Taxi Driver*.",TRIPLE_LINK,0,1384
+David Lynch và Kristin Davis có cùng tham gia vào bộ phim 'Sex and the City' không?,B,"Sai, David Lynch không tham gia phim 'Sex and the City'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng cả hai cá nhân đều đóng vai trong bộ phim ""Sex and the City"".",CO_ACTOR,0,2544
+"David Lynch, David Lynch và bộ phim 'Shrek' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác minh mối quan hệ chặt chẽ giữa David Lynch và bộ phim *Shrek* thông qua sự liên kết trực tiếp trong danh sách ""LIÊN KẾT GIỮA CÁC THỰC THỂ"", nơi David Lynch đóng vai trò đạo diễn của *The Fabelmans*, một tác phẩm được sản xuất bởi Steven Spielberg. Điều này tạo ra liên kết giữa hai tác phẩm này.  
+
+""Đáp án: A/B]. Lý do: David Lynch là đạo diễn của *The Fabelmans*, mà tác phẩm đó được sản xuất bởi Steven Spielberg, nên mối liên kết trực tiếp với *Shrek*.""",TRIPLE_LINK,0,1267
+David Lynch và Sydney Sweeney có cùng tham gia vào bộ phim 'Once Upon a Time in Hollywood' không?,B,"Sai, David Lynch không tham gia phim 'Once Upon a Time in Hollywood'.",0,"Đáp án: B). Lý do: Dữ liệu cho thấy David Lynch và Sydney Sweeney không cùng tham gia vào bộ phim ""Once Upon a Time in Hollywood"", nhưng họ bị liên kết qua các mối quan hệ diễn viên trong các tác phẩm khác.  
+
+Lý do: Dữ liệu chỉ khẳng định rằng David Lynch đóng vai trong *The Fabelmans* cùng Michelle Williams, và Sydney Sweeney đóng vai trong *Shutter Island*, không trực tiếp liên quan đến *Once Upon a Time in Hollywood*. Do đó, câu trả lời là **Sai**.",CO_ACTOR,1,1707
+Lisa Kudrow và Mandy Moore có cùng tham gia vào bộ phim 'Dr. Dolittle 2' không?,A,"Đúng, cả hai đều đóng trong phim 'Dr. Dolittle 2'.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận cả Lisa Kudrow và Mandy Moore đều đóng vai trong bộ phim *Dr. Dolittle 2*.",CO_ACTOR,1,1364
+William Henry Bloomberg có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải William Henry Bloomberg.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng William Henry Bloomberg là đạo diễn của bộ phim 'Dune'. Việc liên hệ giữa hai cá nhân trong dữ liệu chỉ thể hiện mối quan hệ gia đình, nhưng không bao gồm vai trò đạo diễn.",DIRECTOR_ACTOR,1,799
+Mary Anne MacLeod Trump có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Mary Anne MacLeod Trump.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy rằng Dune được đạo diễn bởi David Lynch, chứ không có sự khẳng định nào về vai trò của Mary Anne MacLeod Trump như đạo diễn.",DIRECTOR_ACTOR,1,739
+"Jack Quaid, Meg Ryan và bộ phim 'When Harry Met Sally' có mối liên hệ chuỗi nào không?",A,"Đúng, Jack Quaid là con của Meg Ryan, và Meg Ryan đã đóng phim 'When Harry Met Sally'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi giữa Jack Quaid (con của Meg Ryan) và bộ phim 'When Harry Met Sally' (vợ/chồng của Meg Ryan).  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi giữa Jack Quaid (con của Meg Ryan) và bộ phim 'When Harry Met Sally' (vợ/chồng của Meg Ryan).""",TRIPLE_LINK,1,1627
+Ray Norris có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Ray Norris.",0,"Đáp án: B). Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của ""Dune"", chứ không phải Ray Norris.  
+
+**Giải thích:**  
+Mệnh đề yêu cầu Ray Norris phải là đạo diễn của ""Dune"", nhưng từ dữ liệu đã xác minh rằng **David Lynch** đạo diễn ""Dune"". Do đó, mệnh đề sai.",DIRECTOR_ACTOR,1,406
+Steven Spielberg có phải là đạo diễn của bộ phim mà BD Wong tham gia là 'Jurassic Park' không?,A,"Đúng, Steven Spielberg đạo diễn phim 'Jurassic Park' và BD Wong diễn xuất trong đó.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Steven Spielberg là đạo diễn của Jurassic Park và BD Wong đóng vai trong đó, phù hợp với câu hỏi.",DIRECTOR_ACTOR,1,3579
+Chuck Norris và Bruce Willis có cùng tham gia vào bộ phim 'The Expendables 2' không?,A,"Đúng, cả hai đều đóng trong phim 'The Expendables 2'.",1,Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng Chuck Norris đóng trong phim *The Expendables 2* và có diễn viên là Bruce Willis.,CO_ACTOR,1,2596
+Mike Norris có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Mike Norris.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa Mike Norris và bộ phim ""Dune"", đồng thời không có bằng chứng cho thấy Virginia Madsen tham gia hoặc đóng vai trong bộ phim này.",DIRECTOR_ACTOR,1,371
+David Lynch và Liam Neeson có cùng tham gia vào bộ phim 'A Walk Among the Tombstones' không?,B,"Sai, David Lynch không tham gia phim 'A Walk Among the Tombstones'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận cả hai cá nhân đều tham gia vào bộ phim ""A Walk Among the Tombstones"" thông qua các mối liên hệ như việc đóng vai diễn trong đó.",CO_ACTOR,0,3772
+David Lynch và Barbara De Fina có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 3 bước).",1,"Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch và Barbara De Fina đều có mối quan hệ với Isabella Rossellini (vợ/chồng), nhưng không có liên kết trực tiếp giữa hai người.",CONNECTION,0,1270
+David Lynch và Robert De Niro có cùng tham gia vào bộ phim 'Little Fockers' không?,B,"Sai, David Lynch không tham gia phim 'Little Fockers'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của ""Little Fockers,"" do đó hai nhân vật này cùng tham gia vào bộ phim này.  
+
+""Đáp án: A. Lý do: Dữ liệu khẳng định mối quan hệ trực tiếp giữa David Lynch và Robert De Niro qua vai trò đạo diễn của họ trong phim ""Little Fockers"".",CO_ACTOR,0,3651
+David Lynch và Bill Paxton có cùng tham gia vào bộ phim 'True Lies' không?,B,"Sai, David Lynch không tham gia phim 'True Lies'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng Bill Paxton và David Lynch đều là diễn viên trong bộ phim **True Lies**, do đó họ có cùng tham gia vào bộ phim này.  
+
+Lý do: Dữ liệu khẳng định mối liên hệ giữa hai diễn viên trong bộ phim, nên câu trả lời chính xác là ""Đúng"".",CO_ACTOR,0,2394
+David Lynch và Katie Holmes có cùng tham gia vào bộ phim 'Jack and Jill' không?,B,"Sai, David Lynch không tham gia phim 'Jack and Jill'.",0,"Đáp án: B). Lý do: Dữ liệu chỉ xác nhận rằng Katie Holmes đóng trong phim *Jack and Jill*, nhưng không khẳng định David Lynch cũng tham gia vào bộ phim này.",CO_ACTOR,1,2429
+Jeff Bridges có phải là con của Lloyd Bridges không?,A,"Đúng, Jeff Bridges là con của Lloyd Bridges.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu cho thấy Jeff Bridges là con của Lloyd Bridges, cùng với thông tin trực tiếp khẳng định mối quan hệ này.",IS_CHILD_OF,1,1093
+"Lily-Rose Depp, Johnny Depp và bộ phim 'Dark Shadows' có mối liên hệ chuỗi nào không?",A,"Đúng, Lily-Rose Depp là con của Johnny Depp, và Johnny Depp đã đóng phim 'Dark Shadows'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi rõ ràng: Lily-Rose Depp là con của Johnny Depp, và Johnny Depp đóng trong phim *Dark Shadows*.  
+
+Lý do: Dữ liệu cho thấy mối liên hệ giữa Lily-Rose Depp và Johnny Depp qua việc Lily-Rose là con của cha Johnny Depp, đồng thời Johnny Depp là diễn viên chính trong phim *Dark Shadows*, tạo nên chuỗi liên kết trực tiếp.",TRIPLE_LINK,1,3736
+Suze Rotolo có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Suze Rotolo.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng Suze Rotolo là đạo diễn của bộ phim 'Dune', vì David Lynch đã được công nhận là đạo diễn và một trong những diễn viên chính của Dune.",DIRECTOR_ACTOR,1,597
+Isaac Hayes và Raven-Symoné có cùng tham gia vào bộ phim 'Dr. Dolittle 2' không?,A,"Đúng, cả hai đều đóng trong phim 'Dr. Dolittle 2'.",1,"Đáp án: B). Lý do: Dữ liệu không có thông tin nào liên quan đến Raven-Symoné tham gia bộ phim ""Dr. Dolittle 2"", nên mệnh đề không được xác nhận.  
+
+""Đáp án: B/Sai.""",CO_ACTOR,0,185
+David Lynch và Raven-Symoné có cùng tham gia vào bộ phim 'Dr. Dolittle 2' không?,B,"Sai, David Lynch không tham gia phim 'Dr. Dolittle 2'.",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận mối quan hệ giữa David Lynch và Raven-Symoné trong bộ phim *Dr. Dolittle 2*. Dữ liệu chỉ liệt kê các diễn viên chính của bộ phim, mà không bao gồm Raven-Symoné.",CO_ACTOR,1,1719
+David Lynch và Robert De Niro có cùng tham gia vào bộ phim 'Joy' không?,B,"Sai, David Lynch không tham gia phim 'Joy'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch và Robert De Niro đều tham gia vào bộ phim ""Joy"", với Robert De Niro đóng vai diễn trong bộ phim này.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch và Robert De Niro đều tham gia vào bộ phim ""Joy"", với Robert De Niro đóng vai diễn trong bộ phim này.""",CO_ACTOR,0,2832
+"Patrick Schwarzenegger, Arnold Schwarzenegger và bộ phim 'Terminator 3: Rise of the Machines' có mối liên hệ chuỗi nào không?",A,"Đúng, Patrick Schwarzenegger là con của Arnold Schwarzenegger, và Arnold Schwarzenegger đã đóng phim 'Terminator 3: Rise of the Machines'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa Arnold Schwarzenegger (phương vị cha) và Patrick Schwarzenegger (phương vị con), đồng thời nhấn mạnh rằng Arnold là cha cả hai.  
+
+Lý do: Mối quan hệ này được liệt kê rõ ràng trong các phần liên kết, thể hiện mối liên hệ chuỗi rõ ràng.",TRIPLE_LINK,1,3873
+David Lynch và Jakob Dylan có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng David Lynch là vợ/chồng của Isabella Rossellini, thể hiện mối quan hệ vợ chồng giữa hai cá nhân.  
+
+""Đáp án: A/B]. Lý do: David Lynch và Jakob Dylan có mối quan hệ qua vai trò diễn viên cùng làm bộ phim *The Fabelmans* và *Steve Jobs*, nhưng đây chỉ là sự liên kết trong lĩnh vực nghệ thuật, không phải mối quan hệ hôn nhân.""",CONNECTION,0,1300
+Justin Theroux và Robert Forster có cùng tham gia vào bộ phim 'Mulholland Drive' không?,A,"Đúng, cả hai đều đóng trong phim 'Mulholland Drive'.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận Justin Theroux và Robert Forster đều tham gia vào bộ phim ""Mulholland Drive"".  
+
+Lý do: Từ phần mềm ""MỐI QUAN HỆ"" và ""LIÊN KẾT GIỮA CÁC THỰC THỂ"", cả hai diễn viên đều được liệt kê như một trong số các diễn viên của bộ phim này.",CO_ACTOR,1,1790
+David Lynch và Jemaine Clement có cùng tham gia vào bộ phim 'The BFG' không?,B,"Sai, David Lynch không tham gia phim 'The BFG'.",0,"Đáp án: A) Đúng. Lý do: Từ dữ liệu, Jemaine Clement đóng trong phim *The BFG* và David Lynch cũng là một trong những diễn viên chính của bộ phim này.",CO_ACTOR,0,2151
+David Lynch và John Slattery có cùng tham gia vào bộ phim 'The Adjustment Bureau' không?,B,"Sai, David Lynch không tham gia phim 'The Adjustment Bureau'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu cho thấy cả hai cá nhân đều được liệt kê trong bộ phim **The Adjustment Bureau**, bao gồm vai trò chính của John Slattery và việc ông đóng vai trò đạo diễn.",CO_ACTOR,0,2514
+"David Lynch, David Lynch và bộ phim 'Snowden' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận mối liên kết chặt chẽ giữa David Lynch và bộ phim 'Snowden', qua chuỗi liên kết trực tiếp từ David Lynch đến các tác phẩm này.  
+
+Lý do: David Lynch đóng vai trò đạo diễn trong *The Fabelmans* và *Snowden*, cùng với các diễn viên như Michelle Williams và Logan Marshall-Green, tạo nên mối liên kết rõ ràng giữa hai cá nhân và tác phẩm.",TRIPLE_LINK,0,1736
+David Lynch và Virginia Madsen có cùng tham gia vào bộ phim 'Dune' không?,A,"Đúng, cả hai đều đóng trong phim 'Dune'.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của ""Dune"" và Virginia Madsen là diễn viên của ""Dune"", hai người cùng tham gia vào bộ phim này.",CO_ACTOR,1,1947
+David Lynch và Jennifer Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 1 bước).",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là cha/mẹ của Jennifer Lynch, phù hợp với câu hỏi.",CONNECTION,1,1146
+David Lynch và Awkwafina có cùng tham gia vào bộ phim 'Jumanji: The Next Level' không?,B,"Sai, David Lynch không tham gia phim 'Jumanji: The Next Level'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng cả David Lynch và Awkwafina đều là diễn viên chính trong bộ phim *Jumanji: The Next Level*, tức là họ cùng tham gia vào bộ phim này.",CO_ACTOR,0,2576
+David Lynch và Georgina Bloomberg có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa David Lynch và Georgina Bloomberg.,CONNECTION,1,1143
+"David Lynch, David Lynch và bộ phim 'American Hustle' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác minh mối quan hệ trực tiếp giữa David Lynch (tác giả và đạo diễn của ""American Hustle"") và các diễn viên chính trong bộ phim, đồng thời khẳng định mối liên kết qua vai trò của họ trong cùng một tác phẩm.",TRIPLE_LINK,0,1623
+David Lynch và Jesse Dylan có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là bạn đời của Isabella Rossellini và Jesse Dylan là con của Bob Dylan, tạo ra mối liên hệ trực tiếp giữa hai cá nhân qua mối quan hệ gia đình.",CONNECTION,0,1300
+"David Lynch, David Lynch và bộ phim 'Stardust' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu cho thấy David Lynch là bạn đời của Isabella Rossellini, và Isabella Rossellini đóng trong phim *Stardust*. Do đó, mối quan hệ trực tiếp giữa David Lynch và *Stardust* được xác nhận qua các mối liên kết này.",TRIPLE_LINK,0,1343
+David Lynch và Joseph Gordon-Levitt có cùng tham gia vào bộ phim 'Lincoln' không?,B,"Sai, David Lynch không tham gia phim 'Lincoln'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của bộ phim *Lincoln*, nên hai nhân vật này cùng tham gia vào bộ phim đó.  
+
+""Đáp án: A). Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của bộ phim *Lincoln*.""",CO_ACTOR,0,2393
+"Jack Quaid, Dennis Quaid và bộ phim 'Frequency' có mối liên hệ chuỗi nào không?",A,"Đúng, Jack Quaid là con của Dennis Quaid, và Dennis Quaid đã đóng phim 'Frequency'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Jack Quaid là con của Dennis Quaid (được ghi rõ), và bộ phim *Frequency* chứa Dennis Quaid như diễn viên.  
+
+Lý do: Có thể hiểu rằng Jack Quaid (con của Dennis Quaid) đã đóng vai trong phim *Frequency*, tạo nên mối liên hệ chuỗi rõ ràng giữa hai cá nhân và tác phẩm.",TRIPLE_LINK,1,1785
+David Lynch và Oliver Stone có cùng tham gia vào bộ phim 'Wall Street: Money Never Sleeps' không?,B,"Sai, David Lynch không tham gia phim 'Wall Street: Money Never Sleeps'.",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận rằng cả hai đều tham gia vào bộ phim ""Wall Street: Money Never Sleeps"", chỉ khẳng định Oliver Stone là đạo diễn của nó.",CO_ACTOR,1,1913
+John Lynch và Sara Dylan có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng John Lynch và Sara Dylan đều là các cặp đôi cùng đóng vai trò trong bộ phim liên quan đến mối quan hệ cá nhân như vợ chồng hoặc cha con, điều này thể hiện mối liên hệ giữa họ.",CONNECTION,0,480
+Susan Brown có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Susan Brown.",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận rằng Susan Brown là đạo diễn của bộ phim ""Dune""; cô ấy chỉ bị nhắc đến như một mối quan hệ vợ/chồng với các diễn viên khác.  
+
+""Đáp án: B). Lý do: Dữ liệu không xác nhận rằng Susan Brown là đạo diễn của bộ phim ""Dune""; cô ấy chỉ bị nhắc đến như một mối quan hệ vợ/chồng với các diễn viên khác.""",DIRECTOR_ACTOR,1,712
+David Lynch và Kate Capshaw có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 3 bước).",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa David Lynch và Kate Capshaw qua phim *The Fabelmans*, nơi cả hai đều đóng vai trò đạo diễn cùng nhau.  
+
+Lý do: Dữ liệu khẳng định mối liên hệ này, nên mệnh đề đúng.",CONNECTION,1,1334
+David Lynch và Rebecca Hall có cùng tham gia vào bộ phim 'The BFG' không?,B,"Sai, David Lynch không tham gia phim 'The BFG'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của ""The BFG"", và Rebecca Hall là một diễn viên trong bộ phim này.",CO_ACTOR,0,2342
+"Jaden Smith, Will Smith và bộ phim 'The Pursuit of Happyness' có mối liên hệ chuỗi nào không?",A,"Đúng, Jaden Smith là con của Will Smith, và Will Smith đã đóng phim 'The Pursuit of Happyness'.",1,"Đáp án: A. Lý do: Dữ liệu xác minh mối quan hệ chuỗi Jaden Smith (con của Will Smith) - Will Smith (đề tài ""The Pursuit of Happyness"") nên mệnh đề đúng.  
+
+Lý do: Mối liên hệ được thể hiện qua hai đoạn:  
+1. Jaden Smith là con của Will Smith → liên kết giữa Jaden và Will.  
+2. Will Smith đóng trong phim → liên kết giữa Will và phim.  
+Do đó, chuỗi này rõ ràng tồn tại.  
+
+""Đáp án: A. Lý do: Dữ liệu xác minh mối quan hệ chuỗi Jaden Smith - Will Smith - The Pursuit of Happyness.""",TRIPLE_LINK,1,3016
+David Lynch và Walton Goggins có cùng tham gia vào bộ phim 'Lincoln' không?,B,"Sai, David Lynch không tham gia phim 'Lincoln'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng cả David Lynch và Walton Goggins đều đóng vai trong bộ phim ""Lincoln"".",CO_ACTOR,0,2561
+David Lynch có phải là con của Paul Dano không?,B,"Sai, họ không có quan hệ con (có thể chỉ là đồng nghiệp).",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ trực tiếp giữa David Lynch và Paul Dano, mà chỉ khẳng định David Lynch là con của hai bố mẹ khác.  
+
+""Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ trực tiếp giữa David Lynch và Paul Dano, mà chỉ khẳng định David Lynch là con của hai bố mẹ khác.""",IS_CHILD_OF,1,1700
+David Lynch và Logan Marshall-Green có cùng tham gia vào bộ phim 'Snowden' không?,B,"Sai, David Lynch không tham gia phim 'Snowden'.",0,"Đáp án: B). Lý do: Dữ liệu cho thấy David Lynch không có mối quan hệ trực tiếp với Logan Marshall-Green trong phim ""Snowden"", chỉ có thể liên quan đến Joseph Gordon-Levitt.  
+
+""Đáp án: B). Lý do: Dữ liệu cho thấy David Lynch không có mối quan hệ trực tiếp với Logan Marshall-Green trong phim ""Snowden"", chỉ có thể liên quan đến Joseph Gordon-Levitt.""",CO_ACTOR,1,2402
+David Lynch và Tim Blake Nelson có cùng tham gia vào bộ phim 'Lincoln' không?,B,"Sai, David Lynch không tham gia phim 'Lincoln'.",0,"Đáp án: B. Lý do: Dữ liệu chỉ xác nhận Tim Blake Nelson là đạo diễn của ""Lincoln"", nhưng không khẳng định ông cũng tham gia vào bộ phim đó.",CO_ACTOR,1,1841
+"David Lynch, David Lynch và bộ phim 'Killing Season' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa David Lynch (đạo diễn) và bộ phim *Killing Season*, qua việc ông đóng vai diễn trong đó.",TRIPLE_LINK,0,1383
+Virginia Madsen và Sean Young có cùng tham gia vào bộ phim 'Dune' không?,A,"Đúng, cả hai đều đóng trong phim 'Dune'.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận cả hai cá nhân (Sean Young và Virginia Madsen) đều là diễn viên trong bộ phim ""Dune"".",CO_ACTOR,1,1325
+"David Lynch, David Lynch và bộ phim 'The Imaginarium of Doctor Parnassus' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chặt chẽ giữa David Lynch và bộ phim ""The Imaginarium of Doctor Parnassus"", từ việc David Lynch là bạn đời của Isabella Rossellini đến các mối liên hệ trong vai trò đạo diễn và nhà sản xuất.",TRIPLE_LINK,0,1556
+David Lynch và Joseph Gordon-Levitt có cùng tham gia vào bộ phim 'Snowden' không?,B,"Sai, David Lynch không tham gia phim 'Snowden'.",0,"Đáp án: B. Lý do: Dữ liệu không указывает на наличие mối quan hệ trực tiếp giữa David Lynch và Joseph Gordon-Levitt trong bộ phim 'Snowden'.  
+
+""SAI"".",CO_ACTOR,1,1471
+David Lynch và Harrison Ford có cùng tham gia vào bộ phim 'Indiana Jones and the Dial of Destiny' không?,B,"Sai, David Lynch không tham gia phim 'Indiana Jones and the Dial of Destiny'.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối liên hệ giữa David Lynch và Harrison Ford trong bộ phim ""Indiana Jones và Dial of Destiny"".",CO_ACTOR,1,2750
+"David Lynch, David Lynch và bộ phim 'The Expendables 3' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: David Lynch đóng vai trò đạo diễn trong phim *The Fabelmans*, một phần của bộ phim *The Expendables 3*. Điều này trực tiếp khẳng định mối liên hệ giữa hai người và bộ phim.  
+
+""Đáp án: A). Lý do: David Lynch là đạo diễn của phim *The Fabelmans*, một trong những tác phẩm chính của bộ phim *The Expendables 3*.""",TRIPLE_LINK,0,1810
+David Lynch và Maya Hawke có cùng tham gia vào bộ phim 'Once Upon a Time in Hollywood' không?,B,"Sai, David Lynch không tham gia phim 'Once Upon a Time in Hollywood'.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng David Lynch và Maya Hawke đều tham gia vào bộ phim ""Once Upon a Time in Hollywood"". Dữ liệu chỉ nêu rõ Maya Hawke là diễn viên của phim này, nhưng không khẳng định cô ấy cũng là nhân vật chính trong bộ phim đó.  
+
+""Đáp án: B.""",CO_ACTOR,1,3054
+David Lynch và Al Pacino có cùng tham gia vào bộ phim 'The Irishman' không?,B,"Sai, David Lynch không tham gia phim 'The Irishman'.",0,"Đáp án: A). Lý do: Dữ liệu khẳng định rằng David Lynch là đạo diễn của *The Irishman*, và Al Pacino là diễn viên trong đó. Do đó, hai người cùng tham gia vào bộ phim này.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mối liên hệ giữa David Lynch và Al Pacino trong bộ phim *The Irishman*.",CO_ACTOR,0,2546
+David Lynch và Allison Janney có cùng tham gia vào bộ phim 'Bombshell' không?,B,"Sai, David Lynch không tham gia phim 'Bombshell'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng David Lynch và Allison Janney đều tham gia vào bộ phim ""Bombshell"".",CO_ACTOR,0,2907
+Dolph Lundgren có phải là anh/chị em của Bruce Willis không?,B,"Sai, họ không có quan hệ anh/chị em (có thể chỉ là đồng nghiệp).",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa Dolph Lundgren và Bruce Willis như là anh/chị em. Dữ liệu chỉ tiết lộ Dolph là bạn đời của Grace Jones, không khẳng định mối quan hệ này với Bruce Willis.",IS_SIBLING_OF,1,2118
+David Lynch và Jesse Plemons có cùng tham gia vào bộ phim 'Killers of the Flower Moon' không?,B,"Sai, David Lynch không tham gia phim 'Killers of the Flower Moon'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng cả David Lynch và Jesse Plemons đều là diễn viên của bộ phim ""Killers of the Flower Moon"".",CO_ACTOR,0,2713
+David Lynch và Steven Spielberg có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A). Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa David Lynch và Steven Spielberg qua sự liên kết ""Steven Spielberg là đạo diễn của The Fabelmans"", đồng thời đó là tác phẩm của David Lynch.  
+
+Lý do: Dữ liệu cho thấy mối liên hệ này rõ ràng và chính xác.",CONNECTION,1,3719
+Martin Scorsese có phải là đạo diễn của bộ phim mà Brendan Fraser tham gia là 'Killers of the Flower Moon' không?,A,"Đúng, Martin Scorsese đạo diễn phim 'Killers of the Flower Moon' và Brendan Fraser diễn xuất trong đó.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng Martin Scorsese đã đạo diễn bộ phim *Killers of the Flower Moon*, đồng thời liệt kê rõ ràng rằng Brendan Fraser là một diễn viên trong bộ phim này.",DIRECTOR_ACTOR,1,2224
+David Lynch và Colin Trevorrow có cùng tham gia vào bộ phim 'Jurassic World' không?,B,"Sai, David Lynch không tham gia phim 'Jurassic World'.",0,"Đáp án: B). Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của ""Jurassic World"" nhưng không phải là đạo diễn của ""Jurassic World Dominion,"" nên hai nhân vật này không cùng tham gia vào bộ phim ""Jurassic World"".  
+
+""Đáp án: B/Sai.""",CO_ACTOR,1,2291
+David Lynch và Sylvester Stallone có cùng tham gia vào bộ phim 'Men in Black' không?,B,"Sai, David Lynch không tham gia phim 'Men in Black'.",0,"Đáp án: A) Đúng  
+Lý do: David Lynch là đạo diễn của ""Men in Black"" và Sylvester Stallone là diễn viên trong bộ phim này, nên hai nhân vật cùng tham gia vào bộ phim ""Men in Black"".",CO_ACTOR,0,3597
+David Lynch và Jeremy Strong có cùng tham gia vào bộ phim 'Lincoln' không?,B,"Sai, David Lynch không tham gia phim 'Lincoln'.",0,"Đáp án: B. Lý do: Dữ liệu chỉ xác minh mối quan hệ giữa David Lynch và Lincoln qua phim *The Fabelmans* (đạo diễn Steven Spielberg), nhưng không thể khẳng định họ cùng tham gia bộ phim *Lincoln*.  
+
+Lý do: David Lynch không phải là diễn viên chính trong *Lincoln*, mà là một người phụ trách đạo diễn và có liên quan đến bộ phim này.",CO_ACTOR,1,2263
+David Lynch có phải là anh/chị em của Seth Rogen không?,B,"Sai, họ không có quan hệ anh/chị em (có thể chỉ là đồng nghiệp).",0,"Đáp án: A). Lý do: Dữ liệu cho thấy cả Seth và David đều có mối quan hệ huyết thống rõ ràng với nhau qua các mối quan hệ gia đình, đồng thời có thể khẳng định họ là anh/chị em cùng một gia đình.  
+
+""Đáp án: A/B]. Lý do: A"".",IS_SIBLING_OF,0,2154
+"David Lynch, David Lynch và bộ phim 'Letters from Iwo Jima' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của phim *Letters from Iwo Jima*, cùng với việc phim này được sản xuất bởi Steven Spielberg. Do đó, mối liên hệ giữa hai cá nhân và tác phẩm đã được khẳng định rõ ràng.",TRIPLE_LINK,0,1337
+David Lynch và Sienna Miller có cùng tham gia vào bộ phim 'Stardust' không?,B,"Sai, David Lynch không tham gia phim 'Stardust'.",0,"Đáp án: A. Lý do: Dữ liệu cho thấy David Lynch và Sienna Miller đều đóng vai trò trong phim *Stardust*, vì cả hai đều được liệt kê trong danh sách liên hệ giữa họ.  
+
+""Đáp án: A. Lý do: Dữ liệu cho thấy David Lynch và Sienna Miller đều đóng vai trò trong phim *Stardust*, vì cả hai đều được liệt kê trong danh sách liên hệ giữa họ.""",CO_ACTOR,0,1682
+David Lynch và Shane Black có cùng tham gia vào bộ phim 'Predator' không?,B,"Sai, David Lynch không tham gia phim 'Predator'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch và Shane Black đều là đạo diễn của phim *Predator*, do đó họ cùng tham gia vào bộ phim này.  
+
+Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của *The Predator* (trong liệt kê ""David Lynch là đạo diễn của The Predator""), và Shane Black cũng là đạo diễn của *The Predator*. Do đó, hai nhân vật này cùng tham gia vào bộ phim này.",CO_ACTOR,0,2105
+David Lynch và Laura Dern có cùng tham gia vào bộ phim 'Jurassic Park III' không?,B,"Sai, David Lynch không tham gia phim 'Jurassic Park III'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận Laura Dern đã đóng vai trong ""Jurassic Park III"", và mối quan hệ giữa hai cá nhân được liệt kê rõ ràng trong các phần liên kết.",CO_ACTOR,0,2249
+"Jaden Smith, Will Smith và bộ phim 'Bright' có mối liên hệ chuỗi nào không?",A,"Đúng, Jaden Smith là con của Will Smith, và Will Smith đã đóng phim 'Bright'.",1,Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi Jaden Smith (con của Will Smith) → Will Smith (chủ sở hữu của Jaden Smith) → Bright (phim mà Will Smith đóng).,TRIPLE_LINK,1,2729
+Arnold Schwarzenegger có phải là vợ/chồng của Maria Shriver không?,A,"Đúng, Arnold Schwarzenegger là vợ/chồng của Maria Shriver.",1,Đáp án: A). Lý do: Dữ liệu xác nhận rõ ràng rằng Arnold Schwarzenegger là vợ/chồng của Maria Shriver.,IS_SPOUSE_OF,1,2291
+David Lynch và Louis Simon có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B). Lý do: Dữ liệu cho thấy Louis Simon là cha của Paul Simon, nhưng David Lynch là con của mẹ Sunny Lynch. Không có thông tin trực tiếp hoặc gián tiếp liên hệ giữa hai cá nhân này.",CONNECTION,1,1458
+David Lynch và Al Pacino có cùng tham gia vào bộ phim 'The Godfather' không?,B,"Sai, David Lynch không tham gia phim 'The Godfather'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của ""The Godfather"" và Al Pacino là diễn viên trong đó, nên hai nhân vật cùng tham gia vào bộ phim này.  
+
+""Đáp án: A). Lý do: Dữ liệu xác nhận rằng David Lynch và Al Pacino đều tham gia vào bộ phim ""The Godfather"".",CO_ACTOR,0,2324
+Emma Bloomberg có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Emma Bloomberg.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng Emma Bloomberg là đạo diễn của ""Dune"", chỉ khẳng định cô là một diễn viên.",DIRECTOR_ACTOR,1,385
+Virginia Madsen có phải là anh/chị em của Sean Young không?,B,"Sai, họ không có quan hệ anh/chị em (có thể chỉ là đồng nghiệp).",0,"Đáp án: A) Đúng  
+Lý do: Từ thông tin đã cung cấp, Virginia Madsen được liệt kê là vợ/chồng của Danny Huston và Antonio Sabàto Jr., điều này chỉ ra rằng cô ấy có hai mối quan hệ vợ chồng, thể hiện sự liên quan đến hai cá nhân khác (Sean Young và Robert Lujan), nên họ có thể là anh/chị em của nhau.",IS_SIBLING_OF,0,1005
+Jennifer Lynch và Lula Boginia Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A). Lý do: Dữ liệu cho thấy Jennifer Lynch là con của David Lynch, cùng với Lula Boginia Lynch cũng là con của David Lynch, nên hai cô gái có mối quan hệ huyết thống trực tiếp.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu cho thấy Jennifer Lynch và Lula Boginia Lynch có mối liên hệ với nhau qua David Lynch.""",CONNECTION,1,341
+David Lynch và Frances Conroy có cùng tham gia vào bộ phim 'Scent of a Woman' không?,B,"Sai, David Lynch không tham gia phim 'Scent of a Woman'.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy Frances Conroy đóng vai trò đạo diễn ""Scent of a Woman"", nhưng David Lynch không phải là đạo diễn của đó.  
+
+Lý do: Dữ liệu chỉ khẳng định rằng Frances Conroy là đạo diễn của ""Scent of a Woman"", mà David Lynch không phải là đạo diễn của bộ phim này.",CO_ACTOR,1,1577
+Tiffany Trump có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Tiffany Trump.",0,"Đáp án: B. Lý do: Dữ liệu khẳng định rằng ""Dune"" được đạo diễn bởi David Lynch, không liên quan đến Tiffany Trump.  
+
+**Giải thích:**  
+Mệnh đề yêu cầu kiểm tra mối liên hệ giữa Tiffany Trump và việc đạo diễn ""Dune"". Dữ liệu cho thấy ""Dune"" được đạo diễn bởi David Lynch, nên kết luận sai.",DIRECTOR_ACTOR,1,1536
+"David Lynch, David Lynch và bộ phim 'Once Upon a Time in Hollywood' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của phim ""Once Upon a Time in Hollywood"", tức là hai người có mối quan hệ chặt chẽ trong lĩnh vực nghệ thuật.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của phim ""Once Upon a Time in Hollywood"", tức là hai người có mối quan hệ chặt chẽ trong lĩnh vực nghệ thuật.""",TRIPLE_LINK,0,2240
+"David Lynch, David Lynch và bộ phim 'The Intern' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận mối liên hệ giữa David Lynch và bộ phim ""The Intern""; chỉ nêu đến mối quan hệ với Isabella Rossellini và ""Joy"".  
+
+""Đáp án: B). Lý do: Dữ liệu không xác nhận mối liên hệ giữa David Lynch và bộ phim ""The Intern""; chỉ nêu đến mối quan hệ với Isabella Rossellini và ""Joy"".",TRIPLE_LINK,1,1393
+"David Lynch, David Lynch và bộ phim 'True Lies' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch là một diễn viên chính trong bộ phim ""True Lies"", tạo ra mối liên hệ trực tiếp giữa hai cá nhân.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch là một diễn viên chính trong bộ phim ""True Lies"", tạo ra mối liên hệ trực tiếp giữa hai cá nhân.""",TRIPLE_LINK,0,1497
+Carrie Fisher có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Carrie Fisher.",0,"Đáp án: B). Lý do: Dữ liệu cho thấy rằng Dune được đạo diễn bởi David Lynch, nhưng không khẳng định Carrie Fisher là đạo diễn của bộ phim.",DIRECTOR_ACTOR,1,1828
+Ivanka Trump có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Ivanka Trump.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng Ivanka Trump là đạo diễn của bộ phim 'Dune'. Việc liên kết giữa Dune với Ivanka Trump chỉ phản ánh mối quan hệ gia đình, nhưng không bao gồm vai trò đạo diễn.",DIRECTOR_ACTOR,1,645
+Katherine Schwarzenegger có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Katherine Schwarzenegger.",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận rằng Katherine Schwarzenegger là đạo diễn của bộ phim 'Dune', chỉ khẳng định Virginia Madsen tham gia.  
+
+""Đáp án: B). Lý do: Dữ liệu không xác nhận Katherine Schwarzenegger là đạo diễn của 'Dune', chỉ khẳng định Virginia Madsen tham gia.""",DIRECTOR_ACTOR,1,1072
+Sarah Jessica Parker và Jennifer Hudson có cùng tham gia vào bộ phim 'Sex and the City' không?,A,"Đúng, cả hai đều đóng trong phim 'Sex and the City'.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận hai cá nhân đều tham gia vào bộ phim ""Sex and the City"" thông qua vai trò chính trong đó.",CO_ACTOR,1,2210
+David Lynch và Kyle MacLachlan có cùng tham gia vào bộ phim 'Dune' không?,A,"Đúng, cả hai đều đóng trong phim 'Dune'.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng David Lynch và Kyle MacLachlan đều đóng vai trò đạo diễn và quan hệ liên quan đến bộ phim *Dune*, bao gồm cả việc họ cùng làm bộ phim này.  
+
+**Giải thích**: Từ thông tin đã cung cấp, hai cá nhân đều được liệt kê như diễn viên chính trong phim *Dune*, đồng thời có mối liên hệ trực tiếp giữa họ.",CO_ACTOR,1,1860
+Belle Simon có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Belle Simon.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng Belle Simon là đạo diễn của bộ phim ""Dune"". Phim ""Dune"" được đạo diễn bởi David Lynch, nhưng không có thông tin nào liên quan đến mối quan hệ của Belle Simon với vai trò đạo diễn.",DIRECTOR_ACTOR,1,690
+"David Lynch, David Lynch và bộ phim 'Dumbo' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của ""Dumbo"", tức là hai cá nhân này có mối quan hệ trực tiếp và chặt chẽ.",TRIPLE_LINK,0,1404
+David Lynch và Joaquin Phoenix có cùng tham gia vào bộ phim 'Joker' không?,B,"Sai, David Lynch không tham gia phim 'Joker'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của Mulholland Drive, trong đó có diễn viên Joaquin Phoenix, và mối liên hệ này trực tiếp dẫn đến việc họ cùng tham gia vào bộ phim *Joker*.",CO_ACTOR,0,2399
+Brian Wilson có phải là anh/chị em của Carl Wilson không?,A,"Đúng, Brian Wilson là anh/chị em của Carl Wilson.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận Brian Wilson là anh/chị em của Carl Wilson, vì trong phần liên hệ các mối quan hệ, đoạn văn nói rõ ""Brian Wilson là anh/chị em với Carl Wilson"".  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận Brian Wilson là anh/chị em của Carl Wilson.""",IS_SIBLING_OF,1,889
+"Jaden Smith, Will Smith và bộ phim 'Collateral Beauty' có mối liên hệ chuỗi nào không?",A,"Đúng, Jaden Smith là con của Will Smith, và Will Smith đã đóng phim 'Collateral Beauty'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi rõ ràng từ Jaden Smith đến Will Smith (con của Will Smith) và Will Smith đóng trong phim ""Collateral Beauty"".  
+
+Lý do: Jaden Smith là con của Will Smith, và Will Smith đã đóng trong phim ""Collateral Beauty"", tạo nên mối liên kết chuỗi rõ ràng.",TRIPLE_LINK,1,2937
+Salman Rushdie có phải là vợ/chồng của Clarissa Luard không?,A,"Đúng, Salman Rushdie là vợ/chồng của Clarissa Luard.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa Clarissa Luard và Salman Rushdie, bao gồm thông tin ""Clarissa Luard là vợ/chồng của Salman Rushdie"".  
+
+**Lý do:** Dữ liệu khẳng định mệnh đề đúng.",IS_SPOUSE_OF,1,766
+David Lynch và Mila Kunis có cùng tham gia vào bộ phim 'Jupiter Ascending' không?,B,"Sai, David Lynch không tham gia phim 'Jupiter Ascending'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Mila Kunis đóng trong phim *Jupiter Ascending*, và David Lynch là bạn đời của Mila Kunis. Việc họ cùng tham gia vào một dự án tương ứng đã được liệt kê rõ ràng trong các mối quan hệ liên kết.",CO_ACTOR,0,2724
+Michael Bloomberg có phải là con của Charlotte Bloomberg không?,A,"Đúng, Michael Bloomberg là con của Charlotte Bloomberg.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận rõ ràng rằng Michael Bloomberg là con của Charlotte Bloomberg.  
+
+Lý do: Thông tin trong phần **Mối quan hệ** cho biết ""Michael Bloomberg là con của Charlotte Bloomberg"", đồng thời **thông qua các dòng khác** khẳng định mối quan hệ này.",IS_CHILD_OF,1,931
+David Lynch và Andrew Rannells có cùng tham gia vào bộ phim 'The Intern' không?,B,"Sai, David Lynch không tham gia phim 'The Intern'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng cả hai cá nhân David Lynch và Andrew Rannells đều đóng vai trong bộ phim **""The Intern""**, theo các mối liên hệ liệt kê.  
+
+**Lý do:**  
+- David Lynch là bạn đời của Isabella Rossellini, và trong đó, Isabella Rossellini cũng đóng vai trong *The Intern*.  
+- Andrew Rannells cũng là diễn viên chính trong *The Intern*, cùng với Reid Scott và Robert De Niro.  
+
+Vì vậy, câu hỏi đúng là **Đúng**.",CO_ACTOR,0,1925
+"Jack Quaid, Dennis Quaid và bộ phim 'Movie 43' có mối liên hệ chuỗi nào không?",A,"Đúng, Jack Quaid là con của Dennis Quaid, và Dennis Quaid đã đóng phim 'Movie 43'.",1,"Đáp án: B. Lý do: Dữ liệu chỉ xác minh mối quan hệ huyết thống giữa Jack Quaid và Dennis Quaid (con của cha và mẹ), nhưng không có thông tin về mối liên hệ chuỗi giữa hai cá nhân và bộ phim.  
+
+""Đáp án: B.""",TRIPLE_LINK,0,2520
+Christopher Schwarzenegger có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Christopher Schwarzenegger.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy Christopher Schwarzenegger không phải là đạo diễn của 'Dune', vì đạo diễn được xác định là David Lynch.",DIRECTOR_ACTOR,1,777
+Terry Gilliam có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Terry Gilliam.",0,"Đáp án: B) Sai. Lý do: Dữ liệu không khẳng định rằng Terry Gilliam là đạo diễn của bộ phim ""Dune"", chỉ nêu rõ Virginia Madsen tham gia vào nó, nhưng không ghi chép trực tiếp mối quan hệ giữa hai người trong danh sách.",DIRECTOR_ACTOR,1,1242
+David Lynch có phải là vợ/chồng của Mary Fisk không?,A,"Đúng, David Lynch là vợ/chồng của Mary Fisk.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là vợ/chồng của Mary Fisk.",IS_SPOUSE_OF,1,1133
+David Lynch và Alex Wolff có cùng tham gia vào bộ phim 'Jumanji: The Next Level' không?,B,"Sai, David Lynch không tham gia phim 'Jumanji: The Next Level'.",0,"Đáp án: B). Lý do: Dữ liệu cho thấy David Lynch đóng vai trong ""Jumanji: The Next Level"", nhưng không có ràng buộc trực tiếp giữa hai nhân vật này.",CO_ACTOR,1,1690
+Mandy Moore và Raven-Symoné có cùng tham gia vào bộ phim 'Dr. Dolittle 2' không?,A,"Đúng, cả hai đều đóng trong phim 'Dr. Dolittle 2'.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Mandy Moore đóng trong phim *Dr. Dolittle 2*, và danh sách các diễn viên cho biết cô ấy cũng là một trong số những diễn viên chính. Do đó, hai người có cùng tham gia vào bộ phim này.  
+
+""Đáp án: A/B]. Lý do: Mandy Moore đóng trong phim Dr. Dolittle 2.""",CO_ACTOR,1,897
+David Lynch và Peggy Harper có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B). Lý do: Dữ liệu cho thấy David Lynch và Peggy Harper không liên quan trực tiếp hoặc qua mối quan hệ nào trong danh sách đã cung cấp. David Lynch được liệt kê là vợ/chồng của Peggy Reavey, không phải Peggy Harper.",CONNECTION,1,1435
+David Lynch và Robert Patrick có cùng tham gia vào bộ phim 'Terminator 2: Judgment Day' không?,B,"Sai, David Lynch không tham gia phim 'Terminator 2: Judgment Day'.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ trực tiếp giữa David Lynch và Robert Patrick trong bộ phim ""Terminator 2: Judgment Day"". Dữ liệu chỉ tiết lộ họ đều đóng vai trò diễn viên trong các phim khác, nhưng không khẳng định sự tham gia của một trong hai trong bộ phim này.  
+
+""Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ trực tiếp giữa David Lynch và Robert Patrick trong bộ phim 'Terminator 2: Judgment Day'. Dữ liệu chỉ tiết lộ họ đều đóng vai trò diễn viên trong các phim khác",CO_ACTOR,1,1791
+Maria Shriver có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Maria Shriver.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng Maria Shriver là đạo diễn của bộ phim 'Dune', vì Virginia Madsen là diễn viên tham gia,而非 đạo diễn.  
+
+""Đáp án: B/Sai"".",DIRECTOR_ACTOR,1,1070
+David Lynch và Natalie Portman có cùng tham gia vào bộ phim 'Heat' không?,B,"Sai, David Lynch không tham gia phim 'Heat'.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy Natalie Portman đóng trong phim *Heat*, nhưng David Lynch cũng đóng trong phim *Dune* và *The Fabelmans*. Do đó, hai nhân vật này không cùng tham gia vào bộ phim *Heat*.  
+
+""Đáp án: B. Lý do: Sai.""",CO_ACTOR,1,3298
+David Lynch và Bradley Cooper có cùng tham gia vào bộ phim 'Joy' không?,B,"Sai, David Lynch không tham gia phim 'Joy'.",0,"Đáp án: A). Lý do: Dữ liệu cho thấy David Lynch và Bradley Cooper đều có liên quan đến bộ phim ""Joy"", với Bradley Cooper được liệt kê trong danh sách diễn viên của Joy.",CO_ACTOR,0,2978
+David Lynch và Robert De Niro có cùng tham gia vào bộ phim 'Once Upon a Time in America' không?,B,"Sai, David Lynch không tham gia phim 'Once Upon a Time in America'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận hai diễn viên chính David Lynch và Robert De Niro đều tham gia vào bộ phim ""Once Upon a Time in America"".",CO_ACTOR,0,3348
+Mary Sweeney có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Mary Sweeney.",0,"Đáp án: B). Lý do: Dữ liệu cho thấy Mary Sweeney là vợ/chồng của David Lynch, nhưng không khẳng định cô ấy là đạo diễn của ""Dune"". Việc đó không liên quan đến vai trò đạo diễn cụ thể của nhân vật này.",DIRECTOR_ACTOR,1,437
+"Patrick Schwarzenegger, Arnold Schwarzenegger và bộ phim 'Escape Plan' có mối liên hệ chuỗi nào không?",A,"Đúng, Patrick Schwarzenegger là con của Arnold Schwarzenegger, và Arnold Schwarzenegger đã đóng phim 'Escape Plan'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Arnold Schwarzenegger là cha của Patrick Schwarzenegger, và cả hai đều liên quan đến bộ phim ""Escape Plan.""  
+
+Lý do: Dữ liệu cho thấy mối liên hệ chuỗi rõ ràng giữa Arnold và Patrick qua các khía cạnh như độ tuổi, mối quan hệ gia đình, và vai trò trong phim.",TRIPLE_LINK,1,3773
+Joseph Baena có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Joseph Baena.",0,"Đáp án: B. Lý do: Dữ liệu không tiết lộ mối liên hệ giữa Joseph Baena và đạo diễn 'Dune', chỉ khẳng định Virginia Madsen tham gia vào phim này.",DIRECTOR_ACTOR,1,1012
+John Lynch và Seth Rogen có cùng tham gia vào bộ phim 'The Fabelmans' không?,B,"Sai, John Lynch không tham gia phim 'The Fabelmans'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu cho thấy Seth Rogen đóng vai John Lynch trong phim *The Fabelmans*, và John Lynch cũng là một trong những diễn viên chính của bộ phim này.",CO_ACTOR,0,1826
+David Lynch và Leonardo DiCaprio có cùng tham gia vào bộ phim 'Shutter Island' không?,B,"Sai, David Lynch không tham gia phim 'Shutter Island'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch đóng vai trong phim *Shutter Island*, và Leonardo DiCaprio cũng là một diễn viên trong đó.",CO_ACTOR,0,3832
+David Lynch và Jesse Plemons có cùng tham gia vào bộ phim 'The Irishman' không?,B,"Sai, David Lynch không tham gia phim 'The Irishman'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Jesse Plemons đóng vai trong phim *The Irishman*, cùng với David Lynch.",CO_ACTOR,0,2636
+Sylvester Stallone và Chuck Norris có cùng tham gia vào bộ phim 'The Expendables 2' không?,A,"Đúng, cả hai đều đóng trong phim 'The Expendables 2'.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận cả Sylvester Stallone và Chuck Norris đều được liệt kê như diễn viên trong bộ phim *The Expendables 2*, đảm bảo mối quan hệ giữa hai nhân vật này.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận cả Sylvester Stallone và Chuck Norris đều được liệt kê như diễn viên trong bộ phim *The Expendables 2*.""",CO_ACTOR,1,2973
+David Lynch và William Henry Bloomberg có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ nào giữa David Lynch và William Henry Bloomberg.,CONNECTION,1,1214
+Michael Bloomberg có phải là vợ/chồng của Susan Brown không?,A,"Đúng, Michael Bloomberg là vợ/chồng của Susan Brown.",1,Đáp án: A) Đúng. Lý do: Dữ liệu trực tiếp khẳng định Michael Bloomberg là vợ/chồng của Susan Brown.,IS_SPOUSE_OF,1,855
+David Lynch và Edie Brickell có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận mối quan hệ trực tiếp giữa David Lynch và Edie Brickell, chỉ nêu rõ họ có mối quan hệ trong lĩnh vực nghệ thuật và công việc.",CONNECTION,1,1439
+"David Lynch, Bob Dylan và bộ phim 'The Elephant Man' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác minh rằng David Lynch là đạo diễn của ""The Elephant Man"", cùng với Bob Dylan đóng vai trong ""The Fabelmans"" và có liên quan qua chuỗi liên kết diễn viên - đạo diễn - phim.",TRIPLE_LINK,0,2127
+John Lynch và Georgina Bloomberg có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,Đáp án: B. Lý do: Dữ liệu cho thấy không có mối liên hệ giữa John Lynch và Georgina Bloomberg.,CONNECTION,1,276
+"David Lynch, David Lynch và bộ phim 'The Score' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận mối liên hệ giữa David Lynch (vợ/chồng Isabella Rossellini) và bộ phim ""The Score"" (được đóng góp bởi Robert De Niro, người là diễn viên của Isabella Rossellini).",TRIPLE_LINK,0,1388
+David Lynch và Whoopi Goldberg có cùng tham gia vào bộ phim 'Miss Americana' không?,B,"Sai, David Lynch không tham gia phim 'Miss Americana'.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch không tham gia vào bộ phim ""Miss Americana"", mà chỉ liên quan đến các vai trò khác.  
+
+""Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch không tham gia vào bộ phim ""Miss Americana"", mà chỉ liên quan đến các vai trò khác.""",CO_ACTOR,1,1915
+David Lynch và Bill Hader có cùng tham gia vào bộ phim 'The BFG' không?,B,"Sai, David Lynch không tham gia phim 'The BFG'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của ""The BFG"" và Bill Hader là diễn viên trong cùng một bộ phim này.",CO_ACTOR,0,2606
+"Jaden Smith, Will Smith và bộ phim 'Independence Day' có mối liên hệ chuỗi nào không?",A,"Đúng, Jaden Smith là con của Will Smith, và Will Smith đã đóng phim 'Independence Day'.",1,"Đáp án: A. Lý do: Dữ liệu xác minh mối quan hệ chuỗi Jaden Smith (con của Will Smith) → Will Smith (đề tài ""Independence Day"") và sự tham gia của Will Smith trong phim này.  
+
+Lý do: Có thể suy ra rằng Jaden Smith là con của Will Smith, và Will Smith đã đóng vai trong phim ""Independence Day"", tạo nên một mối liên hệ rõ ràng trong chuỗi các mối quan hệ.",TRIPLE_LINK,1,3030
+Eric Norris có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Eric Norris.",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận rằng Eric Norris là đạo diễn của ""Dune"" hoặc Virginia Madsen tham gia bộ phim này.",DIRECTOR_ACTOR,1,371
+Bruce Willis có phải là anh/chị em của Dave Willis không?,A,"Đúng, Bruce Willis là anh/chị em của Dave Willis.",1,"Đáp án: B. Lý do: Dữ liệu không thể xác định mối quan hệ giữa Bruce Willis và Dave Willis vì chỉ rõ Bruce Willis là vợ/chồng của hai người khác, nhưng không có thông tin trực tiếp về mối quan hệ với Dave Willis.",IS_SIBLING_OF,0,1534
+David Lynch và Emily Stofle có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 1 bước).",1,Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch và Emily Stofle là vợ/chồng của nhau.,CONNECTION,1,1145
+Cynthia Nixon và Jennifer Hudson có cùng tham gia vào bộ phim 'Sex and the City' không?,A,"Đúng, cả hai đều đóng trong phim 'Sex and the City'.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu cho thấy Jennifer Hudson đóng trong phim *Sex and the City*, và Cynthia Nixon cũng là diễn viên của cùng một bộ phim này.",CO_ACTOR,1,725
+"David Lynch, David Lynch và bộ phim 'Once Upon a Time in America' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là một diễn viên trong phim *Once Upon a Time in America* và là bạn đời của Isabella Rossellini, tạo ra mối liên hệ trực tiếp giữa hai cá nhân và bộ phim.",TRIPLE_LINK,0,1404
+David Lynch và Alec Baldwin có cùng tham gia vào bộ phim 'The Departed' không?,B,"Sai, David Lynch không tham gia phim 'The Departed'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch là bạn đời của Isabella Rossellini, và Martin Scorsese là đạo diễn của *The Departed*, trong đó Alec Baldwin đóng vai.",CO_ACTOR,0,2603
+David Lynch và Mark Moses có cùng tham gia vào bộ phim 'Letters from Iwo Jima' không?,B,"Sai, David Lynch không tham gia phim 'Letters from Iwo Jima'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận cả hai cá nhân đều bị nhắc đến trong bộ phim ""Letters from Iwo Jima"", bao gồm Mark Moses và David Lynch.  
+
+Lý do: Dữ liệu cho thấy Mark Moses đóng vai trong phim này, và cả hai đều được liệt kê trong danh sách các thực thể liên quan.",CO_ACTOR,0,1927
+Isabella Rossellini và Oliver Stone có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 3 bước).",1,"Đáp án: A). Lý do: Dữ liệu xác nhận mối quan hệ giữa Isabella Rossellini và Oliver Stone qua việc họ cùng là bạn đời của Gary Oldman và đều đạo diễn các tác phẩm như ""JFK"" và ""Platoon"".  
+
+Lý do: Dữ liệu cho thấy mối liên hệ rõ ràng giữa hai cá nhân này.",CONNECTION,1,1983
+David Lynch và Adam Sandler có cùng tham gia vào bộ phim 'Jack and Jill' không?,B,"Sai, David Lynch không tham gia phim 'Jack and Jill'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận mối quan hệ giữa David Lynch và Adam Sandler qua chuỗi liên kết từ ""Just Go with It"" (phim của David Lynch), cho thấy họ cùng tham gia vào bộ phim này.  
+
+""Đáp án: A).""",CO_ACTOR,0,2379
+John Lynch và Lula Boginia Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A). Lý do: Dữ liệu xác nhận mối quan hệ giữa John Lynch và Lula Boginia Lynch qua mối quan hệ huyết thống (anh/chị em cùng cha mẹ), phù hợp với các thông tin đã cung cấp.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mối quan hệ giữa John Lynch và Lula Boginia Lynch qua mối quan hệ huyết thống.""",CONNECTION,1,336
+David Lynch và Jeff Daniels có cùng tham gia vào bộ phim 'Steve Jobs' không?,B,"Sai, David Lynch không tham gia phim 'Steve Jobs'.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch và Jeff Daniels đều có mối quan hệ với nhau qua các phim khác, nhưng không phải vì họ cùng tham gia bộ phim ""Steve Jobs"".",CO_ACTOR,1,2172
+David Lynch và Sylvester Stallone có cùng tham gia vào bộ phim 'Escape Plan' không?,B,"Sai, David Lynch không tham gia phim 'Escape Plan'.",0,"Đáp án: B. Lý do: Dữ liệu không указывает на то, что David Lynch или Sylvester Stallone являются участниками фильма ""Escape Plan"".",CO_ACTOR,1,2907
+"David Lynch, David Lynch và bộ phim 'Shutter Island' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: David Lynch là con của Sunny Lynch và các anh/chị em với Martha và John Lynch, cùng với các mối quan hệ gia đình và vai trò trong phim *Shutter Island* (được đóng góp bởi Michelle Williams). Việc này thể hiện mối liên kết chặt chẽ giữa David Lynch và bộ phim.  
+
+""Đáp án: A/B]. Lý do: David Lynch là con của Sunny Lynch và các anh/chị em với Martha và John Lynch, cùng với các mối quan hệ gia đình và vai trò trong phim *Shutter Island*.",TRIPLE_LINK,0,1639
+David Lynch và Matt Damon có cùng tham gia vào bộ phim 'Saving Private Ryan' không?,B,"Sai, David Lynch không tham gia phim 'Saving Private Ryan'.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của ""Saving Private Ryan"", nên ông không phải là diễn viên.",CO_ACTOR,1,3606
+David Lynch và John de Lancie có cùng tham gia vào bộ phim 'Saving Private Ryan' không?,B,"Sai, David Lynch không tham gia phim 'Saving Private Ryan'.",0,"Đáp án: B). Lý do: Dữ liệu xác minh rằng John de Lancie đóng vai trò chính trong *Saving Private Ryan*, nhưng David Lynch chỉ tham gia vào *The Fabelmans* cùng bộ phim này. Do đó, hai nhân vật không cùng bộ phim.  
+
+""Đáp án: B/Sai.""",CO_ACTOR,1,2464
+Michelle Williams có phải là con của Seth Rogen không?,B,"Sai, họ không có quan hệ con (có thể chỉ là đồng nghiệp).",0,"Đáp án: A). Lý do: Dữ liệu xác minh rằng Michelle Williams là con của Seth Rogen (số 16 trong bảng), cùng với các mối quan hệ gia đình được liệt kê rõ ràng.  
+
+Lý do: Dữ liệu cho thấy Michelle Williams là con của Larry R. Williams (một người khác của Seth Rogen) và Danya Rogen (con của Seth Rogen), nên cô ấy là con của Seth Rogen.",IS_CHILD_OF,0,2282
+David Lynch và Linda Hamilton có cùng tham gia vào bộ phim 'The Terminator' không?,B,"Sai, David Lynch không tham gia phim 'The Terminator'.",0,"Đáp án: B). Lý do: Dữ liệu không thể xác định mối quan hệ trực tiếp giữa David Lynch và Linda Hamilton trong phim 'The Terminator', vì chỉ có Linda Hamilton bị nhắc đến liên quan đến các tác phẩm liên quan đến Terminator, nhưng không có thông tin cụ thể rằng David Lynch cũng tham gia vào đó.",CO_ACTOR,1,1764
+David Lynch và Timothy Olyphant có cùng tham gia vào bộ phim 'Once Upon a Time in Hollywood' không?,B,"Sai, David Lynch không tham gia phim 'Once Upon a Time in Hollywood'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu cho thấy Timothy Olyphant là một diễn viên trong bộ phim ""Once Upon a Time in Hollywood"", và cả hai đều được liệt kê như thành viên nhóm diễn viên trong đó.",CO_ACTOR,0,3187
+Emily Blunt và Matt Damon có cùng tham gia vào bộ phim 'The Adjustment Bureau' không?,A,"Đúng, cả hai đều đóng trong phim 'The Adjustment Bureau'.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận Emily Blunt và Matt Damon đều là diễn viên của bộ phim *The Adjustment Bureau*, điều này phù hợp với quy tắc ""đúng"" nếu dữ liệu khẳng định mệnh đề.  
+
+Lý do: Dữ liệu cho thấy cả hai diễn viên đều tham gia vào bộ phim, nên câu trả lời là **Đúng**.",CO_ACTOR,1,3460
+David Lynch và Marjorie Tiven có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa David Lynch và Marjorie Tiven.,CONNECTION,1,1138
+David Lynch và Dermot Mulroney có cùng tham gia vào bộ phim 'Dirty Grandpa' không?,B,"Sai, David Lynch không tham gia phim 'Dirty Grandpa'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng cả David Lynch và Dermot Mulroney đều là diễn viên của bộ phim **Dirty Grandpa**, phù hợp với câu hỏi.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng cả David Lynch và Dermot Mulroney đều là diễn viên của bộ phim 'Dirty Grandpa'.""",CO_ACTOR,0,2329
+David Lynch và Beatrice Stone có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A. Lý do: Dữ liệu cho thấy David Lynch và Beatrice Stone đều là các mối quan hệ huyết thống với Bob Dylan, thể hiện sự liên quan trực tiếp giữa họ.  
+
+""Đáp án: A. Lý do: Dữ liệu cho thấy David Lynch và Beatrice Stone đều là các mối quan hệ huyết thống với Bob Dylan, thể hiện sự liên quan trực tiếp giữa họ.""",CONNECTION,0,1350
+"David Lynch, David Lynch và bộ phim 'The Expendables' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác minh mối liên hệ giữa David Lynch và bộ phim ""The Expendables"" thông qua việc ông là bạn đời của Isabella Rossellini, cùng vai trò của cô trong ""Death Becomes Her,"" một tác phẩm liên quan đến phim ""The Expendables.""",TRIPLE_LINK,0,1621
+David Lynch và Dolph Lundgren có cùng tham gia vào bộ phim 'The Expendables' không?,B,"Sai, David Lynch không tham gia phim 'The Expendables'.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận cả hai diễn viên David Lynch và Dolph Lundgren đều được liệt kê trong danh sách các diễn viên của bộ phim *The Expendables*, nên mệnh đề đúng.  
+
+""Đáp án: A). Lý do: Dữ liệu xác nhận cả hai diễn viên David Lynch và Dolph Lundgren đều được liệt kê trong danh sách các diễn viên của bộ phim *The Expendables*.""",CO_ACTOR,0,2593
+Donald Lynch và Robert Forster có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 3 bước).",1,"Đáp án: A). Lý do: Dữ liệu xác nhận Donald Lynch là cha/mẹ của David Lynch, cùng với mối quan hệ giữa họ qua việc đóng vai trò đạo diễn trong tác phẩm của David Lynch.",CONNECTION,1,650
+"Jaden Smith, Will Smith và bộ phim 'Seven Pounds' có mối liên hệ chuỗi nào không?",A,"Đúng, Jaden Smith là con của Will Smith, và Will Smith đã đóng phim 'Seven Pounds'.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Jaden Smith (con của Will Smith) và Will Smith (đề tài của Seven Pounds) cùng nhau tạo thành một mối quan hệ chuỗi rõ ràng (phim Seven Pounds → diễn viên Will Smith → cha của Jaden Smith).",TRIPLE_LINK,1,2893
+Martin Scorsese có phải là đạo diễn của bộ phim mà Chloë Grace Moretz tham gia là 'Hugo' không?,A,"Đúng, Martin Scorsese đạo diễn phim 'Hugo' và Chloë Grace Moretz diễn xuất trong đó.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận trực tiếp rằng Martin Scorsese là đạo diễn của bộ phim *Hugo*.  
+
+Lý do: Dữ liệu liệt kê rõ ràng: *""Martin Scorsese là đạo diễn của Hugo""* và các khẳng định liên quan đến vai trò này.",DIRECTOR_ACTOR,1,2026
+David Lynch và Christian Bale có cùng tham gia vào bộ phim 'American Hustle' không?,B,"Sai, David Lynch không tham gia phim 'American Hustle'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng cả David Lynch và Christian Bale đều là diễn viên của bộ phim ""American Hustle"", cụ thể hơn là Christian Bale được liệt kê trực tiếp trong danh sách các diễn viên của bộ phim.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng cả David Lynch và Christian Bale đều là diễn viên của bộ phim ""American Hustle"", cụ thể hơn là Christian Bale được liệt kê trực tiếp trong danh sách các diễn viên của bộ phim.""",CO_ACTOR,0,3197
+Martin Scorsese có phải là đạo diễn của bộ phim mà Jonah Hill tham gia là 'The Wolf of Wall Street' không?,A,"Đúng, Martin Scorsese đạo diễn phim 'The Wolf of Wall Street' và Jonah Hill diễn xuất trong đó.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Martin Scorsese là đạo diễn của bộ phim *The Wolf of Wall Street*, cùng với thông tin về mối quan hệ trực tiếp giữa hai cá nhân này.  
+
+Lý do: Dữ liệu cho thấy Martin Scorsese là đạo diễn của *The Wolf of Wall Street* và Jonah Hill tham gia vào bộ phim này, điều này khẳng định mối liên hệ giữa hai người.",DIRECTOR_ACTOR,1,3573
+Harrison Ford có phải là con của Dorothy Ford không?,A,"Đúng, Harrison Ford là con của Dorothy Ford.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Harrison Ford là con của mẹ Dorothy Ford.",IS_CHILD_OF,1,1754
+David Lynch và Dennis Farina có cùng tham gia vào bộ phim 'Saving Private Ryan' không?,B,"Sai, David Lynch không tham gia phim 'Saving Private Ryan'.",0,"Đáp án: A) Đúng  
+Lý do: Từ ngữ ""David Lynch là đạo diễn của Saving Private Ryan"" và ""Saving Private Ryan có diễn viên là Dennis Farina"" đều khẳng định hai người liên quan đến bộ phim này.",CO_ACTOR,0,2181
+John Lynch và Bob Dylan có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu cho thấy John Lynch là anh/chị em với David Lynch, điều này thể hiện mối quan hệ huyết thống giữa hai người, nên họ có liên quan.",CONNECTION,0,889
+Shelley Duvall có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Shelley Duvall.",0,"Đáp án: B. Lý do: Dữ liệu chỉ xác nhận rằng ""Dune"" được đạo diễn bởi David Lynch, không khẳng định Shelley Duvall là đạo diễn.",DIRECTOR_ACTOR,1,928
+Martin Scorsese có phải là đạo diễn của bộ phim mà Levon Helm tham gia là 'The Last Waltz' không?,A,"Đúng, Martin Scorsese đạo diễn phim 'The Last Waltz' và Levon Helm diễn xuất trong đó.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận Martin Scorsese là đạo diễn của The Last Waltz, đồng thời khẳng định Levon Helm là diễn viên cùng bộ phim này.",DIRECTOR_ACTOR,1,2349
+Maryanne Trump Barry có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Maryanne Trump Barry.",0,"Đáp án: B. Lý do: Dữ liệu chỉ khẳng định rằng David Lynch đạo diễn 'Wall Street', nhưng không xác định rõ Maryanne Trump Barry là đạo diễn của 'Dune'. Việc Maryanne là anh/chị em của Donald Trump và liên kết này không liên quan trực tiếp đến vai trò đạo diễn của 'Dune'.",DIRECTOR_ACTOR,1,688
+David Lynch và Virginia Madsen có cùng tham gia vào bộ phim 'Joy' không?,B,"Sai, David Lynch không tham gia phim 'Joy'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng David Lynch và Virginia Madsen đều là diễn viên trong bộ phim ""Joy,"" qua đó có mối liên hệ trực tiếp giữa họ và nhân vật chính của bộ phim.",CO_ACTOR,0,2088
+David Lynch và Heather Milligan có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa David Lynch và Heather Milligan qua việc David Lynch là bạn đời của Isabella Rossellini, cùng với sự liên kết giữa họ trong các tác phẩm của Isabella Rossellini.",CONNECTION,0,1445
+Terry Crews có phải là anh/chị em của Chuck Norris không?,B,"Sai, họ không có quan hệ anh/chị em (có thể chỉ là đồng nghiệp).",0,"Đáp án: A) Đúng. Lý do: Dữ liệu cho thấy Terry Crews đóng cùng Chuck Norris trong phim *The Expendables 2*, trực tiếp khẳng định mối quan hệ huyết thống giữa hai người.",IS_SIBLING_OF,0,1318
+David Lynch và Patricia Clarkson có cùng tham gia vào bộ phim 'Shutter Island' không?,B,"Sai, David Lynch không tham gia phim 'Shutter Island'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Patricia Clarkson đóng trong phim *Shutter Island*, và David Lynch cũng là nhân vật chính trong đó.",CO_ACTOR,0,1908
+David Lynch và AJ Michalka có cùng tham gia vào bộ phim 'Super 8' không?,B,"Sai, David Lynch không tham gia phim 'Super 8'.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy AJ Michalka đóng trong phim Super 8, nhưng David Lynch không bị nhắc đến trực tiếp liên quan đến ""Super 8"" trong các mục khác nhau.",CO_ACTOR,1,2011
+David Lynch và Laura Dern có cùng tham gia vào bộ phim 'Jurassic Park' không?,B,"Sai, David Lynch không tham gia phim 'Jurassic Park'.",0,"Đáp án: B (Sai). Lý do: Dữ liệu chỉ xác nhận rằng Laura Dern đóng trong phim Jurassic Park, nhưng không khẳng định David Lynch cũng tham gia vào bộ phim này.",CO_ACTOR,1,2759
+David Lynch và Tom Hanks có cùng tham gia vào bộ phim 'Saving Private Ryan' không?,B,"Sai, David Lynch không tham gia phim 'Saving Private Ryan'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng David Lynch đóng vai trò đạo diễn trong bộ phim *Saving Private Ryan*, còn Tom Hanks là diễn viên cùng tham gia vào bộ phim này.",CO_ACTOR,0,3600
+Martin Scorsese có phải là đạo diễn của bộ phim mà Alec Baldwin tham gia là 'The Aviator' không?,A,"Đúng, Martin Scorsese đạo diễn phim 'The Aviator' và Alec Baldwin diễn xuất trong đó.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Martin Scorsese là đạo diễn của *The Aviator*, điều này phù hợp với thông tin đã cung cấp.",DIRECTOR_ACTOR,1,3783
+"David Lynch, David Lynch và bộ phim 'Lincoln' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu cho thấy David Lynch đóng vai trong phim *The Fabelmans* (được đạo diễn bởi Steven Spielberg), và *Lincoln* cũng được đạo diễn bởi Steven Spielberg. Do đó, hai tác phẩm này liên quan trực tiếp đến nhau qua mối quan hệ đạo diễn.",TRIPLE_LINK,0,1655
+"Brandon Lee, Bruce Lee và bộ phim 'Way of the Dragon' có mối liên hệ chuỗi nào không?",A,"Đúng, Brandon Lee là con của Bruce Lee, và Bruce Lee đã đóng phim 'Way of the Dragon'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Brandon Lee là con của Bruce Lee (phần liên kết ""Brandon Lee - Wayne of the Dragon""), và Bruce Lee là cha của Brandon Lee (phần liên kết ""Bruce Lee - Brandon Lee""). Do đó, mối quan hệ chuỗi này tồn tại.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng Brandon Lee là con của Bruce Lee (phần liên kết ""Brandon Lee - Wayne of the Dragon""), và Bruce Lee là cha của Brandon Lee (phần liên kết ""Bruce Lee - Brandon Lee""). Do đó, mối quan hệ chuỗi này tồn tại.""",TRIPLE_LINK,1,1756
+David Lynch và Beyoncé có cùng tham gia vào bộ phim 'Miss Americana' không?,B,"Sai, David Lynch không tham gia phim 'Miss Americana'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của phim *Miss Americana*, nên hai ông đã cùng tham gia vào bộ phim này.",CO_ACTOR,0,2853
+David Lynch và Chris Columbus có cùng tham gia vào bộ phim 'Home Alone 2: Lost in New York' không?,B,"Sai, David Lynch không tham gia phim 'Home Alone 2: Lost in New York'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch là đạo diễn của *Home Alone 2: Lost in New York*, tức là hai người đều tham gia vào bộ phim này.",CO_ACTOR,0,3535
+David Lynch và Tom Hanks có cùng tham gia vào bộ phim 'Philadelphia' không?,B,"Sai, David Lynch không tham gia phim 'Philadelphia'.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch không tham gia vào bộ phim ""Philadelphia"" mà chỉ liên quan đến ""The Fabelmans"" và ""The Terminal"".  
+
+Lý do: Dữ liệu không khẳng định mối liên hệ trực tiếp giữa David Lynch và Tom Hanks trong bộ phim ""Philadelphia"", nhưng đã nêu rõ họ đều đóng vai trong các tác phẩm khác nhau.",CO_ACTOR,1,3322
+Eddie Murphy và Raven-Symoné có cùng tham gia vào bộ phim 'Dr. Dolittle 2' không?,A,"Đúng, cả hai đều đóng trong phim 'Dr. Dolittle 2'.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Eddie Murphy và Raven-Symoné đều tham gia vào bộ phim *Dr. Dolittle 2*.",CO_ACTOR,1,1298
+"Margaret Qualley, Andie MacDowell và bộ phim 'Four Weddings and a Funeral' có mối liên hệ chuỗi nào không?",A,"Đúng, Margaret Qualley là con của Andie MacDowell, và Andie MacDowell đã đóng phim 'Four Weddings and a Funeral'.",1,"Đáp án: A. Lý do: Dữ liệu xác minh mối quan hệ chuỗi: Margaret Qualley → Andie MacDowell → Four Weddings & a Funeral.  
+
+Lý do: Dữ liệu cho thấy Andie MacDowell là mẹ của Margaret Qualley, và cả hai đều đóng vai trò trong phim *Four Weddings & a Funeral*.",TRIPLE_LINK,1,1856
+Robert Trump có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Robert Trump.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của ""Dune"", nhưng câu hỏi hỏi Robert Trump có phải là đạo diễn, điều này không phù hợp.  
+
+""Đáp án: B. Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của ""Dune"", nhưng câu hỏi hỏi Robert Trump có phải là đạo diễn, điều này không phù hợp.""",DIRECTOR_ACTOR,1,656
+David Lynch và Rob Reiner có cùng tham gia vào bộ phim 'The Wolf of Wall Street' không?,B,"Sai, David Lynch không tham gia phim 'The Wolf of Wall Street'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng David Lynch và Rob Reiner đều参与电影《The Wolf of Wall Street》（即罗伯特·雷恩饰演的演员）。尽管数据中提到David Lynch是Isabella Rossellini的妻子，但并未明确指出他是否与Rob Reiner共同出演该片。然而，根据其他连接信息，两者都是该片的重要参与者。因此，正确答案为“Đúng”。  
+
+""Đáp án: A/B]. Lý do: David Lynch và Rob Reiner đều参与电影《The Wolf of Wall Street》.""",CO_ACTOR,0,2968
+John Lynch và Gena O'Kelly có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa John Lynch và Gena O'Kelly, vì chỉ rõ họ đều liên quan đến các cá nhân khác (Chuck Norris và David Lynch).  
+
+""Đáp án: B.""",CONNECTION,1,258
+David Lynch và Sylvester Stallone có cùng tham gia vào bộ phim 'The Expendables' không?,B,"Sai, David Lynch không tham gia phim 'The Expendables'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận cả hai diễn viên David Lynch và Sylvester Stallone đều tham gia vào bộ phim ""The Expendables"".  
+
+Lý do: Từ các mục ""THÔNG TIN CÁ NHÂN"" và ""LIÊN KẾT GIỮA CÁC THỰC THỂ"", chúng ta có thể khẳng định rằng David Lynch và Sylvester Stallone đều là diễn viên chính trong bộ phim này.",CO_ACTOR,0,3626
+Eddie Simon có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Eddie Simon.",0,"Đáp án: B. Lý do: Dữ liệu chỉ khẳng định rằng ""Dune"" được đạo diễn bởi David Lynch, nhưng không xác nhận Eddie Simon là đạo diễn.",DIRECTOR_ACTOR,1,669
+Steven Spielberg có phải là đạo diễn của bộ phim mà Drew Barrymore tham gia là 'E.T. the Extra-Terrestrial' không?,A,"Đúng, Steven Spielberg đạo diễn phim 'E.T. the Extra-Terrestrial' và Drew Barrymore diễn xuất trong đó.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng E.T. the Extra-Terrestrial được đạo diễn bởi Steven Spielberg, đồng thời tiết lộ mối liên hệ giữa diễn viên Drew Barrymore và bộ phim này.  
+
+""Đáp án: A. Lý do: Dữ liệu xác nhận rằng E.T. the Extra-Terrestrial được đạo diễn bởi Steven Spielberg, đồng thời tiết lộ mối liên hệ giữa diễn viên Drew Barrymore và bộ phim này.""",DIRECTOR_ACTOR,1,3051
+Salman Rushdie có phải là con của Anis Ahmed Rushdie không?,A,"Đúng, Salman Rushdie là con của Anis Ahmed Rushdie.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Salman Rushdie là con của Anis Ahmed Rushdie, qua thông tin rõ ràng trong phần ""MỐI QUAN HỆ"" và các mối quan hệ trực tiếp giữa họ.",IS_CHILD_OF,1,824
+Bruce Lee và Chuck Norris có cùng tham gia vào bộ phim 'Way of the Dragon' không?,A,"Đúng, cả hai đều đóng trong phim 'Way of the Dragon'.",1,"Đáp án: A. Lý do: Dữ liệu khẳng định Bruce Lee và Chuck Norris đều là diễn viên trong bộ phim *Way of the Dragon*, phù hợp với câu hỏi.  
+
+**Lý do**: Từ các đoạn văn, chúng ta thấy *""Way of the Dragon có diễn viên là Bruce Lee""* và *""Way of the Dragon có diễn viên là Chuck Norris""*, thể hiện cả hai đều tham gia vào bộ phim này.",CO_ACTOR,1,2021
+Martin Scorsese có phải là đạo diễn của bộ phim mà Kenneth Choi tham gia là 'The Wolf of Wall Street' không?,A,"Đúng, Martin Scorsese đạo diễn phim 'The Wolf of Wall Street' và Kenneth Choi diễn xuất trong đó.",1,"Đáp án: A). Lý do: Dữ liệu khẳng định rằng Martin Scorsese là đạo diễn của bộ phim *The Wolf of Wall Street*.  
+
+Lý do: Dữ liệu trực tiếp nêu rõ ""Martin Scorsese là đạo diễn của The Wolf of Wall Street"", đồng thời nhấn mạnh mối liên hệ này giữa ông và phim đó.",DIRECTOR_ACTOR,1,2570
+Bob Dylan có phải là anh/chị em của Katherine Waterston không?,B,"Sai, họ không có quan hệ anh/chị em (có thể chỉ là đồng nghiệp).",0,"Đáp án: B. Lý do: Dữ liệu chỉ khẳng định Bob Dylan là con của Beatrice Stone, nhưng không указывает на связь с Katherine Waterston. Theo thông tin đã cung cấp, Katherine Waterston là con của Lynn Louisa Woodruff, nên Bob Dylan không phải là anh/chị em của cô ấy.  
+
+""Đáp án: B. Lý do: Dữ liệu chỉ khẳng định Bob Dylan là con của Beatrice Stone, nhưng không указывает на связь с Katherine Waterston.""",IS_SIBLING_OF,1,1683
+"David Lynch, David Lynch và bộ phim 'A Walk Among the Tombstones' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A. Lý do: Dữ liệu xác minh mối quan hệ trực tiếp giữa David Lynch và bộ phim *A Walk Among the Tombstones*, vì ông đã đóng vai trò đạo diễn của nó.  
+
+Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của *A Walk Among the Tombstones* và có liên quan đến các mối quan hệ cá nhân như vợ chồng, nhưng mối liên kết chính nằm ở việc ông thực hiện phim này.",TRIPLE_LINK,0,1586
+"David Lynch, David Lynch và bộ phim 'The Jewel of the Nile' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A. Lý do: Dữ liệu xác minh mối liên hệ chặt chẽ giữa David Lynch và ""The Jewel of the Nile"" thông qua việc hai tác phẩm đều thuộc danh sách các phim mà David Lynch đạo diễn, cùng với sự liên kết trong lịch sử phát triển nghiệp vụ của ông.  
+
+Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của ""The Elephant Man"" và ""Mulholland Drive,"" đồng thời ""The Jewel of the Nile"" cũng được coi là một trong những tác phẩm của ông, tạo nên mối liên kết rõ ràng.",TRIPLE_LINK,0,1560
+Sunny Lynch có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Sunny Lynch.",0,"Đáp án: B. Lý do: Dữ liệu chỉ xác minh mối quan hệ giữa Sunny Lynch và David Lynch (mẹ/cha), nhưng không khẳng định rằng Sunny Lynch là đạo diễn của bộ phim 'Dune'.",DIRECTOR_ACTOR,1,463
+David Lynch và Cynthia Nixon có cùng tham gia vào bộ phim 'Sex and the City' không?,B,"Sai, David Lynch không tham gia phim 'Sex and the City'.",0,"Đáp án: A. Lý do: Dữ liệu cho thấy David Lynch và Cynthia Nixon đều đóng vai trong bộ phim *Sex and the City*, đồng thời có mối quan hệ trực tiếp với diễn viên Jennifer Hudson trong đó.  
+
+""Đáp án: A. Lý do: Dữ liệu cho thấy David Lynch và Cynthia Nixon đều đóng vai trong bộ phim *Sex and the City*.""",CO_ACTOR,0,2153
+David Lynch có phải là anh/chị em của Virginia Madsen không?,B,"Sai, họ không có quan hệ anh/chị em (có thể chỉ là đồng nghiệp).",0,"Đáp án: B). Lý do: Dữ liệu không tiết lộ mối quan hệ huyết thống giữa David Lynch và Virginia Madsen, chỉ khẳng định họ đều là diễn viên của Dune.  
+
+""Đáp án: B/Sai"".",IS_SIBLING_OF,1,1625
+Martin Scorsese có phải là đạo diễn của bộ phim mà Jodie Foster tham gia là 'Taxi Driver' không?,A,"Đúng, Martin Scorsese đạo diễn phim 'Taxi Driver' và Jodie Foster diễn xuất trong đó.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận Martin Scorsese là đạo diễn của Taxi Driver, cùng với thông tin rằng Jodie Foster tham gia vào bộ phim này.",DIRECTOR_ACTOR,1,1995
+David Lynch và Lee Pace có cùng tham gia vào bộ phim 'Lincoln' không?,B,"Sai, David Lynch không tham gia phim 'Lincoln'.",0,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Lee Pace đóng vai trong bộ phim *Lincoln*, và David Lynch cũng là đạo diễn của bộ phim này, nên hai nhân vật cùng tham gia vào bộ phim đó.  
+
+Lý do: Dữ liệu cho thấy Lee Pace là diễn viên trong *Lincoln*, và David Lynch là đạo diễn của bộ phim này, vì vậy hai đều tham gia vào bộ phim đó.",CO_ACTOR,0,1748
+Airyn De Niro có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Airyn De Niro.",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận rằng Airyn De Niro là đạo diễn của ""Dune"", vì ""Dune"" được đạo diễn bởi David Lynch.  
+
+""Đáp án: B).""",DIRECTOR_ACTOR,1,516
+John Whitney Walter có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải John Whitney Walter.",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận rằng John Whitney Walter là đạo diễn của bộ phim 'Dune'. Việc liên hệ giữa John Whitney Walter và Donald Trump chỉ được thể hiện qua mối quan hệ cá nhân, nhưng không bao gồm vai trò đạo diễn của 'Dune'.",DIRECTOR_ACTOR,1,907
+David Lynch và Amy Adams có cùng tham gia vào bộ phim 'American Hustle' không?,B,"Sai, David Lynch không tham gia phim 'American Hustle'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận cả hai cá nhân (David Lynch và Amy Adams) đều là diễn viên của bộ phim ""American Hustle"".",CO_ACTOR,0,2738
+Kyle MacLachlan có phải là vợ/chồng của Sean Young không?,B,"Sai, họ không có quan hệ vợ/chồng (có thể chỉ là đồng nghiệp).",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận rằng Kyle MacLachlan là vợ/chồng của Sean Young; chỉ có các mối quan hệ cá nhân và liên kết thực tế được liệt kê.  
+
+""Đáp án: B.""",IS_SPOUSE_OF,1,1238
+John Lynch và Abram Zimmerman có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận mối quan hệ giữa John Lynch và Abram Zimmerman qua mối quan hệ với David Lynch, thể hiện sự liên kết trực tiếp.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mối quan hệ giữa John Lynch và Abram Zimmerman.""",CONNECTION,0,534
+Donald Lynch và Riley Sweeney Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa Donald Lynch và Riley Sweeney Lynch qua mối quan hệ cha mẹ.,CONNECTION,1,376
+John Lynch và Carolyn Dennis có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B. Lý do: Dữ liệu chỉ khẳng định rằng Carolyn Dennis là vợ/chồng của Bob Dylan, và John Lynch là anh/chị em của David Lynch. Không có thông tin nào liên hệ trực tiếp giữa John Lynch và Carolyn Dennis.  
+
+""Đáp án: B.""",CONNECTION,1,496
+David Lynch và Donald Trump Jr. có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B. Lý do: Dữ liệu chỉ xác minh mối quan hệ giữa David Lynch và Isabella Rossellini (vợ/chị), nhưng không thể khẳng định mối quan hệ trực tiếp với Donald Trump Jr.",CONNECTION,1,1379
+David Lynch và Donald Trump có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa David Lynch và Donald Trump qua việc David Lynch là con của Donald Lynch, thể hiện mối liên hệ huyết thống.",CONNECTION,0,2580
+David Lynch và Diane Holechek có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa David Lynch và Diane Holechek qua chuỗi liên kết các tác phẩm và diễn viên, từ đó khẳng định họ có quen biết.",CONNECTION,0,1412
+David Lynch và Martha Lynch Levacy có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 1 bước).",1,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng David Lynch và Martha Lynch Levacy là anh/chị em cùng một bố mẹ, tức là họ có mối quan hệ huyết thống (sibling), nên mệnh đề đúng.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận David Lynch và Martha Lynch Levacy là anh/chị em cùng một bố mẹ, tức là họ có mối quan hệ huyết thống (sibling).""",CONNECTION,1,1177
+Dolph Lundgren và Chuck Norris có cùng tham gia vào bộ phim 'The Expendables 2' không?,A,"Đúng, cả hai đều đóng trong phim 'The Expendables 2'.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Dolph Lundgren đóng trong phim *The Expendables 2* và diễn viên chính của đó là Chuck Norris.",CO_ACTOR,1,1369
+David Lynch và Terry Gilliam có cùng tham gia vào bộ phim 'Monty Python and the Holy Grail' không?,B,"Sai, David Lynch không tham gia phim 'Monty Python and the Holy Grail'.",0,"Đáp án: B. Lý do: Dữ liệu xác nhận Terry Gilliam đã执导 ""Monty Python and the Holy Grail"", nhưng David Lynch không tham gia vào bộ phim này.",CO_ACTOR,1,1695
+David Lynch và Aurelia Schwarzenegger có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa David Lynch và Aurelia Schwarzenegger qua các thông tin liên quan đến họ là bạn đời lẫn cha mẹ.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mối quan hệ trực tiếp giữa David Lynch và Aurelia Schwarzenegger.""",CONNECTION,0,1518
+David Lynch và Lulu Simon có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B. Lý do: Dữ liệu chỉ khẳng định mối quan hệ giữa David Lynch và Peggy Reavey, nhưng không tiết lộ mối liên hệ trực tiếp với Lulu Simon. Việc Lulu Simon là con của Paul Simon không phải là mối quan hệ của David Lynch, nên mệnh đề không được hỗ trợ bởi dữ liệu.  
+
+""Đáp án: B.""",CONNECTION,1,1418
+David Lynch và Bruce Willis có cùng tham gia vào bộ phim 'The Expendables 2' không?,B,"Sai, David Lynch không tham gia phim 'The Expendables 2'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng cả David Lynch và Bruce Willis đều đóng vai trong bộ phim *The Expendables 2*.",CO_ACTOR,0,3171
+David Lynch và Lisa Kudrow có cùng tham gia vào bộ phim 'Dr. Dolittle 2' không?,B,"Sai, David Lynch không tham gia phim 'Dr. Dolittle 2'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận cả hai cá nhân (David Lynch và Lisa Kudrow) đều là diễn viên trong bộ phim **Dr. Dolittle 2**, cụ thể là Lisa Kudrow đóng vai trong đó.",CO_ACTOR,0,2302
+"Jack Quaid, Meg Ryan và bộ phim 'In the Cut' có mối liên hệ chuỗi nào không?",A,"Đúng, Jack Quaid là con của Meg Ryan, và Meg Ryan đã đóng phim 'In the Cut'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối liên hệ chuỗi giữa Jack Quaid (con của Meg Ryan) và In the Cut (đề tài của Meg Ryan).  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mối liên hệ chuỗi giữa Jack Quaid (con của Meg Ryan) và In the Cut (đề tài của Meg Ryan).""",TRIPLE_LINK,1,1429
+"Zoë Kravitz, Lenny Kravitz và bộ phim 'Precious' có mối liên hệ chuỗi nào không?",A,"Đúng, Zoë Kravitz là con của Lenny Kravitz, và Lenny Kravitz đã đóng phim 'Precious'.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận mối quan hệ chuỗi Zoë Kravitz (con của Lenny Kravitz) – Lenny Kravitz (phim Precious) – Zoë Kravitz (con của Lenny).  
+
+Lý do: Dữ liệu cho thấy Lenny Kravitz là cha của Zoë Kravitz và diễn viên chính trong 'Precious', tạo nên mối liên hệ chuỗi rõ ràng.",TRIPLE_LINK,1,2550
+John DiMaggio và Mandy Moore có cùng tham gia vào bộ phim 'Dr. Dolittle 2' không?,A,"Đúng, cả hai đều đóng trong phim 'Dr. Dolittle 2'.",1,"Đáp án: B). Lý do: Dữ liệu không xác nhận mối quan hệ giữa John DiMaggio và Mandy Moore trong phim ""Dr. Dolittle 2"".",CO_ACTOR,0,506
+Robert De Niro có phải là vợ/chồng của Diahnne Abbott không?,A,"Đúng, Robert De Niro là vợ/chồng của Diahnne Abbott.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rõ ràng rằng Robert De Niro là vợ/chồng của Diahnne Abbott.  
+
+Lý do: Câu khẳng định ""Robert De Niro là vợ/chồng của Diahnne Abbott"" trực tiếp được liệt kê trong bảng dữ liệu, không có sự đối lập nào khác.",IS_SPOUSE_OF,1,1896
+"David Lynch, David Lynch và bộ phim 'Balto' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác minh mối liên hệ giữa David Lynch và ""Balto"" thông qua việc ông đóng vai trò đạo diễn của ""The Fabelmans"" (được sản xuất bởi Steven Spielberg), đồng thời là người vợ/chồng của Peggy Reavey và Mary Sweeney.",TRIPLE_LINK,0,1224
+Terry Crews có phải là anh/chị em của Sylvester Stallone không?,B,"Sai, họ không có quan hệ anh/chị em (có thể chỉ là đồng nghiệp).",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ trực tiếp giữa Terry Crews và Sylvester Stallone. Mối quan hệ này chỉ được thể hiện qua vai trò đạo diễn của cả hai, nhưng không bao gồm các mối liên hệ sinh học cụ thể như cha ông, cha mâu thuẫn, hoặc bạn đời.  
+
+""Đáp án: B.""",IS_SIBLING_OF,1,3162
+Kyle MacLachlan có phải là vợ/chồng của Virginia Madsen không?,B,"Sai, họ không có quan hệ vợ/chồng (có thể chỉ là đồng nghiệp).",0,"Đáp án: B. Lý do: Dữ liệu xác nhận Kyle MacLachlan là chồng của Desiree Gruber, không phải Virginia Madsen.",IS_SPOUSE_OF,1,1447
+Isabella Rossellini và Levon Helm có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 3 bước).",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng Isabella Rossellini và Levon Helm đều là vợ/chồng của Martin Scorsese, tạo ra mối liên hệ trực tiếp giữa họ.  
+
+""Đáp án: A/B]. Lý do: Isabella Rossellini và Levon Helm có mối quan hệ với nhau qua mối quan hệ gia đình và mối quan hệ làm việc.""",CONNECTION,1,1474
+Salman Rushdie có phải là vợ/chồng của Marianne Wiggins không?,A,"Đúng, Salman Rushdie là vợ/chồng của Marianne Wiggins.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu khẳng định rằng Salman Rushdie là vợ/chồng của Marianne Wiggins.",IS_SPOUSE_OF,1,774
+David Lynch có phải là anh/chị em của Martha Lynch Levacy không?,A,"Đúng, David Lynch là anh/chị em của Martha Lynch Levacy.",1,"Đáp án: A). Lý do: Dữ liệu khẳng định mối quan hệ giữa David Lynch và Martha Lynch Levacy là ""anh/chị em"", phù hợp với tình huống.  
+
+""Đáp án: A). Lý do: Dữ liệu khẳng định mối quan hệ giữa David Lynch và Martha Lynch Levacy là 'anh/chị em', phù hợp với tình huống.""",IS_SIBLING_OF,1,1177
+"David Lynch, David Lynch và bộ phim 'Artemis Fowl' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A). Lý do: Dữ liệu xác nhận mối liên hệ giữa David Lynch và Artemis Fowl thông qua mối quan hệ bạn đời của David Lynch với Isabella Rossellini, cùng với vai trò diễn viên của cô trong phim này.  
+
+""Đáp án: A/B]. Lý do: Dữ liệu xác nhận mối liên hệ giữa David Lynch và Artemis Fowl thông qua mối quan hệ bạn đời của David Lynch với Isabella Rossellini, cùng với vai trò diễn viên của cô trong phim này.""",TRIPLE_LINK,0,1359
+Chuck Norris có phải là đạo diễn của bộ phim 'Dune' mà Virginia Madsen tham gia không?,B,"Sai, đạo diễn của phim 'Dune' là David Lynch, không phải Chuck Norris.",0,"Đáp án: B). Lý do: Dữ liệu chỉ khẳng định rằng David Lynch đạo diễn ""Dune"", nhưng không xác minh rõ Virginia Madsen tham gia vai trò chính trong bộ phim. Do đó, câu hỏi không có bằng chứng để khẳng định ""đúng"" hoặc ""sai"".",DIRECTOR_ACTOR,1,1149
+Jonathan Demme có phải là đạo diễn của bộ phim mà Tom Hanks tham gia là 'Philadelphia' không?,A,"Đúng, Jonathan Demme đạo diễn phim 'Philadelphia' và Tom Hanks diễn xuất trong đó.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu khẳng định Jonathan Demme là đạo diễn của bộ phim *Philadelphia*, đồng thời liệt kê ông ấy cũng là người sản xuất phim này. Việc ông chỉ đạo phim *Philadelphia* được ghi rõ trong các thông tin liên quan, nên câu trả lời chính xác là ""Đúng"".",DIRECTOR_ACTOR,1,564
+Bob Dylan có phải là con của Abram Zimmerman không?,A,"Đúng, Bob Dylan là con của Abram Zimmerman.",1,"Đáp án: A). Lý do: Dữ liệu khẳng định rằng Bob Dylan là con của Abram Zimmerman.  
+
+Lý do: Từ thông tin ""Bob Dylan là con của Abram Zimmerman"" và ""Abram Zimmerman là cha của Bob Dylan"", mối liên hệ trực tiếp giữa hai cá nhân này.",IS_CHILD_OF,1,765
+"Billie Lourd, Carrie Fisher và bộ phim 'Star Wars: Episode VII – The Force Awakens' có mối liên hệ chuỗi nào không?",A,"Đúng, Billie Lourd là con của Carrie Fisher, và Carrie Fisher đã đóng phim 'Star Wars: Episode VII – The Force Awakens'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng Billie Lourd là diễn viên của bộ phim và cô ấy là con gái của Carrie Fisher, tạo ra mối liên hệ chuỗi rõ ràng giữa bà, cô ấy và bộ phim.  
+
+""Đáp án: Đúng"".",TRIPLE_LINK,1,3543
+David Lynch và Daniel Henney có cùng tham gia vào bộ phim 'The Last Stand' không?,B,"Sai, David Lynch không tham gia phim 'The Last Stand'.",0,"Đáp án: B). Lý do: Dữ liệu không xác nhận rằng David Lynch tham gia vào bộ phim ""The Last Stand"". Việc David Lynch được liệt kê trong danh sách liên kết với ""X-Men Origins: Wolverine"" và ""Dune"" nhưng không có thông tin trực tiếp liên quan đến ""The Last Stand"", khiến mệnh đề sai.  
+
+""Đáp án: B/Sai.""",CO_ACTOR,1,1511
+Steven Spielberg có phải là đạo diễn của bộ phim mà Amy Acker tham gia là 'Catch Me If You Can' không?,A,"Đúng, Steven Spielberg đạo diễn phim 'Catch Me If You Can' và Amy Acker diễn xuất trong đó.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận Steven Spielberg là đạo diễn của ""Catch Me If You Can"" và có diễn viên Amy Acker tham gia.",DIRECTOR_ACTOR,1,3190
+Dolph Lundgren có phải là con của Bruce Willis không?,B,"Sai, họ không có quan hệ con (có thể chỉ là đồng nghiệp).",0,"Đáp án: A) Đúng. Lý do: Dữ liệu cho thấy Dolph Lundgren là bạn đời của Grace Jones, và có liên kết trực tiếp giữa Dolph và Bruce Willis qua phim *The Expendables 2*, khẳng định mối quan hệ vợ chồng giữa họ.",IS_CHILD_OF,0,2118
+Bruce Lee có phải là anh/chị em của Phoebe Lee không?,A,"Đúng, Bruce Lee là anh/chị em của Phoebe Lee.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Phoebe Lee là con gái của Bruce Lee, tức là anh/chị em của Phoebe Lee.",IS_SIBLING_OF,1,1073
+David Lynch và Julia Cameron có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 3 bước).",1,"Đáp án: A). Lý do: Dữ liệu xác minh mối quan hệ giữa David Lynch và Julia Cameron qua chuỗi liên kết từ David Lynch đến Isabella Rossellini, sau đó tới Martin Scorsese và cuối cùng đến Julia Cameron.",CONNECTION,1,1262
+David Lynch và Riley Sweeney Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 1 bước).",1,"Đáp án: A. Lý do: Dữ liệu xác nhận rằng David Lynch là cha/mẹ của Riley Sweeney Lynch, đồng thời liệt kê rõ ràng trong phần ""Liên kết giữa các thực thể"".",CONNECTION,1,1166
+Dolph Lundgren và Sylvester Stallone có cùng tham gia vào bộ phim 'The Expendables 2' không?,A,"Đúng, cả hai đều đóng trong phim 'The Expendables 2'.",1,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ trực tiếp giữa Dolph Lundgren và Sylvester Stallone trong bộ phim ""The Expendables 2""; chỉ rõ họ đều tham gia vào ""The Expendables 3"".  
+
+""Đáp án: B.""",CO_ACTOR,0,2481
+Lisa Kudrow và Arnold Schwarzenegger có cùng tham gia vào bộ phim 'Dr. Dolittle 2' không?,A,"Đúng, cả hai đều đóng trong phim 'Dr. Dolittle 2'.",1,"Đáp án: A. Lý do: Dữ liệu khẳng định Lisa Kudrow và Arnold Schwarzenegger đều tham gia vào bộ phim **Dr. Dolittle 2**, được liệt kê rõ ràng trong các phần liên hệ giữa các diễn viên.  
+
+""Đáp án: A. Lý do: Dữ liệu khẳng định Lisa Kudrow và Arnold Schwarzenegger đều tham gia vào bộ phim 'Dr. Dolittle 2'.""",CO_ACTOR,1,3032
+Larry Ellison có phải là con của Florence Spellman không?,A,"Đúng, Larry Ellison là con của Florence Spellman.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng Larry Ellison là con của Florence Spellman.  
+
+Lý do: Từ thông tin ""Florence Spellman là mẹ của Larry Ellison"" và ""Larry Ellison là con của Florence Spellman"", mối quan hệ rõ ràng giữa hai cá nhân.",IS_CHILD_OF,1,738
+David Lynch và Mark Ruffalo có cùng tham gia vào bộ phim 'You Can Count on Me' không?,B,"Sai, David Lynch không tham gia phim 'You Can Count on Me'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận David Lynch đóng vai trong bộ phim ""You Can Count on Me"" và Mark Ruffalo là diễn viên của bộ phim này.",CO_ACTOR,0,3112
+"David Lynch, David Lynch và bộ phim 'Dr. Dolittle 2' có mối liên kết chặt chẽ với nhau không?",B,"Sai, không tìm thấy chuỗi liên kết trực tiếp giữa 3 thực thể này.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu cho thấy David Lynch là đạo diễn của ""Dr. Dolittle 2"", tức là hai người có mối quan hệ trực tiếp (đạo diễn và nhà sản xuất).",TRIPLE_LINK,0,1719
+Kim Cattrall và Cynthia Nixon có cùng tham gia vào bộ phim 'Sex and the City' không?,A,"Đúng, cả hai đều đóng trong phim 'Sex and the City'.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng cả hai diễn viên Kim Cattrall và Cynthia Nixon đều đóng vai trong bộ phim **'Sex and the City'**, phù hợp với câu hỏi.",CO_ACTOR,1,466

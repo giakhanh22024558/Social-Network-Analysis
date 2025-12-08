@@ -1,0 +1,20 @@
+﻿question,ground_truth_letter,ground_truth_text,ground_truth_label,bot_answer,rel_type,score,context_length
+John Lynch và Emma Bloomberg có quen biết hoặc liên quan gì nhau không?,B,"Sai (hoặc Không), không tìm thấy mối liên hệ gần gũi nào giữa họ trong dữ liệu.",0,"Đáp án: B. Lý do: Dữ liệu cho thấy không có bằng chứng trực tiếp về mối quan hệ giữa John Lynch và Emma Bloomberg, trừ khi được liệt kê rõ ràng.  
+
+""Liên kết giữa họ không được xác minh trong dữ liệu.""",CONNECTION,1,264
+David Lynch và Matt Damon có cùng tham gia vào bộ phim 'The Departed' không?,B,"Sai, David Lynch không tham gia phim 'The Departed'.",0,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng cả David Lynch và Matt Damon đều tham gia vào bộ phim ""The Departed"", với Matt Damon đóng vai trò diễn viên và David Lynch làm đạo diễn.",CO_ACTOR,0,3417
+David Lynch và Donald Trump có cùng tham gia vào bộ phim 'BlacKkKlansman' không?,B,"Sai, David Lynch không tham gia phim 'BlacKkKlansman'.",0,"Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa David Lynch và bộ phim 'BlacKkKlansman'; dựa trên thông tin đã cung cấp, David Lynch chỉ được liệt kê như đạo diễn trong các tác phẩm khác nhau mà không liên quan đến 'BlacKkKlansman'.  
+
+""Đáp án: B. Lý do: Dữ liệu không xác nhận mối quan hệ giữa David Lynch và bộ phim 'BlacKkKlansman'; dựa trên thông tin đã cung cấp, David Lynch chỉ được liệt kê như đạo diễn trong các tác phẩm khác nhau mà không liên quan đến 'BlacKkKlansman'.""",CO_ACTOR,1,2580
+David Lynch và Al Pacino có cùng tham gia vào bộ phim 'Dog Day Afternoon' không?,B,"Sai, David Lynch không tham gia phim 'Dog Day Afternoon'.",0,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Al Pacino đóng vai trong phim ""Dog Day Afternoon"" và David Lynch cũng là đạo diễn của bộ phim này.",CO_ACTOR,0,2350
+Bruce Lee có phải là vợ/chồng của Linda Lee Cadwell không?,A,"Đúng, Bruce Lee là vợ/chồng của Linda Lee Cadwell.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rõ ràng rằng Bruce Lee là vợ/chồng của Linda Lee Cadwell.",IS_SPOUSE_OF,1,1181
+Terry Crews và Arnold Schwarzenegger có cùng tham gia vào bộ phim 'The Expendables 2' không?,A,"Đúng, cả hai đều đóng trong phim 'The Expendables 2'.",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng Terry Crews và Arnold Schwarzenegger đều đóng vai trong bộ phim ""The Expendables 2"".",CO_ACTOR,1,3236
+"Patrick Schwarzenegger, Arnold Schwarzenegger và bộ phim 'Sabotage' có mối liên hệ chuỗi nào không?",A,"Đúng, Patrick Schwarzenegger là con của Arnold Schwarzenegger, và Arnold Schwarzenegger đã đóng phim 'Sabotage'.",1,"Đáp án: A. Lý do: Dữ liệu xác nhận mối quan hệ chuỗi từ Patrick Schwarzenegger đến Arnold Schwarzenegger (con của cha) rồi Arnold Schwarzenegger đóng phim Sabotage.  
+
+Lý do: Mối liên hệ được liệt kê rõ ràng trong phần ""LIÊN KẾT GIỮA CÁC THỰC THỂ"" và không có sự đối lập.",TRIPLE_LINK,1,3717
+Malcolm Gets và Cynthia Nixon có cùng tham gia vào bộ phim 'Sex and the City' không?,A,"Đúng, cả hai đều đóng trong phim 'Sex and the City'.",1,"Đáp án: A). Lý do: Dữ liệu xác nhận rằng cả hai diễn viên đều tham gia vào bộ phim ""Sex and the City"", nên câu trả lời là ĐÚNG.",CO_ACTOR,1,506
+John Lynch và Riley Sweeney Lynch có mối liên hệ nào với nhau không?,A,"Đúng, họ có liên kết gián tiếp hoặc trực tiếp (khoảng cách 2 bước).",1,"Đáp án: A) Đúng. Lý do: Dữ liệu xác nhận rằng John Lynch là con của David Lynch, cùng với Riley Sweeney Lynch, nên hai họ có mối liên hệ qua cha mẹ.",CONNECTION,1,340
+Jonathan Demme có phải là đạo diễn của bộ phim mà Jodie Foster tham gia là 'The Silence of the Lambs' không?,A,"Đúng, Jonathan Demme đạo diễn phim 'The Silence of the Lambs' và Jodie Foster diễn xuất trong đó.",1,"Đáp án: A) Đúng  
+Lý do: Dữ liệu xác nhận rằng Jonathan Demme đạo diễn bộ phim *The Silence of the Lambs*, đồng thời Jodie Foster tham gia vào bộ phim này.",DIRECTOR_ACTOR,1,1792

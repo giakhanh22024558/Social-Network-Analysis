@@ -19,8 +19,8 @@ KEY_MAP = {
     "P161": "ACTED_IN",
     "P57": "DIRECTED",
     "P162": "PRODUCED",
-    "P22": "IS_CHILD_OF", # Cha
-    "P25": "IS_CHILD_OF", # Mẹ
+    "P22": "IS_CHILD_OF_DAD", # Cha
+    "P25": "IS_CHILD_OF_MOM", # Mẹ
     "P26": "IS_SPOUSE_OF",
     "P451": "IS_PARTNER_OF",
     "P3373": "IS_SIBLING_OF",
@@ -82,7 +82,18 @@ class Neo4jImporter:
                 
                 print(f"  ({count}/{len(data)}) Đang nhập: {actor_name} ({actor_qid})")
 
-                # --- 1. Tạo hoặc cập nhật Nút :Person chính ---
+                # --- 1. Chuẩn bị dữ liệu bổ sung (Nghề nghiệp, Ngày sinh) ---
+                infobox = actor_data.get("infobox", {})
+                occupations = []
+                birth_date = None
+                
+                for k, v in infobox.items():
+                    if "(P106)" in k: # Nghề nghiệp
+                        occupations = [item.get("name") for item in v if item.get("name")]
+                    if "(P569)" in k: # Ngày sinh
+                        if v: birth_date = v[0].get("name")
+
+                # --- 2. Tạo hoặc cập nhật Nút :Person chính ---
                 # MERGE tìm Nút (:Person {qid: $qid})
                 # ON CREATE SET ... (chỉ chạy khi Nút được tạo MỚI)
                 # ON MATCH SET ... (chạy khi Nút đã TỒN TẠI)
@@ -91,22 +102,28 @@ class Neo4jImporter:
                 ON CREATE SET
                     p.name = $name,
                     p.gender = $gender,
-                    p.viwikiURL = $url
+                    p.viwikiURL = $url,
+                    p.occupations = $occupations,
+                    p.birthDate = $birth_date
                 ON MATCH SET
                     p.name = $name,
                     p.gender = $gender,
-                    p.viwikiURL = $url
+                    p.viwikiURL = $url,
+                    p.occupations = $occupations,
+                    p.birthDate = $birth_date
                 SET p: ActorDirector
                 """
                 session.run(query_person, 
                             qid=actor_qid, 
                             name=actor_name, 
                             gender=actor_data.get("gender"), 
-                            url=actor_data.get("viwikiURL")
+                            url=actor_data.get("viwikiURL"),
+                            occupations=occupations,
+                            birth_date=birth_date
                 )
 
-                # --- 2. Xử lý các quan hệ trong infobox ---
-                infobox = actor_data.get("infobox", {})
+                # --- 3. Xử lý các quan hệ trong infobox ---
+                # infobox đã được lấy ở trên
                 
                 for key_label, entries in infobox.items():
                     # Lấy P-ID từ key (ví dụ: "Cha (P22)" -> "P22")

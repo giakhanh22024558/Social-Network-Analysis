@@ -8,3 +8,5 @@ bitsandbytes
 sentencepiece 
 protobuf
 python-dotenv
+rapidfuzz
+gemini-
