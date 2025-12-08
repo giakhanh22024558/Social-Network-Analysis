@@ -460,23 +460,135 @@ def verify_relationships(data):
     else:
         print("\n✅ TẤT CẢ MỐI QUAN HỆ ĐỀU HỢP LỆ!")
 
+def clean_data(input_file, output_file):
+    with open(input_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    # Từ điển ánh xạ các từ đồng nghĩa về từ chuẩn
+    # Cấu trúc: "Từ chưa chuẩn": "Từ chuẩn"
+    mappings = {
+        # Địa danh
+        "Mỹ": "Hoa Kỳ",
+        "United States": "Hoa Kỳ",
+        "USA": "Hoa Kỳ",
+        "America": "Hoa Kỳ",
+        
+        "Anh": "Vương quốc Anh",
+        "Anh Quốc": "Vương quốc Anh",
+        "England": "Vương quốc Anh",
+        "UK": "Vương quốc Anh",
+        "Great Britain": "Vương quốc Anh",
+        
+        "New York City": "Thành phố New York",
+        "New York": "Thành phố New York",
+        "NYC": "Thành phố New York",
+        
+        "Los Angeles, California": "Los Angeles",
+        "LA": "Los Angeles",
+        "L.A.": "Los Angeles",
+        
+        "Vietnam": "Việt Nam",
+
+        # Giải thưởng
+        "Oscar": "Giải Oscar",
+        "Academy Award": "Giải Oscar",
+        "Giải thưởng Viện hàn lâm": "Giải Oscar",
+        "Giải thưởng học viện": "Giải Oscar",
+        "Oscars": "Giải Oscar",
+        
+        "Golden Globe": "Giải Quả cầu vàng",
+        "Golden Globe Award": "Giải Quả cầu vàng",
+        "Quả cầu vàng": "Giải Quả cầu vàng",
+        
+        "Emmy": "Giải Emmy",
+        "Emmy Award": "Giải Emmy",
+        "Primetime Emmy": "Giải Emmy",
+        "Giải Primetime Emmy": "Giải Emmy",
+        
+        "Grammy": "Giải Grammy",
+        "Grammy Award": "Giải Grammy",
+        
+        "BAFTA": "Giải BAFTA",
+        "BAFTA Award": "Giải BAFTA",
+        "Giải thưởng Điện ảnh Viện Hàn lâm Anh": "Giải BAFTA",
+        
+        "Tony": "Giải Tony",
+        "Tony Award": "Giải Tony"
+    }
+
+    # Hàm chuẩn hóa một chuỗi văn bản
+    def normalize_text(text):
+        if text in mappings:
+            return mappings[text]
+        # Xử lý các trường hợp chứa tên (ví dụ: "Giải Oscar cho...")
+        # Đây là phần mở rộng nếu muốn gộp các giải con về giải mẹ, 
+        # tuy nhiên cần cẩn thận để không làm mất ý nghĩa cụ thể.
+        return text
+
+    for actor_id, content in data.items():
+        # 1. Xử lý phần 'entities'
+        if 'entities' in content:
+            seen_entities = set()
+            new_entities = []
+            for entity in content['entities']:
+                # Chuẩn hóa id của entity
+                original_id = entity.get('id', '')
+                normalized_id = normalize_text(original_id)
+                entity['id'] = normalized_id
+                
+                # Tạo key để kiểm tra trùng lặp (dựa trên id và label)
+                key = (normalized_id, entity.get('label', ''))
+                
+                if key not in seen_entities:
+                    seen_entities.add(key)
+                    new_entities.append(entity)
+            content['entities'] = new_entities
+
+        # 2. Xử lý phần 'relationships'
+        if 'relationships' in content:
+            seen_rels = set()
+            new_rels = []
+            for rel in content['relationships']:
+                # Chuẩn hóa head và tail
+                rel['head'] = normalize_text(rel.get('head', ''))
+                rel['tail'] = normalize_text(rel.get('tail', ''))
+                
+                # Tạo key để kiểm tra trùng lặp (head, type, tail)
+                key = (rel['head'], rel.get('type', ''), rel['tail'])
+                
+                if key not in seen_rels:
+                    seen_rels.add(key)
+                    new_rels.append(rel)
+            content['relationships'] = new_rels
+
+    # Lưu file đã clean
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    
+    print(f"Đã xử lý xong và lưu vào file: {output_file}")
+
 # Lọc, chọn các mối quan hệ mình cần
 if __name__ == "__main__":
-    input_file = "output/data_normalized.json"  # File đã chuẩn hóa từ bước trước
-    output_file = "output/all_actors_data_filtered.json"   # File sau khi lọc
+    # 3. Clean các dữ liệu đồng nghĩa (chuẩn hóa chúng)
+    input_file = "output/all_actors_data_filtered.json"  
+    output_file = "output/all_actors_data_cleaned.json"
+    clean_data(input_file, output_file)
     
-    # Lọc và chuẩn hóa
-    filtered_data = filter_and_normalize_relationships(input_file, output_file)
+    # 2. Lọc các mối quan hệ
+    # input_file = "output/data_normalized.json"  # File đã chuẩn hóa từ bước trước
+    # output_file = "output/all_actors_data_filtered.json"   # File sau khi lọc
     
-    # Kiểm tra kết quả
-    verify_relationships(filtered_data)
+    # # Lọc và chuẩn hóa
+    # filtered_data = filter_and_normalize_relationships(input_file, output_file)
     
-    print("\n" + "=" * 60)
-    print("HOÀN THÀNH!")
-    print("=" * 60)
+    # # Kiểm tra kết quả
+    # verify_relationships(filtered_data)
+    
+    # print("\n" + "=" * 60)
+    # print("HOÀN THÀNH!")
+    # print("=" * 60)
 
-
-# Chuẩn hóa các mối quan hệ sau khi gọi LLM
+# 1. Chuẩn hóa các mối quan hệ sau khi gọi LLM
 # if __name__ == "__main__":
 #     input_file = "output/all_actors_extracted.json" 
 #     output_file = "output/all_actor_data_normalized.json"  

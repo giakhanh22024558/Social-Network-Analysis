@@ -5,7 +5,7 @@ from utils import load_json, OUTPUT_DIR
 
 # --- CẤU HÌNH ---
 # File chứa dữ liệu đã trích xuất từ LLM
-INPUT_FILE = os.path.join(OUTPUT_DIR, "all_actors_data_filtered.json")
+INPUT_FILE = os.path.join(OUTPUT_DIR, "all_actors_data_cleaned.json")
 
 # Thông tin kết nối Neo4j
 NEO4J_URI = "bolt://127.0.0.1:7687"
