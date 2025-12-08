@@ -1,0 +1,7 @@
+metric,value
+accuracy,0.8
+precision,0.75
+recall,1.0
+f1_score,0.8571428571428571
+total_questions,10.0
+correct_answers,8.0

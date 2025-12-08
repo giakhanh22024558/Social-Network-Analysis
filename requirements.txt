@@ -8,3 +8,4 @@ bitsandbytes
 sentencepiece 
 protobuf
 python-dotenv
+rapidfuzz
