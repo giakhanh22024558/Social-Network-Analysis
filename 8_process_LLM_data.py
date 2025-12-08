@@ -371,18 +371,18 @@ def filter_and_normalize_relationships(input_file, output_file):
     - Đổi tên theo bảng RELATIONSHIP_RENAME
     - Xóa các mối quan hệ trong RELATIONSHIPS_TO_DELETE
     - Chỉ giữ lại các mối quan hệ trong ALLOWED_RELATIONSHIPS
+    - Chỉ giữ lại các entities xuất hiện trong relationships hợp lệ
     """
-    # Đọc dữ liệu
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    # Thống kê
     total_relationships = 0
     renamed_count = 0
     deleted_count = 0
     filtered_count = 0
+    total_entities_before = 0
+    total_entities_after = 0
     
-    # Xử lý từng entity
     for entity_key, entity_data in data.items():
         if 'relationships' in entity_data:
             original_relationships = entity_data['relationships']
@@ -409,8 +409,26 @@ def filter_and_normalize_relationships(input_file, output_file):
                 else:
                     filtered_count += 1
             
-            # Cập nhật lại danh sách relationships
             entity_data['relationships'] = filtered_relationships
+            
+            # === PHẦN MỚI: Lọc entities ===
+            if 'entities' in entity_data:
+                total_entities_before += len(entity_data['entities'])
+                
+                # Lấy tất cả các entity ID xuất hiện trong relationships hợp lệ
+                used_entity_ids = set()
+                for rel in filtered_relationships:
+                    used_entity_ids.add(rel['head'])
+                    used_entity_ids.add(rel['tail'])
+                
+                # Chỉ giữ lại entities có id xuất hiện trong relationships
+                filtered_entities = [
+                    ent for ent in entity_data['entities'] 
+                    if ent['id'] in used_entity_ids
+                ]
+                
+                entity_data['entities'] = filtered_entities
+                total_entities_after += len(filtered_entities)
     
     # Ghi file mới
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -418,13 +436,17 @@ def filter_and_normalize_relationships(input_file, output_file):
     
     # In thống kê
     print("=" * 60)
-    print("KẾT QUẢ LỌC VÀ CHUẨN HÓA MỐI QUAN HỆ")
+    print("KẾT QUẢ LỌC VÀ CHUẨN HÓA")
     print("=" * 60)
     print(f"📊 Tổng số mối quan hệ ban đầu: {total_relationships}")
     print(f"✏️  Đã đổi tên: {renamed_count} mối quan hệ")
-    print(f"🗑️  Đã xóa: {deleted_count} mối quan hệ (WON_AWARD_FOR)")
-    print(f"🚫 Đã lọc bỏ: {filtered_count} mối quan hệ (không trong danh sách)")
-    print(f"✅ Còn lại: {total_relationships - deleted_count - filtered_count} mối quan hệ")
+    print(f"🗑️  Đã xóa: {deleted_count} mối quan hệ")
+    print(f"🚫 Đã lọc bỏ: {filtered_count} mối quan hệ")
+    print(f"✅ Mối quan hệ còn lại: {total_relationships - deleted_count - filtered_count}")
+    print()
+    print(f"👥 Entities ban đầu: {total_entities_before}")
+    print(f"✅ Entities còn lại: {total_entities_after}")
+    print(f"🗑️  Đã xóa: {total_entities_before - total_entities_after} entities")
     print(f"💾 Đã lưu vào file: {output_file}")
     
     return data
@@ -575,7 +597,7 @@ if __name__ == "__main__":
     clean_data(input_file, output_file)
     
     # 2. Lọc các mối quan hệ
-    # input_file = "output/data_normalized.json"  # File đã chuẩn hóa từ bước trước
+    # input_file = "output/all_actors_data_normalized.json"  # File đã chuẩn hóa từ bước trước
     # output_file = "output/all_actors_data_filtered.json"   # File sau khi lọc
     
     # # Lọc và chuẩn hóa
@@ -591,7 +613,7 @@ if __name__ == "__main__":
 # 1. Chuẩn hóa các mối quan hệ sau khi gọi LLM
 # if __name__ == "__main__":
 #     input_file = "output/all_actors_extracted.json" 
-#     output_file = "output/all_actor_data_normalized.json"  
+#     output_file = "output/all_actors_data_normalized.json"  
     
 #     normalized_data = normalize_relationships(input_file, output_file)
     
